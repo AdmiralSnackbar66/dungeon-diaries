@@ -1,0 +1,5 @@
+
+hp: 
+ac: 
+modifier: 
+level: 

@@ -1,0 +1,21 @@
+## Fumble Tables
+
+| dice: 1d20  | FUMBLE                | DURATION                     | DESCRIPTION                                                                                                                                                                                                                         |
+| ----- | --------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-2   | Leg cramp             | Until end of combat          | Movement reduced to 50%                                                                                                                                                                                                             |
+| 3-4   | Weapon entangled      | 1 round                      | Use next round to get unstuck. No other penalties                                                                                                                                                                                   |
+| 5-6   | Muscle strain         | 2 rounds                     | Whenever you attempt an action you must make a DC15  Constitution saving throw. On a failed save lose your action and can't use reactions until the start of your next turn                                                         |
+| 7-8   | Weapon malfunction    | Permanent until repaired     | Weapon damaged . -2 to hit until repaired. Permanent until repaired by the mending spell                                                                                                                                            |
+| 11-12 | Body cramp            | 2 rounds                     | No movement. You have disadvantage on attack rolls and saving throws. Attack rolls against you have advantage                                                                                                                       |
+| 13-14 | Dizziness             | 1 round                      | No actions or reactions. Disadvantage on saving throws. Concentration on spell is lost. Attack rolls against you have advantage                                                                                                     |
+| 15    | Hit friend            | Permanent until 1 long rest  | Roll damage and apply to a random party member writhing range . Friend gets 1 level of  [[3-Mechanics/CLI/rules/conditions#Exhaustion\|exhaustion]].  If no friend in range then roll again.                                        |
+| 16    | Hit yourself          | Permanent until 1 long rest  | Roll damage and apply to yourself as if your were the target. You get 1 level of [[3-Mechanics/CLI/rules/conditions#Exhaustion\|exhaustion]]                                                                                        |
+| 17    | Severe hit friend     | Permanent until 2 long rests | Roll for damage and apply effect to random party member within range.Friend gets 2 levels of [[3-Mechanics/CLI/rules/conditions#Exhaustion\|exhaustion]]. Concentration on spell is lost. If no friend within range then roll again |
+| 18    | Severe hit self       | Permanent until 2 long rests | Roll damage and apply to yourself as if you were the target.You get 2 levels of [[3-Mechanics/CLI/rules/conditions#Exhaustion\|exhaustion]]                                                                                         |
+| 19    | Critical hit a friend | Permanent until 2 long rests | Roll double damage and apply to random party member within range. Friend gets 2 levels of [[3-Mechanics/CLI/conditions#Exhaustion\|exhaustion]]                                                                                     |
+| 20    | Critical hit self     | Permanent until 2 long rests | Roll double damage and apply to yourself as if you were the target.  Concentration on spell is lost.  You get 2 levels of [[3-Mechanics/CLI/conditions#Exhaustion\|exhaustion]]                                                     |
+^fumble
+
+*Attacker loses 1 Inspiration (if having any) from rolls 15-20
+
+`dice: [[Crit & Fumble Tables#^fumble]]|DURATION`

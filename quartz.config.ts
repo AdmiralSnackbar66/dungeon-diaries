@@ -15,6 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+	filters: [Plugin.ExplicitPublish()],
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
