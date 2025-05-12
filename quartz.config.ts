@@ -12,10 +12,9 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
+	analytics: {
       provider: "plausible",
     },
-	filters: [Plugin.ExplicitPublish()],
     locale: "en-GB",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
