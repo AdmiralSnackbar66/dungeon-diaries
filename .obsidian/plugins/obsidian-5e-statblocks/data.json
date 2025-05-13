@@ -1,0 +1,1425 @@
+{
+  "monsters": [
+    [
+      "Extus Narr",
+      {
+        "name": "Extus Narr",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Chaotic Evil",
+        "ac": 17,
+        "hp": 169,
+        "hit_dice": "26d8 +57",
+        "speed": 30,
+        "stats": [
+          12,
+          16,
+          15,
+          15,
+          18,
+          20
+        ],
+        "saves": [
+          {
+            "dexterity": 9
+          },
+          {
+            "intelligence": 8
+          },
+          {
+            "wisdom": 10
+          },
+          {
+            "charisma": 11
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": 14
+          },
+          {
+            "deception": 17
+          },
+          {
+            "History": 8
+          },
+          {
+            "Intimidation": 17
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": [
+          "damage from spells"
+        ],
+        "damage_immunities": null,
+        "condition_immunities": [
+          "charmed",
+          "Frightened"
+        ],
+        "senses": [
+          "passive perception 14"
+        ],
+        "languages": [
+          "Abysmal",
+          "Common",
+          "Deep speech",
+          "Draconian",
+          "Infernal",
+          "Undercommon"
+        ],
+        "cr": 19,
+        "traits": [
+          {
+            "name": "Legendary Resistance (3/day)",
+            "desc": "If Extus failes a saving throw, he can choose to succeed instead."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "Extus has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Oriq Mask",
+            "desc": "Extus wears an Oriq mask.  While wearing the mask, Extus cant be targeted by any divination magic or perceived through magical scrying sensors, and he adds double his proficiency bonus to Charisma (Deception) checks (included above)."
+          },
+          {
+            "name": "Unnatural Precognition",
+            "desc": "Extus's AC includes his Wisdom modifier while he isnt wearing armour or wielding a shield"
+          }
+        ],
+        "spells": [
+          {
+            "Extus casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (save DC 19, +11 to hit with spell attacks)": null
+          },
+          {
+            "At Will": "Friends, levitate (self only), light, mage hand, thaumatogy"
+          },
+          {
+            "3/Day each": "blindness/deafness, command, darkness"
+          },
+          {
+            "1/day each": "banishment, bestow curse, stinking cloud"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Extus makes 4 crackling beam attacks. He can use Spellcasting in place of one of the attacks"
+          },
+          {
+            "name": "Crackling Beam",
+            "desc": "Melee or Ranged Spell Attack. +11 to hit. Reach 120ft, one target. Hit 10 (1d10 + 5) force damage."
+          },
+          {
+            "name": "Fiery Explosion (Recharge 4-6)",
+            "desc": "Extus creates a magical explosion of fire centered on a point he can see within 120ft of him.  Each cfreature within a 20ft radius sphere centered on a point must make a DC 19 Dexterity saving throw , taking 35 (10d6) fire damage on a failed save, or half as much on a successful one."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": null,
+            "desc": "Extus can take 3 legendary actions, choosing from the options below.  Only one legendary action can be used at a timeand only at the end of another creatures turn.  Extus regains spent legendary actions at the start of its turn."
+          },
+          {
+            "name": "Magecraft",
+            "desc": "Extus uses spellcasting"
+          },
+          {
+            "name": "Mind Shatter (Costs 2 Actions)",
+            "desc": "Extus blast the mind of a creature that he can see within 120ft of him, dealing 14 (4d6) psychic damage to it and forcing it to make a DC 19 saving throw.  On a failed save , the creatures intelligence score is reduced to 0.  The target is stunned until it regains at least 1 point of intelligence.  If a targets saving throw is successful or the effect ends for it, the target is immune to Extus' mind shatter for the next 24 hours."
+          },
+          {
+            "name": "Induce Nightmares (Costs 3 Actions)",
+            "desc": "Extus torments a group of creatures with visions of their deepest fears and traumas.  Each creature of Extus choice within 30ft of him must make a DC 19 Wisdom saving throw .  On a failed save, a creature becomes frightened for 1 minute.  The creature can repeat the saving throw at the end of each of its turns ending the effect on itself on a success."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Scolding Inferno (3/Day)",
+            "desc": "A creature that damages Extus is scorched by hellfire.  The creature must make a DC 19 saving throw , taking 33 (6d10) fire damage takes fire damage on a failed save, or half as much on a succesful one."
+          }
+        ]
+      }
+    ],
+    [
+      "Murgaxor Grenshell",
+      {
+        "name": "Murgaxor Grenshell",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Bullywug",
+        "alignment": "Neutral Evil",
+        "ac": "16 (blood aegis)",
+        "hp": 127,
+        "hit_dice": "15d8 + 60",
+        "speed": 30,
+        "stats": [
+          11,
+          14,
+          18,
+          20,
+          12,
+          12
+        ],
+        "saves": [
+          {
+            "constitution": 8
+          },
+          {
+            "intelligence": 9
+          },
+          {
+            "wisdom": 5
+          },
+          {
+            "charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "deception": 9
+          },
+          {
+            "Medicine": 5
+          },
+          {
+            "Survival": 5
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": [
+          "Necrotic"
+        ],
+        "damage_immunities": null,
+        "condition_immunities": [
+          "Exhaustion"
+        ],
+        "senses": [
+          "passive perception 11"
+        ],
+        "languages": [
+          "Abysmal",
+          "Common",
+          "Deep speech",
+          "Draconian",
+          "Infernal"
+        ],
+        "cr": 9,
+        "traits": [
+          {
+            "name": "Blood Aegis",
+            "desc": "The AC of Murgaxor includes his Constitution modifier while he isn't wearing armor or wielding a shield."
+          },
+          {
+            "name": "Oriq Mask",
+            "desc": "Murgaxor wears an Oriq mask. While wearing the mask, Murgaxor can't be targeted by any divination magic or perceived through magical scrying sensors, and he adds double his proficiency bonus to Charisma (Deception) checks (included above)."
+          },
+          {
+            "name": "Sanguine Sense",
+            "desc": "While Murgaxor isn't blinded, he can see any creature that isn't an Undead or a Construct within 60 feet of himself, even through total cover, heavily obscured areas, invisibility, or any other phenomena that would prevent sight."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Murgaxor makes two Blood Lash attacks."
+          },
+          {
+            "name": "Blood Lash",
+            "desc": "Melee or Ranged Spell Attack. +11 to hit. Reach 120ft, one target. Hit 10 (1d10 + 5) force damage."
+          },
+          {
+            "name": "Blood Boil (Recharge 4-6)",
+            "desc": "Murgaxor chooses a point within 150 feet of himself, and a 20-foot radius sphere centered on that point fills with a burst of searing, blood-red mist. Each creature of Murgaxor's choice that he can see in that area must make a DC 17 Constitution saving throw. On a failed save, a creature takes 38 (7d10) necrotic damage and is incapacitated until the end of its next turn. On a success, a creature takes half as much damage and isn't incapacitated. A creature dies if reduced to 0 hit points by this necrotic damage."
+          }
+        ],
+        "Bonus actions": [
+          {
+            "name": "Lair actions"
+          }
+        ],
+        "desc": null
+      }
+    ],
+    [
+      "Mimic (XMM)",
+      {
+        "name": "Mimic (XMM)",
+        "size": "Medium",
+        "type": "monstrosity",
+        "alignment": "Neutral",
+        "ac": 12,
+        "hp": 58,
+        "hit_dice": "9d8 + 18",
+        "stats": [
+          17,
+          12,
+          15,
+          5,
+          13,
+          8
+        ],
+        "speed": "20 ft.",
+        "skillsaves": [
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_immunities": "acid",
+        "condition_immunities": "<STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/conditions.md#Prone|prone<STATBLOCK-MARKDOWN-LINK>",
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "",
+        "cr": "2",
+        "traits": [
+          {
+            "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic has the <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/conditions.md#Grappled|Grappled<STATBLOCK-MARKDOWN-LINK> condition (escape DC 13). Ability checks made to escape this grapple have <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md|Disadvantage<STATBLOCK-MARKDOWN-LINK>.",
+            "name": "Adhesive (Object Form Only)"
+          }
+        ],
+        "actions": [
+          {
+            "desc": "Melee Attack Roll: +5 (with <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md|Advantage<STATBLOCK-MARKDOWN-LINK> if the target is <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/conditions.md#Grappled|Grappled<STATBLOCK-MARKDOWN-LINK> by the mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing damage if the target is <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/conditions.md#Grappled|Grappled<STATBLOCK-MARKDOWN-LINK> by the mimic—plus 4 (1d8) Acid damage.",
+            "name": "Bite"
+          },
+          {
+            "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature, it has the <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/conditions.md#Grappled|Grappled<STATBLOCK-MARKDOWN-LINK> condition (escape DC 13). Ability checks made to escape this grapple have <STATBLOCK-MARKDOWN-LINK>3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md|Disadvantage<STATBLOCK-MARKDOWN-LINK>.",
+            "name": "Pseudopod"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn't transformed.",
+            "name": "Shape-Shift"
+          }
+        ],
+        "source": [
+          "XMM"
+        ],
+        "image": "3-Mechanics/CLI/bestiary/monstrosity/token/mimic-xmm.webp",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Silverquill Professor of Radiance",
+      {
+        "name": "Silverquill Professor of Radiance",
+        "source": "5e Strixhaven",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "",
+        "alignment": "neutral good",
+        "ac": "12 (15 with mage armour)",
+        "hp": 97,
+        "hit_dice": "15d8 + 30",
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          14,
+          14,
+          16,
+          13,
+          19
+        ],
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "intelligence": 6
+          },
+          {
+            "wisdom": 4
+          },
+          {
+            "charisma": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": 6
+          },
+          {
+            "deception": 7
+          },
+          {
+            "performance": 10
+          },
+          {
+            "persuasion": 10
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "radiant",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 11",
+        "languages": [
+          "Common",
+          "Elvish",
+          "Dwarvish",
+          "Draconic",
+          "Infernal"
+        ],
+        "cr": "7",
+        "bestiary": true,
+        "spells": [
+          {
+            "The professor casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15)": null
+          },
+          {
+            "At Will": "Dancing lights, Friends"
+          },
+          {
+            "2/Day each": "bless, command, cure wounds, daylight, mage armor"
+          },
+          {
+            "1/day each": "hypnotic pattern, tongues"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The professor makes two Radiant Strike attacks. The professor can replace one of the attacks with a use of Spellcasting",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Radiant Strike",
+            "desc": "Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120 ft., one target. Hit: 17 (3d8 + 4) radiant damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw be blinded until the end of its next turn.",
+            "attack_bonus": 7,
+            "damage_dice": "3d8",
+            "damage_bonus": 4
+          }
+        ]
+      }
+    ],
+    [
+      "Cogwork Archivist",
+      {
+        "name": "Cogwork Archivist",
+        "size": "Large",
+        "type": "Construct",
+        "alignment": "Lawful Neutral",
+        "ac": "17 (natural armour)",
+        "hp": "90 (12d10 + 24)",
+        "speed": 40,
+        "stats": [
+          18,
+          10,
+          15,
+          17,
+          11,
+          6
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 5
+          },
+          {
+            "History": 5
+          },
+          {
+            "Nature": 5
+          },
+          {
+            "Religion": 5
+          },
+          {
+            "Perception": 2
+          }
+        ],
+        "damage_immunities": [
+          "poison"
+        ],
+        "condition_immunities": [
+          "charmed",
+          "Exhaustion",
+          "Frightened",
+          "Petrified",
+          "Poisoned"
+        ],
+        "senses": [
+          "darkvision 60ft",
+          "Passive perception 12"
+        ],
+        "languages": [
+          "All"
+        ],
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Magic Resistance",
+            "desc": "The archivist has advantage on saving throws against spells and other magical effects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The archivist makes two Grasping Limb attacks"
+          },
+          {
+            "name": "Grasping Limb",
+            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 15 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled  (escape DC 14). The archivist can have no more than two targets grappled at a time."
+          }
+        ],
+        "spells": [
+          "The archivist casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>dancing-lights-xphb|Dancing Lights<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>prestidigitation-xphb|Prestidigitation<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/day": "<STATBLOCK-WIKI-LINK>silence-xphb|Silence<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Lorehold Apprentice",
+      {
+        "name": "Lorehold Apprentice",
+        "layout": "Basic 5e Layout",
+        "ac": "12 (15 with mage armour)",
+        "size": "Small",
+        "alignment": "Chaotic Good",
+        "class": "Warlock",
+        "languages": "Common, Gnomish, Undercommon",
+        "stats": [
+          10,
+          14,
+          13,
+          15,
+          12,
+          11
+        ],
+        "saves": [
+          {
+            "Constitution": 3
+          },
+          {
+            "Intelligence": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "History": 6
+          },
+          {
+            "Insight": 3
+          },
+          {
+            "Investigation": 4
+          }
+        ],
+        "senses": [
+          "passive perception 11"
+        ],
+        "cr": 2,
+        "speed": 30,
+        "hp": "33 (6d8+6)",
+        "hitdice": "6d8+6",
+        "actions": [
+          {
+            "name": "Scroll bash",
+            "desc": "_Melee Spell Attack:_ +4 to hit, reach 30 ft., one target. _Hit:_ +7 (1d10 + 2) bludgeoning damage plus 9 (2d8) thunder damage"
+          },
+          {
+            "name": "Reduce to Memory (Recharge 6)",
+            "desc": "Thundering golden energy erupts around a creature the apprentice can see within 90 feet of it. The creature must make a DC 12 Constitution saving throw, taking 33 (6d10) thunder damage on a failed save, or half as much damage on a successful one. A Construct has disadvantage on the saving throw."
+          }
+        ],
+        "spells": [
+          "The apprentice casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 12)",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>guidance-xphb|Guidance<STATBLOCK-WIKI-LINK> , <STATBLOCK-WIKI-LINK>light-xphb|Light<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>comprehend-languages-xphb|Comprehend Languages<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>locate-object-xphb|Locate Object<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mage-armor-xphb|Mage Armor<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Learn from the Past (2/Day)",
+            "desc": "When another creature within 60 feet of the apprentice misses a target with an attack roll, the apprentice magically enables the attacker to reroll the attack roll. It must use the new roll"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "The Oracle of Strixhaven",
+      {
+        "name": "The Oracle of Strixhaven",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "Race": "Human",
+        "Class": "Wizard",
+        "ac": "12 (15 with mage armour)",
+        "hp": 150,
+        "speed": 30,
+        "stats": [
+          12,
+          15,
+          16,
+          21,
+          20,
+          18
+        ],
+        "saves": [
+          {
+            "constitution": 8
+          },
+          {
+            "intelligence": 10
+          },
+          {
+            "wisdom": 10
+          },
+          {
+            "charisma": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 15
+          },
+          {
+            "Insight": 15
+          },
+          {
+            "Investigation": 15
+          },
+          {
+            "Nature": 10
+          },
+          {
+            "Perception": 10
+          }
+        ],
+        "damage_vulnerabilities": null,
+        "damage_resistances": null,
+        "damage_immunities": null,
+        "condition_immunities": [
+          "Charmed",
+          "Frightened"
+        ],
+        "senses": [
+          "passive perception 20"
+        ],
+        "languages": [
+          "All"
+        ],
+        "cr": 15,
+        "traits": [
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the Oracle fails a saving throw, she can choose to succeed instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Oracle makes two Magic Flare attacks. She can also use Paradoxy, if available."
+          },
+          {
+            "name": "Magic Flare",
+            "desc": "Melee or Ranged Spell Attack DC 22 | +10 to hit, reach 5 ft. or range 60 ft., one target. Hit:_ 24 (3d12 + 5) force damage."
+          },
+          {
+            "name": "Paradoxy (Recharge 4–6)",
+            "desc": "Momentary warps in reality appear at three different points the Oracle can see within 120 feet of her. Each creature in a 20-foot-radius sphere centered on each point must make a DC 18 Strength saving throw. On a failed save, a creature takes 33 (6d10) force damage and is pulled up to 15 feet in a straight line toward the center of the sphere. On a successful save, the creature takes half as much damage and isn’t pulled. A creature caught in the area of multiple warps is affected by only one, which the Oracle chooses."
+          },
+          {
+            "name": "Teleport",
+            "desc": "The Oracle teleports, along with any equipment she is wearing or carrying, to an unoccupied space she can see within 60 feet of herself."
+          }
+        ],
+        "spells": [
+          "The Oracle casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 18)",
+          {
+            "Cantrips (at-will)": "detect magic"
+          },
+          {
+            "2/day each": "dispel magic, mage armour, remove curse, sending"
+          },
+          {
+            "1/day each": "power word stun, scrying (as an action),wall of force"
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": null,
+            "desc": "The Oracle can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Oracle regains spent legendary actions at the start of her turn."
+          },
+          {
+            "name": "Vector Shift",
+            "desc": "The Oracle teleports one creature she can see within 60 feet of herself, along with any equipment it is wearing or carrying, to an unoccupied space within 30 feet of herself. An unwilling target must succeed on a DC 18 Charisma saving throw to avoid the effect"
+          },
+          {
+            "name": "Spellcasting (Costs 2 actions)",
+            "desc": "The Oracle uses spellcasting"
+          },
+          {
+            "name": "Vortex Jaunt",
+            "desc": "The Oracle uses teleport , and immediately after she disappears, each creature within 30 feet of the space she left must succeed on a DC 18 Constitution saving throw or take 16 (3d10) force damage"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Prismari Pledgemage",
+      {
+        "name": "Prismari Pledgemage",
+        "size": "Medium",
+        "type": "Humanoid",
+        "class": "Sorcerer",
+        "ac": "12 (15 with <STATBLOCK-WIKI-LINK>mage-armor-xphb|Mage Armor<STATBLOCK-WIKI-LINK>)",
+        "hp": "66 (12d8 + 12)",
+        "speed": "35ft",
+        "stats": [
+          10,
+          15,
+          13,
+          12,
+          14,
+          17
+        ],
+        "saves": [
+          {
+            "Dexterity": 4
+          },
+          {
+            "Charisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 4
+          },
+          {
+            "Athletics": 4
+          },
+          {
+            "Performance": 7
+          }
+        ],
+        "senses": [
+          "passive Perception 12"
+        ],
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Evasion",
+            "desc": "If the pledgemage is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the pledgemage instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn’t incapacitated."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The pledgemage makes two Elemental Strike attacks."
+          },
+          {
+            "name": "Elemental Strike",
+            "desc": "_Melee or Ranged Spell Attack:_ +5 to hit, reach 5 ft. or range 60 ft., one target. _Hit:_ 12 (3d6 + 2) fire or cold damage (the pledgemage’s choice)."
+          },
+          {
+            "name": "Showstopper (1/Day)",
+            "desc": "The pledgemage shines with elemental magic, targeting one creature it can see within 60 feet of itself. The target must make a DC 13 Wisdom saving throw. On a failed save, the target takes 28 (8d6) fire or cold damage (the pledgemage’s choice) and is stunned until the start of the pledgemage’s next turn. On a successful save, the target takes half as much damage and isn’t stunned"
+          }
+        ],
+        "spells": [
+          "The pledgemage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13)",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>minor-illusion-xphb|Minor Illusion<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "2/day each": "<STATBLOCK-WIKI-LINK>gust-of-wind-xphb|Gust of Wind<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>silent-image-xphb|Silent Image<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>mage-armor-xphb|Mage Armor<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>water-walk-xphb|Water Walk<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Surge of Artistry (Recharge 4-6)",
+            "desc": "The pledgemage moves up to its speed, surrounding itself with elemental magic as it moves. Until the end of its turn, the pledgemage can move through the space of other creatures. The first time the pledgemage enters a creature’s space on a turn, that creature must succeed on a DC 13 Dexterity saving throw or be knocked prone. If the pledgemage ends its turn in another creature’s space, the pledgemage takes 5 (1d10) force damage and is pushed into the nearest unoccupied space."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Witherbloom Pledgemage",
+      {
+        "name": "Witherbloom Pledgemage",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Druid",
+        "alignment": "Any Alignment",
+        "ac": "12 (15 with mage armour)",
+        "hp": "68 (12d8 + 12)",
+        "speed": "30ft",
+        "stats": [
+          10,
+          15,
+          13,
+          14,
+          17,
+          11
+        ],
+        "saves": [
+          {
+            "Constitution": 3
+          },
+          {
+            "Wisdom": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Medicine": 5
+          },
+          {
+            "Nature": 6
+          },
+          "Perception 7"
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "passive Perception 17",
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": 4,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "As long as the pledgemage has at least 1 hit point remaining, the pledgemage regains 5 hit points at the start of its turn."
+          },
+          {
+            "name": "Verdant Talisman",
+            "desc": "At the end of a 10-minute ritual, the pledgemage can touch one willing creature (including itself) and bestow upon it a small talisman imbued with vitality magic. Upon receiving the talisman, the creature gains 10 temporary hit points, and it can add 1d6 to its initiative rolls while it wears the talisman. These benefits last for 1 hour or until the pledgemage conducts another ritual to bestow another talisman. When the benefits expire, the talisman crumbles to dust."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Briar Vine",
+            "desc": "Melee Spell Attack: +5 to hit, reach 15 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 18 (4d8) poison damage. If the target is a Large or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+          }
+        ],
+        "spells": [
+          "The pledgemage casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability",
+          {
+            "At Will": "<STATBLOCK-WIKI-LINK>druidcraft-xphb|Druidcraft<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>spare-the-dying-xphb|Spare the Dying<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>death-ward-xphb|Death Ward<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>pass-without-trace-xphb|Pass without Trace<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>speak-with-plants-xphb|Speak with Plants<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Vociferous Form (1/Day).",
+            "desc": "The pledgemage transforms into an avatar of plants and shadow. While in this form, the pledgemage adds its Wisdom modifier to its AC if it isn’t wearing armor or wielding a shield, and it has advantage on attack rolls against any creature missing hit points. This form lasts for 1 minute or until the pledgemage is reduced to 0 hit points."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Wither Burst",
+            "desc": "When the pledgemage sees a creature within 30 feet of itself drop to 0 hit points, the pledgemage channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 13 Constitution saving throw or become <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK> for 1 minute. While <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK>in this way, the target takes 3 (1d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "First-Year Student",
+      {
+        "name": "First-Year Student",
+        "size": "Medium or Small",
+        "type": "Humanoid",
+        "subtype": "Wizard",
+        "alignment": "Any Alignment",
+        "ac": 11,
+        "hp": "33 (6d8 + 6)",
+        "speed": "30ft",
+        "stats": [
+          8,
+          12,
+          13,
+          12,
+          10,
+          11
+        ],
+        "senses": "passsive Perception 10",
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Excited to Be Here",
+            "desc": "The student has advantage on initiative rolls."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Magic Flare",
+            "desc": "_Melee or Ranged Spell Attack_ +3 to hit, reach 5 ft. or range 60 ft., one target. _Hit_ 7 (1d12 + 1) force damage"
+          }
+        ],
+        "spells": [
+          "The student casts one of the following spells, using intelligence as the spellcasting ability (spell save DC11).",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>mage-hand-xphb|Mage Hand<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>prestidigitation-xphb|Prestidigitation<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day": "<STATBLOCK-WIKI-LINK>detect-magic-xphb|Detect Magic<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Beginner’s Luck (2/day)",
+            "desc": "When the student fails a saving throw, it can reroll the d20. It must use the new roll"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Witherbloom Apprentice",
+      {
+        "name": "Witherbloom Apprentice",
+        "size": "Medium or small",
+        "type": "Humanoid",
+        "subtype": "Druid",
+        "alignment": "Any Alignment",
+        "ac": "13 (leather armour)",
+        "hp": "44 (8d8 + 8)",
+        "speed": "30ft",
+        "stats": [
+          10,
+          14,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "Constitution": 3
+          },
+          {
+            "Wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Medicine": 4
+          },
+          {
+            "Nature": 5
+          },
+          "Perception 6"
+        ],
+        "senses": [
+          "passive Perception 16"
+        ],
+        "languages": [
+          "Common plus any two languages"
+        ],
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "The apprentice regains 5 hit points at the start of its turn if it has at least 1 hit point"
+          },
+          {
+            "name": "Verdant Talisman",
+            "desc": "At the end of a 10-minute ritual, the apprentice can touch one willing creature (including itself) and bestow upon it a small talisman imbued with magic. Upon receiving the talisman, the creature gains 10 temporary hit points, and it can add 1d6 to its initiative rolls while it wears the talisman. These benefits last for 1 hour or until the apprentice conducts another ritual to bestow another talisman. When the benefits expire, the talisman crumbles to dust."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Briar Vine",
+            "desc": "_Melee Spell Attack:_ +4 to hit, reach 15 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 9 (2d8) poison damage. If the target is a Large or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+          }
+        ],
+        "spells": [
+          "The apprentice casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability",
+          {
+            "At will": "<STATBLOCK-WIKI-LINK>druidcraft-xphb|Druidcraft<STATBLOCK-WIKI-LINK>,<STATBLOCK-WIKI-LINK>spare-the-dying-xphb|Spare the Dying<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "1/day each": "<STATBLOCK-WIKI-LINK>pass-without-trace-xphb|Pass without Trace<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Wither Burst",
+            "desc": "When the apprentice sees a creature within 30 feet of itself drop to 0 hit points, the apprentice channels the expended life essence and targets another creature it can see within 30 feet of itself. The target must succeed on a DC 12 Constitution saving throw or become <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK> for 1 minute. While <STATBLOCK-WIKI-LINK>conditions#Poisoned|poisoned<STATBLOCK-WIKI-LINK> in this way, the target takes 3 (1d6) poison damage at the start of each of its turns. The target can repeat the save at the end of each of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {
+    "basic-5e-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "8b38bb9ab828",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "38a859799aba",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "09987898fb5b",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "7a0b0889cbbb",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "5b7a1b19890b",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "c999cb5b89db",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "a8793b8b5a6a",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "9ad8990a78b9",
+                  "properties": [
+                    "size",
+                    "type",
+                    "subtype",
+                    "alignment"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "181b9a58fa19",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "59da8abbbb4b",
+          "properties": [
+            "ac",
+            "hp",
+            "speed"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "ca6b698b8a69",
+              "properties": [
+                "ac"
+              ],
+              "display": "Armor Class",
+              "conditioned": true,
+              "callback": "const ac = [monster.ac];if (\"ac_class\" in monster) {ac.push(`(${monster.ac_class})`);}return ac.join(\" \");"
+            },
+            {
+              "type": "property",
+              "id": "cbf96b190929",
+              "properties": [
+                "hp"
+              ],
+              "display": "Hit Points",
+              "dice": true,
+              "diceProperty": "hit_dice",
+              "diceCallback": "if (\"hit_dice\" in monster) {\n  return [{ text: monster[\"hit_dice\"] }];\n} else {\n  return property;\n}",
+              "callback": "let str = [monster.hp];\nif (monster.hit_dice?.length) {\n  str.push(`(${monster.hit_dice})`);\n}\nreturn str.join(\" \");",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "383b3bcbf908",
+              "display": "Speed",
+              "properties": [
+                "speed"
+              ],
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "8bda6948b9d8",
+          "properties": [
+            "stats"
+          ],
+          "headers": [
+            "Str",
+            "Dex",
+            "Con",
+            "Int",
+            "Wis",
+            "Cha"
+          ],
+          "calculate": true,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "table",
+          "id": "5999985bcba8",
+          "properties": [
+            "fage_stats"
+          ],
+          "headers": [
+            "Accuracy",
+            "Communication",
+            "Constitution",
+            "Dexterity",
+            "Fighting",
+            "Intelligence",
+            "Perception",
+            "Strength",
+            "Willpower"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "689a2958084a",
+          "properties": [
+            "saves",
+            "skillsaves",
+            "damage_immunities",
+            "damage_resistances",
+            "damage_vulnerabilities",
+            "condition_immunities",
+            "cr",
+            "languages",
+            "senses"
+          ],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "8a896a5b296a",
+              "display": "Saves",
+              "properties": [
+                "saves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "saves",
+              "id": "2a8a89c81829",
+              "display": "Skills",
+              "properties": [
+                "skillsaves"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "b86a18ca495b",
+              "display": "Damage Resistances",
+              "properties": [
+                "damage_resistances"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5aeb6b096bdb",
+              "display": "Damage Immunities",
+              "properties": [
+                "damage_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "cadbbb28883b",
+              "display": "Condition Immunities",
+              "properties": [
+                "condition_immunities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "983aeba9dab9",
+              "display": "Damage Vulnerabilities",
+              "properties": [
+                "damage_vulnerabilities"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "989a6a1af9d9",
+              "display": "Senses",
+              "properties": [
+                "senses"
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "eaf8196b3a9a",
+              "display": "Languages",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "inline",
+              "id": "3ba99939f9fb",
+              "properties": [],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "29ea7888e86b",
+                  "display": "Challenge",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 10\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};                        \nif (\"cr\" in monster && monster.cr in CR) {\n    return `${CR[\n        monster.cr\n    ].cr} (${CR[\n        monster.cr\n    ].xp.toLocaleString()} XP)`;\n}\nreturn \"\";"
+                },
+                {
+                  "type": "property",
+                  "id": "d9cb293adb29",
+                  "display": "Proficiency Bonus",
+                  "properties": [
+                    "cr"
+                  ],
+                  "callback": "const CR = {\n    \"0\": {\n        cr: \"0\",\n        value: 0,\n        xp: 0\n    },\n    \"1/8\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"1/4\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"1/2\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"0.125\": {\n        cr: \"1/8\",\n        value: 0.125,\n        xp: 25\n    },\n    \"0.25\": {\n        cr: \"1/4\",\n\n        value: 0.25,\n        xp: 50\n    },\n    \"0.5\": {\n        cr: \"1/2\",\n        value: 0.5,\n        xp: 100\n    },\n    \"1\": {\n        cr: \"1\",\n        value: 1,\n        xp: 200\n    },\n    \"2\": {\n        cr: \"2\",\n        value: 2,\n        xp: 450\n    },\n    \"3\": {\n        cr: \"3\",\n        value: 3,\n        xp: 700\n    },\n    \"4\": {\n        cr: \"4\",\n        value: 4,\n        xp: 1100\n    },\n    \"5\": {\n        cr: \"5\",\n        value: 5,\n        xp: 1800\n    },\n    \"6\": {\n        cr: \"6\",\n        value: 6,\n        xp: 2300\n    },\n    \"7\": {\n        cr: \"7\",\n        value: 7,\n        xp: 2900\n    },\n    \"8\": {\n        cr: \"8\",\n        value: 8,\n        xp: 3900\n    },\n    \"9\": {\n        cr: \"9\",\n        value: 9,\n        xp: 5000\n    },\n    \"10\": {\n        cr: \"10\",\n        value: 10,\n        xp: 5900\n    },\n    \"11\": {\n        cr: \"11\",\n        value: 11,\n        xp: 7200\n    },\n    \"12\": {\n        cr: \"12\",\n        value: 12,\n        xp: 8400\n    },\n    \"13\": {\n        cr: \"13\",\n        value: 13,\n        xp: 10000\n    },\n    \"14\": {\n        cr: \"14\",\n        value: 14,\n        xp: 11500\n    },\n    \"15\": {\n        cr: \"15\",\n        value: 15,\n        xp: 13000\n    },\n    \"16\": {\n        cr: \"16\",\n        value: 16,\n        xp: 15000\n    },\n    \"17\": {\n        cr: \"17\",\n        value: 17,\n        xp: 18000\n    },\n    \"18\": {\n        cr: \"18\",\n        value: 18,\n        xp: 20000\n    },\n    \"19\": {\n        cr: \"19\",\n        value: 19,\n        xp: 22000\n    },\n    \"20\": {\n        cr: \"20\",\n        value: 20,\n        xp: 25000\n    },\n    \"21\": {\n        cr: \"21\",\n        value: 21,\n        xp: 33000\n    },\n    \"22\": {\n        cr: \"22\",\n        value: 22,\n        xp: 41000\n    },\n    \"23\": {\n        cr: \"23\",\n        value: 23,\n        xp: 50000\n    },\n    \"24\": {\n        cr: \"24\",\n        value: 24,\n        xp: 62000\n    },\n    \"25\": {\n        cr: \"25\",\n        value: 25,\n        xp: 75000\n    },\n    \"26\": {\n        cr: \"26\",\n        value: 26,\n        xp: 90000\n    },\n    \"27\": {\n        cr: \"27\",\n        value: 27,\n        xp: 105000\n    },\n    \"28\": {\n        cr: \"28\",\n        value: 28,\n        xp: 120000\n    },\n    \"29\": {\n        cr: \"29\",\n        value: 29,\n        xp: 135000\n    },\n    \"30\": {\n        cr: \"30\",\n        value: 30,\n        xp: 155000\n    }\n};           \nif (\"cr\" in monster && monster.cr in CR) {\n    return `+${Math.max(\n            Math.floor(2 + ((CR[monster.cr]?.value ?? 0) - 1) / 4),\n            2\n        )}`;\n}\nreturn \"\";"
+                }
+              ]
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "traits",
+          "id": "4a3929491b09",
+          "properties": [
+            "traits"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "spells",
+          "id": "880ad9b98b08",
+          "properties": [
+            "spells"
+          ],
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "text",
+          "id": "394abaa82a49",
+          "properties": [
+            "spellsNotes"
+          ],
+          "conditioned": true,
+          "text": null
+        },
+        {
+          "type": "traits",
+          "id": "ea8b2aea98ca",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "e9791b29e919",
+          "properties": [
+            "bonus_actions"
+          ],
+          "heading": "Bonus Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "group",
+          "id": "8a79aab8d8aa",
+          "properties": [
+            "legendary_description",
+            "legendary_actions"
+          ],
+          "heading": "Legendary Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "086adbbb4ad8",
+              "properties": [
+                "legendary_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "2afbc9ba29a9",
+              "properties": [
+                "legendary_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "ba9aa908c988",
+          "properties": [
+            "mythic_description",
+            "mythic_actions"
+          ],
+          "heading": "Mythic Actions",
+          "nested": [
+            {
+              "type": "text",
+              "id": "2aca5b0aaa3a",
+              "properties": [
+                "mythic_description"
+              ],
+              "conditioned": true,
+              "text": null
+            },
+            {
+              "type": "traits",
+              "id": "e9e839ba9bea",
+              "properties": [
+                "mythic_actions"
+              ],
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "688af9eabb28",
+          "properties": [
+            "reactions"
+          ],
+          "heading": "Reactions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "cbf91a39588a",
+          "properties": [
+            "lair_actions"
+          ],
+          "heading": "Lair Actions",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "1b1a88c9da49",
+          "properties": [
+            "regional_effects"
+          ],
+          "heading": "Regional Effects",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "id": "basic-5e-layout",
+      "name": "Basic 5e Layout",
+      "edited": true,
+      "version": 9
+    }
+  },
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 9,
+    "patch": 0
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": true,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": true
+}

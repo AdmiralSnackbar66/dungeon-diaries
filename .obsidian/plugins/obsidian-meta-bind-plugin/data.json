@@ -1,0 +1,152 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Quest",
+      "hidden": false,
+      "class": "",
+      "tooltip": "Click this to create a quest. ",
+      "id": "button_quest",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateQuest.md",
+          "folderPath": "2-Campaign/Quests",
+          "fileName": "NewQuest",
+          "openNote": true
+        }
+      ],
+      "icon": "message-circle-question"
+    },
+    {
+      "label": "New NPC",
+      "hidden": false,
+      "id": "newNPC",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateNPC.md",
+          "fileName": "NewNPC",
+          "folderPath": "3-Mechanics/NPCs"
+        }
+      ],
+      "icon": "user-pen",
+      "tooltip": "Click here to create a new NPC"
+    },
+    {
+      "label": "New Location",
+      "hidden": false,
+      "id": "newLocation",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateSettlement.md",
+          "fileName": "NewLocation",
+          "folderPath": "2-World"
+        }
+      ],
+      "icon": "map-pin-house"
+    },
+    {
+      "label": "New NPC (World Builder)",
+      "hidden": false,
+      "id": "newNPCwb",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateNPC_WB.md",
+          "fileName": "NewNPCwb",
+          "folderPath": "3-Mechanics/NPCs"
+        }
+      ],
+      "icon": "user-pen",
+      "tooltip": "Click here to create a new NPC (world-builder template)"
+    },
+    {
+      "label": "New Journal Entry",
+      "hidden": false,
+      "id": "newJournal",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateJournal.md",
+          "fileName": "NewJournal",
+          "folderPath": "1-Session Journals"
+        }
+      ],
+      "tooltip": "Create a new Session Journal.",
+      "icon": "album"
+    },
+    {
+      "label": "New Guild or Group",
+      "hidden": false,
+      "id": "newGroup",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateGroup.md",
+          "fileName": "NewGroup",
+          "folderPath": "3-Mechanics/Guilds and Groups"
+        }
+      ],
+      "icon": "users",
+      "tooltip": "Create new Guild or Group"
+    },
+    {
+      "label": "New Magic Item",
+      "hidden": false,
+      "id": "newMagicItem",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplateMagicItem.md",
+          "fileName": "NewMagicItem",
+          "folderPath": "3-Mechanics/Items"
+        }
+      ],
+      "icon": "wand-sparkles",
+      "tooltip": "Click here to create a new Magic Item"
+    },
+    {
+      "label": "New Player",
+      "hidden": false,
+      "id": "newPlayer",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "z_Templates/TemplatePlayer.md",
+          "fileName": "NewPlayer",
+          "folderPath": "1-Party"
+        }
+      ],
+      "icon": "person-standing",
+      "tooltip": "Click here to create a new player."
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ],
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000
+}

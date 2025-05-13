@@ -1,0 +1,4 @@
+.callout[data-callout="student]{
+  --callout-colour: 249, 249, 14;
+  --callout-icon: lucide-align-left
+}
