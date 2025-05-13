@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
+                "file": "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "001_20250511_log"
+              "title": "Elvis Parsley"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "potion of healing",
+            "query": "",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -454,19 +454,22 @@
   },
   "active": "58d6ac8610cb5536",
   "lastOpenFiles": [
+    "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
+    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/ElvisParsley.png.png",
+    "z_Assets/Pasted image 20250513145110.jpg",
+    "z_Assets/HEIF Image.png",
+    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "vault/z_Assets/Pasted image 20250414083458.png",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "vault/ttrpgs/ttrpgs.md",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Session Notes",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/Dnd/index.md",
-    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "z_Assets/HEIF Image.png",
     "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
     "Excalidraw",
     "content/index.md",
     "quartz.config.ts",
-    "z_Assets/Pasted image 20250513145110.jpg",
     "z_Assets",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters",
     "content/Dnd/Strixhaven A Curriculum of Chaos",
@@ -479,7 +482,6 @@
     "z_Assets/Pasted image 20250512201948.jpg",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "content/dnd/dnd.md",
-    "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
     "ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/NPC's",
     "content/blog/Formatting blogs ....md",
@@ -497,8 +499,6 @@
     "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
     "z_Assets/MavindaSharpbeak.WEBP",
     "3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
     "z_Assets/Untitled.canvas"
   ]
 }
