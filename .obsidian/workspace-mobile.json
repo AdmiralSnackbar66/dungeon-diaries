@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Elvis Parsley"
@@ -100,8 +100,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -455,10 +454,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "z_Assets/HEIF Image.png",
+    "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
+    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "Excalidraw",
     "content/Dnd/index.md",
     "content/index.md",
     "quartz.config.ts",
-    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "z_Assets/Pasted image 20250513145110.jpg",
     "z_Assets",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters",
@@ -491,7 +493,6 @@
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
     "ttrpgs/PlayerCharacters/Zolon Orielson.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
     "z_Assets/CogworkArchivist.png",
     "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
     "z_Assets/MavindaSharpbeak.WEBP",
@@ -499,7 +500,6 @@
     "3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
     "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
     "3-Mechanics/CLI/bestiary/token/empyrean-xmm.webp",
-    "z_Assets/Strixhaven Acceptance Packet.pdf",
     "z_Assets/Untitled.canvas"
   ]
 }
