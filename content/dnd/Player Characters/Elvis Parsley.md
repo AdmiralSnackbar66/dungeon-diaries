@@ -1,5 +1,6 @@
 ---
 title: Elvis Parsley
-publish: true
+draft: false
+tags:
 ---
 ![[ElvisParsley.png|215x323]]
