@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Dungeon Diaries
 draft: 
 publish: true
 modified: 2025-05-12T20:59:36+01:00
