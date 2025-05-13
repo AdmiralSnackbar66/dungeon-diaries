@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a4c23315db07c4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "333e7ba8476309d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
-                "mode": "preview",
-                "source": false
+                "file": "content/dnd/Player Characters/Dalaila Eversnow.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "Dalaila Eversnow"
             }
           }
         ]
@@ -171,12 +171,32 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d2aa491239307e37",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f986df1211639636",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
           },
           {
-            "id": "d2aa491239307e37",
+            "id": "d2c4715ab35ca7bd",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -197,8 +217,8 @@
             "state": {
               "type": "attendance",
               "state": {},
-              "icon": "user-check",
-              "title": "Attendance"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -210,76 +230,78 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "helpmate:HelpMate": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "rpg-manager:RPG Manager": false,
-      "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "333e7ba8476309d1",
   "lastOpenFiles": [
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/ttrpgs.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250502.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250518.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250503.md",
-    "scripts/getThisGameFilename.js",
-    "z_templates/session-gm.md",
-    "scripts/getThisGameFilename.js.bkp.txt",
-    "z_templates/New Session.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250525.md",
-    "ttrpgs/Campaigns/Strixhaven/No games found.md",
-    "ttrpgs/PlayerCharacters/Borun Erutan.md",
-    "z_templates/Test-Note.md",
-    "0-Needs Sorting/TTRPGs Games Index.md",
-    "Untitled 3.md",
-    "ttrpgs/PlayerCharacters/Untitled Kanban.md",
-    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
-    "ttrpgs/PlayerCharacters/Roleck Nevari.md",
-    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
-    "ttrpgs/PlayerCharacters/Dalaila.md",
-    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
-    "z_templates/PlayerCharacter.md",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/1-campus-kerfuffle.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Register for Classes.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Courses.md",
-    "3-Mechanics/CLI/items/img/orcus-figurine.webp",
-    "3-Mechanics/CLI/bestiary/undead/token/storm-giant-skeleton-cm.webp",
-    "3-Mechanics/CLI/bestiary/undead/token/parasite-infested-behir-cm.webp",
-    "3-Mechanics/CLI/bestiary/undead/token/lichen-lich-cm.webp",
-    "3-Mechanics/CLI/bestiary/undead/token/fungal-servant-cm.webp",
-    "3-Mechanics/CLI/bestiary/undead/token/cloud-giant-ghost-cm.webp",
-    "3-Mechanics/CLI/bestiary/undead/img/lichen-lich.webp",
-    "3-Mechanics/CLI/bestiary/undead/img/cloud-giant-ghost.webp",
-    "3-Mechanics/CLI/bestiary/npc/token/zikzokrishka-cm.webp",
-    "3-Mechanics/CLI/bestiary/npc/token/zikran-cm.webp",
-    "3-Mechanics/CLI/adventures/candlekeep-mysteries/img",
-    "3-Mechanics/CLI/adventures/candlekeep-mysteries",
-    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img",
-    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/img",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle",
-    "0-Needs Sorting",
-    "ttrpgs/Campaigns/Strixhaven/Locations",
+    "content/dnd/Player Characters/Elvis Parsley.md",
+    "content/dnd/Player Characters/Dalaila Eversnow.md",
+    "content/dnd/Player Characters/Dalaila Eversnow.png",
+    "content/dnd/dnd.md",
+    "content/index.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Player Characters/Zolon Orielson.md",
+    "content/dnd/Player Characters/Zolon Orielson.png",
+    "content/dnd/Player Characters/Roleck Nevari.md",
+    "content/dnd/Player Characters/Borun Erutan.md",
+    "content/dnd/Player Characters/Roleck Nevari.png",
+    "content/dnd/Player Characters/Omari Elderon.md",
+    "content/dnd/Player Characters/Omari Elderon.png",
+    "public/dnd/Player-Characters/Dalaila-Eversnow-og-image.webp",
+    "public/dnd/Player-Characters/Dalaila-Eversnow.html",
+    "public/dnd/Player-Characters/Dalaila-Eversnow.png",
+    "[content/dnd/Player Characters/Player Characters.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
+    "[content/dnd/Player Characters",
+    "[content/dnd",
+    "[content",
+    "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "vault/z_templates/website content.md",
+    "vault/ttrpgs/PlayerCharacters/Borun Erutan.md",
+    "public/dnd/Player-Characters/Borun-Erutan-og-image.webp",
+    "public/dnd/Player-Characters/Borun-Erutan.html",
+    "public/dnd/Player-Characters/Borun-Erutan.png",
+    "content/dnd/Player Characters/Borun Erutan.png",
+    "content/dnd/Player Characters/ElvisParsley.png",
+    "content/blog/2025-03-06 - My first blog post.md",
+    "content/blog/blog.md",
+    "content/blog/2025-03-25 - Testing private notes  ....md",
+    "content/blog/2025-03-18 - Back again ....md",
+    "content/blog/2025-03-24 - Formatting blogs ....md",
+    "content/blog/2025-03-22 - Not much to say ....md",
+    "content/blog/2025-03-07 - Mobile blogging...md",
+    "content/blog/2025-03-11 - A farewell to Disney....md",
+    "content/blog/2025-03-10 - Another Disney Day....md",
+    "content/blog/2025-03-09 - A Disney kind of day.....md",
+    "content/dnd/Session Notes",
+    "content/dnd/Player Characters",
+    "content/dnd/NonPlayer Characters",
+    "content/blog",
+    "content/dnd",
     "z_Assets/Untitled.canvas",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
