@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+                "file": "content/Dnd/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "index"
             }
           }
         ]
@@ -454,9 +454,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "z_Assets/HEIF Image.png",
     "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
-    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "Excalidraw",
     "content/Dnd/index.md",
     "content/index.md",
@@ -499,7 +499,6 @@
     "3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp",
     "3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
     "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
-    "3-Mechanics/CLI/bestiary/token/empyrean-xmm.webp",
     "z_Assets/Untitled.canvas"
   ]
 }

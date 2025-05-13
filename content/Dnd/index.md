@@ -1,5 +1,5 @@
 ---
-title: ContentIndex
+title: DnD Index
 draft:
 ---
 
