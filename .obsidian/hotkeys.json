@@ -1,0 +1,34 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "granite:show": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "obsidian-meta-bind-plugin:open-button-builder": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "buttons:button-maker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ]
+}

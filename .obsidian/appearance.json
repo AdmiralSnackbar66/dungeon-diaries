@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "supercharged-links-gen",
+    "dnd5e-only-statblock",
+    "dnd5e-compendium",
+    "dnd5e-float-images",
+    "dnd5e-only-admonitions",
+    "FantasyFonts",
+    "Student",
+    "HoverProperties_-_Columns"
+  ],
+  "baseFontSize": 15
+}
