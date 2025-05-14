@@ -4,7 +4,6 @@ draft: false
 tags:
   - blog
 date: 2025-03-06
-created: 2025-03-06
 publish: true
 ---
 So this is my first blog post..
