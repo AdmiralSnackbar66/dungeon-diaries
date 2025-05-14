@@ -3,7 +3,7 @@ title: My first blog post
 date: 2025-03-06
 tags:
   - blog
-  - TEST
+  - changed
 publish: true
 draft: false
 created: 2025-03-06
