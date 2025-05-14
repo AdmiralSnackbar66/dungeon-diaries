@@ -1,9 +1,8 @@
 ---
 title: My first blog post
-draft: false
+date: 2025-03-06
 tags:
   - blog
-date: 2025-03-06
 publish: true
 ---
 So this is my first blog post..
