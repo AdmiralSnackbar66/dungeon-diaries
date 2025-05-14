@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e16a96e634d1d67",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5bed2282b136e7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -452,11 +452,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ac5bed2282b136e7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "vault/ttrpgs/ttrpgs.md",
     "content/blog/index.md",
     "content/blog/2025-03-06 - My first blog post.md",
-    "vault/ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
