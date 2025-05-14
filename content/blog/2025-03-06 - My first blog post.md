@@ -5,6 +5,7 @@ tags:
   - blog
   - TEST
 publish: true
+draft: false
 ---
 So this is my first blog post..  
 
