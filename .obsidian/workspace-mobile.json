@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
+                "file": "content/blog/2025-03-06 - My first blog post.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "2025-03-06 - My first blog post"
             }
           }
         ]
@@ -454,8 +454,9 @@
   },
   "active": "33d36e5945f0b2ec",
   "lastOpenFiles": [
-    "content/blog/2025-03-06 - My first blog post.md",
     "vault/ttrpgs/ttrpgs.md",
+    "quartz.config.ts",
+    "content/blog/2025-03-06 - My first blog post.md",
     "quartz.config.ts.txt",
     "content/blog/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
@@ -486,7 +487,6 @@
     "content/Dnd/index.md",
     "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
     "Excalidraw",
-    "quartz.config.ts",
     "z_Assets",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters",
     "content/dnd/Strixhaven A Curriculum of Chaos",
