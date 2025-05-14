@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "Rosimyffenbip \"Rosie\" Wuzzfedlims"
             }
           }
         ]
@@ -452,12 +452,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "44ffd25d5f269fae",
+  "active": "02cbfc6372c85fea",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "vault/ttrpgs/Player Characters/Borun Erutan.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.md",
+    "vault/z_Assets/RosieWuzzfedlim.PNG",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.PNG",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/RosieWuzzfedlim.PNG",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/dnd/dnd.md",
-    "vault/ttrpgs/ttrpgs.md",
     "content/index.md",
     "vault/z_Example Notes/z_Example Notes.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
@@ -479,7 +485,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos",
     "content/blog/blog.md",
     "content/dnd",
-    "quartz.config.ts.txt",
     "content/blog/A Disney kind of day.... .md",
     "vault/ttrpgs/Player Characters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
@@ -494,12 +499,7 @@
     "ttrpgs/PlayerCharacters/Dalaila Eversnow.md",
     "ttrpgs/PlayerCharacters/Dalaila.md",
     "ttrpgs/PlayerCharacters/Omari.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
     "z_Assets/CogworkArchivist.png",
-    "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
-    "z_Assets/MavindaSharpbeak.WEBP",
-    "3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp",
     "z_Assets/Untitled.canvas"
   ]
 }
