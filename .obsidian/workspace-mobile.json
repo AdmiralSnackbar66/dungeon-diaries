@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "943e30e36ece7428",
+        "id": "f3c78c5bf2d8f8f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c60150ba37d3fefd",
+            "id": "02cbfc6372c85fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -452,10 +452,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "44ffd25d5f269fae",
+  "active": "02cbfc6372c85fea",
   "lastOpenFiles": [
-    "content/dnd/dnd.md",
+    "content/index.md",
     "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/dnd.md",
     "vault/z_Example Notes/z_Example Notes.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
@@ -470,7 +471,6 @@
     "content/Dnd/index.md",
     "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
     "Excalidraw",
-    "content/index.md",
     "quartz.config.ts",
     "z_Assets",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters",
