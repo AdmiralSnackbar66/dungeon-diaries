@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c341140634c352d7",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "58d6ac8610cb5536",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-                "mode": "preview",
+                "file": "vault/z_Example Notes/z_Example Notes.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "z_Example Notes"
             }
           }
         ]
@@ -452,17 +452,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "58d6ac8610cb5536",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/ElvisParsley.png.png",
     "z_Assets/Pasted image 20250513145110.jpg",
     "z_Assets/HEIF Image.png",
-    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "vault/z_Assets/Pasted image 20250414083458.png",
-    "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "vault/ttrpgs/ttrpgs.md",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Session Notes",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/Dnd/index.md",
@@ -471,13 +471,13 @@
     "content/index.md",
     "quartz.config.ts",
     "z_Assets",
-    "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters",
-    "content/Dnd/Strixhaven A Curriculum of Chaos",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters",
+    "content/dnd/Strixhaven A Curriculum of Chaos",
     "content/blog/blog.md",
-    "content/Dnd",
+    "content/dnd",
     "quartz.config.ts.txt",
     "content/blog/A Disney kind of day.... .md",
-    "vault/ttrpgs/PlayerCharacters/Elvis Parsley.md",
+    "vault/ttrpgs/Player Characters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "z_Assets/Pasted image 20250512201948.jpg",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
