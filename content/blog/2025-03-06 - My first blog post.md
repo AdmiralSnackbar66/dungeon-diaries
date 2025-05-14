@@ -3,11 +3,10 @@ title: My first blog post
 date: 2025-03-06
 tags:
   - blog
-  - changed
 publish: true
 draft: false
 created: 2025-03-06
-modified: 2025-03-06
+published: 2025-03-06
 ---
 So this is my first blog post..  
 
