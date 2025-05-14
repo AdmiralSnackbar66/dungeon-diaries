@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
-                "mode": "preview",
-                "source": false
+                "file": "content/blog/2025-03-06 - My first blog post.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "2025-03-06 - My first blog post"
             }
           }
         ]
@@ -454,8 +454,9 @@
   },
   "active": "95600208519eda66",
   "lastOpenFiles": [
-    "content/blog/2025-03-06 - My first blog post.md",
     "vault/ttrpgs/ttrpgs.md",
+    "quartz.config.ts.txt",
+    "content/blog/2025-03-06 - My first blog post.md",
     "content/blog/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
@@ -489,7 +490,6 @@
     "z_Assets",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters",
     "content/dnd/Strixhaven A Curriculum of Chaos",
-    "content/dnd",
     "content/blog/A Disney kind of day.... .md",
     "vault/ttrpgs/Player Characters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
@@ -499,7 +499,6 @@
     "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
     "ttrpgs/ttrpgs.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "ttrpgs/PlayerCharacters/Dalaila Eversnow.md",
     "z_Assets/Untitled.canvas"
   ]
 }
