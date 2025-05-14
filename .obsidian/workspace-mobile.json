@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/2025-03-07 - A little bit more ....md",
+                "file": "content/blog/2025-03-07 - Mobile blogging...md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-07 - A little bit more ..."
+              "title": "2025-03-07 - Mobile blogging.."
             }
           }
         ]
@@ -455,13 +455,13 @@
   },
   "active": "b24067bdd2e296ea",
   "lastOpenFiles": [
+    "content/blog/2025-03-07 - A little bit more ....md",
+    "quartz.config.ts",
     "content/blog/2025-03-06 - My first blog post.md",
     "content/blog/2025-03-08 - Let's fly away....md",
     "quartz.config.ts.txt",
     "content/blog/2025-03-07 - Mobile blogging...md",
-    "content/blog/2025-03-07 - A little bit more ....md",
     "vault/ttrpgs/ttrpgs.md",
-    "quartz.config.ts",
     "content/blog/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
@@ -500,7 +500,6 @@
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "content/blog/Formatting blogs ....md",
-    "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
     "z_Assets/Untitled.canvas"
   ]
 }

@@ -4,7 +4,8 @@ draft: false
 tags:
   - blog
 published: 2025-03-07
-fc-date:
+fc-date: 
+publish: true
 ---
 Mobile blogging is live... This is the first blog post that is being blogged away from the laptop via a mobile. It's using a combination of Obsidian Gitsync and a little black magic 😜
 
