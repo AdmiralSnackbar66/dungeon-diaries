@@ -452,11 +452,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "02cbfc6372c85fea",
+  "active": "44ffd25d5f269fae",
   "lastOpenFiles": [
-    "content/index.md",
-    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/dnd/dnd.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/index.md",
     "vault/z_Example Notes/z_Example Notes.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
@@ -484,7 +486,6 @@
     "z_Assets/Pasted image 20250512201948.jpg",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "ttrpgs/PlayerCharacters/Elvis Parsley.md",
-    "content/dnd/Curriculum of Chaos/NPC's",
     "content/blog/Formatting blogs ....md",
     "content/dnd/Curriculum of Chaos/Sessions/001_20250511_log.md",
     "ttrpgs/ttrpgs.md",
@@ -495,7 +496,6 @@
     "ttrpgs/PlayerCharacters/Omari.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
-    "ttrpgs/PlayerCharacters/Zolon Orielson.md",
     "z_Assets/CogworkArchivist.png",
     "3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp",
     "z_Assets/MavindaSharpbeak.WEBP",
