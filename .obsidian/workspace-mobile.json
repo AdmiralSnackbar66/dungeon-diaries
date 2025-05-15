@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "936eefbcfa47d7c3",
+        "id": "767a49039dce49cb",
         "type": "tabs",
         "children": [
           {
-            "id": "810e81c0d41d65fc",
+            "id": "1ad9b8149d58fb98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
-                "mode": "source",
-                "source": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -453,12 +453,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "810e81c0d41d65fc",
+  "active": "1ad9b8149d58fb98",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "vault/ttrpgs/ttrpgs.md",
+    "vault/z_templates/session-gm.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/002_20250525.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/index.md",
     "quartz.layout.ts",
     "quartz.layout.ts.txt",
@@ -499,7 +501,6 @@
     "vault/ttrpgs/Player Characters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
-    "ttrpgs/PlayerCharacters/Elvis Parsley.md",
     "z_Assets/Untitled.canvas"
   ]
 }

@@ -51,7 +51,7 @@ await tp.file.rename(filename);
 ### Player Characters
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Race, Class, ac, pasperc As "Pass Perc (WIS)"
-from "ttrpgs"
+from "vault/ttrpgs"
 where contains(Role, "Player") 
 where contains(campaign, "<%tp.file.folder(false)%>")
 ```
@@ -59,7 +59,7 @@ where contains(campaign, "<%tp.file.folder(false)%>")
 ```attendance
 date: <% session_date %>
 title: Session - <% filename %>
-query: "ttrpgs/PlayerCharacters"
+query: "vault/ttrpgs/PlayerCharacters"
 ```
 ## Strong start
 
