@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "001_20250511_log"
@@ -455,12 +455,20 @@
   },
   "active": "1ad9b8149d58fb98",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "vault/ttrpgs/ttrpgs.md",
     "vault/z_templates/session-gm.md",
     "vault/ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/index.md",
     "quartz.layout.ts",
     "quartz.layout.ts.txt",
@@ -474,7 +482,6 @@
     "content/blog/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/IMG_0001.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.md",
@@ -486,21 +493,14 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/dnd/dnd.md",
     "vault/z_Example Notes/z_Example Notes.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Player Characters/ElvisParsley.png.png",
     "z_Assets/Pasted image 20250513145110.jpg",
-    "z_Assets/HEIF Image.png",
-    "vault/z_Assets/Pasted image 20250414083458.png",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Session Notes",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/Dnd/index.md",
     "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
     "Excalidraw",
     "z_Assets",
-    "content/blog/A Disney kind of day.... .md",
-    "vault/ttrpgs/Player Characters/Elvis Parsley.md",
-    "content/dnd/Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/dnd/Curriculum of Chaos/Sessions/Sessions.md",
     "z_Assets/Untitled.canvas"
   ]
 }
