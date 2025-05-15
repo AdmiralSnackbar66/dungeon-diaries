@@ -10,12 +10,11 @@ Species:
   - Human
 Alignment: Neutral
 ---
-
 ![[Borun Erutan.png|215x323]]
-
 ###### Profile
-Type | Stat |
----|---|
-Alignment |`=this.Alignment`|
-Class |`=this.Class`|
-Species | `=this.Species`
+
+| Type      | Stat        |
+| --------- | ----------- |
+| Alignment | Lawful Good |
+| Class     | Wizard      |
+| Species   | Human       |
