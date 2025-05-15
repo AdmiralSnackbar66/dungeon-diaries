@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "001_20250511_log"
@@ -455,6 +455,8 @@
   },
   "active": "1ad9b8149d58fb98",
   "lastOpenFiles": [
+    "vault/ttrpgs/Handouts/Scavenger Hunt Clues.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
@@ -463,7 +465,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "vault/ttrpgs/ttrpgs.md",
@@ -498,7 +499,6 @@
     "content/Dnd/Strixhaven A Curriculum of Chaos/Session Notes",
     "content/Dnd/Strixhaven A Curriculum of Chaos/Non Player Characters",
     "content/Dnd/index.md",
-    "Excalidraw/Drawing 2025-05-13 16.22.38.excalidraw.md",
     "Excalidraw",
     "z_Assets",
     "z_Assets/Untitled.canvas"
