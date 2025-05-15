@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "767a49039dce49cb",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad9b8149d58fb98",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -453,10 +453,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1ad9b8149d58fb98",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "vault/ttrpgs/Handouts/Scavenger Hunt Clues.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.md",
+    "vault/ttrpgs/Handouts/Scavenger Hunt Clues.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
@@ -464,10 +467,8 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "vault/ttrpgs/ttrpgs.md",
     "vault/z_templates/session-gm.md",
     "vault/ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "content/index.md",
@@ -485,7 +486,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/IMG_0001.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.md",
     "vault/ttrpgs/Player Characters/Borun Erutan.md",
     "vault/z_Assets/RosieWuzzfedlim.PNG",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip \"Rosie\" Wuzzfedlims.PNG",
