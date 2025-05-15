@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -455,11 +455,16 @@
   },
   "active": "2a836350259dcae6",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "vault/ttrpgs/ttrpgs.md",
     "vault/ttrpgs/Player Characters/Borun Erutan.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "vault/ttrpgs/ttrpgs.md",
     "vault/ttrpgs/Player Characters/Elvis Parsley.md",
     "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
@@ -486,11 +491,6 @@
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Maevattana-Mantaz.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Hukra-Ilyssa.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Moac-Moryson.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Saerlg-Sarhedra.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Tyranicus-Urvi.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Lionello-Lotan.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Dower-Dulsaer.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Melina-Micheri.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
     "vault/3-Mechanics/CLI/bestiary/construct/img",

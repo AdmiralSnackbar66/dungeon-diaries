@@ -11,10 +11,9 @@ Species:
 Alignment: Neutral
 ---
 ![[Borun Erutan.png|215x323]]
-###### Profile
 
 | Type      | Stat        |
 | --------- | ----------- |
 | Alignment | Lawful Good |
-| Class     | Wizard      |
-| Species   | Human       |
+| Class     | Druid       |
+| Species   | Half-Elf       |
