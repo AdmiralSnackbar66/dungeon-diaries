@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8cfcb09fe4a21b66",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "aba9ab57ba4d9ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk \"the Bulk\" Tusktooth.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -100,8 +100,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -453,24 +452,25 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "aba9ab57ba4d9ee1",
   "lastOpenFiles": [
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk \"the Bulk\" Tusktooth.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern 1.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Snarl.jpg",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
+    "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk Tusktooth.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Talk Tusktooth.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/051-03-027-concentration.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk \"the Bulk\" Tusktooth.md",
     "vault/z_Example Notes/z_Example Notes.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern 1.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/HEIF Image.heic",
     "z_Assets/HEIF Image.heic",
     "z_Assets",
     "Excalidraw/Drawing 2025-05-15 22.23.30.excalidraw.md",
     "Excalidraw",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Snarl.jpg",
     "3-Mechanics/CLI/books",
-    "vault/ttrpgs/ttrpgs.md",
     "3-Mechanics/CLI/adventures",
     "3-Mechanics/CLI",
     "3-Mechanics",
@@ -485,7 +485,6 @@
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "vault/ttrpgs/Player Characters/Elvis Parsley.md",
-    "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
     "vault/ttrpgs/Player Characters/Dalaila Eversnow.md",
     "vault/ttrpgs/Handouts/Itinerary.md",
@@ -496,7 +495,6 @@
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/dragonborn-of-tiamat.webp",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/dragon-chosen.webp",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/priest-acolyte.webp",
-    "vault/3-Mechanics/CLI/bestiary/humanoid/img/knights.webp",
     "vault/3-Mechanics/Dice-Roller-Tables/_Generators/Dice Generators/Angel Generator.md",
     "vault/3-Mechanics/Dice-Roller-Tables/_Generators/Dice Generators/NPC Generator.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
