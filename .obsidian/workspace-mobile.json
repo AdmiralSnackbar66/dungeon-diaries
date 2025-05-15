@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -455,8 +455,12 @@
   },
   "active": "4cf41475f9ec2916",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
+    "vault/ttrpgs/Items/Strixhaven Pennant.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/githyanki-xenomancer.webp",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/dragonborn-of-tiamat.webp",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/dragon-chosen.webp",
@@ -487,10 +491,6 @@
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Brakana-Cador.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Josian-Kalisteroi.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Damesca-Dasan.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Mosmira-Nabril.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Aamarus-Aergase.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Golenta-Grolshar.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Gromek-Haider.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
     "vault/3-Mechanics/CLI/bestiary/construct/img",
