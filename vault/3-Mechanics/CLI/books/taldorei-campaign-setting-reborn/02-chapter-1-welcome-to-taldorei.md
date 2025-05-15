@@ -8,7 +8,7 @@ aliases: ["Chapter 1: Welcome to Tal'Dorei"]
 # Chapter 1: Welcome to Tal'Dorei
 *Source: Tal'Dorei Campaign Setting Reborn, p. 7* 
 
-![Two opposing sides of a ba...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-splash.webp#center "Two opposing sides of a battlefield fiercely clash, a starry night sky in the background. Zan Tal'Dorei, a human woman with long brown hair wearing elvish armor, wields a mighty longsword as she leaps toward a blond man, King Trist Drassig, who wears half-plate armor and wields a bloody greatsword.")
+![Two opposing sides of a ba...](chapter1-splash.webp#center "Two opposing sides of a battlefield fiercely clash, a starry night sky in the background. Zan Tal'Dorei, a human woman with long brown hair wearing elvish armor, wields a mighty longsword as she leaps toward a blond man, King Trist Drassig, who wears half-plate armor and wields a bloody greatsword.")
 
 Tal'Dorei is a land of epic adventure, filled with heroes who do great deeds for love, for justice, and—maybe more often than not—for gold and their own egos. Villains are draped in shadow and draw upon the power of cruel gods—but they are just as motivated by love, their own twisted concepts of justice, and their hunger for gold, power, and glory.
 
@@ -60,7 +60,7 @@ This imperial force rules the "Beynsfal Plateau" in the southernmost reaches of 
 
 ## Calendar, Time, and the Cosmos
 
-![An elven woman adorned in ...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-cosmos.webp#center "An elven woman adorned in a pale gown stands with her back to us, her wavy, brown hair blowing in the wind. She looks up at a starry night sky with a large white crescent moon and a smaller, full red moon.")
+![An elven woman adorned in ...](chapter1-cosmos.webp#center "An elven woman adorned in a pale gown stands with her back to us, her wavy, brown hair blowing in the wind. She looks up at a starry night sky with a large white crescent moon and a smaller, full red moon.")
 
 The world of Exandria is a planet with regular seasons and a wide variety of climes, ranging from frigid ice caps to arid deserts, temperate forests, windswept plains, sweltering jungles, and storm-tossed oceans. It orbits a single sun, is orbited in turn by two moons, and is surrounded by distant stars that twinkle in the evening skies.
 
@@ -96,7 +96,7 @@ You don't need to bother with the Exandrian calendar in your home game. It's per
 
 However, if you want to immerse your players in the fantasy world of Exandria, using this unfamiliar calendar may help you on your quest.
 
-![Exandrian Calendar](3-Mechanics/CLI/tables/exandrian-calendar-tdcsr.md)
+![Exandrian Calendar](exandrian-calendar-tdcsr.md)
 
 ### Catha and Ruidus
 
@@ -178,7 +178,7 @@ The "Prime Deities" imprisoned the "Betrayer Gods" in prison planes after the "F
 
 All of these planes are strongly aligned to one or more cosmic principles of good, evil, law, and chaos, based on the divine powers that reside there. Because of the Divine Gate established after the "Divergence", no divine powers can depart these planes, for the sake of all Creation. The gods' supernatural creations can pass through the Divine Gate, though the more powerful they grow—and thus, the closer they come to divinity—the harder it is for them to pass through. However, mortals and lesser supernatural beings who possess magic to travel between the planes can travel to and from Outer Planes like the Hells, the Abyss, Elysium, and Pandemonium unhindered by the Divine Gate.
 
-![An older, white woman with...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-planes.webp#center "An older, white woman with short grey hair stands in a study, pages flying around her. One hand summons a runic circle. The other she holds before her, opening a magic, red portal where we see a dark tower and four winged creatures flying about it. She is dressed in blue, white and gold embroidered clothing with a purple sash and scrolls hanging from her belt.")
+![An older, white woman with...](chapter1-planes.webp#center "An older, white woman with short grey hair stands in a study, pages flying around her. One hand summons a runic circle. The other she holds before her, opening a magic, red portal where we see a dark tower and four winged creatures flying about it. She is dressed in blue, white and gold embroidered clothing with a purple sash and scrolls hanging from her belt.")
 
 #### Realms Beyond
 
@@ -200,7 +200,7 @@ Massive, infinite spaces such as the Material, Elemental, and Outer Planes are n
 
 ^026
 
-![A view of a valley between...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-creation.webp#center "A view of a valley between two large mountain peaks. Green terraced fields ascend up the mountain on the left and a small hut sits at the top of it. A second terraced field sits at the base of the mountain on the right. A golden dragon flies between the mountains in the distance overhead.")
+![A view of a valley between...](chapter1-creation.webp#center "A view of a valley between two large mountain peaks. Green terraced fields ascend up the mountain on the left and a small hut sits at the top of it. A second terraced field sits at the base of the mountain on the right. A golden dragon flies between the mountains in the distance overhead.")
 
 Where did Tal'Dorei come from? The origin of this land is a time-shrouded question that everyone has pondered in some way, from the most exalted, world-traveling hero to the common farmer who has never traveled three miles beyond their village. Everyone has their own ideas on where Tal'Dorei, and all of the wide world of Exandria, came from. These varied thoughts all have some things in common, since they are all born of jumbled misunderstandings of ancient myths told orally from bard to bard, then passed from father to daughter, and eventually codified into religious re-writings of history that favor the teachings of a given deity.
 
@@ -258,7 +258,7 @@ Culture developed anew, the races ventured beyond to explore and discover their 
 
 ^02b
 
-![Two large pieces of land f...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-arcanum.webp#center "Two large pieces of land float in the sky among the clouds, with each piece of land connected by arcane, purple chains. Underneath each land mass are blue crystals—it's these that cause the land to float. Upon each piece of land is a large colorful city consisting of many towers, parapets, and domes.")
+![Two large pieces of land f...](chapter1-arcanum.webp#center "Two large pieces of land float in the sky among the clouds, with each piece of land connected by arcane, purple chains. Underneath each land mass are blue crystals—it's these that cause the land to float. Upon each piece of land is a large colorful city consisting of many towers, parapets, and domes.")
 
 Ages passed, and society flourished. Great kingdoms sprung up. Castles were built in a day, accelerated by the arcanists' newfound power. Even though magic could be used to complete the most difficult tasks with hitherto unknown speed, magic-users strove always to innovate. As mages practiced and perfected their powers of creation, they soon unlocked the secrets of life itself, giving birth to wondrous, dangerous new forms of life and power.
 
@@ -323,7 +323,7 @@ So beautiful was the forest they settled in that Yenlara's people were the first
 
 As Yenlara's people began to explore beyond the forest, they found vast fields of grass emerging from the ash-darkened ground, with tall, snowcapped mountains visible on the horizon. Overwhelmed by the beauty of the restored world, the syn'alfen called their new land "Gwessar", the Fields of Joy, a name by which "elves" (and those enamored with elven culture) still call the continent of Tal'Dorei to this day.
 
-![The back of a young elven ...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-gwessar.webp#center "The back of a young elven boy wearing a white tunic stands in a bush of pink and purple flowers under a forest grove. He looks out onto a golden plain bathed in sunlight at the base of a mountain range in the horizon.")
+![The back of a young elven ...](chapter1-gwessar.webp#center "The back of a young elven boy wearing a white tunic stands in a bush of pink and purple flowers under a forest grove. He looks out onto a golden plain bathed in sunlight at the base of a mountain range in the horizon.")
 
 The "dwarves" and "elves" are long-lived people, and when they struggled to rebuild their civilizations, there were those among them who still remembered the world that was. Humanity was not so fortunate. Human histories, written by wasteland warlords in fading ink on waterlogged parchment and vellum, did not survive the years. Yet, somehow, humanity endured. Several centuries after the Jaggenstrike "dwarves" began this period of renewal, a clan of "humans" braved the angry Ozmit Sea and sailed to "Gwessar's" western coast from the continent of "Issylra", though whether or not they came from Vasselheim itself is unknown.
 
@@ -339,7 +339,7 @@ As the first human civilization on this part of the world after the "Calamity", 
 
 The "elves" were furious, but the ambassador from "Syngorn" to "Emon", an idealistic grandson of the still-living Yenlara, hoped to resolve this diplomatically. Upon arrival, he was apprehended, tortured, and slain. This final act of treachery drove "Syngorn" to arms, and the continent erupted into a terrible, protracted war between Yenlara's kin and Drassig's bloodline known as the "Scattered War".
 
-![King Warren Drassig, with ...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-drassig.webp#center "King Warren Drassig, with grey hair and beard, wears a golden crown and silver plate armor. He sits atop an ornate, wooden throne. With his arms crossed, he leans on the ruby-inlaid hilt of his long sword, which stands before him, between his legs.")
+![King Warren Drassig, with ...](chapter1-drassig.webp#center "King Warren Drassig, with grey hair and beard, wears a golden crown and silver plate armor. He sits atop an ornate, wooden throne. With his arms crossed, he leans on the ruby-inlaid hilt of his long sword, which stands before him, between his legs.")
 
 #### The Scattered War
 
@@ -413,7 +413,7 @@ The attack not only killed the Sovereign Uriel, but also scattered the "Council 
 
 The "Alabaster Lyceum" need hardly introduce the heroes of this story. One by one, the members of the Conclave fell to the might and cleverness of a band of misfit warriors known as Vox Machina, their might bolstered by a number of the lost "Vestiges of Divergence", artifacts of incalculable power forged amidst the chaos of the "Calamity". After many adventures, these heroes gathered their allies and stormed the capital of "Emon", slaying "Thordak the Cinder King" and freeing its people. Upon discovering the machinations of the real mastermind, Raishan the Diseased Deceiver, with whom Vox Machina had held a tenuous alliance, they gave chase and finally slew this last standing member of the Chroma Conclave, ending their reign over the land and restoring rule once more to the "Council of Tal'Dorei".
 
-![Thordak, an ancient red dr...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-thordak.webp#center "Thordak, an ancient red dragon, sitting atop a molten lava and fire throne constructed on top of the wreckage of the city of Emon. Large fiery balls are erupting from the throne onto the surrounding landscape.")
+![Thordak, an ancient red dr...](chapter1-thordak.webp#center "Thordak, an ancient red dragon, sitting atop a molten lava and fire throne constructed on top of the wreckage of the city of Emon. Large fiery balls are erupting from the throne onto the surrounding landscape.")
 
 ### A Fledgling Republic
 
@@ -443,11 +443,11 @@ Though the lich's defeat confined him to a remote demiplane, there is no way to 
 
 A generation has passed in relative peace. Yet all who have studied history know that each age's conflict sows the seeds of the next. The Republic of Tal'Dorei has proven it can prosper in peacetime, but it has yet to be tested by the pressures of war or a supernatural cataclysm.
 
-After two decades of expensive reconstruction and princely investments in [skyship](3-Mechanics/CLI/items/skyship-tdcsr.md) moorings, the Republic of Tal'Dorei is deeply indebted to arcanists across the land. Chief among them is the "League of Miracles", a consortium of thaumaturgists who have claimed untold fortunes from reconstruction bounties all over the country.
+After two decades of expensive reconstruction and princely investments in [skyship](skyship-tdcsr.md) moorings, the Republic of Tal'Dorei is deeply indebted to arcanists across the land. Chief among them is the "League of Miracles", a consortium of thaumaturgists who have claimed untold fortunes from reconstruction bounties all over the country.
 
 The simple fact is that the cost of rebuilding Tal'Dorei was far more than the council or local leaders could afford to pay. Far be it from the "Alabaster Lyceum" to cast aspersions on so beneficial an organization, but there are fears among the Tal'Dorei people that the league has already begun to collect on what they are owed in forms other than gold, as more and more league mages receive preferential treatment from local margraves and even members of the "Tal'Dorei Council" itself.
 
-Beyond "Emon", the landscape of Tal'Dorei has been forever scarred by the presence of the "Conclave", especially the "Cinder King". His hellfire left marks on the land that will never heal—magical wounds that bleed fire and ooze chaotic magic. Smaller cities beyond the reach of the council have begun to succumb to sinister influences. Demons and devils crawl into the world, summoned by occult powers answering fell voices from beyond the Divine Gate. The "Betrayer Gods" sense weakness within the world. The entropic fury of the Chained Oblivion churns beneath "Gatshadow". The [lost blade of Neminar the Black-Fingered](3-Mechanics/CLI/items/graztchar-the-decadent-end-tdcsr.md) calls from the "Umbra Hills" for a new master. The Cloaked Serpent raises armies south of "Syngorn". Cults of the now-divine Whispered One spread like poison through the veins of Tal'Dorei's cities.
+Beyond "Emon", the landscape of Tal'Dorei has been forever scarred by the presence of the "Conclave", especially the "Cinder King". His hellfire left marks on the land that will never heal—magical wounds that bleed fire and ooze chaotic magic. Smaller cities beyond the reach of the council have begun to succumb to sinister influences. Demons and devils crawl into the world, summoned by occult powers answering fell voices from beyond the Divine Gate. The "Betrayer Gods" sense weakness within the world. The entropic fury of the Chained Oblivion churns beneath "Gatshadow". The [lost blade of Neminar the Black-Fingered](graztchar-the-decadent-end-tdcsr.md) calls from the "Umbra Hills" for a new master. The Cloaked Serpent raises armies south of "Syngorn". Cults of the now-divine Whispered One spread like poison through the veins of Tal'Dorei's cities.
 
 Yet despite these threats, the legendary heroes of Vox Machina have largely set down their blades, guns, and spells and taken up the mantle of leadership. More than twenty years have passed since their greatest adventures, and though the surviving members of Vox Machina are still canny rulers and cunning warriors, the "Tal'Dorei Council" can no longer rely upon their skills as readily as they once did. Rumors of the heroes' permanent retirement swirl, inspiring fear and nostalgic sorrow in many of the people—but adventurers across the land see this as an opportunity to rise to the level of Vox Machina and beyond.
 
@@ -493,7 +493,7 @@ First there was the "Calamity", and the palaces of the gods were devoured by the
 
 #### Mother of Invention
 
-[Percival Fredrickstein von Musel Klossowski de Rolo III](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md)—[Percy](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md), to his friends—wanted to take the secrets of his inventions to his grave, especially the deadly power of his firearms. Unfortunately, because of his now-deceased archenemy Anna Ripley, the secret of gunpowder has begun to spread across Tal'Dorei. Now, isolated groups of tinkerers, both noble and unscrupulous are working to develop new technologies from [Percival's](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) research, and other black powder technologies from "Marquet". Some of these modern marvels will no doubt help the people of Exandria—but others, if placed in the wrong hands, are sure to enable the deaths of thousands.
+[Percival Fredrickstein von Musel Klossowski de Rolo III](percival-de-rolo-tdcsr.md)—[Percy](percival-de-rolo-tdcsr.md), to his friends—wanted to take the secrets of his inventions to his grave, especially the deadly power of his firearms. Unfortunately, because of his now-deceased archenemy Anna Ripley, the secret of gunpowder has begun to spread across Tal'Dorei. Now, isolated groups of tinkerers, both noble and unscrupulous are working to develop new technologies from [Percival's](percival-de-rolo-tdcsr.md) research, and other black powder technologies from "Marquet". Some of these modern marvels will no doubt help the people of Exandria—but others, if placed in the wrong hands, are sure to enable the deaths of thousands.
 
 Renaissance technologies, especially firearms, are not common in Tal'Dorei. If you want to keep your fantasy purely medieval, it's a simple matter to ignore the tinkerers, gunsmiths, and budding industrialists scattered across the continent.
 
@@ -505,4 +505,4 @@ To help you create stories that feel at home in Tal'Dorei, "chapter 3" of this b
 
 While this book gives insight to one version of Exandria, its lore exists to serve you, not the other way around. Your campaign is your own creation—if you delight in adhering to *Critical Role* canon and delving into its lore, then by all means, dig deeper! If you like subverting expectations, revealing that things believed to be true were nothing but myth and rumor all along, tell that story! And, if you love characters and places from *Critical Role*, but want your stories to go to brand-new lands of your own creation, take inspiration from this book and steer your campaign in whatever direction you see fit. Never forget that you are the creator of your own version of Tal'Dorei. No matter who is playing at your table, even if it's Matthew Mercer himself, no one can tell you that your vision of the world is inaccurate—because it's yours now.
 
-![A street view of the idyll...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter1-yourtable.webp#center "A street view of the idyllic, bustling city of Emon, filled with colorful flowers, lines of clothing and cloth canopies connecting the buildings on either side. In the foreground, there are three adventurers conversing with Lady Kima of Vord at a table outside of the Laughing Lamia Inn.")
+![A street view of the idyll...](chapter1-yourtable.webp#center "A street view of the idyllic, bustling city of Emon, filled with colorful flowers, lines of clothing and cloth canopies connecting the buildings on either side. In the foreground, there are three adventurers conversing with Lady Kima of Vord at a table outside of the Laughing Lamia Inn.")

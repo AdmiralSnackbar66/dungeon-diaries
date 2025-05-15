@@ -25,6 +25,6 @@ The region surrounding a legendary topaz dragon's lair is altered by the dragon'
 - **Crystal Profusion.** Natural stone within 6 miles of the lair grows plentiful crystal formations and veins of topaz gemstones, particularly underground.  
 - **Negative Energy.** When a creature finishes a long rest within 6 miles of the lair, the creature must first succeed on a DC 15 Constitution saving throw or be unable to reduce its levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) or regain spent Hit Dice. Creatures resistant or immune to necrotic damage are immune to this regional effect.  
 - **Thriving Wildlife.** Giant squid are attracted to the sea within 6 miles of the lair, migrating and hunting there in large numbers.  
-- **Watery Sight.** Water within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell, requiring no spell components and targeting any body of water in that region.  
+- **Watery Sight.** Water within 6 miles of the lair is a conduit for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](clairvoyance-xphb.md) spell, requiring no spell components and targeting any body of water in that region.  
 
 If the dragon dies, the population of giant squid in the region returns to normal levels over the course of `1d10` days. The existing abundance of crystals and topazes remains, but new ones form at a normal rate.

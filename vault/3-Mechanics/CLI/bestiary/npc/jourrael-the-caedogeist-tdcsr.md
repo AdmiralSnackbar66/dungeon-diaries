@@ -20,7 +20,7 @@ Jourrael is a nightmarish specter and ancient assassin of many names. The Spider
 
 ## Death Forbidden
 
-Jourrael cannot die. A contract between the Lord of the Hells and the Spider Queen forbids death from claiming the assassin, though many have tried—often in increasingly creative ways. At the "Calamity's" end, armies joined together to separate Jourrael's body into disparate parts. The Savalirwood "elves" took their head to Veluthil, while their heart was hidden in the Lotusden Greenwood under a dread [wraithroot tree](3-Mechanics/CLI/bestiary/plant/wraithroot-tree-tdcsr.md).
+Jourrael cannot die. A contract between the Lord of the Hells and the Spider Queen forbids death from claiming the assassin, though many have tried—often in increasingly creative ways. At the "Calamity's" end, armies joined together to separate Jourrael's body into disparate parts. The Savalirwood "elves" took their head to Veluthil, while their heart was hidden in the Lotusden Greenwood under a dread [wraithroot tree](wraithroot-tree-tdcsr.md).
 
 The mysterious fiend Obann falsely believed that after recovering and reviving Jourrael, he could control her indefinitely. Inevitably, Jourrael dealt a killing blow to Obann, sending him to the death she will never meet.
 

@@ -12,31 +12,31 @@ The creatures in this chapter are organized by their challenge rating in the Cre
 
 ## Challenge Ratings
 
-![Challenge Ratings; Creatures by Challenge Rating](3-Mechanics/CLI/tables/challenge-ratings-creatures-by-challenge-rating-ftd.md)
+![Challenge Ratings; Creatures by Challenge Rating](challenge-ratings-creatures-by-challenge-rating-ftd.md)
 
 ## Creature Types
 
 ### Aberrations
 
-[Elder brain dragon](3-Mechanics/CLI/bestiary/aberration/elder-brain-dragon-ftd.md)
+[Elder brain dragon](elder-brain-dragon-ftd.md)
 
-[Eyedrake](3-Mechanics/CLI/bestiary/aberration/eyedrake-ftd.md)
+[Eyedrake](eyedrake-ftd.md)
 
 ### Constructs
 
-[Dragonbone golem](3-Mechanics/CLI/bestiary/construct/dragonbone-golem-ftd.md)
+[Dragonbone golem](dragonbone-golem-ftd.md)
 
-[Metallic peacekeeper](3-Mechanics/CLI/bestiary/construct/metallic-peacekeeper-ftd.md)
+[Metallic peacekeeper](metallic-peacekeeper-ftd.md)
 
-[Metallic warbler](3-Mechanics/CLI/bestiary/construct/metallic-warbler-ftd.md)
+[Metallic warbler](metallic-warbler-ftd.md)
 
 ### Dragons
 
 Amethyst dragons
 
-[Aspect of Bahamut](3-Mechanics/CLI/bestiary/dragon/aspect-of-bahamut-ftd.md)
+[Aspect of Bahamut](aspect-of-bahamut-ftd.md)
 
-[Aspect of Tiamat](3-Mechanics/CLI/bestiary/dragon/aspect-of-tiamat-ftd.md)
+[Aspect of Tiamat](aspect-of-tiamat-ftd.md)
 
 Chromatic greatwyrm
 
@@ -44,7 +44,7 @@ Crystal dragons
 
 Deep dragons
 
-[Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragonnel-ftd.md)
+[Dragonnel](dragonnel-ftd.md)
 
 Dragon turtles
 
@@ -64,62 +64,62 @@ Topaz dragons
 
 ### Elementals
 
-[Animated breath](3-Mechanics/CLI/bestiary/elemental/animated-breath-ftd.md)
+[Animated breath](animated-breath-ftd.md)
 
 ### Humanoids
 
-[Dragon blessed](3-Mechanics/CLI/bestiary/humanoid/dragon-blessed-ftd.md)
+[Dragon blessed](dragon-blessed-ftd.md)
 
-[Dragonborn of Bahamut](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-bahamut-ftd.md)
+[Dragonborn of Bahamut](dragonborn-of-bahamut-ftd.md)
 
-[Dragonborn of Sardior](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-sardior-ftd.md)
+[Dragonborn of Sardior](dragonborn-of-sardior-ftd.md)
 
-[Dragonborn of Tiamat](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-tiamat-ftd.md)
+[Dragonborn of Tiamat](dragonborn-of-tiamat-ftd.md)
 
-[Dragon chosen](3-Mechanics/CLI/bestiary/humanoid/dragon-chosen-ftd.md)
+[Dragon chosen](dragon-chosen-ftd.md)
 
-[Dragon speaker](3-Mechanics/CLI/bestiary/humanoid/dragon-speaker-ftd.md)
+[Dragon speaker](dragon-speaker-ftd.md)
 
 ### Monstrosities
 
-[Dracohydra](3-Mechanics/CLI/bestiary/monstrosity/dracohydra-ftd.md)
+[Dracohydra](dracohydra-ftd.md)
 
-[Draconian dreadnought](3-Mechanics/CLI/bestiary/monstrosity/draconian-dreadnought-ftd.md)
+[Draconian dreadnought](draconian-dreadnought-ftd.md)
 
-[Draconian foot soldier](3-Mechanics/CLI/bestiary/monstrosity/draconian-foot-soldier-ftd.md)
+[Draconian foot soldier](draconian-foot-soldier-ftd.md)
 
-[Draconian infiltrator](3-Mechanics/CLI/bestiary/monstrosity/draconian-infiltrator-ftd.md)
+[Draconian infiltrator](draconian-infiltrator-ftd.md)
 
-[Draconian mage](3-Mechanics/CLI/bestiary/monstrosity/draconian-mage-ftd.md)
+[Draconian mage](draconian-mage-ftd.md)
 
-[Draconian mastermind](3-Mechanics/CLI/bestiary/monstrosity/draconian-mastermind-ftd.md)
+[Draconian mastermind](draconian-mastermind-ftd.md)
 
-[Dragonflesh abomination](3-Mechanics/CLI/bestiary/monstrosity/dragonflesh-abomination-ftd.md)
+[Dragonflesh abomination](dragonflesh-abomination-ftd.md)
 
-[Dragonflesh grafter](3-Mechanics/CLI/bestiary/monstrosity/dragonflesh-grafter-ftd.md)
+[Dragonflesh grafter](dragonflesh-grafter-ftd.md)
 
-[Egg hunter adult](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-adult-ftd.md)
+[Egg hunter adult](egg-hunter-adult-ftd.md)
 
-[Egg hunter hatchling](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-hatchling-ftd.md)
+[Egg hunter hatchling](egg-hunter-hatchling-ftd.md)
 
-[Gem stalker](3-Mechanics/CLI/bestiary/monstrosity/gem-stalker-ftd.md)
+[Gem stalker](gem-stalker-ftd.md)
 
-[Hoard mimic](3-Mechanics/CLI/bestiary/monstrosity/hoard-mimic-ftd.md)
+[Hoard mimic](hoard-mimic-ftd.md)
 
-[Hoard scarab](3-Mechanics/CLI/bestiary/monstrosity/hoard-scarab-ftd.md)
+[Hoard scarab](hoard-scarab-ftd.md)
 
-[Liondrake](3-Mechanics/CLI/bestiary/monstrosity/liondrake-ftd.md)
+[Liondrake](liondrake-ftd.md)
 
-[Swarm of hoard scarabs](3-Mechanics/CLI/bestiary/monstrosity/swarm-of-hoard-scarabs-ftd.md)
+[Swarm of hoard scarabs](swarm-of-hoard-scarabs-ftd.md)
 
 ### Ooze
 
-[Dragonblood ooze](3-Mechanics/CLI/bestiary/ooze/dragonblood-ooze-ftd.md)
+[Dragonblood ooze](dragonblood-ooze-ftd.md)
 
 ### Undead
 
-[Draconic shard](3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md)
+[Draconic shard](draconic-shard-ftd.md)
 
-[Ghost dragon](3-Mechanics/CLI/bestiary/undead/ghost-dragon-ftd.md)
+[Ghost dragon](ghost-dragon-ftd.md)
 
-[Hollow dragon](3-Mechanics/CLI/bestiary/undead/hollow-dragon-ftd.md)
+[Hollow dragon](hollow-dragon-ftd.md)

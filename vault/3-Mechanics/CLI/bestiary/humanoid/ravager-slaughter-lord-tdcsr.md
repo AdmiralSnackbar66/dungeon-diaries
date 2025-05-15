@@ -13,7 +13,7 @@ aliases: ["Ravager Slaughter Lord"]
 # [Ravager Slaughter Lord](3-Mechanics\CLI\bestiary\humanoid/ravager-slaughter-lord-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 250*  
 
-The "Ravagers" are a death cult that stampedes across the "Dividing Plains", spilling blood in the name of the Betrayer God known as the Ruiner. Led by bloodthirsty warlords called [Slaughter Lords](3-Mechanics/CLI/bestiary/humanoid/ravager-slaughter-lord-tdcsr.md), the cult's long-term goals are unknown, but its members are content in the short term to sow the seeds of chaos across the plains.
+The "Ravagers" are a death cult that stampedes across the "Dividing Plains", spilling blood in the name of the Betrayer God known as the Ruiner. Led by bloodthirsty warlords called [Slaughter Lords](ravager-slaughter-lord-tdcsr.md), the cult's long-term goals are unknown, but its members are content in the short term to sow the seeds of chaos across the plains.
 
 Such wanton, chaotic slaughter would certainly please the Ruiner, and the smaller settlements of the plains have learned to fear the sight of "Ravagers" on the horizon. Inside the walls of "Westruun", however, Lord Mayor Lysandra Kallos and her councilors worry that the "Ravagers" show better organization than their bloodthirsty warlords should be capable of instilling in the cult. Who—or what—is commanding the Slaughter Lords from the shadows? And toward what end are these depraved warriors being directed?
 

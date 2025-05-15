@@ -13,7 +13,7 @@ aliases: ["Drynna Hydra"]
 *Source: Tal'Dorei Campaign Setting Reborn p. 66*  
 
 > [!note]
-> This Hyrda lives in "Mooren Lake" and has gained intelligence by living for so long in the [residuum](3-Mechanics/CLI/items/residuum-tdcsr.md)-infused waters. It has an Intelligence score of 12 (+1), can speak Common, and commands a tribe of [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md).
+> This Hyrda lives in "Mooren Lake" and has gained intelligence by living for so long in the [residuum](residuum-tdcsr.md)-infused waters. It has an Intelligence score of 12 (+1), can speak Common, and commands a tribe of [lizardfolk](scout-xmm.md).
 
 > [!note]
 > See "Unfriendly Waters", a mid-level adventure hook, for more information.

@@ -50,5 +50,5 @@ aliases: ["Credits"]
 ![](3-Mechanics/CLI/adventures/light-of-xaryxis/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Prince Xelet...](3-Mechanics/CLI/adventures/light-of-xaryxis/img/credits1.webp#gallery "On the Cover: Prince Xeleth, who is determined to become the next leader of the Xaryxian Empire, poses with his solar dragon in Ekaterina Burmak's stunning cover illustration.")
+> ![On the Cover: Prince Xelet...](credits1.webp#gallery "On the Cover: Prince Xeleth, who is determined to become the next leader of the Xaryxian Empire, poses with his solar dragon in Ekaterina Burmak's stunning cover illustration.")
 > ![On the Alt-Cover: Princess...](3-Mechanics/CLI/adventures/light-of-xaryxis/img/credits2.webp#gallery "On the Alt-Cover: Princess Xedalli, illustrated beautifully by Hydro74, aims to keep her evil brother from inheriting their father's throne. The symbol of the Xaryxian Empire graces the back cover.")

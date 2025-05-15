@@ -24,7 +24,7 @@ The region surrounding a legendary crystal dragon's lair is altered by the drago
 
 - **Clear Skies.** The skies above a crystal dragon's lair remain clear and free of precipitation unless magically altered. Winds blow lightly, posing little threat to those approaching the lair, and visibility is the best possible for the time of day.  
 - **Crystal Profusion.** Plentiful quartz crystals form in natural stone within 6 miles of the lair, particularly in places where natural light can shine on the crystals.  
-- **Icy Sight.** Ice and quartz within 6 miles of the lair become conduits for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell, requiring no spell components and targeting any ice or quartz crystals in that region.  
+- **Icy Sight.** Ice and quartz within 6 miles of the lair become conduits for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](clairvoyance-xphb.md) spell, requiring no spell components and targeting any ice or quartz crystals in that region.  
 - **Positive Energy.** Any creature that finishes a long rest within 6 miles of the lair regains two additional spent Hit Dice.  
 - **Thriving Wildlife.** Animal populations flourish within 6 miles of the lair. Ability checks made to forage for food by hunting, fishing, or trapping in that area are made with advantage.  
 

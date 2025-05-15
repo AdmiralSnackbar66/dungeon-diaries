@@ -13,13 +13,13 @@ aliases: ["Cyclops Stormcaller"]
 # [Cyclops Stormcaller](3-Mechanics\CLI\bestiary\giant/cyclops-stormcaller-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 235*  
 
-When [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) are born beneath a raging storm, they sometimes grow up different—smaller than the rest, sickly and weak. Most of these stormborn [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) are relentlessly bullied and beaten for their tiny stature, and many die before adulthood. Those who survive do so because of the magic the Stormlord has bestowed upon them—intentionally or otherwise. As [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) are generally unfamiliar with magic, the power of a stormcaller awes and terrifies them, and many see stormcallers as nothing short of the manifestation of a god.
+When [cyclopes](cyclops-sentry-xmm.md) are born beneath a raging storm, they sometimes grow up different—smaller than the rest, sickly and weak. Most of these stormborn [cyclopes](cyclops-sentry-xmm.md) are relentlessly bullied and beaten for their tiny stature, and many die before adulthood. Those who survive do so because of the magic the Stormlord has bestowed upon them—intentionally or otherwise. As [cyclopes](cyclops-sentry-xmm.md) are generally unfamiliar with magic, the power of a stormcaller awes and terrifies them, and many see stormcallers as nothing short of the manifestation of a god.
 
 ## Storm Worship
 
-Their fellow [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) may assume that the might of a stormcaller is akin to godliness, but many stormcallers hunger for greater power. A cabal of stormcallers regularly gathers in the "Daggerbay Mountains" at an ancient elven temple called the Skyneedle (in Elvish, ira'fallai; in Giant, "Tall Zappo-Zappo"). There, they conduct strange rituals to commune with an entity they call the Eye of the Storm—and with every ritual, their power grows.
+Their fellow [cyclopes](cyclops-sentry-xmm.md) may assume that the might of a stormcaller is akin to godliness, but many stormcallers hunger for greater power. A cabal of stormcallers regularly gathers in the "Daggerbay Mountains" at an ancient elven temple called the Skyneedle (in Elvish, ira'fallai; in Giant, "Tall Zappo-Zappo"). There, they conduct strange rituals to commune with an entity they call the Eye of the Storm—and with every ritual, their power grows.
 
-However, the Eye of the Storm is no avatar of the Stormlord, but a vengeful [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) named Eyvindr, who's posing as a demigod and intent on raising an army to exact retribution on the "Council of Seven Scepters". He'll have to risk revealing himself to the stormcallers eventually—but not until he believes that his control over his cyclops devotees is absolute.
+However, the Eye of the Storm is no avatar of the Stormlord, but a vengeful [storm giant](storm-giant-xmm.md) named Eyvindr, who's posing as a demigod and intent on raising an army to exact retribution on the "Council of Seven Scepters". He'll have to risk revealing himself to the stormcallers eventually—but not until he believes that his control over his cyclops devotees is absolute.
 
 ```statblock
 "name": "Cyclops Stormcaller (TDCSR)"

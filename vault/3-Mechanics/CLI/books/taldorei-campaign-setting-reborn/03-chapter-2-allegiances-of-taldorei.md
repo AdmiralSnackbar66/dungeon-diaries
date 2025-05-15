@@ -8,7 +8,7 @@ aliases: ["Chapter 2: Allegiances of Tal'Dorei"]
 # Chapter 2: Allegiances of Tal'Dorei
 *Source: Tal'Dorei Campaign Setting Reborn, p. 27* 
 
-![Two goddesses, the Wildmot...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter2-wildmotherandlawbearer.webp#center "Two goddesses, the Wildmother and the Lawbearer, stand large over a beautiful scene - a pastoral landscape on the left, a gleaming marble city on the right. The Wildmother is a black woman with long, vibrant red hair, a flower crown upon her head and a sleeveless white gown growing out of the nature around her. The Lawbearer is a white woman in dark blue robes and a breastplate of silver and gold. Their hands are lovingly intertwined.")
+![Two goddesses, the Wildmot...](chapter2-wildmotherandlawbearer.webp#center "Two goddesses, the Wildmother and the Lawbearer, stand large over a beautiful scene - a pastoral landscape on the left, a gleaming marble city on the right. The Wildmother is a black woman with long, vibrant red hair, a flower crown upon her head and a sleeveless white gown growing out of the nature around her. The Lawbearer is a white woman in dark blue robes and a breastplate of silver and gold. Their hands are lovingly intertwined.")
 
 The lands of Tal'Dorei are governed not just by their history, but by factions and faiths striving to achieve myriad goals, fighting for conflicting ideals, and vying for the power to come out on top. The gods of Exandria may be barred from walking upon the land in material form, but they can still put their thumbs on the scales of history through their mortal followers. Such followers include clerics with the power to cast mighty spells, paladins who wield blades alight with idealistic verve, and untold thousands of common folk whose voices can affect the decisions of even the most powerful leaders of the land.
 
@@ -32,13 +32,13 @@ Nevertheless, almost all deities can have clerics who gain the power of any doma
 
 The Prime Deities are the leaders and luminary creators that battled the Primordial Titans and instigated the "Founding", forging the mortal races of Exandria. They hold sway over powers that represent a spectrum of sunlight, truth, moonlight, benevolent concealment, protection, love, death, and all other facets of freedom and life in the world. While these gods may disagree and squabble, they are united in an alliance dedicated to ensuring the survival of their creations.
 
-![Prime Deities](3-Mechanics/CLI/tables/prime-deities-tdcsr.md)
+![Prime Deities](prime-deities-tdcsr.md)
 
 ### Betrayer Gods
 
 The "Betrayer Gods" are the deities who strayed from the ideals of the "Founding" and embraced the destructive chaos of the Primordials. The "Betrayer Gods" rarely work together, for they see one another as threats to their own goals. This very weakness allowed the "Prime Deities" to defeat and banish them, ending the "Calamity".
 
-![Betrayer Gods](3-Mechanics/CLI/tables/betrayer-gods-tdcsr.md)
+![Betrayer Gods](betrayer-gods-tdcsr.md)
 
 #### Betrayer Curses
 
@@ -47,15 +47,15 @@ The malign powers of some "Betrayer Gods" linger in Exandria, both as myth and r
 > [!note]
 > This book adds the following curses:
 
-[Curse of Strife](3-Mechanics/CLI/rewards/curse-of-strife-tdcsr.md)
+[Curse of Strife](curse-of-strife-tdcsr.md)
 
 > [!embed-reward]- Curse of Strife
-> ![Curse of Strife](3-Mechanics/CLI/rewards/curse-of-strife-tdcsr.md)
+> ![Curse of Strife](curse-of-strife-tdcsr.md)
 
-[Curse of Ruin](3-Mechanics/CLI/rewards/curse-of-ruin-tdcsr.md)
+[Curse of Ruin](curse-of-ruin-tdcsr.md)
 
 > [!embed-reward]- Curse of Ruin
-> ![Curse of Ruin](3-Mechanics/CLI/rewards/curse-of-ruin-tdcsr.md)
+> ![Curse of Ruin](curse-of-ruin-tdcsr.md)
 
 ### Lesser Idols
 
@@ -63,7 +63,7 @@ Though the gods still make their wills known upon the world by granting power to
 
 Dozens of these powers are worshiped in relative secret across Exandria. Some are supernatural beings like archfey or archfiends that have taken up near-permanent residence on the Material Plane. Others are unknown fragments of the power of primordial Creation, given form. Most are mortal champions that have gained near-divine power through magic, the blessings of the gods, or through mythic effort and training. In all of these cases, the worship of mortals elevates these beings to something greater than they were before, imbuing them with fragments of divine power—and allowing them to grant scraps of that power back to the mortals in whom they take an interest.
 
-![Lesser Idols](3-Mechanics/CLI/tables/lesser-idols-tdcsr.md)
+![Lesser Idols](lesser-idols-tdcsr.md)
 
 > [!note] Other Secluded Champions
 > 
@@ -71,22 +71,22 @@ Dozens of these powers are worshiped in relative secret across Exandria. Some ar
 > 
 > All have their own stories, but no matter their tales, whether they are honored or despised by their kinsfolk, they are all mythic iconoclasts. Other secluded champions of Tal'Dorei that you may wish to develop into idols of your own include:
 > 
-> - Flavia, Queen of Unending Storms ([cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md))  
-> - Suthine, Eternal Princess of Vulkanon ([fire giant](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md))  
-> - Valdemar, Draugr-Jarl of Farborg ([frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md))  
-> - Ghaladron, Traitor to the Iron Crown ([hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md))  
-> - Tevrosk, Whose Axe Was Wreathed in Flowers ([orc](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md))  
-> - The First Favored Champion ([stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md))  
-> - Typhoe, the Dreaming Shark ([storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md))  
+> - Flavia, Queen of Unending Storms ([cloud giant](cloud-giant-xmm.md))  
+> - Suthine, Eternal Princess of Vulkanon ([fire giant](fire-giant-xmm.md))  
+> - Valdemar, Draugr-Jarl of Farborg ([frost giant](frost-giant-xmm.md))  
+> - Ghaladron, Traitor to the Iron Crown ([hobgoblin](hobgoblin-warrior-xmm.md))  
+> - Tevrosk, Whose Axe Was Wreathed in Flowers ([orc](tough-xmm.md))  
+> - The First Favored Champion ([stone giant](stone-giant-xmm.md))  
+> - Typhoe, the Dreaming Shark ([storm giant](storm-giant-xmm.md))  
 ^other-secluded-champions
 
-![An arch covered in emerald...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/traveler.webp#center "An arch covered in emerald green vines with purple and orange flowers. Through the arch is a winding dirt path leading through a valley into a sunrise on the horizon.")
+![An arch covered in emerald...](traveler.webp#center "An arch covered in emerald green vines with purple and orange flowers. Through the arch is a winding dirt path leading through a valley into a sunrise on the horizon.")
 
 ## Factions and Societies
 
 While the dominant cultures of the continent have molded structure and law from the rough clay left beyond the "Divergence", these very cultures are comprised of a number of smaller factions that together create the whole. Whether they be a union of opportunists, ever-vigilant to reap the benefits of an exploitable populace, or bands of like-minded politicians, striving to maintain control in a land beset by chaos and danger, each faction seeks to drive and manipulate the social and political direction of Tal'Dorei. The alliances and tensions that can arise between the following societies can guide your adventurers' destiny across the spectrum of heroism and villainy.
 
-![A castle is in the midst o...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter2-rebuildingemon.webp#center "A castle is in the midst of reconstruction by a spellwright and her adranach - a purple, manticore-like purple beast of pure magical energy. The adranach flies upwards, carrying a large stone brick in its talons. In the background, directing from the ground is the spellwright, their magic staff held aloft to control the adranach.")
+![A castle is in the midst o...](chapter2-rebuildingemon.webp#center "A castle is in the midst of reconstruction by a spellwright and her adranach - a purple, manticore-like purple beast of pure magical energy. The adranach flies upwards, carrying a large stone brick in its talons. In the background, directing from the ground is the spellwright, their magic staff held aloft to control the adranach.")
 
 ### Tal'Dorei Council
 
@@ -100,7 +100,7 @@ In addition to the historical Six Masters whose positions have existed on the "T
 
 Though "Kraghammer" and "Syngorn" remain sovereign city-states, the invasion of the "Chroma Conclave" convinced lawmakers that even tighter alliances between the peoples of Tal'Dorei were necessary. One ambassador each from both "Kraghammer" and "Syngorn" now also holds a seat with voting power on the council. Each city-state has likewise sent a delegation to "Emon" to vouch for their interests.
 
-![The symbol of the Tal'Dore...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-taldoreicouncil.webp#center "The symbol of the Tal'Dorei Council which is outlined, first in gold, then sapphire blue. Inside is a field of emerald green with a golden phoenix atop a silver center. The phoenix hovers over ruby red and yellow flames. Eight five-pointed silver stars surround the phoenix.")
+![The symbol of the Tal'Dore...](faction-taldoreicouncil.webp#center "The symbol of the Tal'Dorei Council which is outlined, first in gold, then sapphire blue. Inside is a field of emerald green with a golden phoenix atop a silver center. The phoenix hovers over ruby red and yellow flames. Eight five-pointed silver stars surround the phoenix.")
 
 #### Goals
 
@@ -150,7 +150,7 @@ When the eldest daughter of the Last Sovereign campaigned for the Master of Info
 
 "Allura Vysoren" has held the position of Master of Arcana since before the "Chroma Conclave's" attack, and is held in the esteem of Tal'Dorei's people—mages and common folk alike. As a member of the "Arcana Pansophical", she is also increasingly worried as more and more of Tal'Dorei's politicians fall in debt to the "League of Miracles". After decades of investigating supernatural abnormalities herself, age has finally forced her to limit her adventuresome excursions. She now is one of the council's foremost employers of adventurers.
 
-![Allura Vysoren is an older...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter2-alluravysoren.webp#center "Allura Vysoren is an older white woman with long, greying hair worn in a braid, a golden circlet upon her head. She is draped in indigo robes with golden flower embroidery on the hem. In one hand she holds a long scroll. The other hand manipulates a purple mage hand, which holds a book as an enchanted quill writes within it.")
+![Allura Vysoren is an older...](chapter2-alluravysoren.webp#center "Allura Vysoren is an older white woman with long, greying hair worn in a braid, a golden circlet upon her head. She is draped in indigo robes with golden flower embroidery on the hem. In one hand she holds a long scroll. The other hand manipulates a purple mage hand, which holds a book as an enchanted quill writes within it.")
 
 ##### Arbiter Brom Goldhand
 
@@ -168,13 +168,13 @@ As a goliath of the "Rivermaw nomads", no one expected Edelbern to have an inter
 
 *Half-elf Master of Commerce*
 
-As a member of Vox Machina and hero of the realm, [Vex'ahlia](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) could help Tal'Dorei in any number of ways. She already held a ceremonial title in "Whitestone" as "Grand Mistress of the Grey Hunt". Yet when she and her husband pushed for "Whitestone" to be formally recognized as a constituent city of the Republic of Tal'Dorei, all who knew her name (and her legendary financial savvy) clamored for her to be elected to the council as Coinmistress. She took to the duty with aplomb, and fights hard to ensure that "Emon" never gets the bad end of a deal when gold is involved.
+As a member of Vox Machina and hero of the realm, [Vex'ahlia](vexahlia-tdcsr.md) could help Tal'Dorei in any number of ways. She already held a ceremonial title in "Whitestone" as "Grand Mistress of the Grey Hunt". Yet when she and her husband pushed for "Whitestone" to be formally recognized as a constituent city of the Republic of Tal'Dorei, all who knew her name (and her legendary financial savvy) clamored for her to be elected to the council as Coinmistress. She took to the duty with aplomb, and fights hard to ensure that "Emon" never gets the bad end of a deal when gold is involved.
 
 ##### Ambassador Syldor Vessa
 
 *Elf ambassador from "Syngorn"*
 
-[Vex'ahlia's](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) elven father has served as his city's ambassador to "Emon" for well over a century, and requested to be appointed a seated ambassador as soon as the office was created. Though he is otherwise a staunch traditionalist, Syldor was inspired by his brave children to move past his old racial prejudices and drive his homeland to be less bigoted and xenophobic—learning from his own mistakes as a father to two half-elven children. His relationship with his elder daughter is still strained, and it is a newsworthy occasion when they vote in accord.
+[Vex'ahlia's](vexahlia-tdcsr.md) elven father has served as his city's ambassador to "Emon" for well over a century, and requested to be appointed a seated ambassador as soon as the office was created. Though he is otherwise a staunch traditionalist, Syldor was inspired by his brave children to move past his old racial prejudices and drive his homeland to be less bigoted and xenophobic—learning from his own mistakes as a father to two half-elven children. His relationship with his elder daughter is still strained, and it is a newsworthy occasion when they vote in accord.
 
 ##### Ambassador Deirdrik Greyspine
 
@@ -186,7 +186,7 @@ The youngest son of the ruling House Greyspine of "Kraghammer", Deirdrik has lit
 
 *Half-elf ambassador from "Zephrah"*
 
-A legendary archdruid and member of Vox Machina, [Keyleth](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md) is both leader of the Air Ashari and ambassador for all Tal'Dorei's "Ashari" peoples. She despises politics, and is focused entirely on improving the wellbeing of as many people as possible—as well as involving "the Ashari" on the national stage. She spends most of her time in "Zephrah", with her people—including her father, Korrin, and her newly returned mother, Vilya—but she can and will arrive in "Emon" at the drop of a hat, if [Vex](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) asks it of her.
+A legendary archdruid and member of Vox Machina, [Keyleth](keyleth-voice-of-the-tempest-tdcsr.md) is both leader of the Air Ashari and ambassador for all Tal'Dorei's "Ashari" peoples. She despises politics, and is focused entirely on improving the wellbeing of as many people as possible—as well as involving "the Ashari" on the national stage. She spends most of her time in "Zephrah", with her people—including her father, Korrin, and her newly returned mother, Vilya—but she can and will arrive in "Emon" at the drop of a hat, if [Vex](vexahlia-tdcsr.md) asks it of her.
 
 ##### Delegate Kel'jaia Uloeh
 
@@ -198,7 +198,7 @@ Kel'jaia is a confident gnome with incredible strength and resilience—both phy
 
 All of Tal'Dorei's greatest mages fought at the "Battle of the Umbra Hills". They saw the incursion of demons and devils firsthand, and were rightly terrified that the spawn of the "Betrayer Gods" could ever return to the world. It was clear that the "Divergence" had not wholly prevented supernatural evil from infringing upon the world, and that the mages of Exandria must prevent future "surprises" of this nature. The mistakes of the "Age of Arcanum" must never be repeated. In light of this, "Yurek Windkeeper", high enchanter of "Syngorn" and a well-respected arcanist, reached out to the realm's most trusted and capable mages, and together they formed a private society called the "Arcana Pansophical".
 
-![A golden rhombus with a bl...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-arcanapansophical.webp#center "A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol.")
+![A golden rhombus with a bl...](faction-arcanapansophical.webp#center "A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol.")
 
 #### Goals
 
@@ -298,7 +298,7 @@ Though the Ashari began as a single group of elementalists, their individual ord
 
 The people of Pyrah value reactivity and coolness under pressure, for panic is death during an eruption. The Ashari of Vesrah have a close relationship with the marine life that surrounds their rift, and their actions always prioritize the health of Exandria's waters. "Zephrah's" culture values the freedom of the open sky, and balances their sense of duty with a free-spirited sense of play. Finally, the society of "Terrah" is rooted in planning for the future, and fixing what is broken with patience and humility.
 
-![A holy symbol of four inte...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-ashari.webp#center "A holy symbol of four intersecting triangles stacked on each other to form an hourglass shape. The top triangles are both upside-down, with the top most green and the second light-blue. The bottommost triangle is dark blue, with a red one on top of that.")
+![A holy symbol of four inte...](faction-ashari.webp#center "A holy symbol of four intersecting triangles stacked on each other to form an hourglass shape. The top triangles are both upside-down, with the top most green and the second light-blue. The bottommost triangle is dark blue, with a red one on top of that.")
 
 #### Goals
 
@@ -312,7 +312,7 @@ Upon returning, they ascend to the head of their order, while the elder retires.
 
 #### Relationships
 
-"The Ashari" maintain peaceful, if sometimes strained, relationships between the orders, though inner conflict occasionally arises within them. Beyond this, much of life within "the Ashari" is hidden from outsiders' prying eyes. In recent years, however, [Keyleth](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md) of the "Zephrah" has taken steps to unite "the Ashari" with the rest of the people of Tal'Dorei. She has gone so far as to become an ambassador for "the Ashari" people on the "Tal'Dorei Council". Part of this work has been expanding the crisis orbs system, which "the Ashari" used to contact their distant kin in times of peril, to connect cities across Tal'Dorei in the event of another crisis on the level of the "Chroma Conclave".
+"The Ashari" maintain peaceful, if sometimes strained, relationships between the orders, though inner conflict occasionally arises within them. Beyond this, much of life within "the Ashari" is hidden from outsiders' prying eyes. In recent years, however, [Keyleth](keyleth-voice-of-the-tempest-tdcsr.md) of the "Zephrah" has taken steps to unite "the Ashari" with the rest of the people of Tal'Dorei. She has gone so far as to become an ambassador for "the Ashari" people on the "Tal'Dorei Council". Part of this work has been expanding the crisis orbs system, which "the Ashari" used to contact their distant kin in times of peril, to connect cities across Tal'Dorei in the event of another crisis on the level of the "Chroma Conclave".
 
 "The Ashari" of "Terrah" nurture a seed of disrespect and mistrust for "Kraghammer", whose miners constantly disregard their warnings against reckless mining. This arrogance caused countless deaths in the most recent eruption of the "Terrah" Rift—and led to the collapse of an entire mountain.
 
@@ -332,19 +332,19 @@ Elderly leader of the Earth Ashari, Pa'tice still shows vigor and strength to re
 
 *Half-elf elder of "Zephrah"*
 
-His wife Vilya was lost while she undertook the Aramente, and when the previous Voice of the Tempest died of illness, Korrin was called upon to act as Voice until his daughter [Keyleth](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md) came of age and completed her Aramente. Korrin was shocked when Vilya suddenly returned, and now spends his days in disbelieving bliss, reunited with his long-lost wife. He is gentle with those who show honor, and merciless to those who threaten his people.
+His wife Vilya was lost while she undertook the Aramente, and when the previous Voice of the Tempest died of illness, Korrin was called upon to act as Voice until his daughter [Keyleth](keyleth-voice-of-the-tempest-tdcsr.md) came of age and completed her Aramente. Korrin was shocked when Vilya suddenly returned, and now spends his days in disbelieving bliss, reunited with his long-lost wife. He is gentle with those who show honor, and merciless to those who threaten his people.
 
 ##### Vilya, Who Escaped Death
 
 *Half-elf elder of "Zephrah"*
 
-Vilya disappeared on her Aramente nearly thirty years ago, and was presumed dead. Her daughter, [Keyleth](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md), took up her own Aramente ten years after Vilya left, and discovered from the Water Ashari of Vesrah that Vilya was killed by a [kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md), and only her leg was able to be recovered. Less than a year ago, Vilya suddenly strode out of a tree in "Zephrah", her leg replaced with a druidic prosthetic of her own creation, shocking all—though none were more overwhelmed with emotion than her daughter and husband. Though Vilya never earned the title of Voice of the Tempest, she now aids her daughter in leading her people without the faintest trace of jealousy.
+Vilya disappeared on her Aramente nearly thirty years ago, and was presumed dead. Her daughter, [Keyleth](keyleth-voice-of-the-tempest-tdcsr.md), took up her own Aramente ten years after Vilya left, and discovered from the Water Ashari of Vesrah that Vilya was killed by a [kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md), and only her leg was able to be recovered. Less than a year ago, Vilya suddenly strode out of a tree in "Zephrah", her leg replaced with a druidic prosthetic of her own creation, shocking all—though none were more overwhelmed with emotion than her daughter and husband. Though Vilya never earned the title of Voice of the Tempest, she now aids her daughter in leading her people without the faintest trace of jealousy.
 
 ##### Keyleth, Voice of the Tempest
 
 *Half-elf leader of "Zephrah"*
 
-Hero of Tal'Dorei and member of Vox Machina, [Keyleth](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md) completed her Aramente and took leadership among her people following the destruction of the "Chroma Conclave". She seems to have not aged a day since Vox Machina's victory over The Whispered One. Since her beloved's death, she has kept busy to fill the void in her heart. From expanding the crisis orb network across the realm and building beautiful windmills in the "Summit Peaks" with [Percy's](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) aid to training Air Ashari heroes at home, she has never allowed herself a free moment. She has rarely left "Zephrah" in the months since her mother's emotional return.
+Hero of Tal'Dorei and member of Vox Machina, [Keyleth](keyleth-voice-of-the-tempest-tdcsr.md) completed her Aramente and took leadership among her people following the destruction of the "Chroma Conclave". She seems to have not aged a day since Vox Machina's victory over The Whispered One. Since her beloved's death, she has kept busy to fill the void in her heart. From expanding the crisis orb network across the realm and building beautiful windmills in the "Summit Peaks" with [Percy's](percival-de-rolo-tdcsr.md) aid to training Air Ashari heroes at home, she has never allowed herself a free moment. She has rarely left "Zephrah" in the months since her mother's emotional return.
 
 ### Brawler's League
 
@@ -356,9 +356,9 @@ Those who have become invested members of the league's events are anonymously de
 
 #### Goals
 
-The "Brawler's League" is always in search of hidden and well-guarded locations around Tal'Dorei (and sometimes other realms) to establish their semi-annual event. A combatant or team is required to have a known and cleared sponsor or manager to enter the event. There are two tiers of bouts; one tier has teams of six battling via single elimination until a victor is declared. The other features single combatants fighting one-on-one, single-elimination, until a victor is declared. Killing your opponents isn't encouraged, but isn't explicitly discouraged, either. Bets are placed in person at the event, or remotely (via arcane messages and [sending stones](3-Mechanics/CLI/items/sending-stones-xdmg.md)) from all around Exandria.
+The "Brawler's League" is always in search of hidden and well-guarded locations around Tal'Dorei (and sometimes other realms) to establish their semi-annual event. A combatant or team is required to have a known and cleared sponsor or manager to enter the event. There are two tiers of bouts; one tier has teams of six battling via single elimination until a victor is declared. The other features single combatants fighting one-on-one, single-elimination, until a victor is declared. Killing your opponents isn't encouraged, but isn't explicitly discouraged, either. Bets are placed in person at the event, or remotely (via arcane messages and [sending stones](sending-stones-xdmg.md)) from all around Exandria.
 
-![A black circle outlined in...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-brawlers.webp#center "A black circle outlined in silver that appears like a shield, embossed in silver.")
+![A black circle outlined in...](faction-brawlers.webp#center "A black circle outlined in silver that appears like a shield, embossed in silver.")
 
 #### Relationships
 
@@ -390,13 +390,13 @@ Generations ago, a team of intrepid explorers and fortune-seekers sailed from Po
 
 The sovereign city-state of "Whitestone" enjoyed peace for many generations, secluded from the rest of Tal'Dorei and "Wildemount". This serenity was destroyed when Lord Sylas and Lady Delilah Briarwood arrived in "Whitestone" and murdered most of the de Rolo family. Lady Delilah, a necromancer of The Whispered One and a disgraced member of the Cerberus Assembly in "Wildemount", and her husband, a power-hungry [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md), transformed the quiet city-state into a realm of death. They attempted to take control of all of Tal'Dorei by puppeteering the Last Sovereign, Uriel Tal'Dorei II, but were thwarted by Vox Machina.
 
-Thirty years after "Whitestone's" fall, the "Briarwoods" and their sepulchral master are defeated, and "Whitestone" has returned to the blessed peace of its past. Nevertheless, much has changed. The surviving de Rolo siblings, [Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) and Cassandra, reclaimed the city with the aid of Vox Machina. With the tyrants dethroned, [Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) established a council titled the Chamber of "Whitestone" to rule in his frequent absence, and the city now sends a delegation to the "Tal'Dorei Council" to help safeguard the republic against evil.
+Thirty years after "Whitestone's" fall, the "Briarwoods" and their sepulchral master are defeated, and "Whitestone" has returned to the blessed peace of its past. Nevertheless, much has changed. The surviving de Rolo siblings, [Percival](percival-de-rolo-tdcsr.md) and Cassandra, reclaimed the city with the aid of Vox Machina. With the tyrants dethroned, [Percival](percival-de-rolo-tdcsr.md) established a council titled the Chamber of "Whitestone" to rule in his frequent absence, and the city now sends a delegation to the "Tal'Dorei Council" to help safeguard the republic against evil.
 
-![The Whitestone heraldry ou...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-whitestone.webp#center "The Whitestone heraldry outlined, first in gold, then blue. In the center of the interior is a large golden tree, a solid canopy of green above it and a light purple below, composing the ground. Under it are six eight-pointed stars. Above the tree is a yellow sun with eight orange rays emanating from it.")
+![The Whitestone heraldry ou...](faction-whitestone.webp#center "The Whitestone heraldry outlined, first in gold, then blue. In the center of the interior is a large golden tree, a solid canopy of green above it and a light purple below, composing the ground. Under it are six eight-pointed stars. Above the tree is a yellow sun with eight orange rays emanating from it.")
 
 #### Goals
 
-Under the watch of Lady Cassandra de Rolo, the chamber handles and surveys all aspects of political life in "Whitestone". Its members are appointed by the head of the chamber, who is likely to be a scion of the de Rolo family for generations to come. The head can also add or remove members from the council. This system is new and untested by a ruler less noble than [Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) or Cassandra. In many ways, this system of government is another one of [Percy's](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) tinkering projects.
+Under the watch of Lady Cassandra de Rolo, the chamber handles and surveys all aspects of political life in "Whitestone". Its members are appointed by the head of the chamber, who is likely to be a scion of the de Rolo family for generations to come. The head can also add or remove members from the council. This system is new and untested by a ruler less noble than [Percival](percival-de-rolo-tdcsr.md) or Cassandra. In many ways, this system of government is another one of [Percy's](percival-de-rolo-tdcsr.md) tinkering projects.
 
 Members of the Chamber are granted distinct areas of responsibility to the realm.
 
@@ -416,7 +416,7 @@ Members of the Chamber are granted distinct areas of responsibility to the realm
 
 #### Relationships
 
-Despite its benefits, "Whitestone's" previous solitary existence left it without allies in its time of need. The Chamber of "Whitestone" has sent a delegation to the "Tal'Dorei Council" for the betterment of both. These days, trade caravans are a common sight along the "Silvercut Roadway", transporting goods from "Whitestone" to "Westruun", "Kymal", and ultimately "Emon". The most expensive goods travel via [skyships](3-Mechanics/CLI/items/skyship-tdcsr.md), which land at "Whitestone's" brand-new skyport.
+Despite its benefits, "Whitestone's" previous solitary existence left it without allies in its time of need. The Chamber of "Whitestone" has sent a delegation to the "Tal'Dorei Council" for the betterment of both. These days, trade caravans are a common sight along the "Silvercut Roadway", transporting goods from "Whitestone" to "Westruun", "Kymal", and ultimately "Emon". The most expensive goods travel via [skyships](skyship-tdcsr.md), which land at "Whitestone's" brand-new skyport.
 
 #### Figures of Interest
 
@@ -426,25 +426,25 @@ These figures are major members of the "Chamber of Whitestone" that you can use 
 
 *Human head of the "Chamber of Whitestone"*
 
-Cassandra is [Percival's](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) younger sister, thought dead until he discovered her in the thrall of the "Briarwoods". She now manages "Whitestone's" most pressing matters, with daily briefings from other members of the chamber. She is beloved throughout the city for her resilience and her decisive leadership.
+Cassandra is [Percival's](percival-de-rolo-tdcsr.md) younger sister, thought dead until he discovered her in the thrall of the "Briarwoods". She now manages "Whitestone's" most pressing matters, with daily briefings from other members of the chamber. She is beloved throughout the city for her resilience and her decisive leadership.
 
 ##### Lord Percival Fredrickstein von Musel Klossowski de Rolo III, Architect of Enlightened Progress
 
 *Human member of the "Chamber of Whitestone"*
 
-[Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) is Cassandra's older brother, thought dead until Vox Machina discovered him in a prison cell. His life was filled with countless joys and regrets. He has taken well to retirement from adventuring, and is renowned across Tal'Dorei for his creations.
+[Percival](percival-de-rolo-tdcsr.md) is Cassandra's older brother, thought dead until Vox Machina discovered him in a prison cell. His life was filled with countless joys and regrets. He has taken well to retirement from adventuring, and is renowned across Tal'Dorei for his creations.
 
 ##### Lady Vex'ahlia de Rolo, Baroness of the Third House of Whitestone and Grand Mistress of the Grey Hunt
 
 *Half-Elf Member of the "Chamber of Whitestone"*
 
-[Vex'ahlia](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) is the Grand Mistress of the Grey Hunt, a title she has held since before she married [Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md). Over the past twenty-four years, she has become a talented and respected leader of the "Grey Hunters". And though the hunters use guns inspired by her husband's own designs, she still prefers to wield her trusty bow.
+[Vex'ahlia](vexahlia-tdcsr.md) is the Grand Mistress of the Grey Hunt, a title she has held since before she married [Percival](percival-de-rolo-tdcsr.md). Over the past twenty-four years, she has become a talented and respected leader of the "Grey Hunters". And though the hunters use guns inspired by her husband's own designs, she still prefers to wield her trusty bow.
 
 ##### Grog Strongjaw, Grand Poobah de Doink, In Charge of All This-and-That
 
 *Goliath friend*
 
-The noble, if simple, warrior of Vox Machina, no one really knows if [Grog's](3-Mechanics/CLI/bestiary/npc/grog-strongjaw-tdcsr.md) title is a real title at all, or if [Percy](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) was just joking when he gave it to him. [Grog](3-Mechanics/CLI/bestiary/npc/grog-strongjaw-tdcsr.md) likes it, and that's good enough for most people.
+The noble, if simple, warrior of Vox Machina, no one really knows if [Grog's](grog-strongjaw-tdcsr.md) title is a real title at all, or if [Percy](percival-de-rolo-tdcsr.md) was just joking when he gave it to him. [Grog](grog-strongjaw-tdcsr.md) likes it, and that's good enough for most people.
 
 ### Claret Orders
 
@@ -470,7 +470,7 @@ The Creed of the "Claret Orders" asks that its followers commit their lives to t
 
 The "Claret Orders" have no alliance with—nor allegiance to—any standing government or group. Solitary in action and discreet in display, they've not drawn the attention of many factions in Tal'Dorei as of yet. However, it is only a matter of time before curious eyes begin to seek answers to questions about these dark guardians and their true nature.
 
-![A symbol composed of one l...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-claretorders.webp#center "A symbol composed of one lone, bloodred teardrop on the bottom, with a grey dagger on top.")
+![A symbol composed of one l...](faction-claretorders.webp#center "A symbol composed of one lone, bloodred teardrop on the bottom, with a grey dagger on top.")
 
 #### Figures of Interest
 
@@ -506,7 +506,7 @@ While most common folk assume that the "The Clasp" is merely interested in profi
 
 Were it not for the branch of the "The Clasp" in "Emon", the "Chroma Conclave's" attack would likely have destroyed the city's culture entirely. However, thanks to the "Clasp's" role as a "shadow civilization," the people of "Emon" were able to maintain their foothold at home, even under the watchful eye of "Thordak, the Cinder King".
 
-![The symbol of the Clasp: A...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-clasp.webp#center "The symbol of the Clasp: A stylized dark-red dagger entwined with the letter 'C'.")
+![The symbol of the Clasp: A...](faction-clasp.webp#center "The symbol of the Clasp: A stylized dark-red dagger entwined with the letter 'C'.")
 
 #### Relationships
 
@@ -562,7 +562,7 @@ In dark times, entertainment and good cheer are just as vital as resistance. Dur
 
 Since the fall of "Drassig", the "Golden Grin" has been ever-present, using song, comedy, and theatrics to inspire the people of Tal'Dorei to endure hardship and fight back against evil. These "Grinners" include among their ranks spiritual leaders, artists, musicians, innkeepers, and dozens of retired adventurers who still want to do good outside the public eye. Little is publicly known about the "Golden Grin", other than myths and rumors, and the Grinners gladly perpetuate these tall tales.
 
-![A dusty-gold diamond crest...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-goldengrin.webp#center "A dusty-gold diamond crest. Its interior bears a golden curved, crescent shape with a golden circle on top and a golden, upside-down triangle below it.")
+![A dusty-gold diamond crest...](faction-goldengrin.webp#center "A dusty-gold diamond crest. Its interior bears a golden curved, crescent shape with a golden circle on top and a golden, upside-down triangle below it.")
 
 #### Goals
 
@@ -600,7 +600,7 @@ Though the culture of "Kraghammer" is highly traditional and as stoic as the sto
 
 Each ruling house has a specialty and holds responsibility over that domain within "Kraghammer". House Greyspine maintains the largest mine under "Kraghammer", as well as the Pools of Solace. House Zuurthom trains the chief architects of the city, and most masonry and building is organized through them. House Bronzegrip funds the smithing guilds and maintains the Bronzegrip Metalworks, "Kraghammer's" largest blast furnace and ore refinery. House Thunderbrand prides itself on training "Kraghammer's" foremost scholars and premiere arcanists. House Glorendar maintains the law and delivers punishment.
 
-![A symbol of two hammers cr...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-kraghammer.webp#center "A symbol of two hammers crossing one another atop a large red diamond. The large red diamond is buttressed on both of its lower sides by two stone-grey triangles.")
+![A symbol of two hammers cr...](faction-kraghammer.webp#center "A symbol of two hammers crossing one another atop a large red diamond. The large red diamond is buttressed on both of its lower sides by two stone-grey triangles.")
 
 #### Relationships
 
@@ -654,7 +654,7 @@ One of the eldest of his House, Drake is known for his surprising empathy and fi
 
 "Magic isn't cheap, but miracles are priceless." Such is the credo of the "Wonderworker", the mysterious thaumaturge whose words inspire and guide the "League of Miracles". This company of mercenary magi is the reason why Tal'Dorei has recovered so rapidly from the near-apocalyptic destruction of the "Chroma Conclave". "Westruun" and "Emon" rose from rubble to the height of their former glory in a matter of months.
 
-The people of Tal'Dorei adore the league. Their mighty spellwrought [adranachs](3-Mechanics/CLI/bestiary/construct/adranach-tdcsr.md) can be seen lifting thousand-pound bricks of limestone high into the sky to rebuild walls, towers, and even castles in a matter of days. Many of the league's spellwrights have become folk heroes and celebrities for their miraculous acts, which range from healing those maimed in the "Conclave's" attack to transmuting raw timber, mud, and straw into full-fledged houses in minutes.
+The people of Tal'Dorei adore the league. Their mighty spellwrought [adranachs](adranach-tdcsr.md) can be seen lifting thousand-pound bricks of limestone high into the sky to rebuild walls, towers, and even castles in a matter of days. Many of the league's spellwrights have become folk heroes and celebrities for their miraculous acts, which range from healing those maimed in the "Conclave's" attack to transmuting raw timber, mud, and straw into full-fledged houses in minutes.
 
 For most of Tal'Dorei's elite, the "League of Miracles" is likewise a great ally. Trade and travel have resumed stronger than before, for the league has eagerly subcontracted their talented mages out as guards for caravans and persons of interest.
 
@@ -666,17 +666,17 @@ The league's members are delineated into a simple hierarchy.
 
 #### Mercenary Mage
 
-Spellcasters drawn from across Tal'Dorei form the backbone of the "League of Miracles". The league works as an agency, handing mercenaries lucrative jobs, collecting the payment themselves, and paying out in a timely fashion—minus twenty percent. These mercenaries come from all walks of life. Some are aspiring adventurers seeking a less life-threatening first gig, while others are skilled arcanists with shady pasts, including [Remnant cultists](3-Mechanics/CLI/bestiary/humanoid/remnant-cultist-tdcsr.md) and double-dipping "Myriad" agents with a talent for magic.
+Spellcasters drawn from across Tal'Dorei form the backbone of the "League of Miracles". The league works as an agency, handing mercenaries lucrative jobs, collecting the payment themselves, and paying out in a timely fashion—minus twenty percent. These mercenaries come from all walks of life. Some are aspiring adventurers seeking a less life-threatening first gig, while others are skilled arcanists with shady pasts, including [Remnant cultists](remnant-cultist-tdcsr.md) and double-dipping "Myriad" agents with a talent for magic.
 
 #### Spellwright
 
-The most talented (or best-connected) members of the league are awarded the title of spellwright. Only two dozen such masters of the arcane exist across Tal'Dorei. These spellwrights know the secrets of how to create [adranachs](3-Mechanics/CLI/bestiary/construct/adranach-tdcsr.md), mighty constructs of magical energy that were used publicly to rebuild Tal'Dorei's ravaged infrastructure—and are also used in secret as hunter-destroyers of the league's enemies. These spellwrights sign a blood pact that connects their minds to the mysterious communications of the "Wonderworker", which all spellwrights are blood-bound to interpret and enact.
+The most talented (or best-connected) members of the league are awarded the title of spellwright. Only two dozen such masters of the arcane exist across Tal'Dorei. These spellwrights know the secrets of how to create [adranachs](adranach-tdcsr.md), mighty constructs of magical energy that were used publicly to rebuild Tal'Dorei's ravaged infrastructure—and are also used in secret as hunter-destroyers of the league's enemies. These spellwrights sign a blood pact that connects their minds to the mysterious communications of the "Wonderworker", which all spellwrights are blood-bound to interpret and enact.
 
 #### Grand Thaumaturge
 
 The official title of the league's shadowy master is the Grand Thaumaturge, though most colloquially refer to them as the "Wonderworker". None know their true identity, or their ultimate goal. The spellwrights understand that the Grand Thaumaturge has a master plan that must be followed. Only these spellwrights have the privilege of hearing their master's psychic messages. Over the years, they have interpreted them to mean that the "League of Miracles" must become the secret puppet-masters of all Tal'Dorei.
 
-![The symbol of the League o...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-miracles.webp#center "The symbol of the League of Miracles: a pale stone castle tower encircled by two ethereal purple hands.")
+![The symbol of the League o...](faction-miracles.webp#center "The symbol of the League of Miracles: a pale stone castle tower encircled by two ethereal purple hands.")
 
 #### Goals
 
@@ -686,7 +686,7 @@ The "League of Miracles" is comprised mostly of mercenary magi pulled from all c
 
 The "League of Miracles" tries to keep cordial, if distant, relationships with every major power on Tal'Dorei. Their public image is shiny and unimpeachable. Many members of the "Tal'Dorei Council" are already in their pocket and cast votes that further the league's self-interest. The "Arcana Pansophical"—especially "Allura Vysoren", who also sits on the council—are deeply distrustful of this unregulated, uncommonly powerful organization.
 
-The "League of Miracles" has a tense relationship with the "Chamber of Whitestone", as they have long sought access to the [residuum](3-Mechanics/CLI/items/residuum-tdcsr.md) unique to that territory. The spellwrights fear outright hostility with the legendary heroes of Vox Machina, and have supposedly abandoned their quest to mine "Whitestone's" naturally occurring [residuum](3-Mechanics/CLI/items/residuum-tdcsr.md).
+The "League of Miracles" has a tense relationship with the "Chamber of Whitestone", as they have long sought access to the [residuum](residuum-tdcsr.md) unique to that territory. The spellwrights fear outright hostility with the legendary heroes of Vox Machina, and have supposedly abandoned their quest to mine "Whitestone's" naturally occurring [residuum](residuum-tdcsr.md).
 
 As "no questions asked" employers of mages, the league is in the good graces of many less scrupulous arcane factions, including the "Remnants". Necromancers, blood mages, Ruidus cultists, and other unsavory magi now exist under the league's protection.
 
@@ -698,7 +698,7 @@ These figures are major members of the "League of Miracles" that you can use as 
 
 *Mysterious enactor of true miracles*
 
-All spellwrights hear the authoritative—yet enigmatically distorted—voice of the "Wonderworker". The "Wonderworker" has supposedly appeared in the flesh only three times throughout the league's twenty-four-year history, as a humanoid draped in robes of starlight and wearing a mithral mask. In those moments, they have produced true miracles—raising a castle from the ground in a matter of seconds, halting the rampaging silver dragon Saldarthoryn in her tracks and healing her twisted mind, and stopping the Center Slab of "Kraghammer" from collapsing into the Pits in a catastrophic mining accident that would have cost countless lives. These legendary acts inspired utmost awe and faith in all who witnessed them, leading the spellwrights to create [adranachs](3-Mechanics/CLI/bestiary/construct/adranach-tdcsr.md) in the "Wonderworker's" image and enact their cryptic will.
+All spellwrights hear the authoritative—yet enigmatically distorted—voice of the "Wonderworker". The "Wonderworker" has supposedly appeared in the flesh only three times throughout the league's twenty-four-year history, as a humanoid draped in robes of starlight and wearing a mithral mask. In those moments, they have produced true miracles—raising a castle from the ground in a matter of seconds, halting the rampaging silver dragon Saldarthoryn in her tracks and healing her twisted mind, and stopping the Center Slab of "Kraghammer" from collapsing into the Pits in a catastrophic mining accident that would have cost countless lives. These legendary acts inspired utmost awe and faith in all who witnessed them, leading the spellwrights to create [adranachs](adranach-tdcsr.md) in the "Wonderworker's" image and enact their cryptic will.
 
 ##### Blaine Kraverrogg
 
@@ -710,7 +710,7 @@ Short and brimming with a malign lust for power, Blaine appears to be a short, s
 
 *Tiefling blood mage and novice spellwright*
 
-As the newest spellwright in the "League of Miracles", "Honor Kinnabari" has a lot to prove. She was granted a chance to prove her quality in the eyes of the "Wonderworker" when the league was contracted to rebuild the Market Ward of "Westruun" after it was devastated by a herd of [magma landsharks](3-Mechanics/CLI/bestiary/elemental/magma-landshark-tdcsr.md) that descended from the "Cliffkeep Mountains". Her red eyes and sheet-white skin and horns complement a traditional red-and-white mage's robe from the reclusive dwarven clans of the "Alabaster Sierras". She is fully dedicated to the league, but she is as honorable as her name implies; her fellow spellwrights fear that she could turn traitor, should the unsavory truth of the league be laid plain before her.
+As the newest spellwright in the "League of Miracles", "Honor Kinnabari" has a lot to prove. She was granted a chance to prove her quality in the eyes of the "Wonderworker" when the league was contracted to rebuild the Market Ward of "Westruun" after it was devastated by a herd of [magma landsharks](magma-landshark-tdcsr.md) that descended from the "Cliffkeep Mountains". Her red eyes and sheet-white skin and horns complement a traditional red-and-white mage's robe from the reclusive dwarven clans of the "Alabaster Sierras". She is fully dedicated to the league, but she is as honorable as her name implies; her fellow spellwrights fear that she could turn traitor, should the unsavory truth of the league be laid plain before her.
 
 ### Library of the Cobalt Soul
 
@@ -736,9 +736,9 @@ Though they are not involved in field work, archivists play the vital role of or
 
 A small group of three to five curators manage the top-level operations of each archive. One of their number is given the special designation of High Curator, to whom all other members of their archive must ultimately answer.
 
-![A circle of inlaid black a...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-cobaltsoul.webp#center "A circle of inlaid black and teal marble with silver designs of three circles, one on each point of a triangle, and writing in an unknown language. Around the top half of the outer circle are the words &quot;From the Archives of the Cobalt Soul.&quot;")
+![A circle of inlaid black a...](faction-cobaltsoul.webp#center "A circle of inlaid black and teal marble with silver designs of three circles, one on each point of a triangle, and writing in an unknown language. Around the top half of the outer circle are the words &quot;From the Archives of the Cobalt Soul.&quot;")
 
-![Sigil of the Cobalt Soul: Watermark](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-cobaltsoulminimal.webp#center)
+![Sigil of the Cobalt Soul: Watermark](faction-cobaltsoulminimal.webp#center)
 
 #### Goals
 
@@ -754,7 +754,7 @@ The Cobalt Soul is an international organization with archives in the Dwendalian
 
 Though Tal'Dorei is a freer society than the Dwendalian Empire, the Cobalt Soul knows better than to think that means it is free of corruption. From the Cobalt Reserve, their archive in the city of "Westruun", the Cobalt Soul keeps close tabs on members of the "Tal'Dorei Council", the leaders of "Syngorn" and "Kraghammer", and other powerful individuals across the land.
 
-The Cobalt Soul actively opposes the "Remnants"—followers of The Whispered One, a tyrannical god of secrets who is diametrically opposed to the goals of the Knowing Mentor. They are also concerned by the meteoric rise of a guild of arcanists called the "League of Miracles", whose political maneuverings have made puppets of dozens of delegates to the "Tal'Dorei Council" and political leaders across the land. This worry has only deepened as rumors reach them of the league filling their ranks with [Remnant cultists](3-Mechanics/CLI/bestiary/humanoid/remnant-cultist-tdcsr.md) who seek to dominate Tal'Dorei.
+The Cobalt Soul actively opposes the "Remnants"—followers of The Whispered One, a tyrannical god of secrets who is diametrically opposed to the goals of the Knowing Mentor. They are also concerned by the meteoric rise of a guild of arcanists called the "League of Miracles", whose political maneuverings have made puppets of dozens of delegates to the "Tal'Dorei Council" and political leaders across the land. This worry has only deepened as rumors reach them of the league filling their ranks with [Remnant cultists](remnant-cultist-tdcsr.md) who seek to dominate Tal'Dorei.
 
 #### Figures of Interest
 
@@ -786,7 +786,7 @@ Known for displays of opulence and social grace, this misdirection enables the M
 
 The Myriad operates as a loose network of gangs whose bosses run their own localized sects, without direct oversight from the mysterious heads of the society. Tithes and information are expected to be delivered to the leadership at a steady rate from each satellite of the organization, and should the success slow, threats of enslavement or destruction soon follow.
 
-![A sigil of five curved, du...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-myriad.webp#center "A sigil of five curved, dusty gold blades and five smaller, curved blades of onyx, emanating from one red ruby pentagon in the middle - a golden circle directly in the center.")
+![A sigil of five curved, du...](faction-myriad.webp#center "A sigil of five curved, dusty gold blades and five smaller, curved blades of onyx, emanating from one red ruby pentagon in the middle - a golden circle directly in the center.")
 
 #### Goals
 
@@ -828,7 +828,7 @@ In a time long past, an archmage of unparalleled power known as The Whispered On
 
 His cult, the Remnants, went into hiding once again. Their fanatical ranks, bolstered by his true apotheosis, now seethe in secret, convinced that there is a way to grant their god the ultimate power he sought. Many of them have wormed their way into positions of power within Tal'Dorei's political institutions, churches, arcane organizations, and criminal outfits. Many more have joined up with the dubiously moral, profit-driven arcanists of the "League of Miracles". They exist in shadows, lurking, waiting, longing for a new dark prophet to lead them to glory.
 
-![The crest is composed of o...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-remnants.webp#center "The crest is composed of of a circle on the bottom with four jagged spikes sprouting from the top of it.")
+![The crest is composed of o...](faction-remnants.webp#center "The crest is composed of of a circle on the bottom with four jagged spikes sprouting from the top of it.")
 
 #### Goals
 
@@ -874,9 +874,9 @@ While he runs a middling jewelry business within "Emon", Quinton is secretly the
 
 This escapee from the "Black Bastille" prison in "Emon" is Tal'Dorei's most infamous mass murderer, who once slaughtered and consumed hundreds of innocents on a deadly killing spree from "Kymal" to "Emon". During her imprisonment, Ixrattu was plagued by shadowy visions of a woman beckoning to her from beyond the bars. The visions pointed her towards weaknesses within the "Black Bastille's" guard, and helped her achieve the unthinkable: escape. Once free, she vanished for a year as she scoured the countryside, puzzling over the cryptic whispers of her continuing visions.
 
-At the end of her quest was a fateful discovery: within a lightless underground passage, she found the venomous crossbow [Condemner](3-Mechanics/CLI/items/condemner-tdcsr.md), a "Vestige of Divergence". Now she lurks in "Kraghammer", where she trains a network of elite assassins who gleefully dispatch anyone the Unveiled Sight identifies as an enemy of the "Remnants".
+At the end of her quest was a fateful discovery: within a lightless underground passage, she found the venomous crossbow [Condemner](condemner-tdcsr.md), a "Vestige of Divergence". Now she lurks in "Kraghammer", where she trains a network of elite assassins who gleefully dispatch anyone the Unveiled Sight identifies as an enemy of the "Remnants".
 
-![Ixrattu Khar is a grey-ski...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter2-ixrattukhar.webp#center "Ixrattu Khar is a grey-skinned tiefling with long, black hair slicked back between her horns, each of which are adorned by silver chains. She bears a large patch over her left eye, her right eye a solid red. She wears an oil-black leather coat and corset over a blood red shirt. Her left hand brandishes a magical crossbow with an ethereal green string.")
+![Ixrattu Khar is a grey-ski...](chapter2-ixrattukhar.webp#center "Ixrattu Khar is a grey-skinned tiefling with long, black hair slicked back between her horns, each of which are adorned by silver chains. She bears a large patch over her left eye, her right eye a solid red. She wears an oil-black leather coat and corset over a blood red shirt. Her left hand brandishes a magical crossbow with an ethereal green string.")
 
 ### Wardens of Syngorn
 
@@ -886,7 +886,7 @@ The elven city-state of "Syngorn" was established in the "Verdant Expanse" by th
 
 The "Wardens" believe that preserving the ancient culture of "Syngorn" is of utmost importance. Even as their fate grows ever more closely tied to the fate of all Tal'Dorei, the traditions that make "Syngorn" unique must be conserved. The three offices of the "Wardens" are the Verdant Lord, the "Voice of Memory", and the Guildrunner. The office of Verdant Lord commands "Syngorn's" formidable military, which is maintained and scattered throughout the "Verdant Expanse", ready to be called to "Syngorn's" defense at a moment's notice. As preservers of culture, the "Wardens" also encourage public respect for the arts, including the art of magic. It's not uncommon for a "Syngornian" to rise in social status after being publicly praised by a warden for a masterful artistic creation or performance.
 
-![The symbol of the Wardens ...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/faction-syngorn.webp#center "The symbol of the Wardens of Syngorn is composed of two trees growing from a sapphire blue circle and interlaced with each other - one is silver with green leaves, the other is green with silver leaves. Woven around them is a blue crescent moon.")
+![The symbol of the Wardens ...](faction-syngorn.webp#center "The symbol of the Wardens of Syngorn is composed of two trees growing from a sapphire blue circle and interlaced with each other - one is silver with green leaves, the other is green with silver leaves. Woven around them is a blue crescent moon.")
 
 #### Relationships
 

@@ -18,7 +18,7 @@ When ancient or nefarious entities need to safeguard objects of grave consequenc
 
 ## Vengeful Restoration
 
-Wraithroot trees are the product of foul necromancy and transmutation rituals that first see a tree awakened, gifting it with advanced intelligence and imbuing its roots with mobility. But the [awakened tree's](3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) first moments of joyous awareness are tragically cut short as necromantic energy courses through it, channeling rage and evil to transform it into a wraithroot—filled with longing to obliterate the life it so fleetingly enjoyed.
+Wraithroot trees are the product of foul necromancy and transmutation rituals that first see a tree awakened, gifting it with advanced intelligence and imbuing its roots with mobility. But the [awakened tree's](awakened-tree-xmm.md) first moments of joyous awareness are tragically cut short as necromantic energy courses through it, channeling rage and evil to transform it into a wraithroot—filled with longing to obliterate the life it so fleetingly enjoyed.
 
 ## Wraithroot Sites
 

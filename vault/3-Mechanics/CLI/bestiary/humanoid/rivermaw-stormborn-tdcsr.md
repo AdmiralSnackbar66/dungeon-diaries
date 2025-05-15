@@ -21,7 +21,7 @@ Though most members of the "Rivermaw herd" are "goliaths", their ranks include p
 
 ## Rivermaw Stormborn
 
-Countless goliath legends tell of heroes born beneath a raging storm: Kaldon Thunderhead, who slew the [ember roc](3-Mechanics/CLI/bestiary/monstrosity/ember-roc-tdcsr.md) of the south; Marydra Skysplitter, who defeated a champion of the Ruiner in single combat; and Yodrell Rumblechest, who halted a flash flood with only his voice, to name just a few.
+Countless goliath legends tell of heroes born beneath a raging storm: Kaldon Thunderhead, who slew the [ember roc](ember-roc-tdcsr.md) of the south; Marydra Skysplitter, who defeated a champion of the Ruiner in single combat; and Yodrell Rumblechest, who halted a flash flood with only his voice, to name just a few.
 
 Though the stormborn of legend were all "half-giants", more and more Rivermaw have begun to feel the Stormlord's power reverberate within them. These peerless warriors are blessed with preternatural skill with a blade and the uncanny ability to command lightning. Often destined to become mythic heroes, stormborn fight with reckless abandon—but many can be distressingly prideful and might need reminding that the songs of defeated or tyrannical stormborn are rarely sung by the bards.
 

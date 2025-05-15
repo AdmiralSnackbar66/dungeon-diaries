@@ -8,7 +8,7 @@ aliases: ["Part 4: Saviors of the Multiverse"]
 # Part 4: Saviors of the Multiverse
 *Source: Light of Xaryxis, p. 52* 
 
-![](3-Mechanics/CLI/adventures/light-of-xaryxis/img/039-12-001-part-four-splash.webp#center)
+![](039-12-001-part-four-splash.webp#center)
 
 ## Chapter 10: Space Invaders
 
@@ -17,13 +17,13 @@ aliases: ["Part 4: Saviors of the Multiverse"]
 > *After the Xaryxian Empire attacked their world, the characters journeyed to Doomspace and formed a coalition. With a fleet of ships accompanying them, they set out for Xaryxispace, encountering a red dragon and its rider along the way*!
 ^11f
 
-Dagaz, a [githyanki knight](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md), is hunting [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) in the Astral Sea. Dagaz and her dragon mount fight only in self-defense and are, at best, a fleeting distraction. The real trouble begins when the characters enter Xaryxispace and make their way to the imperial citadel of the Xaryxian Empire, which is protected by a fleet of star moths.
+Dagaz, a [githyanki knight](githyanki-knight-xmm.md), is hunting [mind flayers](mind-flayer-xmm.md) in the Astral Sea. Dagaz and her dragon mount fight only in self-defense and are, at best, a fleeting distraction. The real trouble begins when the characters enter Xaryxispace and make their way to the imperial citadel of the Xaryxian Empire, which is protected by a fleet of star moths.
 
 ### Knight of Tu'narath
 
-A lawful evil [githyanki knight](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) named Dagaz rides a male [young red dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md). These creatures begin the encounter 500 feet from the characters' ship.
+A lawful evil [githyanki knight](githyanki-knight-xmm.md) named Dagaz rides a male [young red dragon](young-red-dragon-xmm.md). These creatures begin the encounter 500 feet from the characters' ship.
 
-Dagaz and the dragon are initially indifferent toward the characters. If the dragon is not attacked right away, it circles the characters' ship once as it identifies a safe place to land, then lands gently on the deck. Dagaz casts [tongues](3-Mechanics/CLI/spells/tongues-xphb.md) on herself and addresses the characters moments later:
+Dagaz and the dragon are initially indifferent toward the characters. If the dragon is not attacked right away, it circles the characters' ship once as it identifies a safe place to land, then lands gently on the deck. Dagaz casts [tongues](tongues-xphb.md) on herself and addresses the characters moments later:
 
 > [!readaloud] 
 > 
@@ -37,9 +37,9 @@ After a beat, Dagaz smiles and adds:
 > "A bad joke on my part. I wish you swift passage through Her Majesty's realm. My dragon and I are hunting mind flayers. Have you seen any?"
 ^122
 
-If the characters attack the knight or the dragon, the dragon retaliates by burning their ship with its Breath Weapon. If she takes any damage, Dagaz uses [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) to board the vessel and goes after whoever is responsible.
+If the characters attack the knight or the dragon, the dragon retaliates by burning their ship with its Breath Weapon. If she takes any damage, Dagaz uses [misty step](misty-step-xphb.md) to board the vessel and goes after whoever is responsible.
 
-If the characters refrain from combat and inform Dagaz that they've encountered no mind flayers, she takes them at their word and bids them a safe journey to wherever they're going. If the characters inform Dagaz of their destination, she tosses one of them a vial containing [oil of sharpness](3-Mechanics/CLI/items/oil-of-sharpness-xdmg.md) and says, "Give the Xaryxian Empire my regards." She and the dragon then fly away.
+If the characters refrain from combat and inform Dagaz that they've encountered no mind flayers, she takes them at their word and bids them a safe journey to wherever they're going. If the characters inform Dagaz of their destination, she tosses one of them a vial containing [oil of sharpness](oil-of-sharpness-xdmg.md) and says, "Give the Xaryxian Empire my regards." She and the dragon then fly away.
 
 ### Arrival in Xaryxispace
 
@@ -69,7 +69,7 @@ The Xaryxian armada is not expecting an attack. Allow the characters to decide w
 
 #### The Xaryxian Armada
 
-The enemy armada consists of thirty star moths, each one crewed by an [astral elf honor guard](3-Mechanics/CLI/bestiary/humanoid/astral-elf-honor-guard-bam.md), who serves as the captain; an [astral elf star priest](3-Mechanics/CLI/bestiary/humanoid/astral-elf-star-priest-bam.md), who serves as the ship's spelljammer; and eleven [astral elf warriors](3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md). The armada's flagship, the *Xaryxia*, also carries an [astral elf commander](3-Mechanics/CLI/bestiary/humanoid/astral-elf-commander-bam.md) named Vael, who commands the entire fleet. See "Boo's Astral Menagerie" for the "astral elves' stat blocks".
+The enemy armada consists of thirty star moths, each one crewed by an [astral elf honor guard](astral-elf-honor-guard-bam.md), who serves as the captain; an [astral elf star priest](astral-elf-star-priest-bam.md), who serves as the ship's spelljammer; and eleven [astral elf warriors](astral-elf-warrior-bam.md). The armada's flagship, the *Xaryxia*, also carries an [astral elf commander](astral-elf-commander-bam.md) named Vael, who commands the entire fleet. See "Boo's Astral Menagerie" for the "astral elves' stat blocks".
 
 When the two fleets meet in battle, the *Xaryxia* singles out the characters' ship while the rest of the armada engages the other ships in the characters' fleet. The *Xaryxia* and the characters' ship are 1,000 feet apart at the start of the encounter.
 
@@ -79,9 +79,9 @@ Although the Xaryxian ships are united in their determination to defend the impe
 
 > [!note] Loyalty to Xedalli or Xeleth?
 > 
-> The crew of the *Xaryxia* is loyal to [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md), but not all ships in the Xaryxian armada share that loyalty. To determine the political leanings of another star moth's crew, roll a `d6`. On a roll of 1–3, the crew is loyal to Xeleth. On a roll of 4–6, the crew is loyal to Xedalli. Regardless of a crew's loyalty, no ship in the Xaryxian armada can be used to attack another Xaryxian vessel unless it has been commandeered by an enemy.
+> The crew of the *Xaryxia* is loyal to [Prince Xeleth](prince-xeleth-lox.md), but not all ships in the Xaryxian armada share that loyalty. To determine the political leanings of another star moth's crew, roll a `d6`. On a roll of 1–3, the crew is loyal to Xeleth. On a roll of 4–6, the crew is loyal to Xedalli. Regardless of a crew's loyalty, no ship in the Xaryxian armada can be used to attack another Xaryxian vessel unless it has been commandeered by an enemy.
 > 
-> A character who shows Xedalli's [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) to one or more crew members of a ship loyal to Xedalli can, with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, improve the attitude of that crew, changing it from hostile to indifferent, by claiming to be acting on Xedalli's behalf. Xedalli's ring looks no different from her brother's, but a successful check is enough to convince the crew that the ring was entrusted to the characters by the princess. An indifferent crew breaks off its attack on the characters' ship but won't aid the characters in any other way.
+> A character who shows Xedalli's [ring of shooting stars](ring-of-shooting-stars-xdmg.md) to one or more crew members of a ship loyal to Xedalli can, with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, improve the attitude of that crew, changing it from hostile to indifferent, by claiming to be acting on Xedalli's behalf. Xedalli's ring looks no different from her brother's, but a successful check is enough to convince the crew that the ring was entrusted to the characters by the princess. An indifferent crew breaks off its attack on the characters' ship but won't aid the characters in any other way.
 ^loyalty-to-xedalli-or-xeleth
 
 #### Battle Losses
@@ -90,7 +90,7 @@ Each round on initiative count 0, the Doomspace coalition and the Xaryxian armad
 
 #### Here There Be Dragons
 
-Seven [young solar dragons](3-Mechanics/CLI/bestiary/dragon/young-solar-dragon-bam.md) (see "Boo's Astral Menagerie"), born in the fiery heart of Xaryxis, fly around the beam of light that extends between the imperial citadel to the star. After noticing the battle, they join the fray, arriving just as the characters finish dealing with Commander Vael's flagship:
+Seven [young solar dragons](young-solar-dragon-bam.md) (see "Boo's Astral Menagerie"), born in the fiery heart of Xaryxis, fly around the beam of light that extends between the imperial citadel to the star. After noticing the battle, they join the fray, arriving just as the characters finish dealing with Commander Vael's flagship:
 
 > [!readaloud] 
 > 
@@ -99,7 +99,7 @@ Seven [young solar dragons](3-Mechanics/CLI/bestiary/dragon/young-solar-dragon-b
 
 Two of the seven solar dragons fly toward the party's vessel while the remaining dragons harry other ships in the coalition fleet or scour the wrecks for treasure.
 
-The two dragons are 1,000 feet from the characters' ship when they are spotted. Both dragons close the distance. One targets characters while the other targets the ship and its weapons. If either dragon is reduced to 50 hit points or fewer, it flees. The dragons also break off their assault if a character stands on the deck of their ship and brandishes Xedalli's [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md); the dragons have been trained since birth not to harm anyone bearing such a ring.
+The two dragons are 1,000 feet from the characters' ship when they are spotted. Both dragons close the distance. One targets characters while the other targets the ship and its weapons. If either dragon is reduced to 50 hit points or fewer, it flees. The dragons also break off their assault if a character stands on the deck of their ship and brandishes Xedalli's [ring of shooting stars](ring-of-shooting-stars-xdmg.md); the dragons have been trained since birth not to harm anyone bearing such a ring.
 
 ### Final Approach
 
@@ -146,8 +146,8 @@ Xaryxispace is a small Wildspace system, consisting only of its central star and
 The following locations are depicted on the map of Xaryxispace.
 
 > [!gallery]
-> ![Xaryxispace](3-Mechanics/CLI/adventures/light-of-xaryxis/img/040-map-12-01-xaryxis-space.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/light-of-xaryxis/img/041-map-12-01-xaryxis-space-player.webp#gallery)
+> ![Xaryxispace](040-map-12-01-xaryxis-space.webp#gallery)
+> ![Player Version](041-map-12-01-xaryxis-space-player.webp#gallery)
 
 #### Vaerduran
 
@@ -155,7 +155,7 @@ This rocky, misshapen world once supported life, but its ecosystem was wiped out
 
 #### Rivus
 
-Another rocky world, Rivus escaped Vaerduran's fate because of its rich platinum deposits, which the astral elves mine. Although it appears desolate on the surface, Rivus bustles with activity belowground, where [umber hulks](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md), [purple worms](3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md), and other burrowing creatures make their lairs.
+Another rocky world, Rivus escaped Vaerduran's fate because of its rich platinum deposits, which the astral elves mine. Although it appears desolate on the surface, Rivus bustles with activity belowground, where [umber hulks](umber-hulk-xmm.md), [purple worms](purple-worm-xmm.md), and other burrowing creatures make their lairs.
 
 #### Xaryndar
 
@@ -167,17 +167,17 @@ The imperial citadel is the administrative heart of the Xaryxian Empire and is d
 
 ### Citadel Overview
 
-The imperial citadel is the seat of the imperial family, which includes Emperor Xavan and his heirs, [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) and [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md). The citadel is a mile-wide, floating platform of hewn stone shaped in the form of a moth. See the accompanying map for the citadel's layout.
+The imperial citadel is the seat of the imperial family, which includes Emperor Xavan and his heirs, [Princess Xedalli](princess-xedalli-lox.md) and [Prince Xeleth](prince-xeleth-lox.md). The citadel is a mile-wide, floating platform of hewn stone shaped in the form of a moth. See the accompanying map for the citadel's layout.
 
 The citadel, which has its own air envelope and gravity plane, is home to approximately 10,000 people, most of them astral elves. The few non-elves are diplomatic envoys to the court, traders, and skilled crafters whose work is esteemed by the emperor.
 
-The imperial guard, which provides security within the palace and throughout the citadel, is composed of 150 [astral elf warriors](3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md) and 30 [astral elf honor guards](3-Mechanics/CLI/bestiary/humanoid/astral-elf-honor-guard-bam.md) (see "Boo's Astral Menagerie") of various alignments, with half that number on duty at any given time.
+The imperial guard, which provides security within the palace and throughout the citadel, is composed of 150 [astral elf warriors](astral-elf-warrior-bam.md) and 30 [astral elf honor guards](astral-elf-honor-guard-bam.md) (see "Boo's Astral Menagerie") of various alignments, with half that number on duty at any given time.
 
 No structures are built on the underside of the citadel, which is dotted with natural rocky protrusions. On the topside, stone walls 20 feet thick and 40 feet high control access to the gardens, the imperial palace, the Great Orrery, and the docks. Sixty-foot-tall stone towers built into the walls are topped with ballistae and mangonels.
 
 > [!gallery]
-> ![Imperial Citadel](3-Mechanics/CLI/adventures/light-of-xaryxis/img/042-map-12-02-imperial-citadel.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/light-of-xaryxis/img/043-map-12-02-imperial-citadel-player.webp#gallery)
+> ![Imperial Citadel](042-map-12-02-imperial-citadel.webp#gallery)
+> ![Player Version](043-map-12-02-imperial-citadel-player.webp#gallery)
 
 #### Regions
 
@@ -195,7 +195,7 @@ The citadel's gardens are trimmed and cultivated to represent an idyllic vision 
 
 The Great Orrery is the center of scholarship in the citadel. Enclosed by high walls, the facility is built around a gigantic orrery of Xaryxispace. This magical and mechanical contraption features levitating models of the system's planets and moons, all orbiting a brightly glowing crystal orb that represents Xaryxis.
 
-A lawful evil, astral elf [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) named Magister Theraxana is here day and night, studying Wildspace systems that have been surveyed by astral elf explorers and looking for new worlds that can be exploited to keep Xaryxis burning bright.
+A lawful evil, astral elf [archmage](archmage-xmm.md) named Magister Theraxana is here day and night, studying Wildspace systems that have been surveyed by astral elf explorers and looking for new worlds that can be exploited to keep Xaryxis burning bright.
 
 A chamber beneath the Great Orrery contains a ring of twelve spelljamming helms joined together by crystal filaments. Theraxana and her fellow mages use these spelljamming helms to move the citadel across Wildspace and the Astral Sea, in accordance with the wishes of the emperor. All twelve helms are required to propel the citadel, which has a flying speed of 50 feet (5½ mph).
 
@@ -221,7 +221,7 @@ Members of the imperial navy and the imperial guard maintain residences in the m
 
 #### Temple of Light
 
-The Temple of Light is where the light of Xaryxis is harnessed for the astral elves' use. Atop the temple is a giant crystal that receives and focuses the star's light and channels that energy into a pool in the center of the temple called the Astral Font, which powers the empire's most potent magic. Andavier, a lawful neutral [astral elf star priest](3-Mechanics/CLI/bestiary/humanoid/astral-elf-star-priest-bam.md) (see "Boo's Astral Menagerie"), oversees the temple.
+The Temple of Light is where the light of Xaryxis is harnessed for the astral elves' use. Atop the temple is a giant crystal that receives and focuses the star's light and channels that energy into a pool in the center of the temple called the Astral Font, which powers the empire's most potent magic. Andavier, a lawful neutral [astral elf star priest](astral-elf-star-priest-bam.md) (see "Boo's Astral Menagerie"), oversees the temple.
 
 More information about the temple is presented in chapter 11.
 
@@ -236,7 +236,7 @@ Most of the citadel's merchants and crafters live and work in the trade quarter.
 > *Determined to save their world, the characters traveled to Xaryxispace with a fleet of ships at their command. But nothing could have prepared them for the armada of enemy ships and the host of solar dragons guarding the magnificent citadel of the Xaryxian Empire. Though the battle was lost, hope remains*!
 ^144
 
-The characters' arrival at the imperial citadel coincides with the funeral of Emperor Xavan. When Xedalli challenges her brother's claim to the throne and names the characters as her champions, the heroes must do battle with a [zodar](3-Mechanics/CLI/bestiary/aberration/zodar-bam.md) (see "Boo's Astral Menagerie") to decide who will rule as the next emperor.
+The characters' arrival at the imperial citadel coincides with the funeral of Emperor Xavan. When Xedalli challenges her brother's claim to the throne and names the characters as her champions, the heroes must do battle with a [zodar](zodar-bam.md) (see "Boo's Astral Menagerie") to decide who will rule as the next emperor.
 
 ### Arrival at the Citadel
 
@@ -249,19 +249,19 @@ When the characters approach the imperial citadel, either as prisoners or in the
 
 Characters who have been taken prisoner by the astral elves are stripped of all visible weapons, but they are allowed to keep their armor and other gear. (The same is true for any nonplayer characters who are with them.) A character can conceal a light weapon on their person by succeeding on a DC 17 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check.
 
-Prisoners are delivered to the imperial docks, where they are met by six lawful neutral [astral elf warriors](3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md) and a lawful neutral [astral elf honor guard](3-Mechanics/CLI/bestiary/humanoid/astral-elf-honor-guard-bam.md) named Corelleth (see "Boo's Astral Menagerie" for their stat blocks), all of whom are loyal to [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md):
+Prisoners are delivered to the imperial docks, where they are met by six lawful neutral [astral elf warriors](astral-elf-warrior-bam.md) and a lawful neutral [astral elf honor guard](astral-elf-honor-guard-bam.md) named Corelleth (see "Boo's Astral Menagerie" for their stat blocks), all of whom are loyal to [Princess Xedalli](princess-xedalli-lox.md):
 
 > [!readaloud] 
 > 
-> Stepping onto a landing, you are met by seven armored figures, their faces hidden behind filigreed visors. Their leader takes a step forward and says, "I am Commander Corelleth. My orders are to deliver you to the Temple of Light to face the emperor's justice." The commander then orders your captors to return your weapons to you. "[Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) sends her regards."
+> Stepping onto a landing, you are met by seven armored figures, their faces hidden behind filigreed visors. Their leader takes a step forward and says, "I am Commander Corelleth. My orders are to deliver you to the Temple of Light to face the emperor's justice." The commander then orders your captors to return your weapons to you. "[Princess Xedalli](princess-xedalli-lox.md) sends her regards."
 ^147
 
 Weapons confiscated from the characters and their allies are promptly returned to them, after which Corelleth's squad leads the group through the streets of the citadel to the Temple of Light. If the characters flee from their escort, Corelleth's squad doesn't pursue, per Xedalli's instructions.
 
 On the way to the temple, Corelleth gives honest answers to any questions the characters might have. The commander imparts the following information:
 
-- Following the death of Emperor Xavan, [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md) has declared that his coronation will take place after the emperor's funeral.  
-- [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) is being forced to attend her brother's coronation, even though it is the wish of many to see Xedalli and Xeleth coronated jointly, in accordance with their father's wishes.  
+- Following the death of Emperor Xavan, [Prince Xeleth](prince-xeleth-lox.md) has declared that his coronation will take place after the emperor's funeral.  
+- [Princess Xedalli](princess-xedalli-lox.md) is being forced to attend her brother's coronation, even though it is the wish of many to see Xedalli and Xeleth coronated jointly, in accordance with their father's wishes.  
 - If he becomes emperor, Xeleth will have the characters executed without a trial.  
 
 #### Infiltrating the Citadel
@@ -278,15 +278,15 @@ If the characters land at the imperial docks or try to enter the citadel by any 
 
 #### Exploring the City
 
-Characters who avoid or escape the attention of their escorts can move about the citadel as they see fit. Most of the city's inhabitants are too preoccupied with the emperor's funeral and [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md)'s imminent coronation to take notice of the party. Any locals the characters talk to quickly turn the conversation to this topic, encouraging the party to get to the temple quickly before all the best vantage points are taken. The funeral for Emperor Xavan is a lengthy ceremony, which provides the characters with an opportunity to take a short rest before the final showdown in the Temple of Light.
+Characters who avoid or escape the attention of their escorts can move about the citadel as they see fit. Most of the city's inhabitants are too preoccupied with the emperor's funeral and [Prince Xeleth](prince-xeleth-lox.md)'s imminent coronation to take notice of the party. Any locals the characters talk to quickly turn the conversation to this topic, encouraging the party to get to the temple quickly before all the best vantage points are taken. The funeral for Emperor Xavan is a lengthy ceremony, which provides the characters with an opportunity to take a short rest before the final showdown in the Temple of Light.
 
 ### Temple of Light
 
 The interior of the Temple of Light is large enough to accommodate dozens of people, while hundreds more gather outside.
 
 > [!gallery]
-> ![Temple of Light](3-Mechanics/CLI/adventures/light-of-xaryxis/img/044-map-12-03-cathedral-of-light.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/light-of-xaryxis/img/045-map-12-03-cathedral-of-light-player.webp#gallery)
+> ![Temple of Light](044-map-12-03-cathedral-of-light.webp#gallery)
+> ![Player Version](045-map-12-03-cathedral-of-light-player.webp#gallery)
 
 #### Entering the Temple
 
@@ -294,14 +294,14 @@ As the characters enter the temple, read:
 
 > [!readaloud] 
 > 
-> Pushing your way into the temple through the crowd of onlookers, you see an elf priest presiding over the figure of the late emperor, whose body floats in an azure pool with a brilliant beam of light penetrating it from above. Flanking the priest are [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md) and [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md). The prince is arrayed in regal splendor, his expression one of exultation, while Xedalli stands stiffly, regarding her brother with a look of utter loathing.
+> Pushing your way into the temple through the crowd of onlookers, you see an elf priest presiding over the figure of the late emperor, whose body floats in an azure pool with a brilliant beam of light penetrating it from above. Flanking the priest are [Prince Xeleth](prince-xeleth-lox.md) and [Princess Xedalli](princess-xedalli-lox.md). The prince is arrayed in regal splendor, his expression one of exultation, while Xedalli stands stiffly, regarding her brother with a look of utter loathing.
 > 
 > Silence fills the temple as the priest raises his arms and the emperor's body, shrouded in light, rises into the beam and disappears.
 > 
-> "The emperor has ascended!" the priest announces. "His spirit is one with the light of Xaryxis. As his firstborn heirs, [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md) and [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) are both in line to rule, but [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) stands accused of treason. Are there any who would defend her claim?"
+> "The emperor has ascended!" the priest announces. "His spirit is one with the light of Xaryxis. As his firstborn heirs, [Prince Xeleth](prince-xeleth-lox.md) and [Princess Xedalli](princess-xedalli-lox.md) are both in line to rule, but [Princess Xedalli](princess-xedalli-lox.md) stands accused of treason. Are there any who would defend her claim?"
 ^14e
 
-[Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md) is a chaotic evil [astral elf aristocrat](3-Mechanics/CLI/bestiary/humanoid/astral-elf-aristocrat-bam.md) with a [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md). [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) is a chaotic neutral [astral elf aristocrat](3-Mechanics/CLI/bestiary/humanoid/astral-elf-aristocrat-bam.md). If Xedalli died previously, the figure standing here is a clone (created using a [clone](3-Mechanics/CLI/spells/clone-xphb.md) spell). Also present is Andavier, a lawful neutral [astral elf star priest](3-Mechanics/CLI/bestiary/humanoid/astral-elf-star-priest-bam.md), who is overseeing Emperor Xavan's ascension. Watching from the perimeter of the room are twelve [astral elf honor guards](3-Mechanics/CLI/bestiary/humanoid/astral-elf-honor-guard-bam.md) of various alignments. See "Boo's Astral Menagerie" for the "astral elves' stat blocks".
+[Prince Xeleth](prince-xeleth-lox.md) is a chaotic evil [astral elf aristocrat](astral-elf-aristocrat-bam.md) with a [ring of shooting stars](ring-of-shooting-stars-xdmg.md). [Princess Xedalli](princess-xedalli-lox.md) is a chaotic neutral [astral elf aristocrat](astral-elf-aristocrat-bam.md). If Xedalli died previously, the figure standing here is a clone (created using a [clone](clone-xphb.md) spell). Also present is Andavier, a lawful neutral [astral elf star priest](astral-elf-star-priest-bam.md), who is overseeing Emperor Xavan's ascension. Watching from the perimeter of the room are twelve [astral elf honor guards](astral-elf-honor-guard-bam.md) of various alignments. See "Boo's Astral Menagerie" for the "astral elves' stat blocks".
 
 If the characters don't speak up, Xedalli tries to mount her own defense, accusing her brother of trying to get rid of her and then fabricating the story of her sedition. It is obvious her words do not move the crowd, however. When Xeleth then tells of finding her engaged in a conspiracy to overthrow him, the crowd boos Xedalli and calls for Xeleth to be crowned emperor. Xedalli, in desperation, demands a chance to prove her innocence in a trial by combat—a request that Xeleth mocks:
 
@@ -310,23 +310,23 @@ If the characters don't speak up, Xedalli tries to mount her own defense, accusi
 > "Only someone who bears one of the starlight rings can challenge for the right to rule," says the prince. "Where is your ring, dear sister?"
 ^14f
 
-If she has entrusted her [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) to the characters, Xedalli points in their direction, causing all eyes in the temple to fall upon them.
+If she has entrusted her [ring of shooting stars](ring-of-shooting-stars-xdmg.md) to the characters, Xedalli points in their direction, causing all eyes in the temple to fall upon them.
 
 If the characters don't have the ring or refuse to present it, Xedalli loses her claim to the throne. Xeleth laughs, after which Andavier declares, "Xeleth is the rightful heir!" Skip ahead to the "All Hail Emperor Xeleth!" section.
 
 #### Defending Xedalli
 
-If the characters show that they have Xedalli's ring, they are entitled to defend the princess's claim to the throne. [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md) is irritated and tries to refute their arguments. You can run this scenario as a tense series of verbal thrusts and parries, with Xedalli prompting the characters as needed to recount the various episodes of their mission and their grievances against the Xaryxian Empire, while Xeleth attempts to twist every point against them. Resolve this debate by having one of the characters—whichever one is leading the argument in favor of Xedalli's claim to the throne—make a DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If another skill seems more appropriate, use that skill instead. If the character's argument is genuinely persuasive or if other characters contribute to the argument, the check is made with advantage. If the check succeeds, the crowd is swayed in Xedalli's favor. If the check fails, the crowd is not swayed, which pleases Xeleth.
+If the characters show that they have Xedalli's ring, they are entitled to defend the princess's claim to the throne. [Prince Xeleth](prince-xeleth-lox.md) is irritated and tries to refute their arguments. You can run this scenario as a tense series of verbal thrusts and parries, with Xedalli prompting the characters as needed to recount the various episodes of their mission and their grievances against the Xaryxian Empire, while Xeleth attempts to twist every point against them. Resolve this debate by having one of the characters—whichever one is leading the argument in favor of Xedalli's claim to the throne—make a DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If another skill seems more appropriate, use that skill instead. If the character's argument is genuinely persuasive or if other characters contribute to the argument, the check is made with advantage. If the check succeeds, the crowd is swayed in Xedalli's favor. If the check fails, the crowd is not swayed, which pleases Xeleth.
 
 If the characters fail to convince the crowd of Xedalli's innocence, Xedalli resorts to challenging her brother to a trial by combat. If the characters turn the crowd's opinion against the prince, it is instead Xeleth who, seeing his status in danger, challenges Xedalli to combat. In either case, proceed to the "Trial by Combat" section.
 
-If the characters attack Xeleth or otherwise try to rescue Xedalli by force, they find themselves up against overwhelming odds. Xeleth uses Starlight Step and [fly](3-Mechanics/CLI/spells/fly-xphb.md) to evade their attacks, while the imperial guards do their best to subdue and apprehend the characters. If the characters are captured, Xeleth promises to have them executed as soon as the coronation is over. In the unlikely event that the party defeats Xeleth or drives him off, skip ahead to the "All Hail Emperor Xedalli!" section.
+If the characters attack Xeleth or otherwise try to rescue Xedalli by force, they find themselves up against overwhelming odds. Xeleth uses Starlight Step and [fly](fly-xphb.md) to evade their attacks, while the imperial guards do their best to subdue and apprehend the characters. If the characters are captured, Xeleth promises to have them executed as soon as the coronation is over. In the unlikely event that the party defeats Xeleth or drives him off, skip ahead to the "All Hail Emperor Xedalli!" section.
 
 #### Astral Font
 
 The Astral Font is a 40-foot-diameter, 2-foot-deep pool of glowing, pale liquid fed by a 10-foot-diameter beam of harmless blue light, which streams down from an aperture in the ceiling 175 feet above. The Astral Font has the following magical properties:
 
-- **Star Beam.** A creature that ends its turn in the beam of light is magically teleported to the radiant core of Xaryxis, along with anything it is wearing or carrying. (The [zodar](3-Mechanics/CLI/bestiary/aberration/zodar-bam.md) is immune to this effect.) A creature that enters the star or starts its turn there takes 132 (`24d10`) radiant damage.  
+- **Star Beam.** A creature that ends its turn in the beam of light is magically teleported to the radiant core of Xaryxis, along with anything it is wearing or carrying. (The [zodar](zodar-bam.md) is immune to this effect.) A creature that enters the star or starts its turn there takes 132 (`24d10`) radiant damage.  
 - **Starlight Spellcasting.** Water removed from the Astral Font glows faintly for 24 hours, shedding dim light in a 5-foot radius. A spellcaster who quaffs an ounce or more of the glowing water must make a DC 16 Wisdom saving throw. On a failed save, the creature takes 24 (`7d6`) psychic damage. On a successful save, the creature gains the ability to cast one spell of their choice from the cleric spell list or the wizard spell list. The chosen spell, which must be of 7th level or lower, uses the caster's spellcasting ability and requires no material components. Once the spell is cast, it fades from memory. A creature can gain only one such spell at a time and can't benefit from drinking the pool's water more than once every 24 hours.  
 
 ### Trial by Combat
@@ -342,7 +342,7 @@ Xedalli asks the characters to serve as her champions. If the characters accept,
 > The priest turns to face you. "The zodar has served the imperial family since the dawn of the empire. Its knowledge is vast, and its will is absolute. To the death!"
 ^153
 
-The characters must fight the [zodar](3-Mechanics/CLI/bestiary/aberration/zodar-bam.md) (see "Boo's Astral Menagerie") on their own. See "Running the Zodar" below for more information about this creature.
+The characters must fight the [zodar](zodar-bam.md) (see "Boo's Astral Menagerie") on their own. See "Running the Zodar" below for more information about this creature.
 
 The characters win the trial by combat if they reduce the zodar to 0 hit points. The zodar wins the battle if all the characters are at 0 hit points at the start of the zodar's turn or if the characters who are still standing concede defeat. The characters forfeit the match if any of them leaves the temple.
 
@@ -350,11 +350,11 @@ Xeleth, Xedalli, and Andavier move to the sidelines for their own safety, protec
 
 #### Xedalli's Favor
 
-If the characters swayed the crowd in favor of [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md), the princess leads the crowd in a chant before the battle begins. This uplifting tribute grants 20 "temporary hit points" to each of her champions.
+If the characters swayed the crowd in favor of [Princess Xedalli](princess-xedalli-lox.md), the princess leads the crowd in a chant before the battle begins. This uplifting tribute grants 20 "temporary hit points" to each of her champions.
 
 #### Running the Zodar
 
-The zodar tries to knock characters [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) instead of killing them. A character reduced to 0 hit points by the zodar is stable at 0 hit points. (The zodar saves its [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell for the next chapter.)
+The zodar tries to knock characters [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) instead of killing them. A character reduced to 0 hit points by the zodar is stable at 0 hit points. (The zodar saves its [wish](wish-xphb.md) spell for the next chapter.)
 
 If the zodar is reduced to 0 hit points, it slumps in place, apparently inert.
 
@@ -386,7 +386,7 @@ If the characters are triumphant, read:
 > Xeleth lets out a strangled cry as his sister steps toward you, a wide smile on her face. "My ring, if you please."
 ^15b
 
-If the characters return Xedalli's [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md), she slides it onto her finger, clenches her fist, and gazes at the ring lovingly. If the characters refuse to return her ring or claim not to have it, she frowns and says, "No matter."
+If the characters return Xedalli's [ring of shooting stars](ring-of-shooting-stars-xdmg.md), she slides it onto her finger, clenches her fist, and gazes at the ring lovingly. If the characters refuse to return her ring or claim not to have it, she frowns and says, "No matter."
 
 Whether or not Xedalli gets her ring back, she knows the characters' mission poses a threat to Xaryxispace (as explained in the next chapter) and concludes that the characters have outlived their usefulness. Read:
 
@@ -404,7 +404,7 @@ Whether or not Xedalli gets her ring back, she knows the characters' mission pos
 > *The Xaryxian Empire bombarded the characters' world with astral seeds, which sprouted into crystal vines that began harvesting the planet's energy. Determined to save their world, the characters fought their way to the imperial citadel orbiting Xaryxis, where the next emperor of the Xaryxian Empire was declared*!
 ^15f
 
-Regardless of which sibling—Xeleth or Xedalli—ascends to the Xaryxian throne, the new emperor orders the execution of the characters. Before that can happen, the [zodar](3-Mechanics/CLI/bestiary/aberration/zodar-bam.md) intervenes on the party's behalf, using its [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell to restore the characters to full health.
+Regardless of which sibling—Xeleth or Xedalli—ascends to the Xaryxian throne, the new emperor orders the execution of the characters. Before that can happen, the [zodar](zodar-bam.md) intervenes on the party's behalf, using its [wish](wish-xphb.md) spell to restore the characters to full health.
 
 ### Dying Wish
 
@@ -417,9 +417,9 @@ Unknown to Xeleth or Xedalli, the zodar was tasked by a previous emperor to help
 > A resounding, supernal voice issues from the zodar, astonishing everyone. "TAKE THE RING OF STARS INTO THE HEART OF THE STAR WHERE IT WAS FORGED, AND YOUR WORLD WILL BE SAVED." At this pronouncement, golden light spills from the zodar's eyes and washes over you. The zodar then crumbles into dust.
 ^161
 
-As a result of the zodar's [wish](3-Mechanics/CLI/spells/wish-xphb.md), the characters regain all their hit points. Each character also receives the benefit of a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell. Seeing the characters invigorated in this way causes all the astral elves in the Temple of Light, including Xeleth and Xedalli, to wonder if the gods have forsaken them. Why else, as they see it, would the zodar, which has defended the royal family for eons, bestow such a gift on the empire's enemies?
+As a result of the zodar's [wish](wish-xphb.md), the characters regain all their hit points. Each character also receives the benefit of a [greater restoration](greater-restoration-xphb.md) spell. Seeing the characters invigorated in this way causes all the astral elves in the Temple of Light, including Xeleth and Xedalli, to wonder if the gods have forsaken them. Why else, as they see it, would the zodar, which has defended the royal family for eons, bestow such a gift on the empire's enemies?
 
-The zodar's pronouncement tells the characters what they must do to save their world: hurl Xeleth's or Xedalli's [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) into the heart of Xaryxis. Doing so not only destroys the star but also kills off the crystal vines threatening the characters' world.
+The zodar's pronouncement tells the characters what they must do to save their world: hurl Xeleth's or Xedalli's [ring of shooting stars](ring-of-shooting-stars-xdmg.md) into the heart of Xaryxis. Doing so not only destroys the star but also kills off the crystal vines threatening the characters' world.
 
 Depending on how the previous chapter played out, the characters might have Xedalli's ring in their possession. If not, they will need to acquire that ring or obtain its twin, which is worn by Xeleth.
 
@@ -434,30 +434,30 @@ Andavier knows what will happen if the characters do as the zodar commands and m
 
 Andavier orders the audience to evacuate the Temple of Light. The priest leads the exodus, leaving the characters and their allies alone with Xeleth, Xedalli, and the siblings' royal guards.
 
-Xeleth and Xedalli are [astral elf aristocrats](3-Mechanics/CLI/bestiary/humanoid/astral-elf-aristocrat-bam.md), and at least Xeleth has his [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md). Twelve [astral elf honor guards](3-Mechanics/CLI/bestiary/humanoid/astral-elf-honor-guard-bam.md) (see "Boo's Astral Menagerie" for their stat blocks) stand ready to defend whichever sibling was named emperor in the previous chapter.
+Xeleth and Xedalli are [astral elf aristocrats](astral-elf-aristocrat-bam.md), and at least Xeleth has his [ring of shooting stars](ring-of-shooting-stars-xdmg.md). Twelve [astral elf honor guards](astral-elf-honor-guard-bam.md) (see "Boo's Astral Menagerie" for their stat blocks) stand ready to defend whichever sibling was named emperor in the previous chapter.
 
-Whichever sibling was declared emperor in the previous chapter orders the guards to attack the characters, using the distraction to try to summon a solar dragon before joining the fray. Meanwhile, the other sibling casts [fly](3-Mechanics/CLI/spells/fly-xphb.md) and tries to flee the temple.
+Whichever sibling was declared emperor in the previous chapter orders the guards to attack the characters, using the distraction to try to summon a solar dragon before joining the fray. Meanwhile, the other sibling casts [fly](fly-xphb.md) and tries to flee the temple.
 
 ### Life or Death
 
-When the characters have at least one [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) in their custody, they must decide whether to destroy Xaryxis (to save their world and others like it) or to spare it (thus sealing their world's doom). If the characters seek the counsel of allies, use the following information to guide those conversations:
+When the characters have at least one [ring of shooting stars](ring-of-shooting-stars-xdmg.md) in their custody, they must decide whether to destroy Xaryxis (to save their world and others like it) or to spare it (thus sealing their world's doom). If the characters seek the counsel of allies, use the following information to guide those conversations:
 
 - **Commodore Krux.** The giff is adamant that Xaryxis be destroyed. He reminds the characters of the many worlds the Xaryxian Empire has wiped out of existence.  
 - **Flinch.** The hadozee recommends mercy for the astral elves. Flinch explains that his concern is not for the people of Xaryxispace but for the characters, because he has seen how the desire for revenge can bring great souls low—a remark that shames Krux into silence.  
 - **Grimzod Gargenhale.** Grimzod heartily endorses the destruction of Xaryxis, insisting that the astral elves have that and worse coming to them.  
 - **Starbough.** The destruction of Xaryxis would end the lives of all the creatures in Xaryxispace—an incalculable loss, in Starbough's estimation.  
-- **Topolah.** If blowing up the star is what it takes to save the characters' world, then [Topolah](3-Mechanics/CLI/bestiary/npc/topolah-lox.md) is all for it. She also observes that the opportunity to witness the death of a star is a once-in-a-lifetime event.  
+- **Topolah.** If blowing up the star is what it takes to save the characters' world, then [Topolah](topolah-lox.md) is all for it. She also observes that the opportunity to witness the death of a star is a once-in-a-lifetime event.  
 - **Warwyck Blastimoff.** Warwyck reminds the characters that good soldiers have fought and died to give the characters this chance at saving their world. He hopes they'll follow through.  
 
 #### No Coming Back
 
-![Xaryxis explodes!](3-Mechanics/CLI/adventures/light-of-xaryxis/img/046-12-003-xaryxis-explodes.webp#center)
+![Xaryxis explodes!](046-12-003-xaryxis-explodes.webp#center)
 
-To destroy Xaryxis, someone bearing Xeleth's or Xedalli's [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) must travel into the heart of the star, either by ship (a three-day voyage) or via the Astral Font's light beam (see chapter 11). It is, everyone realizes, a journey from which there is no coming back.
+To destroy Xaryxis, someone bearing Xeleth's or Xedalli's [ring of shooting stars](ring-of-shooting-stars-xdmg.md) must travel into the heart of the star, either by ship (a three-day voyage) or via the Astral Font's light beam (see chapter 11). It is, everyone realizes, a journey from which there is no coming back.
 
-If no characters volunteer for this mission, [Grimzod Gargenhale](3-Mechanics/CLI/bestiary/npc/grimzod-gargenhale-lox.md) does so. If the characters allow Grimzod to sacrifice himself, he says, "I hope you all appreciate the irony of a vampirate flying into the sun." He then entrusts his [crawling claw](3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) to [Topolah](3-Mechanics/CLI/bestiary/npc/topolah-lox.md), saying, "Let it never be said that [Grimzod Gargenhale](3-Mechanics/CLI/bestiary/npc/grimzod-gargenhale-lox.md) failed to give a lovely lady a hand."
+If no characters volunteer for this mission, [Grimzod Gargenhale](grimzod-gargenhale-lox.md) does so. If the characters allow Grimzod to sacrifice himself, he says, "I hope you all appreciate the irony of a vampirate flying into the sun." He then entrusts his [crawling claw](crawling-claw-xmm.md) to [Topolah](topolah-lox.md), saying, "Let it never be said that [Grimzod Gargenhale](grimzod-gargenhale-lox.md) failed to give a lovely lady a hand."
 
-[Commodore Krux](3-Mechanics/CLI/bestiary/npc/commodore-krux-lox.md) is reluctant to entrust the [ring of shooting stars](3-Mechanics/CLI/items/ring-of-shooting-stars-xdmg.md) to the vampirate. A character must succeed on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check to convince Krux to let Gargenhale have the ring and make this doomsday trip. Once he has the ring, Gargenhale enters the Astral Font's light beam. Moments later, he disappears and is gone forever.
+[Commodore Krux](commodore-krux-lox.md) is reluctant to entrust the [ring of shooting stars](ring-of-shooting-stars-xdmg.md) to the vampirate. A character must succeed on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check to convince Krux to let Gargenhale have the ring and make this doomsday trip. Once he has the ring, Gargenhale enters the Astral Font's light beam. Moments later, he disappears and is gone forever.
 
 If a character enters the heart of Xaryxis, describe their final moments as follows:
 
@@ -487,7 +487,7 @@ If Xaryxis was not destroyed, the characters return home to find their world on 
 
 ### Xaryxis Is Destroyed
 
-![The destruction of Xaryxis...](3-Mechanics/CLI/adventures/light-of-xaryxis/img/047-12-004-crystal-vines-crumble.webp#center "The destruction of Xaryxis causes the crystal vines to crumble. The heroes have saved their world!")
+![The destruction of Xaryxis...](047-12-004-crystal-vines-crumble.webp#center "The destruction of Xaryxis causes the crystal vines to crumble. The heroes have saved their world!")
 
 If Xaryxis was destroyed, the characters return home to find that the crystal vines that were choking their world have shattered and collapsed. Among the world's inhabitants, shock at the sudden reprieve has given way to relief and jubilation.
 

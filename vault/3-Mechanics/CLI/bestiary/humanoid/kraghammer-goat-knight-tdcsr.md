@@ -12,15 +12,15 @@ aliases: ["Kraghammer Goat-Knight"]
 # [Kraghammer Goat-Knight](3-Mechanics\CLI\bestiary\humanoid/kraghammer-goat-knight-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 246*  
 
-The sheer cliff faces and winding mountainside roads of the "Cliffkeep Mountains" are nearly impossible to traverse by normal means with any speed. The Peakclimber Knights of "Kraghammer"—commonly known as the [goat-knights](3-Mechanics/CLI/bestiary/humanoid/kraghammer-goat-knight-tdcsr.md)—are the enforcers of peace and justice across the mountain range. They trust their [giant goat steeds](3-Mechanics/CLI/bestiary/celestial/goat-knight-steed-tdcsr.md) to master the harsh mountain slopes, and many travelers lost within the "Cliffkeep Mountains" have been saved by a [goat-knight](3-Mechanics/CLI/bestiary/humanoid/kraghammer-goat-knight-tdcsr.md) who led them to safety along the more traversable mountain paths.
+The sheer cliff faces and winding mountainside roads of the "Cliffkeep Mountains" are nearly impossible to traverse by normal means with any speed. The Peakclimber Knights of "Kraghammer"—commonly known as the [goat-knights](kraghammer-goat-knight-tdcsr.md)—are the enforcers of peace and justice across the mountain range. They trust their [giant goat steeds](goat-knight-steed-tdcsr.md) to master the harsh mountain slopes, and many travelers lost within the "Cliffkeep Mountains" have been saved by a [goat-knight](kraghammer-goat-knight-tdcsr.md) who led them to safety along the more traversable mountain paths.
 
 These knights serve the All-Hammer and sometimes find themselves at odds while enforcing the laws of "Kraghammer" and upholding the edicts of their god.
 
 ## Mounted Combatant
 
-Any spell the [goat-knight](3-Mechanics/CLI/bestiary/humanoid/kraghammer-goat-knight-tdcsr.md) casts with a range of self also targets the goat.
+Any spell the [goat-knight](kraghammer-goat-knight-tdcsr.md) casts with a range of self also targets the goat.
 
-When a [Goat-Knight Steed](3-Mechanics/CLI/bestiary/celestial/goat-knight-steed-tdcsr.md) drops to 0 hit points, it disappears, leaving behind no physical form. The [goat-knight](3-Mechanics/CLI/bestiary/humanoid/kraghammer-goat-knight-tdcsr.md) can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the [goat-knight](3-Mechanics/CLI/bestiary/humanoid/kraghammer-goat-knight-tdcsr.md) casts [find steed](3-Mechanics/CLI/spells/find-steed-xphb.md).
+When a [Goat-Knight Steed](goat-knight-steed-tdcsr.md) drops to 0 hit points, it disappears, leaving behind no physical form. The [goat-knight](kraghammer-goat-knight-tdcsr.md) can also dismiss the steed at any time as an action, causing it to disappear. In either case, the same steed is summoned when the [goat-knight](kraghammer-goat-knight-tdcsr.md) casts [find steed](find-steed-xphb.md).
 
 ```statblock
 "name": "Kraghammer Goat-Knight (TDCSR)"

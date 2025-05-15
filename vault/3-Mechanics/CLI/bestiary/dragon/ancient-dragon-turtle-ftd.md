@@ -91,7 +91,7 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 |----------|---------------------|
 | 1 | An ancient dragon turtle and an ancient gold dragon meet once a year to trade moves in a game of dragonchess that has been going on for centuries. |
 | 2 | An ancient dragon turtle serves as counsel to an empyrean court, tempering the Celestials' passions with the dragon turtle's endless patience. |
-| 3 | A [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell forces an ancient dragon turtle to carry a lich's tower. |
+| 3 | A [geas](geas-xphb.md) spell forces an ancient dragon turtle to carry a lich's tower. |
 | 4 | An ancient dragon turtle is responsible for ensuring that a kraken is never woken from its slumber. |
 ^connected-creatures
 

@@ -11,9 +11,9 @@ aliases: ["Clasp Member (Myriad Operative) (Variant)"]
 
 
 - **Skill Proficiencies.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), plus your choice of [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) or [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)  
-- **Tool Proficiencies.** [Disguise Kit](3-Mechanics/CLI/items/disguise-kit-xphb.md), [forgery kit](3-Mechanics/CLI/items/forgery-kit-xphb.md), or [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) (one of your choice)  
+- **Tool Proficiencies.** [Disguise Kit](disguise-kit-xphb.md), [forgery kit](forgery-kit-xphb.md), or [thieves' tools](thieves-tools-xphb.md) (one of your choice)  
 - **Languages.** Thieves' Cant  
-- **Equipment.** A set of inconspicuous common clothes, a set of tools with which you're proficient, and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A set of inconspicuous common clothes, a set of tools with which you're proficient, and a belt [pouch](pouch-xphb.md) containing 10 gp  
 
 
 ## Variant: Myriad Operative
@@ -86,6 +86,6 @@ Your bond is likely associated with your fellow "Clasp" members or the individua
 | 2 | I get bored whenever a plan is going too smoothly. A win is always more fun when it's by the skin of my teeth! |
 | 3 | I've seen Spirelings walk out among cheering crowds of thousands. Gods, I wish that were me. I need that to be me. |
 | 4 | I'm rubbish with money, and never seem to leave town with a full purse. Keeps me coming back to the life, I suppose. |
-| 5 | I can't work with shoddy, makeshift [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). I need everything involving my work to be perfect. |
+| 5 | I can't work with shoddy, makeshift [thieves' tools](thieves-tools-xphb.md). I need everything involving my work to be perfect. |
 | 6 | Any slight against me, no matter how small, is cause for revenge. |
 ^clasp-member-flaws

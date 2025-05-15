@@ -20,13 +20,13 @@ The deeds of Vox Machina are sung by bards across Tal'Dorei, often exaggerating 
 
 Those among them who age have softer bodies and lines on their faces. Those among them who don't age still show the weight of the world upon their shoulders. By and large, the members of Vox Machina have set aside weapons, armor, and spells in favor of more subtle ways of helping others. Some lead the lands they were born to lead. Others have been elected to the "Tal'Dorei Council", shaping the fate of the continent's people with quiet wisdom rather than blades and battle cries.
 
-Still, each member of this legendary band of adventurers would take up arms again in an instant if it meant protecting those they care for the most. And the [Vestiges of Divergence](3-Mechanics/CLI/tables/vestiges-of-divergence-by-advancement-tdcsr.md), whose power they unlocked in the battles against the "Cinder King" and The Whispered One, are still within their grasp.
+Still, each member of this legendary band of adventurers would take up arms again in an instant if it meant protecting those they care for the most. And the [Vestiges of Divergence](vestiges-of-divergence-by-advancement-tdcsr.md), whose power they unlocked in the battles against the "Cinder King" and The Whispered One, are still within their grasp.
 
 The following stat blocks are here for GMs to use if their players encounter a member of Vox Machina—hopefully as an ally or a "quest giver," for woe betide anyone who encounters these legendary heroes as a foe. These statistics don't represent the full extent of the characters' abilities as 20th-level adventurers, but have been streamlined to make them easier for the Game Master to run.
 
 ## Grog Strongjaw
 
-Towering, broad, and ready for battle, Grog Strongjaw is a paragon of raw strength and unwavering determination. The son of Stonejaw Strongjaw joined Vox Machina in their first meeting in "Stilben", and went on to defeat his tyrannical uncle Kevdak, bear the mythic [Titanstone Knuckles](3-Mechanics/CLI/items/titanstone-knuckles-tdcsr.md), and save Exandria twice over alongside his companions.
+Towering, broad, and ready for battle, Grog Strongjaw is a paragon of raw strength and unwavering determination. The son of Stonejaw Strongjaw joined Vox Machina in their first meeting in "Stilben", and went on to defeat his tyrannical uncle Kevdak, bear the mythic [Titanstone Knuckles](titanstone-knuckles-tdcsr.md), and save Exandria twice over alongside his companions.
 
 ### Kindhearted Berserker
 
@@ -34,7 +34,7 @@ Grog is a man of simple pleasures. When he traveled the world with Vox Machina, 
 
 ### After the Epilogue
 
-After The Whispered One's defeat, Grog Strongjaw retired to "Westruun" to live with his best friend [Pike Trickfoot](3-Mechanics/CLI/bestiary/npc/pike-trickfoot-tdcsr.md). Since then, he has dedicated himself to learning to read and strengthening his mind. In the course of his study of letters, shapes, colors, and numbers, Grog has organized a quadrennial event in "Whitestone" that he calls the Luncheon of Champions. He personally sends a handwritten invitation to the greatest warriors of Exandria to battle in an all-out brawl—and then join him for lunch and ale.
+After The Whispered One's defeat, Grog Strongjaw retired to "Westruun" to live with his best friend [Pike Trickfoot](pike-trickfoot-tdcsr.md). Since then, he has dedicated himself to learning to read and strengthening his mind. In the course of his study of letters, shapes, colors, and numbers, Grog has organized a quadrennial event in "Whitestone" that he calls the Luncheon of Champions. He personally sends a handwritten invitation to the greatest warriors of Exandria to battle in an all-out brawl—and then join him for lunch and ale.
 
 ```statblock
 "name": "Grog Strongjaw (TDCSR)"

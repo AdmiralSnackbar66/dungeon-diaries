@@ -8,7 +8,7 @@ aliases: ["Tal'Dorei Campaign Setting Reborn"]
 # Tal'Dorei Campaign Setting Reborn
 *Source: Tal'Dorei Campaign Setting Reborn, p. 1* 
 
-![The cover of the book titl...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/cover.webp#center "The cover of the book titled: Tal'Dorei Campaign Setting Reborn by Matthew Mercer, Hannah Rose, and James J. Haeck. The cover illustration shows the deck of an airship flying through the clouds above Tal'Dorei with an adranach attacking the helm of the ship, which is on fire from the adranach attack. Five adventurers on the deck of the airship face the adranach and rush to attack it, with a sixth adventurer leaping to attack the adranach. The adranach is a large, purple, luminescent winged creature with a silver mask, silver-taloned front paws, and stars glittering in its wings.")
+![The cover of the book titl...](cover.webp#center "The cover of the book titled: Tal'Dorei Campaign Setting Reborn by Matthew Mercer, Hannah Rose, and James J. Haeck. The cover illustration shows the deck of an airship flying through the clouds above Tal'Dorei with an adranach attacking the helm of the ship, which is on fire from the adranach attack. Five adventurers on the deck of the airship face the adranach and rush to attack it, with a sixth adventurer leaping to attack the adranach. The adranach is a large, purple, luminescent winged creature with a silver mask, silver-taloned front paws, and stars glittering in its wings.")
 
 ## Preface
 
@@ -28,8 +28,8 @@ Matthew Mercer (https://twitter.com/matthewmercer),
 
 Game Master of *Critical Role*
 
-![](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/preface.webp#center)
+![](preface.webp#center)
 
 > [!gallery]
-> ![The deck of an airship fly...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/cover-internal.webp#gallery "The deck of an airship flying through the clouds above Tal'Dorei with an adranach attacking the helm of the ship, which is on fire from the adranach attack. Five adventurers on the deck of the airship face the adranach and rush to attack it, with a sixth adventurer leaping to attack the adranach. The adranach is a large, purple, luminescent winged creature with a silver mask, silver-taloned front paws, and stars glittering in its wings.")
-> ![The deck of an airship fly...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/cover-wide.webp#gallery "The deck of an airship flying through the clouds above Tal'Dorei with an adranach attacking the helm of the ship, which is on fire from the adranach attack. Five adventurers on the deck of the airship face the adranach and rush to attack it, with a sixth adventurer leaping to attack the adranach. The adranach is a large, purple, luminescent winged creature with a silver mask, silver-taloned front paws, and stars glittering in its wings.")
+> ![The deck of an airship fly...](cover-internal.webp#gallery "The deck of an airship flying through the clouds above Tal'Dorei with an adranach attacking the helm of the ship, which is on fire from the adranach attack. Five adventurers on the deck of the airship face the adranach and rush to attack it, with a sixth adventurer leaping to attack the adranach. The adranach is a large, purple, luminescent winged creature with a silver mask, silver-taloned front paws, and stars glittering in its wings.")
+> ![The deck of an airship fly...](cover-wide.webp#gallery "The deck of an airship flying through the clouds above Tal'Dorei with an adranach attacking the helm of the ship, which is on fire from the adranach attack. Five adventurers on the deck of the airship face the adranach and rush to attack it, with a sixth adventurer leaping to attack the adranach. The adranach is a large, purple, luminescent winged creature with a silver mask, silver-taloned front paws, and stars glittering in its wings.")

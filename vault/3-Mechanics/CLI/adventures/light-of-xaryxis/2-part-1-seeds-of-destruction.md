@@ -8,7 +8,7 @@ aliases: ["Part 1: Seeds of Destruction"]
 # Part 1: Seeds of Destruction
 *Source: Light of Xaryxis, p. 9* 
 
-![](3-Mechanics/CLI/adventures/light-of-xaryxis/img/004-09-001-part-one-splash.webp#center)
+![](004-09-001-part-one-splash.webp#center)
 
 ## Chapter 1: Astral Rain
 
@@ -29,19 +29,19 @@ When you are ready to begin play, read:
 > The ground churns again, and more eruptions burst through the streets all around you. From these sites sprout smaller crystalline vines that uproot themselves and begin lurching through the streets, driving panicked citizens before them, while the enormous vine in the distance stretches ever taller.
 ^00f
 
-The friendly sailor, [Elaina Sartell](3-Mechanics/CLI/bestiary/npc/elaina-sartell-lox.md), is described later in the chapter. She flees at once, leaving the characters to decide their own course of action.
+The friendly sailor, [Elaina Sartell](elaina-sartell-lox.md), is described later in the chapter. She flees at once, leaving the characters to decide their own course of action.
 
-The ambulatory vines are six [astral blights](3-Mechanics/CLI/bestiary/plant/astral-blight-lox.md) (see the accompanying stat block). They focus their attacks on nearby commoners, ignoring the characters except for any who attack them. The blights' slow speed means the characters can evade them easily.
+The ambulatory vines are six [astral blights](astral-blight-lox.md) (see the accompanying stat block). They focus their attacks on nearby commoners, ignoring the characters except for any who attack them. The blights' slow speed means the characters can evade them easily.
 
 The characters have several choices for how to proceed:
 
 - **Fight the Blights.** If the characters destroy all six blights, new ones appear; roll a `d6` to determine how many. These new arrivals either burst up from the ground or shamble along streets and alleys, converging on the characters' location. Each time the characters defeat a group of blights, a new wave appears; repeat the die roll to see how many more blights arrive. With the appearance of each new wave, it should become increasingly obvious to the players that the characters can't eliminate all the blights and should consider a different course of action.  
-- **Head to the Docks.** If the characters heed [Elaina Sartell](3-Mechanics/CLI/bestiary/npc/elaina-sartell-lox.md)'s advice and head to the docks, run the "Trouble at the Docks" encounter when they arrive.  
+- **Head to the Docks.** If the characters heed [Elaina Sartell](elaina-sartell-lox.md)'s advice and head to the docks, run the "Trouble at the Docks" encounter when they arrive.  
 - **Hole Up.** If the characters try to barricade themselves in a building or find somewhere else in the settlement to hide, the increasingly violent earth tremors cause their shelter to partially collapse, making it apparent that there's no safe refuge in the settlement. The characters will need to choose another option.  
 - **Investigate the Crystalline Vine.** If the characters make their way toward the enormous crystalline vine, see "Crystalline Vine" below.  
 - **Make for the Outskirts.** If the characters bolt through the streets and alleys toward the outskirts of the settlement, see "Danger in the Streets" below.  
 
-![Astral Blight](3-Mechanics/CLI/adventures/light-of-xaryxis/img/005-637961800673014558.webp#center)
+![Astral Blight](005-637961800673014558.webp#center)
 
 ### Crystalline Vine
 
@@ -53,7 +53,7 @@ As it grows taller, the vine also grows wider, slowly pushing away the dirt and 
 
 ### Danger in the Streets
 
-Astral blights roam the streets. Members of the local militia (use the [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stat block) try to hold the blights at bay long enough for unarmed civilians to flee the vicinity. If the characters stay in a single location for longer than 1 minute, `1d6` [astral blights](3-Mechanics/CLI/bestiary/plant/astral-blight-lox.md) (see the accompanying stat block) converge on their location and attack them.
+Astral blights roam the streets. Members of the local militia (use the [guard](guard-xmm.md) stat block) try to hold the blights at bay long enough for unarmed civilians to flee the vicinity. If the characters stay in a single location for longer than 1 minute, `1d6` [astral blights](astral-blight-lox.md) (see the accompanying stat block) converge on their location and attack them.
 
 The following events occur as the characters move through streets and alleys toward the outskirts of the settlement, but not if they head straight to the docks:
 
@@ -70,14 +70,14 @@ When the characters arrive at the docks, read:
 > 
 > The scene at the docks is chaotic. Hundreds of people swarm the piers, trying to push their way onto three vessels that haven't yet set sail: two longships and a galleon. A group of thugs in black leather armor use their clubs on a crowd of screaming commoners, keeping the people away from the ships as they're loaded with cargo under the supervision of a sneering man with long red hair.
 > 
-> A woman steps out of the crowd and wipes blood from her chin. "Glad to see you again," she says with a smile. "I'm Captain [Elaina Sartell](3-Mechanics/CLI/bestiary/npc/elaina-sartell-lox.md), and one of those ships is mine. Pity I can't reach it. Would you be good enough to help me? I promise to return the favor."
+> A woman steps out of the crowd and wipes blood from her chin. "Glad to see you again," she says with a smile. "I'm Captain [Elaina Sartell](elaina-sartell-lox.md), and one of those ships is mine. Pity I can't reach it. Would you be good enough to help me? I promise to return the favor."
 ^013
 
-Captain [Elaina Sartell](3-Mechanics/CLI/bestiary/npc/elaina-sartell-lox.md), a chaotic good [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md), commands the galleon *Moondancer*. She is unflappable—an island of calm in a sea of chaos.
+Captain [Elaina Sartell](elaina-sartell-lox.md), a chaotic good [bandit captain](bandit-captain-xmm.md), commands the galleon *Moondancer*. She is unflappable—an island of calm in a sea of chaos.
 
 #### Traevus and His Gang
 
-Captain Sartell identifies the red-haired man as a local crime lord named Traevus—a neutral evil [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md). The ten [thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) blocking her path work for him.
+Captain Sartell identifies the red-haired man as a local crime lord named Traevus—a neutral evil [veteran](warrior-veteran-xmm.md). The ten [thugs](tough-xmm.md) blocking her path work for him.
 
 Traevus and his thugs are indifferent toward the party but turn hostile if the characters try to force their way onto the *Moondancer* with Captain Sartell in tow. Although Sartell knows Traevus, he doesn't recognize her.
 
@@ -97,7 +97,7 @@ Once the characters and other passengers are safely aboard the *Moondancer*, rea
 
 > [!readaloud] 
 > 
-> The crystalline vine coils upward, scraping the sky. From the harbor, you can see similar vines miles from the settlement, having burst out of the world and reaching skyward. As the *Moondancer* clears the harbor, Captain Sartell stamps her boot hard on the deck. "[Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md)!" she yells. "Take us up!"
+> The crystalline vine coils upward, scraping the sky. From the harbor, you can see similar vines miles from the settlement, having burst out of the world and reaching skyward. As the *Moondancer* clears the harbor, Captain Sartell stamps her boot hard on the deck. "[Flapjack](flapjack-lox.md)!" she yells. "Take us up!"
 > 
 > Suddenly, the galleon lists and creaks as it rises out of the water and into the air! The world falls away beneath you as the *Moondancer* flies through the clouds and into the starry abyss of night.
 ^017
@@ -146,7 +146,7 @@ As the *Moondancer* leaves the characters' world behind, read:
 Only two members of the *Moondancer*'s crew are aboard: Captain Sartell and a spelljamming flumph (see "Flapjack the Flumph" below). Depending on how events played out in chapter 1, the *Moondancer* might have the following passengers on board, in addition to the characters:
 
 - Traevus and his thugs (neither Traevus nor his thugs will take orders from Captain Sartell, instead keeping to themselves as long as the characters are around to thwart any open revolt)  
-- Up to sixty [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (six of whom are competent sailors)  
+- Up to sixty [commoners](commoner-xmm.md) (six of whom are competent sailors)  
 
 The *Moondancer* is armed with two ballistae but has no crew to operate them. Its mangonel was destroyed in a recent engagement, and Captain Sartell hasn't replaced it yet. Getting a new mangonel was the main reason Sartell was on the party's home world, since wood is much easier to find there than at her usual port of call, the Rock of Bral.
 
@@ -154,42 +154,42 @@ The *Moondancer* is armed with two ballistae but has no crew to operate them. It
 
 Captain Sartell operates out of the Rock of Bral as a privateer under the commission of the city's ruler, Prince Andru. She assures the characters that they'll be safe there.
 
-![Flapjack](3-Mechanics/CLI/adventures/light-of-xaryxis/img/007-09-003-flapjack.webp#center)
+![Flapjack](007-09-003-flapjack.webp#center)
 
 Once her ship docks at the Rock of Bral, Captain Sartell plans to offload the characters and the ship's other passengers. This act marks the extent of her willingness to help the characters.
 
 #### Flapjack the Flumph
 
-One crew member stayed aboard the *Moondancer* while it was in port: a [flumph](3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md) named [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md), who serves as the ship's spelljammer. [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) has the following additional action option:
+One crew member stayed aboard the *Moondancer* while it was in port: a [flumph](flumph-xmm.md) named [Flapjack](flapjack-lox.md), who serves as the ship's spelljammer. [Flapjack](flapjack-lox.md) has the following additional action option:
 
 > [!readaloud] 
 > 
 > **Spellcasting.** The flumph casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 12):
 > 
-> At will: [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)
+> At will: [mage hand](mage-hand-xphb.md), [minor illusion](minor-illusion-xphb.md)
 > 
-> 1/day each: [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md)
+> 1/day each: [magic missile](magic-missile-xphb.md), [unseen servant](unseen-servant-xphb.md)
 ^022
 
 #### Features of the Moondancer
 
 > [!gallery]
-> ![Moondancer Deck Plans](3-Mechanics/CLI/adventures/light-of-xaryxis/img/008-map-2-11-space-galleon.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/light-of-xaryxis/img/009-map-2-11-space-galleon-player.webp#gallery)
+> ![Moondancer Deck Plans](008-map-2-11-space-galleon.webp#gallery)
+> ![Player Version](009-map-2-11-space-galleon-player.webp#gallery)
 
 Use the space galleon deck plans in the "Astral Adventurer's Guide" to represent the *Moondancer*. Noteworthy features are described below:
 
 ##### Area 3:
 
-Captain's Quarters. Among Captain Sartell's possessions is a locked treasure chest, which she keeps in her cabin. Captain Sartell carries the only key to the chest. As an action, a character can pick the lock by making a successful DC 15 Dexterity check using thieves' tools, or break open the chest with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The chest contains three bottles of fine wine (10 gp each), six gold bracelets (25 gp each), nine pearls (100 gp each) in a velvet pouch, and a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of air bubble (see the "Astral Adventurer's Guide").
+Captain's Quarters. Among Captain Sartell's possessions is a locked treasure chest, which she keeps in her cabin. Captain Sartell carries the only key to the chest. As an action, a character can pick the lock by making a successful DC 15 Dexterity check using thieves' tools, or break open the chest with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The chest contains three bottles of fine wine (10 gp each), six gold bracelets (25 gp each), nine pearls (100 gp each) in a velvet pouch, and a [spell scroll](spell-scroll-xdmg.md) of air bubble (see the "Astral Adventurer's Guide").
 
 ##### Area 5:
 
-Spelljamming Helm. The ship's spelljamming helm looks like a floating, ornate silver chair with a purple seat cushion and no legs. Glowing blue crystals underneath the seat project a magic circle onto the floor, stabilizing the chair. [Flapjack the flumph](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) sits in the chair while piloting the ship.
+Spelljamming Helm. The ship's spelljamming helm looks like a floating, ornate silver chair with a purple seat cushion and no legs. Glowing blue crystals underneath the seat project a magic circle onto the floor, stabilizing the chair. [Flapjack the flumph](flapjack-lox.md) sits in the chair while piloting the ship.
 
 ##### Area 12:
 
-Upper Cargo Hold. The upper cargo hold contains a dozen healthy [mules](3-Mechanics/CLI/items/mule-xphb.md) (which Sartell plans to sell as beasts of burden); sacks of food for the animals; and material placed here by Traevus and his gang (see chapter 1), which consists of twenty 40-pound crates of assorted martial weapons (2,000 gp total value) and five hundred bottles of brandy (3 gp each).
+Upper Cargo Hold. The upper cargo hold contains a dozen healthy [mules](mule-xphb.md) (which Sartell plans to sell as beasts of burden); sacks of food for the animals; and material placed here by Traevus and his gang (see chapter 1), which consists of twenty 40-pound crates of assorted martial weapons (2,000 gp total value) and five hundred bottles of brandy (3 gp each).
 
 ##### Area 13:
 
@@ -206,9 +206,9 @@ The characters have time to take a short rest before trouble catches up to them 
 > "Astral elves," curses Captain Sartell, "and they don't look friendly. Best ready yourselves for a fight."
 ^026
 
-The astral elf vessel is a star moth called the *Dark Star*. It is crewed by three [astral elf warriors](3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md)—Captain Azmadian (lawful evil), Lieutenant Jalin (lawful evil), and Lieutenant Zanth (lawful neutral)—as well as a neutral evil [astral elf star priest](3-Mechanics/CLI/bestiary/humanoid/astral-elf-star-priest-bam.md) named Altura (the ship's spelljammer), and nine plasmoid explorers of various alignments.
+The astral elf vessel is a star moth called the *Dark Star*. It is crewed by three [astral elf warriors](astral-elf-warrior-bam.md)—Captain Azmadian (lawful evil), Lieutenant Jalin (lawful evil), and Lieutenant Zanth (lawful neutral)—as well as a neutral evil [astral elf star priest](astral-elf-star-priest-bam.md) named Altura (the ship's spelljammer), and nine plasmoid explorers of various alignments.
 
-![The Dark Star](3-Mechanics/CLI/adventures/light-of-xaryxis/img/010-09-004-the-dark-star.webp#center)
+![The Dark Star](010-09-004-the-dark-star.webp#center)
 
 #### Ship-to-Ship Battle
 
@@ -218,9 +218,9 @@ Captain Sartell grimly informs the characters that the star moth is the faster s
 
 #### Dealing with the Dark Star
 
-Once the ships are close enough, the three [astral elf warriors](3-Mechanics/CLI/bestiary/humanoid/astral-elf-warrior-bam.md) board the *Moondancer*, their faces hidden behind visors, and haughtily demand Captain Sartell's surrender. She politely declines, prompting the astral elves to attack while the plasmoids use the *Dark Star*'s ballistae to fire on characters they can see. Captain Sartell fights alongside the characters, but Traevus and his thugs, if they are aboard, come to the *Moondancer*'s defense only if it looks like the characters are about to lose.
+Once the ships are close enough, the three [astral elf warriors](astral-elf-warrior-bam.md) board the *Moondancer*, their faces hidden behind visors, and haughtily demand Captain Sartell's surrender. She politely declines, prompting the astral elves to attack while the plasmoids use the *Dark Star*'s ballistae to fire on characters they can see. Captain Sartell fights alongside the characters, but Traevus and his thugs, if they are aboard, come to the *Moondancer*'s defense only if it looks like the characters are about to lose.
 
-The astral elves are confident they can conquer the *Moondancer*, but if two of the warriors fall, the third tries to retreat to the *Dark Star*. After that attempt succeeds or fails, the star moth beats a hasty retreat. The star priest, Altura, remains aboard the *Dark Star* and uses a [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell to relay what has happened to Helix, an astral elf on the Rock of Bral (see chapter 4). The plasmoids, meanwhile, are not great fighters and either flee or surrender if the characters engage them in melee.
+The astral elves are confident they can conquer the *Moondancer*, but if two of the warriors fall, the third tries to retreat to the *Dark Star*. After that attempt succeeds or fails, the star moth beats a hasty retreat. The star priest, Altura, remains aboard the *Dark Star* and uses a [sending](sending-xphb.md) spell to relay what has happened to Helix, an astral elf on the Rock of Bral (see chapter 4). The plasmoids, meanwhile, are not great fighters and either flee or surrender if the characters engage them in melee.
 
 #### Questioning the Astral Elves
 
@@ -243,7 +243,7 @@ The plasmoids are willing to serve aboard the *Moondancer* if they are treated f
 
 #### Prisoners of the Astral Elves
 
-If the characters are defeated, the astral elves allow dying characters to be stabilized. The astral elves assume control of the *Moondancer* while keeping Captain Sartell hostage aboard the *Dark Star* to ensure [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md)'s compliance. The astral elf and plasmoid crew members are split between the two ships. The astral elves then start heading for the edge of the Wildspace system to rendezvous with the rest of Vael's fleet. En route, the two ships might encounter the derelict nautiloid, neogi raiders, or the Rock of Bral navy (all described in chapters 3 and 4), providing the characters with opportunities to escape.
+If the characters are defeated, the astral elves allow dying characters to be stabilized. The astral elves assume control of the *Moondancer* while keeping Captain Sartell hostage aboard the *Dark Star* to ensure [Flapjack](flapjack-lox.md)'s compliance. The astral elf and plasmoid crew members are split between the two ships. The astral elves then start heading for the edge of the Wildspace system to rendezvous with the rest of Vael's fleet. En route, the two ships might encounter the derelict nautiloid, neogi raiders, or the Rock of Bral navy (all described in chapters 3 and 4), providing the characters with opportunities to escape.
 
 #### Treasure
 
@@ -253,15 +253,15 @@ The *Dark Star*'s cargo hold contains enough food and water to sustain the ship'
 
 ### Traevus Takes Over
 
-If the astral elves are defeated and Traevus and his thugs are alive and aboard the *Moondancer*, Traevus (neutral evil [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) tries to take the galleon by force before the characters have a chance to finish a short rest.
+If the astral elves are defeated and Traevus and his thugs are alive and aboard the *Moondancer*, Traevus (neutral evil [veteran](warrior-veteran-xmm.md)) tries to take the galleon by force before the characters have a chance to finish a short rest.
 
 ### To the Rock of Bral
 
-Assuming the characters repel the astral elves, the *Moondancer* resumes its journey to the Rock of Bral. Even if the characters didn't interrogate the astral elves, Captain Sartell has a hunch that the astral elves have something to do with the calamity befalling the party's home planet and says as much. She also mentions knowing someone on the Rock of Bral who might be willing to help the party. If the characters inquire further, Sartell informs them the contact is a giff named [Commodore Krux](3-Mechanics/CLI/bestiary/npc/commodore-krux-lox.md), but she can't tell them more than that since she knows Krux only by reputation.
+Assuming the characters repel the astral elves, the *Moondancer* resumes its journey to the Rock of Bral. Even if the characters didn't interrogate the astral elves, Captain Sartell has a hunch that the astral elves have something to do with the calamity befalling the party's home planet and says as much. She also mentions knowing someone on the Rock of Bral who might be willing to help the party. If the characters inquire further, Sartell informs them the contact is a giff named [Commodore Krux](commodore-krux-lox.md), but she can't tell them more than that since she knows Krux only by reputation.
 
 Enough time passes for the characters to take a long rest. When they're not resting, the characters are assigned miscellaneous chores.
 
-During the voyage, the characters are free to ask Sartell or [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) more about Wildspace, the Rock of Bral, or the duo's previous adventures. Captain Sartell enjoys telling of her encounters with various Wildspace creatures (among them a friendly solar dragon and some not-so-friendly [space clowns](3-Mechanics/CLI/bestiary/fiend/space-clown-bam.md)), while [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) explains the subtleties of astral navigation. If the party has any spellcasters, [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) takes this opportunity to instruct them in the rudiments of spelljamming.
+During the voyage, the characters are free to ask Sartell or [Flapjack](flapjack-lox.md) more about Wildspace, the Rock of Bral, or the duo's previous adventures. Captain Sartell enjoys telling of her encounters with various Wildspace creatures (among them a friendly solar dragon and some not-so-friendly [space clowns](space-clown-bam.md)), while [Flapjack](flapjack-lox.md) explains the subtleties of astral navigation. If the party has any spellcasters, [Flapjack](flapjack-lox.md) takes this opportunity to instruct them in the rudiments of spelljamming.
 
 ### Mind Flayers?
 
@@ -287,9 +287,9 @@ When the characters are hours away from arriving at the Rock of Bral, read:
 > *The characters escaped their endangered world with the help of Captain Sartell and her ship, the* Moondancer, *and ran afoul of an astral elf ship called a star moth. After surviving their first Wildspace encounter, the characters resumed their voyage to the Rock of Bral. Along the way, they made a terrifying discovery: a mind flayer ship lurking among some asteroids*!
 ^033
 
-What at first appeared to be a dangerous mind flayer ship turns out to be a derelict vessel. Closer investigation turns up a single member of a pirate crew. In fact, this "survivor" is a [psurlon ringer](3-Mechanics/CLI/bestiary/aberration/psurlon-ringer-bam.md), a horrific predator disguised as a human.
+What at first appeared to be a dangerous mind flayer ship turns out to be a derelict vessel. Closer investigation turns up a single member of a pirate crew. In fact, this "survivor" is a [psurlon ringer](psurlon-ringer-bam.md), a horrific predator disguised as a human.
 
-![Wreck of the Lucent Edict](3-Mechanics/CLI/adventures/light-of-xaryxis/img/011-09-005-wreck-lucent-edict.webp#center)
+![Wreck of the Lucent Edict](011-09-005-wreck-lucent-edict.webp#center)
 
 ### The Lucent Edict
 
@@ -300,17 +300,17 @@ The vessel is the *Lucent Edict*, a nautiloid. After the characters sight the cr
 > As the nautilus-shaped vessel drifts closer, Captain Sartell lets out a sigh of relief. "It's a derelict," she says, pointing out its stripped weaponry and broken hull. "If there were mind flayers aboard, they would've attacked us by now. Looks like somebody's already picked it over. Still, there might be something left worth salvaging."
 ^035
 
-The sensory input provided by the *Moondancer*'s spelljamming helm interfaces in a special way with [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md)'s Advanced Telepathy, enabling the flumph to sense the presence of telepathic activity on nearby vessels and making the flumph a sort of early warning system in advance of encounters with mind flayers and their ilk. The nautiloid makes [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) uneasy, a feeling that stems from the presence of psurlons on board it. At the same time, the [psurlons'](3-Mechanics/CLI/bestiary/aberration/psurlon-ringer-bam.md) Aberrant Mind trait confounds the [flumph's](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) Advanced Telepathy. [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) has the vague sense that something is aboard the derelict vessel but can't say what. He shares this information with Sartell and any characters with whom he has forged a close bond.
+The sensory input provided by the *Moondancer*'s spelljamming helm interfaces in a special way with [Flapjack](flapjack-lox.md)'s Advanced Telepathy, enabling the flumph to sense the presence of telepathic activity on nearby vessels and making the flumph a sort of early warning system in advance of encounters with mind flayers and their ilk. The nautiloid makes [Flapjack](flapjack-lox.md) uneasy, a feeling that stems from the presence of psurlons on board it. At the same time, the [psurlons'](psurlon-ringer-bam.md) Aberrant Mind trait confounds the [flumph's](flapjack-lox.md) Advanced Telepathy. [Flapjack](flapjack-lox.md) has the vague sense that something is aboard the derelict vessel but can't say what. He shares this information with Sartell and any characters with whom he has forged a close bond.
 
-Captain Sartell orders [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) to bring her ship alongside the vessel while she designates the characters as a boarding party, instructing them to kill any hostile creatures they encounter.
+Captain Sartell orders [Flapjack](flapjack-lox.md) to bring her ship alongside the vessel while she designates the characters as a boarding party, instructing them to kill any hostile creatures they encounter.
 
-If the characters balk at exploring the nautiloid, Captain Sartell sarcastically apologizes for interrupting their "pleasure cruise" and wonders aloud whether they'd rather stay back and swab the decks while she does all the hard work. If the characters still refuse, Captain Sartell makes good on her threat and boards the vessel herself in search of salvage. When she doesn't return, [Flapjack](3-Mechanics/CLI/bestiary/npc/flapjack-lox.md) urges the party to go and find her, refusing to leave the nautiloid behind until they do so.
+If the characters balk at exploring the nautiloid, Captain Sartell sarcastically apologizes for interrupting their "pleasure cruise" and wonders aloud whether they'd rather stay back and swab the decks while she does all the hard work. If the characters still refuse, Captain Sartell makes good on her threat and boards the vessel herself in search of salvage. When she doesn't return, [Flapjack](flapjack-lox.md) urges the party to go and find her, refusing to leave the nautiloid behind until they do so.
 
 #### Benoto Kralazar
 
 Whether or not the characters consent to Captain Sartell's plan, they soon see a young human in ragged, bloodstained clothes step out onto the nautiloid's battle prow. He waves his arms to get their attention and seems to be in distress. If one or more characters enter the nautiloid's air envelope, he introduces himself as Benoto Kralazar and explains that his ship (the nautiloid) was attacked by neogi. He informs the characters that most of his crew are dead, but there are still a few survivors aboard in need of healing, and he begs the party's help.
 
-Benoto is a [psurlon ringer](3-Mechanics/CLI/bestiary/aberration/psurlon-ringer-bam.md) (see "Boo's Astral Menagerie"), a descendant of a group of psurlons that traveled with the *Lucent Edict*'s original mind flayer crew. The mind flayers were attacked and wiped out by githyanki, who disabled the nautiloid and left it adrift. Human pirates found the wreck and tried to plunder it, unaware that the psurlons left behind a hidden clutch of eggs. After hatching from their eggs, the juvenile psurlons began preying on the pirates, killing several of them and forcing the rest to flee. One of the psurlons then assumed the form of a pirate named Benoto Kralazar and has since been using the disguise to lure other victims onto the *Lucent Edict*.
+Benoto is a [psurlon ringer](psurlon-ringer-bam.md) (see "Boo's Astral Menagerie"), a descendant of a group of psurlons that traveled with the *Lucent Edict*'s original mind flayer crew. The mind flayers were attacked and wiped out by githyanki, who disabled the nautiloid and left it adrift. Human pirates found the wreck and tried to plunder it, unaware that the psurlons left behind a hidden clutch of eggs. After hatching from their eggs, the juvenile psurlons began preying on the pirates, killing several of them and forcing the rest to flee. One of the psurlons then assumed the form of a pirate named Benoto Kralazar and has since been using the disguise to lure other victims onto the *Lucent Edict*.
 
 If the characters board the *Lucent Edict*, Benoto shows them around the ship while he spins a tale about his crew's harrowing encounter with a group of neogi. The tale is not entirely fanciful—a band of neogi did recently board the *Lucent Edict* in search of salvage, but they retreated once they realized the nautiloid was home to a bunch of psurlons.
 
@@ -321,8 +321,8 @@ Use the nautiloid deck plans in chapter 2 of the "Astral Adventurer's Guide" to 
 The nautiloid is also missing its spelljamming helm and its ballistae, and its mangonel is broken.
 
 > [!gallery]
-> ![Nautiloid Deck Plans](3-Mechanics/CLI/adventures/light-of-xaryxis/img/012-map-2-07-nautiloid.webp#gallery)
-> ![Player Version](3-Mechanics/CLI/adventures/light-of-xaryxis/img/013-map-2-07-nautiloid-player.webp#gallery)
+> ![Nautiloid Deck Plans](012-map-2-07-nautiloid.webp#gallery)
+> ![Player Version](013-map-2-07-nautiloid-player.webp#gallery)
 
 The *Lucent Edict* has the following features:
 
@@ -340,11 +340,11 @@ The following locations are depicted on the nautiloid deck plans. Locations that
 
 A githyanki knight beheaded the nautiloid's captain and took the head as a trophy, leaving the rest of the corpse slumped in the chair.
 
-Any character who disturbs the headless corpse causes the green, glowing maggots covering it to become a hostile [swarm of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md).
+Any character who disturbs the headless corpse causes the green, glowing maggots covering it to become a hostile [swarm of insects](swarm-of-insects-xmm.md).
 
 ##### Treasure
 
-A character who examines the captain's chair and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a secret compartment in the left armrest. This compartment contains a black metal tube containing a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md).
+A character who examines the captain's chair and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a secret compartment in the left armrest. This compartment contains a black metal tube containing a [spell scroll](spell-scroll-xdmg.md) of [wall of force](wall-of-force-xphb.md).
 
 #### 3: Spelljamming Helm
 
@@ -357,18 +357,18 @@ The githyanki who attacked the nautiloid disabled the craft by removing its spel
 
 ##### Treasure
 
-Lying on the deck near the dead mind flayer is an [Ioun stone (reserve)](3-Mechanics/CLI/items/ioun-stone-reserve-xdmg.md). The stone currently holds a single casting of the [shield](3-Mechanics/CLI/spells/shield-xphb.md) spell.
+Lying on the deck near the dead mind flayer is an [Ioun stone (reserve)](ioun-stone-reserve-xdmg.md). The stone currently holds a single casting of the [shield](3-Mechanics/CLI/spells/shield-xphb.md) spell.
 
 #### 4: Bridge Floor
 
-![](3-Mechanics/CLI/adventures/light-of-xaryxis/img/014-09-006-nehthalggu-splash.webp#center)
+![](014-09-006-nehthalggu-splash.webp#center)
 
 > [!readaloud] 
 > 
 > The nautiloid's bridge has a high ceiling. Stairs ascend to a forward observation deck, and toward the stern a ladder climbs to the top of a balcony.
 ^03f
 
-Four [psurlons](3-Mechanics/CLI/bestiary/aberration/psurlon-bam.md) (see "Boo's Astral Menagerie") hide in the shadows under the two flights of stairs that climb to the observation platform (area 2). These psurlons attack to kill. If Benoto is present, he helps his fellow psurlons.
+Four [psurlons](psurlon-bam.md) (see "Boo's Astral Menagerie") hide in the shadows under the two flights of stairs that climb to the observation platform (area 2). These psurlons attack to kill. If Benoto is present, he helps his fellow psurlons.
 
 #### 6: Observation Platform
 
@@ -388,7 +388,7 @@ Amid several stacks of ballista bolts are a few clusters of mangonel stones. If 
 
 A character can cut through the sutures with a suitable tool and 1 minute of effort, after which the door can be opened normally.
 
-The mess hall contains a [neh-thalggu](3-Mechanics/CLI/bestiary/aberration/neh-thalggu-bam.md) (see "Boo's Astral Menagerie") that currently has eight brains. The neh-thalggu, kept as a pet by the mind flayers, evaded the githyanki by using its [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) spell, but it was later trapped here by the human pirates after it killed one of their number.
+The mess hall contains a [neh-thalggu](neh-thalggu-bam.md) (see "Boo's Astral Menagerie") that currently has eight brains. The neh-thalggu, kept as a pet by the mind flayers, evaded the githyanki by using its [invisibility](invisibility-xphb.md) spell, but it was later trapped here by the human pirates after it killed one of their number.
 
 If a character approaches within 10 feet of the sutured door, the neh-thalggu calls out for help in Common, begging to be freed. It pretends to be a human pirate named Jaspar Graves and claims to have been trapped here by the aberrations that murdered the rest of the crew. (The neh-thalggu knows that psurlons have killed the other pirates and warns the characters about this if they haven't already discovered it for themselves.) If the characters ask Benoto about the neh-thalggu's story, he dismisses it as a fabrication, explaining that "Jaspar" is a brain-devouring aberration and that the characters shouldn't trust a word it says, nor should they free it.
 
@@ -428,7 +428,7 @@ The cells used to contain nine prisoners. The githyanki liberated their kin and 
 
 ##### Treasure
 
-The beheaded mind flayer wears a [+1 breastplate](3-Mechanics/CLI/items/1-armor-xdmg.md) embossed with tentacles.
+The beheaded mind flayer wears a [+1 breastplate](1-armor-xdmg.md) embossed with tentacles.
 
 #### 19: Storage
 
@@ -437,7 +437,7 @@ The beheaded mind flayer wears a [+1 breastplate](3-Mechanics/CLI/items/1-armor-
 > A terrible stench fills this compartment, but the flickering lights can't reveal its source. You do, however, hear heavy breathing.
 ^04d
 
-A [quaggoth](3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) hides around the corner on the starboard side of the compartment, out of view of the doorway. Fearing capture, it attacks any creature that enters the compartment.
+A [quaggoth](quaggoth-xmm.md) hides around the corner on the starboard side of the compartment, out of view of the doorway. Fearing capture, it attacks any creature that enters the compartment.
 
 ##### Stench
 

@@ -13,7 +13,7 @@ _Source: Fizban's Treasury of Dragons_
 
 On initiative count 20 (losing initiative ties), the dragon can take one of the following lair actions; the dragon can't take the same lair action two rounds in a row:
 
-- **Deep Torpor.** The dragon casts the [slow](3-Mechanics/CLI/spells/slow-xphb.md) spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 16). The spell ends early if the dragon uses this lair action again or if the dragon dies.  
+- **Deep Torpor.** The dragon casts the [slow](slow-xphb.md) spell, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 16). The spell ends early if the dragon uses this lair action again or if the dragon dies.  
 - **Mossy Sludge.** The dragon conjures sludge-like moss that briefly covers surfaces in the lair. The ceiling, floor, and walls of the lair become difficult terrain until initiative count 20 on the next round.  
 - **Toxic Spores.** The dragon fills a 20-foot cube it can see within 120 feet of itself with toxic spores. Each creature in that area must succeed on a DC 15 Constitution saving throw or take 14 (`4d6`) poison damage and be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its next turn.  
 

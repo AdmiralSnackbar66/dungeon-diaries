@@ -87,7 +87,7 @@ Deep dragons appreciate the company of other dragons. Although they view most ot
 | 3 | A deep dragon wyrmling whimsically rules over a worshipful group of kobolds, sending them to the surface to fetch delicacies the wyrmling craves. |
 | 4 | An exclusive auction in an enclave of Lolth-worshipers features a deep dragon egg just about to hatch. |
 | 5 | A deep dragon wyrmling with an experimental bent has created a "garden" of gray oozes. |
-| 6 | An orphaned deep dragon wyrmling is cared for by a giant constrictor snake that is the recipient of a druid's [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell. |
+| 6 | An orphaned deep dragon wyrmling is cared for by a giant constrictor snake that is the recipient of a druid's [awaken](awaken-xphb.md) spell. |
 ^connected-creatures
 
 ```statblock

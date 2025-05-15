@@ -20,7 +20,7 @@ A dragonnel is an agile mount and naturally inclined to flyby tactics, swooping 
 
 > [!note] Dragonnel Steeds
 > 
-> With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the [find greater steed](3-Mechanics/CLI/spells/find-greater-steed-xge.md) spell, which appears in "Xanathar's Guide to Everything".
+> With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the [find greater steed](find-greater-steed-xge.md) spell, which appears in "Xanathar's Guide to Everything".
 ^dragonnel-steeds
 
 ```statblock

@@ -26,7 +26,7 @@ This secret knowledge is granted to worthy spellwrights in the form of an orb of
 
 ## Mithral Mask
 
-Each adranach has a unique mask crafted by its creator as their signature. This mask is crafted from pure mithral, and is the key to summoning and dismissing an adranach to a unique pocket dimension where it can rest and repair itself. When not in use, the mask magically shrinks from its true size to an easily concealable size fit for a humanoid face. Most spellwrights keep this mask in a chest stored on the Ethereal Plane with the [secret chest](3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) spell, and only produce the mask when it is time to call their adranach forth.
+Each adranach has a unique mask crafted by its creator as their signature. This mask is crafted from pure mithral, and is the key to summoning and dismissing an adranach to a unique pocket dimension where it can rest and repair itself. When not in use, the mask magically shrinks from its true size to an easily concealable size fit for a humanoid face. Most spellwrights keep this mask in a chest stored on the Ethereal Plane with the [secret chest](leomunds-secret-chest-xphb.md) spell, and only produce the mask when it is time to call their adranach forth.
 
 ## Master Adranach
 

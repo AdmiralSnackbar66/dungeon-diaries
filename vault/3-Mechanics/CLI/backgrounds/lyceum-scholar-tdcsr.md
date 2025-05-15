@@ -8,11 +8,11 @@ aliases: ["Lyceum Scholar"]
 ---
 # Lyceum Scholar
 *Source: Tal'Dorei Campaign Setting Reborn p. 183*  
-![A Black woman stands with ...](3-Mechanics/CLI/backgrounds/img/lyceumscholar.webp#right "A Black woman stands with her back to us. Her dreadlocked hair is pulled up into a bun. She wears light blue robes with a dark blue sash down the middle of her back. She reads magically glowing runes on a stone wall.")
+![A Black woman stands with ...](lyceumscholar.webp#right "A Black woman stands with her back to us. Her dreadlocked hair is pulled up into a bun. She wears light blue robes with a dark blue sash down the middle of her back. She reads magically glowing runes on a stone wall.")
 
 - **Skill Proficiencies.** Your choice of two of the following: [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
 - **Languages.** Two of your choice  
-- **Equipment.** A set of [fine clothes](3-Mechanics/CLI/items/fine-clothes-xphb.md), a student uniform, a [writing kit](3-Mechanics/CLI/items/writing-kit-tdcsr.md) ([small pouch](3-Mechanics/CLI/items/pouch-xphb.md) with a quill, [ink](3-Mechanics/CLI/items/ink-xphb.md), [folded parchment](3-Mechanics/CLI/items/parchment-xphb.md) and a penknife), and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A set of [fine clothes](fine-clothes-xphb.md), a student uniform, a [writing kit](writing-kit-tdcsr.md) ([small pouch](pouch-xphb.md) with a quill, [ink](ink-xphb.md), [folded parchment](parchment-xphb.md) and a penknife), and a belt [pouch](pouch-xphb.md) containing 10 gp  
 
 You most likely came up through money or hailed from a family with social prestige if you were able to afford tuition at the "Alabaster Lyceum" in "Emon". But whatever your origin, your interests and pursuits brought you to the hallowed halls of Tal'Dorei's highest place of learning, where you soaked in every lesson you could, hoping to better make your mark on the world. (Or at least you pretended to. Even at the "Lyceum", every class has its slackers.) Eventually, though, the call to adventure pulled you from your studies, and you now face the challenge of keeping up with your education even as the tides of destiny threaten to sweep you away.
 

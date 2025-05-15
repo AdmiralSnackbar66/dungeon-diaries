@@ -11,9 +11,9 @@ aliases: ["Ashari"]
 
 
 - **Skill Proficiencies.** [Nature](3-Mechanics/CLI/rules/skills.md#Nature), plus your choice of [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
-- **Tool Proficiencies.** [Herbalism Kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md)  
+- **Tool Proficiencies.** [Herbalism Kit](herbalism-kit-xphb.md)  
 - **Languages.** Primordial (Primordial, Primordial, Primordial, or Primordial, depending on the elemental affinity of your tribe)  
-- **Equipment.** A set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), a staff carved with symbols of your tribe, an [herbalism kit](3-Mechanics/CLI/items/herbalism-kit-xphb.md), and a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A set of [traveler's clothes](travelers-clothes-xphb.md), a staff carved with symbols of your tribe, an [herbalism kit](herbalism-kit-xphb.md), and a belt [pouch](pouch-xphb.md) containing 10 gp  
 
 Isolated from the political struggles of urban Tal'Dorei, you are a member of "the Ashari" people—a society bound to an ancient covenant protecting the Material Plane from the chaos of the primordial elements. You've been raised to revere and protect the natural world, and to shepherd the tumultuous elemental forces that give it life. When the elements threaten to overwhelm the delicate balance of nature, it is the role of "the Ashari" to restore harmony.
 
@@ -21,7 +21,7 @@ You grew up in a tight-knit society, bound to a leader who successfully returned
 
 In your early life, you likely took up one of the many roles that make up your society, whether homemaker, hunter, explorer, or protector. If you have the ability to use elemental magic, you might have had one of the most important duties of all: protecting and soothing the elemental rift at the heart of your home. And even as an adventurer now traveling far beyond that home, your loyalties still lie with the continued safety of your order. Whatever else you do as you learn about the new world around you, you're conscious of the need to gather allies to your cause.
 
-Each Ashari is tethered to one of the four elemental orders and their settlements. You must select Pyrah (fire), Vesrah (water), "Terrah" (earth), or "Zephrah" (wind). The rifts of earth and air are both in Tal'Dorei. If you live or lived among your people, then you are familiar with the remarkable sights of Air Ashari on [skysails](3-Mechanics/CLI/items/skysail-tdcsr.md) above the "Summit Peaks", or "Earth Ashari" erupting from the solid stone of the "Cliffkeep Mountains" on their [earthboards](3-Mechanics/CLI/items/earthboard-tdcsr.md).
+Each Ashari is tethered to one of the four elemental orders and their settlements. You must select Pyrah (fire), Vesrah (water), "Terrah" (earth), or "Zephrah" (wind). The rifts of earth and air are both in Tal'Dorei. If you live or lived among your people, then you are familiar with the remarkable sights of Air Ashari on [skysails](skysail-tdcsr.md) above the "Summit Peaks", or "Earth Ashari" erupting from the solid stone of the "Cliffkeep Mountains" on their [earthboards](earthboard-tdcsr.md).
 
 ## Feature: Elemental Harmony
 
@@ -45,7 +45,7 @@ You create an instantaneous puff of wind strong enough to blow papers off a desk
 
 ## Suggested Characteristics
 
-"The Ashari" hold themselves removed from the rest of Tal'Dorei by their own choice. This makes many Ashari naive to the ways of the world beyond their homes—but it can also make them determined, steadfast, and tightly focused on their goals. Ever since [Keyleth, Voice of the Tempest](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md) and leader of the "Zephrah", became a world-renowned hero, the Air Ashari at least have become more familiar to Tal'Dorei's other peoples. They are known to welcome outsiders to their mountaintop enclave, and to take on quests that force them to leave their isolated home.
+"The Ashari" hold themselves removed from the rest of Tal'Dorei by their own choice. This makes many Ashari naive to the ways of the world beyond their homes—but it can also make them determined, steadfast, and tightly focused on their goals. Ever since [Keyleth, Voice of the Tempest](keyleth-voice-of-the-tempest-tdcsr.md) and leader of the "Zephrah", became a world-renowned hero, the Air Ashari at least have become more familiar to Tal'Dorei's other peoples. They are known to welcome outsiders to their mountaintop enclave, and to take on quests that force them to leave their isolated home.
 
 To learn more about your character's Ashari order, see ""The Ashari"".
 
@@ -89,7 +89,7 @@ To learn more about your character's Ashari order, see ""The Ashari"".
 | 2 | The leader of my tribe thinks I could be their successor, but I worry that I don't have enough experience to lead my people. |
 | 3 | A mysterious person killed a member of my family. I've left home to discover who the killer was—and to seek vengeance. |
 | 4 | My older sibling set out on their Aramante a year ago, and I haven't seen them since. |
-| 5 | When I was a baby, a [giant eagle](3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) brought me to "Zephrah". I love my family, but I often wonder who my birth parents are. |
+| 5 | When I was a baby, a [giant eagle](giant-eagle-xmm.md) brought me to "Zephrah". I love my family, but I often wonder who my birth parents are. |
 | 6 | I trust my animal friends more than any humanoid ally. |
 ^ashari-bonds
 

@@ -8,12 +8,12 @@ aliases: ["Whitestone Rifle Corps"]
 ---
 # Whitestone Rifle Corps
 *Source: Tal'Dorei Campaign Setting Reborn p. 187*  
-![A muscled Black half-elven...](3-Mechanics/CLI/backgrounds/img/riflecorps.webp#right "A muscled Black half-elven woman with long brown dreadlocks wearing a blue coat, crouching on one knee in a patch of white daisies, aiming a rifle.")
+![A muscled Black half-elven...](riflecorps.webp#right "A muscled Black half-elven woman with long brown dreadlocks wearing a blue coat, crouching on one knee in a patch of white daisies, aiming a rifle.")
 
 - **Skill Proficiencies.** Your choice of two of the following: [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), or [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Weapon Proficiencies.** Firearms  
 - **Languages.** One of your choice  
-- **Equipment.** Your choice of a [musket](3-Mechanics/CLI/items/musket-xphb.md) or a [pistol](3-Mechanics/CLI/items/pistol-xphb.md), a set of common clothes, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** Your choice of a [musket](musket-xphb.md) or a [pistol](pistol-xphb.md), a set of common clothes, and a [pouch](pouch-xphb.md) containing 10 gp  
 
 You trained with the elite forces charged with the defense and protection of the isolated city-state of "Whitestone", with much of that training focused on how to care for, protect, and safeguard the firearms that are the weapons of the "Whitestone Rifle Corps". You are also entrusted with a solemn duty—to never let the secrets of your liege-lord's deadly creations fall into the wrong hands.
 
@@ -25,9 +25,9 @@ When you choose this background, decide whether you were a member of the "Rifle 
 
 ## Feature: Legacy of Secrecy
 
-You have been entrusted with the use and care of a weapon both powerful and terrifying. The rifle you wield might transform the face of warfare and life in Tal'Dorei. It is a weapon that haunts the mind of its creator, [Percival de Rolo](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md), manifesting as a pain that lives always behind his kind eyes.
+You have been entrusted with the use and care of a weapon both powerful and terrifying. The rifle you wield might transform the face of warfare and life in Tal'Dorei. It is a weapon that haunts the mind of its creator, [Percival de Rolo](percival-de-rolo-tdcsr.md), manifesting as a pain that lives always behind his kind eyes.
 
-You were granted a [musket](3-Mechanics/CLI/items/musket-xphb.md) or a [pistol](3-Mechanics/CLI/items/pistol-xphb.md) by your commander in the "Whitestone Rifle Corps". This weapon is a symbol of your status, and when you display it, other folk around you—particularly adventurers, mercenaries, guards, engineers, and weapons enthusiasts—treat you differently. You might be seen as a noble defender of the people, a selfish hoarder of power, or anything in between, at the GM's discretion.
+You were granted a [musket](musket-xphb.md) or a [pistol](pistol-xphb.md) by your commander in the "Whitestone Rifle Corps". This weapon is a symbol of your status, and when you display it, other folk around you—particularly adventurers, mercenaries, guards, engineers, and weapons enthusiasts—treat you differently. You might be seen as a noble defender of the people, a selfish hoarder of power, or anything in between, at the GM's discretion.
 
 ## Feature: Rifle Corps Relationship
 

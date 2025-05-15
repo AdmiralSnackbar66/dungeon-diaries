@@ -38,7 +38,7 @@ Ashari is a word found in many languages with a multitude of meanings, including
 
 "Zephrah's" location in the "Summit Peaks" has shielded "the Ashari" who dwell there from countless hardships. Few infringe upon their isolated home, and this safety has bred a certain recklessness among the Air Ashari. Though they guard their elemental rift as closely as do the rest of their kin, their lack of stoicism and restraint often earns them the scorn of the Earth Ashari of "Terrah", the only other Ashari tribe in Tal'Dorei.
 
-Air Ashari children learn to fly before they learn to walk, accompanying their parents through snow-fattened clouds on Ashari [skysails](3-Mechanics/CLI/items/skysail-tdcsr.md). But while all in "Zephrah" love the sensation of flight, few hone their skills as rigorously as the skydancers. These graceful masters of the wind are at once artists, performers, and warriors. They are the beloved heroes of their people, both defending them in times of danger and bringing them happiness in times of peace.
+Air Ashari children learn to fly before they learn to walk, accompanying their parents through snow-fattened clouds on Ashari [skysails](skysail-tdcsr.md). But while all in "Zephrah" love the sensation of flight, few hone their skills as rigorously as the skydancers. These graceful masters of the wind are at once artists, performers, and warriors. They are the beloved heroes of their people, both defending them in times of danger and bringing them happiness in times of peace.
 
 ```statblock
 "name": "Ashari Skydancer (TDCSR)"

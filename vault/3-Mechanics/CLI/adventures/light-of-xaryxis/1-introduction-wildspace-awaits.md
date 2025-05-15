@@ -18,7 +18,7 @@ The information in this book is for the DM's eyes only. If you're planning to pl
 
 This story revolves around the characters' efforts to save their home world from an attack by an empire of astral elves. The attack is underway when the adventure begins. After taking refuge aboard a spelljamming vessel, the characters head for the stars to discover who is responsible for the attack and how they can save their world.
 
-During the adventure, the characters encounter many space-dwelling creatures, some of which become companions on the party's voyage. The characters also meet [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md), an astral elf who is embroiled in a power struggle with her twin brother, [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md), over who will rule the empire that currently threatens the characters' world. With or without Xedalli's help, the characters must assemble an unlikely alliance to strike at the heart of the astral elf empire.
+During the adventure, the characters encounter many space-dwelling creatures, some of which become companions on the party's voyage. The characters also meet [Princess Xedalli](princess-xedalli-lox.md), an astral elf who is embroiled in a power struggle with her twin brother, [Prince Xeleth](prince-xeleth-lox.md), over who will rule the empire that currently threatens the characters' world. With or without Xedalli's help, the characters must assemble an unlikely alliance to strike at the heart of the astral elf empire.
 
 The characters encounter many grandiose locations as the adventure unfolds, including an asteroid city known as the Rock of Bral and the imperial citadel of the astral elves, which orbits a star called Xaryxis.
 
@@ -40,17 +40,17 @@ Each chapter begins with an overview that gives you a sense of what is ahead for
 
 The four parts of the adventure are as follows:
 
-Part 1: Seeds of Destruction chronicles the devastation wrought by the astral seeds on the characters' home world and the party's escape into Wildspace. After fleeing to the Rock of Bral, the characters seek out [Commodore Krux](3-Mechanics/CLI/bestiary/npc/commodore-krux-lox.md), a giff, hoping he can help them thwart the Xaryxian Empire's machinations and save the characters' world in the process.
+Part 1: Seeds of Destruction chronicles the devastation wrought by the astral seeds on the characters' home world and the party's escape into Wildspace. After fleeing to the Rock of Bral, the characters seek out [Commodore Krux](commodore-krux-lox.md), a giff, hoping he can help them thwart the Xaryxian Empire's machinations and save the characters' world in the process.
 
-Part 2: Terrors of the Void deals with the characters' journey to the edge of their Wildspace system, where they encounter [Princess Xedalli](3-Mechanics/CLI/bestiary/npc/princess-xedalli-lox.md) and learn the enormity of the task that lies before them. The characters head for Doomspace, where Krux plans to join a coalition of those that oppose the Xaryxian Empire.
+Part 2: Terrors of the Void deals with the characters' journey to the edge of their Wildspace system, where they encounter [Princess Xedalli](princess-xedalli-lox.md) and learn the enormity of the task that lies before them. The characters head for Doomspace, where Krux plans to join a coalition of those that oppose the Xaryxian Empire.
 
 Part 3: Chaos in Doomspace begins with the party's arrival in Doomspace, where the coalition they had intended to join turns out to be a bunch of quarreling factions. They must find a way to unite the factions before attacking the Xaryxian Empire.
 
-Part 4: Saviors of the Multiverse describes Xaryxispace and the characters' climactic encounter with [Prince Xeleth](3-Mechanics/CLI/bestiary/npc/prince-xeleth-lox.md) and the armada under his command. Finally, the characters arrive at the imperial citadel, where they discover the true cost of saving their world and must decide the fate of Xaryxis and the Xaryxian Empire before making the long voyage home.
+Part 4: Saviors of the Multiverse describes Xaryxispace and the characters' climactic encounter with [Prince Xeleth](prince-xeleth-lox.md) and the armada under his command. Finally, the characters arrive at the imperial citadel, where they discover the true cost of saving their world and must decide the fate of Xaryxis and the Xaryxian Empire before making the long voyage home.
 
 ## Running the Adventure
 
-![A Xaryxian star moth jetti...](3-Mechanics/CLI/adventures/light-of-xaryxis/img/001-08-001-star-moth-splash.webp#center "A Xaryxian star moth jettisons one of many astral seeds while orbiting an unsuspecting world")
+![A Xaryxian star moth jetti...](001-08-001-star-moth-splash.webp#center "A Xaryxian star moth jettisons one of many astral seeds while orbiting an unsuspecting world")
 
 To run the adventure, you need the fifth edition core rulebooks ("Player's Handbook", "Dungeon Master's Guide", and "Monster Manual"). In addition, you need the other two books included in this product: "Boo's Astral Menagerie" and the "Astral Adventurer's Guide".
 
@@ -69,7 +69,7 @@ The "Astral Adventurer's Guide" describes the many types of "spelljamming vessel
 
 *Light of Xaryxis* is inspired by the 1980 film *Flash Gordon* and serialized Flash Gordon comic strips from the 1930s. The adventure's heroes, like Flash Gordon himself, must defeat otherworldly foes to save their home planet. Campy supporting characters, implausible situations, and over-the-top dialogue help push the story toward its inevitable conclusion. Absurd plot twists undercut the sense of urgency, keeping the heroes on their toes as they stumble from one cliffhanger to the next.
 
-![A space galleon flees a world in peril](3-Mechanics/CLI/adventures/light-of-xaryxis/img/002-08-002-space-galleon.webp#center)
+![A space galleon flees a world in peril](002-08-002-space-galleon.webp#center)
 
 Here are some things you can do to make *Light of Xaryxis* feel like the pulpy sci-fi tales that inspired it:
 
@@ -116,5 +116,5 @@ All the locations the characters visit in this adventure are described in this b
 
 > [!note] Using the Starlight Apparition
 > 
-> In addition to being a fascinating encounter in its own right, the [starlight apparition](3-Mechanics/CLI/bestiary/celestial/starlight-apparition-bam.md) (see "Boo's Astral Menagerie") can be a useful device for you if a key nonplayer character meets an unfortunate and unexpected end. If, later in the adventure, the characters need a piece of information only that nonplayer character would know, you can have the nonplayer character appear in the form of a starlight apparition to guide the characters.
+> In addition to being a fascinating encounter in its own right, the [starlight apparition](starlight-apparition-bam.md) (see "Boo's Astral Menagerie") can be a useful device for you if a key nonplayer character meets an unfortunate and unexpected end. If, later in the adventure, the characters need a piece of information only that nonplayer character would know, you can have the nonplayer character appear in the form of a starlight apparition to guide the characters.
 ^using-the-starlight-apparition

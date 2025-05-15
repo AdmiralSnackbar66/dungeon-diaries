@@ -14,7 +14,7 @@ aliases: ["Young Magma Landshark"]
 # [Young Magma Landshark](3-Mechanics\CLI\bestiary\elemental/young-magma-landshark-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 248*  
 
-Lurking inside volcanoes, subterranean magma pits, and the endless seas of flame within the Elemental Plane of Fire, magma landsharks live only to eat. These creatures are physically similar to [bulettes](3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md), the common landshark of the "Dividing Plains", but are filled with churning elemental power.
+Lurking inside volcanoes, subterranean magma pits, and the endless seas of flame within the Elemental Plane of Fire, magma landsharks live only to eat. These creatures are physically similar to [bulettes](bulette-xmm.md), the common landshark of the "Dividing Plains", but are filled with churning elemental power.
 
 This fiery, armored predator burrows and burns through solid rock and can sense the slightest movement in the ground around it. When hungry—and these creatures are always hungry—a magma landshark erupts from under the earth, oblivious to any obstruction or danger, uprooting trees, destroying roads, unleashing avalanches, and leaving sinkholes behind in its wake. Its jaws widen as it swallows prey whole, and even creatures that initially survive the attack must contend with an aura of intense heat if they can't escape.
 

@@ -11,7 +11,7 @@ aliases: ["Faerie Dragon"]
 ## Lair actions
 _Source: Fizban's Treasury of Dragons_
 
-As they are presented in the "Monster Manual", faerie dragons don't have access to lair actions while in their lairs. At your discretion, a [green](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) or [older faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) can take one of the following lair actions on initiative count 20 (losing initiative ties):
+As they are presented in the "Monster Manual", faerie dragons don't have access to lair actions while in their lairs. At your discretion, a [green](faerie-dragon-adult-xmm.md) or [older faerie dragon](faerie-dragon-adult-xmm.md) can take one of the following lair actions on initiative count 20 (losing initiative ties):
 
 - **Chaotic Aura.** The faerie dragon creates misdirecting currents of air and magic around itself. Until initiative count 20 on the next round, whenever a ranged attack roll misses the dragon, reroll the attack against a random creature within 30 feet of the dragon that doesn't have total cover against the attack.  
 - **Grasping Plants.** The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is "difficult terrain".  

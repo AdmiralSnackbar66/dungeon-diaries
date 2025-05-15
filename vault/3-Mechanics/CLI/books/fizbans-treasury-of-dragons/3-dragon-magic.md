@@ -18,7 +18,7 @@ The magic woven through the fabric of the Material Plane is concentrated in drag
 
 ""Draconic Gifts"" introduces magical gifts that characters might gain in connection with a dragon's death or other unusual circumstances.
 
-![In any form, Bahamut delig...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/008-02-001-chapter-splash.webp#center "In any form, Bahamut delights in the &quot;Aha!&quot; moments of teaching young students")
+![In any form, Bahamut delig...](008-02-001-chapter-splash.webp#center "In any form, Bahamut delights in the &quot;Aha!&quot; moments of teaching young students")
 
 ## Spells
 
@@ -28,7 +28,7 @@ The magic woven through the fabric of the Material Plane is concentrated in drag
 
 This section contains new spells that the DM may add to a campaign, making them available to player characters and monster spellcasters alike. The Spells table lists the new spells, ordering them by level. The table also notes the school of magic of a spell, whether it requires concentration, whether it bears the ritual tag, and which classes have access to it.
 
-![Spells](3-Mechanics/CLI/tables/spells-ftd.md)
+![Spells](spells-ftd.md)
 
 ## Magic Items
 
@@ -38,19 +38,19 @@ This section contains new spells that the DM may add to a campaign, making them 
 
 The following magic items are presented in alphabetical order.
 
-- [Amethyst Lodestone](3-Mechanics/CLI/items/amethyst-lodestone-ftd.md)  
-- [Crystal Blade](3-Mechanics/CLI/items/crystal-blade-ftd.md)  
-- Dragonhide Belt ([+1](3-Mechanics/CLI/items/1-dragonhide-belt-ftd.md), [+2](3-Mechanics/CLI/items/2-dragonhide-belt-ftd.md), [+3](3-Mechanics/CLI/items/3-dragonhide-belt-ftd.md))  
-- [Dragonlance](3-Mechanics/CLI/items/dragonlance-ftd.md)  
-- [Dragon Wing Bow](3-Mechanics/CLI/items/dragon-wing-bow-ftd.md)  
-- [Emerald Pen](3-Mechanics/CLI/items/emerald-pen-ftd.md)  
-- [Flail of Tiamat](3-Mechanics/CLI/items/flail-of-tiamat-ftd.md)  
-- [Gold Canary Figurine of Wondrous Power](3-Mechanics/CLI/items/gold-canary-figurine-of-wondrous-power-ftd.md)  
-- [Platinum Scarf](3-Mechanics/CLI/items/platinum-scarf-ftd.md)  
-- [Potion of Dragon's Majesty](3-Mechanics/CLI/items/potion-of-dragons-majesty-ftd.md)  
-- [Ruby Weave Gem](3-Mechanics/CLI/items/ruby-weave-gem-ftd.md)  
-- [Sapphire Buckler](3-Mechanics/CLI/items/sapphire-buckler-ftd.md)  
-- [Topaz Annihilator](3-Mechanics/CLI/items/topaz-annihilator-ftd.md)  
+- [Amethyst Lodestone](amethyst-lodestone-ftd.md)  
+- [Crystal Blade](crystal-blade-ftd.md)  
+- Dragonhide Belt ([+1](1-dragonhide-belt-ftd.md), [+2](2-dragonhide-belt-ftd.md), [+3](3-dragonhide-belt-ftd.md))  
+- [Dragonlance](dragonlance-ftd.md)  
+- [Dragon Wing Bow](dragon-wing-bow-ftd.md)  
+- [Emerald Pen](emerald-pen-ftd.md)  
+- [Flail of Tiamat](flail-of-tiamat-ftd.md)  
+- [Gold Canary Figurine of Wondrous Power](gold-canary-figurine-of-wondrous-power-ftd.md)  
+- [Platinum Scarf](platinum-scarf-ftd.md)  
+- [Potion of Dragon's Majesty](potion-of-dragons-majesty-ftd.md)  
+- [Ruby Weave Gem](ruby-weave-gem-ftd.md)  
+- [Sapphire Buckler](sapphire-buckler-ftd.md)  
+- [Topaz Annihilator](topaz-annihilator-ftd.md)  
 
 ## Hoard Magic Items
 
@@ -60,7 +60,7 @@ The following magic items are presented in alphabetical order.
 
 Certain magic items can absorb the ambient magic of a dragon's hoard. The mightier the dragon, the more powerful the item becomes when it is steeped in the dragon's hoard. These items, called hoard items, have four states, which are summarized on the Hoard Item States table. A hoard item in its Slumbering state has certain base properties, and it gains additional properties when it enters the Stirring, Wakened, or Ascendant state.
 
-![Hoard Magic Items; Hoard Item States](3-Mechanics/CLI/tables/hoard-magic-items-hoard-item-states-ftd.md)
+![Hoard Magic Items; Hoard Item States](hoard-magic-items-hoard-item-states-ftd.md)
 
 ### Increasing Power
 
@@ -78,18 +78,18 @@ Just as hoard items can grow in power by absorbing the ambient magic of a dragon
 
 Hoard items often manifest strange qualities beyond their intended function, regardless of the state they're in. Roll once on the Draconic Quirks table to determine the quirk of a hoard item.
 
-![Hoard Item Quirks; Draconic Quirks](3-Mechanics/CLI/tables/hoard-item-quirks-draconic-quirks-ftd.md)
+![Hoard Item Quirks; Draconic Quirks](hoard-item-quirks-draconic-quirks-ftd.md)
 
 ### Hoard Item Descriptions
 
-![A magic weapon recovered f...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/011-02-004-a-magic-weapon.webp#center "A magic weapon recovered from a dragon's hoard carries some of the dragon's magic")
+![A magic weapon recovered f...](011-02-004-a-magic-weapon.webp#center "A magic weapon recovered from a dragon's hoard carries some of the dragon's magic")
 
 Hoard items are presented here in alphabetical order. A hoard item's rarity changes depending on its current state, as shown in each item description.
 
-- [Dragon's Wrath Weapon](3-Mechanics/CLI/items/dragons-wrath-weapon-ftd.md)  
-- [Dragon-Touched Focus](3-Mechanics/CLI/items/dragon-touched-focus-ftd.md)  
-- [Dragon Vessel](3-Mechanics/CLI/items/dragon-vessel-ftd.md)  
-- [Scaled Ornament](3-Mechanics/CLI/items/scaled-ornament-ftd.md)  
+- [Dragon's Wrath Weapon](dragons-wrath-weapon-ftd.md)  
+- [Dragon-Touched Focus](dragon-touched-focus-ftd.md)  
+- [Dragon Vessel](dragon-vessel-ftd.md)  
+- [Scaled Ornament](scaled-ornament-ftd.md)  
 
 ## Draconic Gifts
 
@@ -101,7 +101,7 @@ As described in "chapter 3", the death of a dragon can result in its power takin
 
 Sometimes, a draconic gift has an obvious visual manifestation, such as when a character is transformed into a dragonborn. Other gifts are invisible, but no less potent. But on some worlds, the investiture of draconic power is accompanied by some kind of physical manifestation, especially if it's derived from slaying a dragon. It might be small and easily hidden, but those who know to look can usually identify a dragonslayer (or another character who carries a draconic gift) by a telltale sign. The Draconic Marks table suggests some possibilities of what these marks might look like.
 
-![Draconic Gifts; Draconic Marks](3-Mechanics/CLI/tables/draconic-gifts-draconic-marks-ftd.md)
+![Draconic Gifts; Draconic Marks](draconic-gifts-draconic-marks-ftd.md)
 
 ### Draconic Gift Descriptions
 
@@ -113,30 +113,30 @@ The draconic gifts detailed in this section have rarities like magic items. The 
 
 You can use a more common draconic gift for an older dragon, but exercise caution going in the other direction. Very rare and legendary draconic gifts can unbalance the game if they're given to low-level characters.
 
-![Draconic Gift Descriptions; Draconic Gift Rarity](3-Mechanics/CLI/tables/draconic-gift-descriptions-draconic-gift-rarity-ftd.md)
+![Draconic Gift Descriptions; Draconic Gift Rarity](draconic-gift-descriptions-draconic-gift-rarity-ftd.md)
 
-- [Draconic Familiar](3-Mechanics/CLI/rewards/draconic-familiar-ftd.md)  
-- [Draconic Rebirth](3-Mechanics/CLI/rewards/draconic-rebirth-ftd.md)  
-- [Draconic Senses](3-Mechanics/CLI/rewards/draconic-senses-ftd.md)  
-- [Echo of Dragonsight](3-Mechanics/CLI/rewards/echo-of-dragonsight-ftd.md)  
-- [Frightful Presence](3-Mechanics/CLI/rewards/frightful-presence-ftd.md)  
-- [Psionic Reach](3-Mechanics/CLI/rewards/psionic-reach-ftd.md)  
-- [Scaled Toughness](3-Mechanics/CLI/rewards/scaled-toughness-ftd.md)  
-- [Tongue of the Dragon](3-Mechanics/CLI/rewards/tongue-of-the-dragon-ftd.md)  
+- [Draconic Familiar](draconic-familiar-ftd.md)  
+- [Draconic Rebirth](draconic-rebirth-ftd.md)  
+- [Draconic Senses](draconic-senses-ftd.md)  
+- [Echo of Dragonsight](echo-of-dragonsight-ftd.md)  
+- [Frightful Presence](frightful-presence-ftd.md)  
+- [Psionic Reach](psionic-reach-ftd.md)  
+- [Scaled Toughness](scaled-toughness-ftd.md)  
+- [Tongue of the Dragon](tongue-of-the-dragon-ftd.md)  
 
-![A dragon's blood can be as powerful as it is toxic](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/012-02-005-a-dragons-blood.webp#center)
+![A dragon's blood can be as powerful as it is toxic](012-02-005-a-dragons-blood.webp#center)
 
 > [!note] Feats as Draconic Gifts
 > 
 > If your campaign uses the optional feat rules from the "Player's Handbook", your Dungeon Master might give you a feat as a variant draconic gift. You gain one feat of your or the DM's choice, which is related in some way to the draconic power you have acquired. Consider these examples:
 > 
-> - Your heightened senses give you a dragon's awareness of your surroundings ([Alert](3-Mechanics/CLI/feats/alert-xphb.md) or [Observant](3-Mechanics/CLI/feats/observant-xphb.md)).  
-> - Dragon's blood has made you hardy and resilient ([Durable](3-Mechanics/CLI/feats/durable-xphb.md), [Resilient](3-Mechanics/CLI/feats/resilient-xphb.md), or [Tough](3-Mechanics/CLI/feats/tough-xphb.md)).  
-> - Exposure to the primal energy of a dragon's body has given you a magical affinity for one damage type ([Elemental Adept](3-Mechanics/CLI/feats/elemental-adept-xphb.md)).  
-> - You are infused with a dragon's charismatic gift for inspiration ([Inspiring Leader](3-Mechanics/CLI/feats/inspiring-leader-xphb.md)).  
-> - You are imbued with a dragon's intellect ([Keen Mind](3-Mechanics/CLI/feats/keen-mind-xphb.md)).  
-> - The dragon's gift lingers in the form of good luck ([Lucky](3-Mechanics/CLI/feats/lucky-xphb.md)).  
-> - The dragon's inherent magic has transferred to your own blood ([Magic Initiate](3-Mechanics/CLI/feats/magic-initiate-xphb.md)).  
+> - Your heightened senses give you a dragon's awareness of your surroundings ([Alert](alert-xphb.md) or [Observant](observant-xphb.md)).  
+> - Dragon's blood has made you hardy and resilient ([Durable](durable-xphb.md), [Resilient](resilient-xphb.md), or [Tough](tough-xphb.md)).  
+> - Exposure to the primal energy of a dragon's body has given you a magical affinity for one damage type ([Elemental Adept](elemental-adept-xphb.md)).  
+> - You are infused with a dragon's charismatic gift for inspiration ([Inspiring Leader](inspiring-leader-xphb.md)).  
+> - You are imbued with a dragon's intellect ([Keen Mind](keen-mind-xphb.md)).  
+> - The dragon's gift lingers in the form of good luck ([Lucky](lucky-xphb.md)).  
+> - The dragon's inherent magic has transferred to your own blood ([Magic Initiate](magic-initiate-xphb.md)).  
 > 
 > At the DM's discretion, you might also be able to gain one of the draconic feats described in "chapter 1" as a draconic gift.
 ^feats-as-draconic-gifts

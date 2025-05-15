@@ -12,7 +12,7 @@ aliases: ["Reformed Cultist"]
 
 - **Skill Proficiencies.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception) and [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
 - **Languages.** One of your choice  
-- **Equipment.** Vestments and a [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md) of your previous cult, a set of common clothes, a belt [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Equipment.** Vestments and a [holy symbol](holy-symbol-xphb.md) of your previous cult, a set of common clothes, a belt [pouch](pouch-xphb.md) containing 15 gp  
 
 Two pantheons have battled over the fate of Exandria since the world's founding—the "Prime Deities" and the "Betrayer Gods". During the "Calamity", the "Prime Deities" allied themselves with the mortal races of Exandria, their original creations, to protect their flawed world and its multifarious forms of life. The Betrayers sought to wipe the slate clean.
 
@@ -38,7 +38,7 @@ The life of every former cultist is defined to some degree by the process of fle
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
-| 1 | I need a [dagger](3-Mechanics/CLI/items/dagger-xphb.md) close at hand at all times. Just in case they find me. |
+| 1 | I need a [dagger](dagger-xphb.md) close at hand at all times. Just in case they find me. |
 | 2 | I can't believe I'm out here fighting monsters. After everything I've been through, why can't I find a normal life? |
 | 3 | I need a stiff drink before I do anything stressful these days. I know it's a problem. Just...let me have this. |
 | 4 | Murder is okay when it's for a good cause! I didn't tear my past out by the roots so I could let evil people cause more harm. |

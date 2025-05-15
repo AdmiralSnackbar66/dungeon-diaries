@@ -28,7 +28,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 1,
   "colorDepth": 1,
@@ -103,7 +103,7 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "None",
+  "selectedConversionPreset": "WEBP (75, no resizing)",
   "globalPresets": [
     {
       "name": "WebP 75",
@@ -114,7 +114,7 @@
       "resizePreset": "Default (No Resize)"
     }
   ],
-  "selectedGlobalPreset": "",
+  "selectedGlobalPreset": "WebP 75",
   "linkFormatSettings": {
     "linkFormatPresets": [
       {
@@ -206,7 +206,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Width 500px"
+    "selectedResizePreset": "Default (No Resize)"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -231,7 +231,7 @@
   },
   "ProcessCurrentNoteconvertTo": "jpg",
   "ProcessCurrentNotequality": 0.75,
-  "ProcessCurrentNoteResizeModalresizeMode": "None",
+  "ProcessCurrentNoteResizeModalresizeMode": "ShortestEdge",
   "ProcessCurrentNoteresizeModaldesiredWidth": 600,
   "ProcessCurrentNoteresizeModaldesiredHeight": 800,
   "ProcessCurrentNoteresizeModaldesiredLength": 800,

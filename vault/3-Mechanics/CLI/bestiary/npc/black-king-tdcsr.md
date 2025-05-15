@@ -12,9 +12,9 @@ aliases: ["Black King"]
 # [Black King](3-Mechanics\CLI\bestiary\npc/black-king-tdcsr.md)
 *Source: Tal'Dorei Campaign Setting Reborn p. 92*  
 
-Palest Westruun was not a king, but his new statue in the Opal Ward is often called the [Black King](3-Mechanics/CLI/bestiary/npc/black-king-tdcsr.md), a subtle jab at the city's previous "Black King," the tyrannical dragon Umbrasyl. The high priest of the First Bastion blessed both the [Black King](3-Mechanics/CLI/bestiary/npc/black-king-tdcsr.md) and "Westruun" itself when the statue was unveiled on the anniversary of "Westruun's" reclamation, saying, "May the Lawbearer grant us all strength of spirit when chaos next threatens our peaceful civilization. When that time comes, may the [Black King](3-Mechanics/CLI/bestiary/npc/black-king-tdcsr.md) unsheathe his sword to rally our people and lead "Westruun" to victory."
+Palest Westruun was not a king, but his new statue in the Opal Ward is often called the [Black King](black-king-tdcsr.md), a subtle jab at the city's previous "Black King," the tyrannical dragon Umbrasyl. The high priest of the First Bastion blessed both the [Black King](black-king-tdcsr.md) and "Westruun" itself when the statue was unveiled on the anniversary of "Westruun's" reclamation, saying, "May the Lawbearer grant us all strength of spirit when chaos next threatens our peaceful civilization. When that time comes, may the [Black King](black-king-tdcsr.md) unsheathe his sword to rally our people and lead "Westruun" to victory."
 
-When the safety of all of "Westruun" is threatened, the [Black King](3-Mechanics/CLI/bestiary/npc/black-king-tdcsr.md) will animate and defend its people, becoming a [stone golem with a speed of 60 feet, Charisma and Intelligence scores of 18 (+4), and the ability to speak Common](3-Mechanics/CLI/bestiary/npc/black-king-tdcsr.md). Its personality is dour but determined—regal and single-minded in its desire to protect its city and its people.
+When the safety of all of "Westruun" is threatened, the [Black King](black-king-tdcsr.md) will animate and defend its people, becoming a [stone golem with a speed of 60 feet, Charisma and Intelligence scores of 18 (+4), and the ability to speak Common](black-king-tdcsr.md). Its personality is dour but determined—regal and single-minded in its desire to protect its city and its people.
 
 > [!note]
 > See "The Black King" for more information on this NPC.
@@ -29,7 +29,7 @@ Like other golems, stone golems are nearly impervious to spells and ordinary wea
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [manual of golems](3-Mechanics/CLI/items/manual-of-golems-xdmg.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [manual of golems](manual-of-golems-xdmg.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 

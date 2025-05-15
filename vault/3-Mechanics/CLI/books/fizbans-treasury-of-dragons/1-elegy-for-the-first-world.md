@@ -8,7 +8,7 @@ aliases: ["Elegy for the First World"]
 # Elegy for the First World
 *Source: Fizban's Treasury of Dragons, p. 5* 
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/000-00-001-dragon-splash.webp#center)
+![](000-00-001-dragon-splash.webp#center)
 
 > [!readaloud] 
 > 
@@ -41,7 +41,7 @@ In the real world, dragons are a staple of folklore and fantasy literature, reso
 
 This introduction sets the scene for what's to come in the rest of the book. It introduces the myth of the First World, created by Bahamut and Tiamat, then discusses the role that dragons play in the myths of many Material Plane worlds, as a reflection of that primordial story. It begins to explore the connections linking dragons on different worlds, which is elaborated throughout the rest of this book.
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/001-00-002.webp#center)
+![](001-00-002.webp#center)
 
 "Chapter 1" introduces draconic-themed options for adventurers, including three variant dragonborn races, two dragon-oriented subclasses (the Drakewarden ranger and the Way of the Ascendant Dragon monk), feats, and roleplaying suggestions that can connect characters of any class to a draconic theme.
 
@@ -86,7 +86,7 @@ The most comprehensive histories suggest Toril (the world of the Forgotten Realm
 
 #### Greyhawk
 
-Myths concerning the creation of Oerth (home to the Greyhawk setting) are few and often contradictory. Still, a number of those myths mention the dragon gods—or a single draconic creator, Io, who shed his own blood to inspire creation. Dragons have been reclusive and rare for most of Oerth's recorded history, but ancient annals of the Suel Imperium record that that empire created the mighty [Orbs of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md) for use in a war against a powerful cabal of shadow-wielding red dragons.
+Myths concerning the creation of Oerth (home to the Greyhawk setting) are few and often contradictory. Still, a number of those myths mention the dragon gods—or a single draconic creator, Io, who shed his own blood to inspire creation. Dragons have been reclusive and rare for most of Oerth's recorded history, but ancient annals of the Suel Imperium record that that empire created the mighty [Orbs of Dragonkind](orb-of-dragonkind-xdmg.md) for use in a war against a powerful cabal of shadow-wielding red dragons.
 
 #### Dragonlance
 
@@ -102,13 +102,13 @@ A little-known phenomenon supports the central ideas expressed in "Elegy for the
 
 Dragons who develop dragonsight amass knowledge that spans the Material Plane, making them among the foremost experts on worlds beyond their own. With time, dragonsight can expand beyond passive awareness to allow active communication between a dragon's incarnations. Some ancient dragons with well-developed dragonsight begin to weave grand plans that involve coordinating activities across multiple worlds, culminating in cosmos-shaking events.
 
-As one example, tales are told on multiple worlds of the Material Plane regarding the red dragon Ashardalon. Less widely understood, though, is the fact that as one Ashardalon developed his dragonsight, he concocted a scheme to preserve his existence by consuming his echoes on other worlds. All these different Ashardalons thus became a single, immensely powerful [greatwyrm](3-Mechanics/CLI/bestiary/dragon/red-greatwyrm-ftd.md) that fed on soul energy—and that prevented souls from incarnating into newly born creatures across the worlds.
+As one example, tales are told on multiple worlds of the Material Plane regarding the red dragon Ashardalon. Less widely understood, though, is the fact that as one Ashardalon developed his dragonsight, he concocted a scheme to preserve his existence by consuming his echoes on other worlds. All these different Ashardalons thus became a single, immensely powerful [greatwyrm](red-greatwyrm-ftd.md) that fed on soul energy—and that prevented souls from incarnating into newly born creatures across the worlds.
 
-Given most people's limited understanding of dragons' beliefs and philosophies, let alone dragonsight, many mortals are quick to describe dragons with heightened dragonsight as "dragon gods"—which they are not. Still, some powerful dragons have so successfully extended their consciousness across multiple incarnations, and so expertly coordinated their activities across multiple worlds, that they can seem godlike even to younger dragons. The [black greatwyrm](3-Mechanics/CLI/bestiary/dragon/black-greatwyrm-ftd.md) Chronepsis once accomplished a feat similar to Ashardalon's, with one version of the dragon devouring multiple echoes before leaving the Material Plane and establishing a lair in the Outer Planes.
+Given most people's limited understanding of dragons' beliefs and philosophies, let alone dragonsight, many mortals are quick to describe dragons with heightened dragonsight as "dragon gods"—which they are not. Still, some powerful dragons have so successfully extended their consciousness across multiple incarnations, and so expertly coordinated their activities across multiple worlds, that they can seem godlike even to younger dragons. The [black greatwyrm](black-greatwyrm-ftd.md) Chronepsis once accomplished a feat similar to Ashardalon's, with one version of the dragon devouring multiple echoes before leaving the Material Plane and establishing a lair in the Outer Planes.
 
 > [!note] Dragons and Dungeons
 > 
 > Just as individual dragons have echoes across multiple worlds of the Material Plane, some places of tremendous power that have a connection to dragons resonate across the plane. Dungeons such as the Sunless Citadel (buried by Ashardalon in his wrath), Dragon Mountain (the lair of the red dragon Infyrana), and the ruined city of Xak Tsaroth (home to the black dragon Khisanth) manifest in various ways across multiple worlds. Similarly, the power of mighty dragonslayers often resonates around sites they build or inhabit. The Tomb of Horrors is one such site, crafted by the lich Acererak, whose uncountable evils included slaughtering metallic dragons for the magic of their blood.
 > 
-> Artifacts associated with dragons can also resonate across the different worlds of the Material Plane. The clearest examples are the [Orbs of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md), described in the "Dungeon Master's Guide". On the world of Greyhawk, these artifacts were made during an era when the Suel Imperium battled a cabal of red dragons. On Krynn, the orbs (known there as *Dragon Orbs*) were created to defend the Towers of High Sorcery from dragon attack. In Faerûn, the *Orbs of Draconic Influence* were made by dragons to extend their influence over other dragons. The similarities among these artifacts are not a matter of coincidence or convergent magical evolution; these items partake of dragons' unique connection to the magical fabric of the Material Plane and echo across its many worlds.
+> Artifacts associated with dragons can also resonate across the different worlds of the Material Plane. The clearest examples are the [Orbs of Dragonkind](orb-of-dragonkind-xdmg.md), described in the "Dungeon Master's Guide". On the world of Greyhawk, these artifacts were made during an era when the Suel Imperium battled a cabal of red dragons. On Krynn, the orbs (known there as *Dragon Orbs*) were created to defend the Towers of High Sorcery from dragon attack. In Faerûn, the *Orbs of Draconic Influence* were made by dragons to extend their influence over other dragons. The similarities among these artifacts are not a matter of coincidence or convergent magical evolution; these items partake of dragons' unique connection to the magical fabric of the Material Plane and echo across its many worlds.
 ^dragons-and-dungeons

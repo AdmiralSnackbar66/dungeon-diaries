@@ -50,11 +50,11 @@ Your character can speak, read, and write Common and one other language that you
 
 Every creature in D&D, including every player character, has a special tag in the rules that identifies the type of creature they are. Most player characters are of the Humanoid type. A race option presented here tells you what your character's creature type is.
 
-Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell doesn't work on a Construct or an Undead.
+Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the [cure wounds](cure-wounds-xphb.md) spell doesn't work on a Construct or an Undead.
 
-- [Chromatic Dragonborn](3-Mechanics/CLI/races/dragonborn-xphb.md)  
-- [Gem Dragonborn](3-Mechanics/CLI/races/dragonborn-gem-ftd.md)  
-- [Metallic Dragonborn](3-Mechanics/CLI/races/dragonborn-xphb.md)  
+- [Chromatic Dragonborn](dragonborn-xphb.md)  
+- [Gem Dragonborn](dragonborn-gem-ftd.md)  
+- [Metallic Dragonborn](dragonborn-xphb.md)  
 
 ## Subclass Options
 
@@ -64,14 +64,14 @@ At 3rd level, a monk gains the Monastic Tradition class feature and a ranger gai
 - Ranger: Drakewarden  
 
 > [!gallery]
-> ![A human monk practices a f...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/dragon-monk.webp#gallery "A human monk practices a form inspired by dragon flight")
-> ![A dragonborn drakewarden s...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/drakewarden-ranger.webp#gallery "A dragonborn drakewarden shares affection with her drake companion")
+> ![A human monk practices a f...](dragon-monk.webp#gallery "A human monk practices a form inspired by dragon flight")
+> ![A dragonborn drakewarden s...](drakewarden-ranger.webp#gallery "A dragonborn drakewarden shares affection with her drake companion")
 
 ## Heroes of the Dragon
 
 Sorcerers whose magic comes from a draconic origin, rangers with a drake companion, and monks who learn the ways of dragon masters are not the only adventurers whose skills, spells, and class features can have their source in the power of dragons. A character of any class can have strong ties to dragonkind. The Draconic Character Ties table provides ideas you might draw on as inspiration for infusing your character with draconic flavor. The classes noted in parentheses at the end of each entry are particularly appropriate for a given tie, but you are not limited to those options.
 
-![Heroes of the Dragon; Draconic Character Ties](3-Mechanics/CLI/tables/heroes-of-the-dragon-draconic-character-ties-ftd.md)
+![Heroes of the Dragon; Draconic Character Ties](heroes-of-the-dragon-draconic-character-ties-ftd.md)
 
 ## Draconic Feats
 
@@ -79,6 +79,6 @@ A feat represents a character achieving mastery in one of their capabilities or 
 
 Here are feats that bestow draconic power, available to you if you use the "optional feat rule" in the "Player's Handbook".
 
-- [Gift of the Chromatic Dragon](3-Mechanics/CLI/feats/gift-of-the-chromatic-dragon-ftd.md)  
-- [Gift of the Gem Dragon](3-Mechanics/CLI/feats/gift-of-the-gem-dragon-ftd.md)  
-- [Gift of the Metallic Dragon](3-Mechanics/CLI/feats/gift-of-the-metallic-dragon-ftd.md)
+- [Gift of the Chromatic Dragon](gift-of-the-chromatic-dragon-ftd.md)  
+- [Gift of the Gem Dragon](gift-of-the-gem-dragon-ftd.md)  
+- [Gift of the Metallic Dragon](gift-of-the-metallic-dragon-ftd.md)

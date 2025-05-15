@@ -20,7 +20,7 @@ This chapter is intended for the Dungeon Master. The ideas and tables herein can
 
 ""Dragon Campaigns"" talks about building worlds and campaign story arcs that put dragons at the forefront of history and at the center of the characters' lives and adventuring ambitions.
 
-![In his guise as Fizban the...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/013-03-001-chapter-splash.webp#center "In his guise as Fizban the Fabulous, Bahamut helps two unlikely heroes escape the wrath of the red dragon Pyros")
+![In his guise as Fizban the...](013-03-001-chapter-splash.webp#center "In his guise as Fizban the Fabulous, Bahamut helps two unlikely heroes escape the wrath of the red dragon Pyros")
 
 ## Roleplaying Dragons
 
@@ -36,17 +36,17 @@ The "Dungeon Master's Guide" includes a series of "tables and guidelines" design
 
 In "chapter 5" of this book, you'll find additional tables of personality traits and ideals that are customized to various kinds of dragons.
 
-![Dragon Characters; Dragon Appearance](3-Mechanics/CLI/tables/dragon-characters-dragon-appearance-ftd.md)
+![Dragon Characters; Dragon Appearance](dragon-characters-dragon-appearance-ftd.md)
 
-![Dragons of the same kind c...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/014-03-002-dragons-of-the-same.webp#center "Dragons of the same kind can vary widely in shape, size, color, and ornamentation")
+![Dragons of the same kind c...](014-03-002-dragons-of-the-same.webp#center "Dragons of the same kind can vary widely in shape, size, color, and ornamentation")
 
-![Dragon Characters; Dragon Mannerisms](3-Mechanics/CLI/tables/dragon-characters-dragon-mannerisms-ftd.md)
+![Dragon Characters; Dragon Mannerisms](dragon-characters-dragon-mannerisms-ftd.md)
 
-![Dragon Characters; Dragon Bonds](3-Mechanics/CLI/tables/dragon-characters-dragon-bonds-ftd.md)
+![Dragon Characters; Dragon Bonds](dragon-characters-dragon-bonds-ftd.md)
 
-![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/015-03-003.webp#center)
+![](015-03-003.webp#center)
 
-![Dragon Characters; Dragon Flaws and Secrets](3-Mechanics/CLI/tables/dragon-characters-dragon-flaws-and-secrets-ftd.md)
+![Dragon Characters; Dragon Flaws and Secrets](dragon-characters-dragon-flaws-and-secrets-ftd.md)
 
 #### How to Name Your Dragon
 
@@ -56,7 +56,7 @@ In "chapter 5" of this book, you'll find additional tables of personality traits
 
 Some dragons' names resonate with power and inspire terror: Ashardalon, Dragotha, Klauth, Khellendros, Malystryx, Vaskar. Others are intricate and obscure, reflecting the grandeur of dragons' ancient language: Ingeloakastimizilian, Imvaernarhro, K'rshinthintl, Claugiyliamatar.
 
-![Commonly known as &quot;Old Gna...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/016-03-004-commonly-known-as.webp#center "Commonly known as &quot;Old Gnawbone,&quot; Claugiyliamatar is often seen with a mangled corpse hanging from her mouth")
+![Commonly known as &quot;Old Gna...](016-03-004-commonly-known-as.webp#center "Commonly known as &quot;Old Gnawbone,&quot; Claugiyliamatar is often seen with a mangled corpse hanging from her mouth")
 
 Many dragons are better known by nicknames and epithets. Klauth is commonly called Old Snarl, and Khellendros is remembered as Skie and the Storm over Krynn. Ingeloakastimizilian is Icingdeath, Imvaernarhro is Inferno, and K'rshinthintl and Claugiyliamatar are called Cyan Bloodbane and Old Gnawbones, respectively.
 
@@ -64,7 +64,7 @@ When naming a dragon, take whatever approach appeals to you. But bear in mind th
 
 The Dragon Name Elements table provides Draconic morphemes that appear in dragon names. You can combine these elements to form a dragon name. For each element, roll a `d20`, then choose one of the four possible results from the table, or roll a `d4` to determine which column to choose from. If you like, you can rearrange these elements and add or drop letters to create a smoother flow or a more dramatic sound. For nicknames, look for inspiration in the dragon's abilities, mannerisms, or most famous acts.
 
-![How to Name Your Dragon; Dragon Name Elements](3-Mechanics/CLI/tables/how-to-name-your-dragon-dragon-name-elements-ftd.md)
+![How to Name Your Dragon; Dragon Name Elements](how-to-name-your-dragon-dragon-name-elements-ftd.md)
 
 #### Customizing Dragons
 
@@ -87,12 +87,12 @@ The "Monster Manual"'s variant rule about making dragons innate spellcasters is 
 You can borrow traits and actions from other monsters to add unique flavor to a dragon. Consider these examples:
 
 - **Change Shape.** You can decide that a dragon acquires this action at a younger age than usual, particularly if you want to feature a dragon in Humanoid form in your campaign. The ""Shape-Shifting"" section later in this chapter offers more information and inspiration. (See the metallic dragons in the "Monster Manual".)  
-- **Damage Absorption.** You might decide that a red or gold dragon is not only unharmed by fire damage, but actually healed by it. (See the [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) in the "Monster Manual".)  
-- **Flyby.** The dragon is an agile flier, quick to fly out of enemies' reach. (See the [peryton](3-Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md) in the "Monster Manual".)  
-- **Mimicry.** Impersonating characters or their allies could be a fun trick for a crafty dragon. (See the [kenku](3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) in the "Monster Manual".)  
+- **Damage Absorption.** You might decide that a red or gold dragon is not only unharmed by fire damage, but actually healed by it. (See the [flesh golem](flesh-golem-xmm.md) in the "Monster Manual".)  
+- **Flyby.** The dragon is an agile flier, quick to fly out of enemies' reach. (See the [peryton](peryton-xmm.md) in the "Monster Manual".)  
+- **Mimicry.** Impersonating characters or their allies could be a fun trick for a crafty dragon. (See the [kenku](kenku-xmm.md) in the "Monster Manual".)  
 - **Rejuvenation.** You might decide that dragons in your campaign, being an essential part of the Material Plane, are nearly impossible to destroy. A dragon's life essence might be preserved in the egg from which it first emerged, in its hoard, or in a cavernous hall at the center of the world, just as a lich's essence is hidden in a phylactery. (See the [lich](3-Mechanics/CLI/bestiary/undead/lich-xmm.md) in the "Monster Manual".)  
 - **Special Senses.** Most dragons have [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision). You might upgrade [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) to [truesight](3-Mechanics/CLI/rules/senses.md#Truesight), or you could give a dragon with a burrowing speed [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense). (See the "introduction" to the "Monster Manual".)  
-- **Tunneler.** Any dragon with a burrowing speed could have this trait, moving through solid rock and leaving a tunnel in its wake. (See the [umber hulk](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) in the "Monster Manual".)  
+- **Tunneler.** Any dragon with a burrowing speed could have this trait, moving through solid rock and leaving a tunnel in its wake. (See the [umber hulk](umber-hulk-xmm.md) in the "Monster Manual".)  
 
 ### Life Span
 
@@ -104,7 +104,7 @@ Some dragons can live for over a thousand years, outlasting the rise and fall of
 
 The tables in this section suggest possible goals that reflect the priorities of dragons at different ages. Of course, a dragon's goals are shaped by many additional factors, including alignment, ideals, bonds, and flaws. So use these tables as a starting point, but flesh out each dragon's goals as you develop a complete picture of the dragon's personality.
 
-![Blue Wyrmling](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/017-03-005-blue-wyrmling.webp#center)
+![Blue Wyrmling](017-03-005-blue-wyrmling.webp#center)
 
 #### Wyrmlings
 
@@ -112,19 +112,19 @@ Much like adventurers in the first tier of play (levels 1 to 4), dragons in thei
 
 Wyrmlings most often think on a local scale—an area no larger than might be covered by a few farmsteads or villages. If adult dragons are rearing a clutch of wyrmlings, the younger dragons often divide the adults' territory among them. A single wyrmling might thus hunt an area covering only a few square miles, but the presence of one wyrmling indicates that more might be nearby. On the other hand, wyrmlings without adult dragons in their lives might become allies or as captives of other kinds of creatures. Such wyrmlings are more likely to be scattered from their nest mates.
 
-![Wyrmlings; Wyrmling Goals](3-Mechanics/CLI/tables/wyrmlings-wyrmling-goals-ftd.md)
+![Wyrmlings; Wyrmling Goals](wyrmlings-wyrmling-goals-ftd.md)
 
 #### Young Dragons
 
 Young dragons in their first century of life are similar in many ways to adventurers in the second tier of play (levels 5 to 10), as they're beginning to come into their own among the most powerful creatures of the Material Plane.
 
-![Young blue dragon](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/018-03-006-young-blue-dragon.webp#center)
+![Young blue dragon](018-03-006-young-blue-dragon.webp#center)
 
 This stage is when most dragons first establish their own territory and lair. A young dragon's territory covers an area about 50 miles across. This is also when dragons start to form the magical ties that bind them to both their hoards and the regions around their lairs.
 
 Hunting dragons typically fly on a more-or-less circular path out to one edge of their territory and back in a day, traveling about 75 miles in total. Young dragons also use their hunting flights to keep tabs on happenings within their territory and are keenly aware of other creatures whose territory neighbors or overlaps their own. A young dragon can become a significant threat to a city or kingdom, either through overt violence or subtle manipulation.
 
-![Young Dragons; Young Dragon Goals](3-Mechanics/CLI/tables/young-dragons-young-dragon-goals-ftd.md)
+![Young Dragons; Young Dragon Goals](young-dragons-young-dragon-goals-ftd.md)
 
 #### Adult Dragons
 
@@ -132,9 +132,9 @@ After their first century of life, adult dragons are mighty beings, akin to char
 
 Most adult dragons establish additional lairs to expand their territory. These lairs are usually set 50 to 75 miles apart, so the dragon can fly from one to the next in a single day's travel. An adult dragon typically hunts the area around one lair for a month or more, then moves on to another lair. The dragon's magical connection to a lair can transform the surrounding region, as represented by regional effects.
 
-![Adult blue dragon](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/019-03-007-adult-blue-dragon.webp#center)
+![Adult blue dragon](019-03-007-adult-blue-dragon.webp#center)
 
-![Adult Dragons; Adult Dragon Goals](3-Mechanics/CLI/tables/adult-dragons-adult-dragon-goals-ftd.md)
+![Adult Dragons; Adult Dragon Goals](adult-dragons-adult-dragon-goals-ftd.md)
 
 > [!note] Dragons and Territory
 > 
@@ -147,7 +147,7 @@ Most adult dragons establish additional lairs to expand their territory. These l
 > A whole continent, about 3,000 miles across, might include the territories of hundreds of young dragons and dozens of adults, but rarely more than a handful of ancient dragons.
 ^dragons-and-territory
 
-![Ancient blue dragon](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/020-03-008-ancient-blue-dragon.webp#center)
+![Ancient blue dragon](020-03-008-ancient-blue-dragon.webp#center)
 
 #### Ancient Dragons
 
@@ -159,7 +159,7 @@ An ancient dragon typically has several lairs, each one suffused with powerful m
 
 The oldest ancient dragons sometimes transform into mythic creatures of godlike power. These greatwyrms, described in "chapter 6", are nearly perfect avatars of draconic nature and are so suffused with the magic of the Material Plane that they are all but immortal. Many result from ancient dragons ritually combining multiple echoes of themselves into a single corporeal form, as Ashardalon and Chronepsis are said to have done. Most greatwyrms are at least twelve centuries old and have hoards worth millions of gold pieces, but they are otherwise similar to other ancient dragons in their goals and perspectives.
 
-![Greatwyrms; Ancient Dragon Goals](3-Mechanics/CLI/tables/greatwyrms-ancient-dragon-goals-ftd.md)
+![Greatwyrms; Ancient Dragon Goals](greatwyrms-ancient-dragon-goals-ftd.md)
 
 ### Reproduction
 
@@ -169,11 +169,11 @@ The oldest ancient dragons sometimes transform into mythic creatures of godlike 
 
 Dragon reproduction varies from world to world in the Material Plane and can vary further depending on the family, kind, or individual nature of the dragons involved. Humanoids observing dragons have long assumed that their reproductive cycle resembles that of mundane reptiles—that two dragons of different sexes mate and produce a clutch of eggs. Sometimes, on some worlds, this is true, but dragon reproduction covers a wide range of other possibilities. You can use the Origin of Dragon Eggs table to choose a method of reproduction that holds true for all dragons on your world, to determine the origin of a specific clutch of eggs, or for anything in between.
 
-![Reproduction; Origin of Dragon Eggs](3-Mechanics/CLI/tables/reproduction-origin-of-dragon-eggs-ftd.md)
+![Reproduction; Origin of Dragon Eggs](reproduction-origin-of-dragon-eggs-ftd.md)
 
 Once an egg comes into being, it must mature before it is ready to hatch into a wyrmling. Typically, an egg thrives only in an environment appropriate for a dragon of its kind—nestled in a pool of lava for a red or gold dragon, in ice for a white or silver dragon, in rotting vegetation for a black or green dragon, in sun-heated sand for a brass or blue dragon, or in a storm-wracked sea cave or inhospitable moorland for a bronze or copper dragon. Gem dragon eggs generally incubate encased in rock or in small caves. The incubation period for any egg might range from 6 months to several decades or longer.
 
-![Miners discover an amethyst dragon egg](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/021-03-009-miners-discover.webp#center)
+![Miners discover an amethyst dragon egg](021-03-009-miners-discover.webp#center)
 
 #### Half-Dragons
 
@@ -183,7 +183,7 @@ Dragons create half-dragon progeny for a wide range of reasons. Some dragons cre
 
 In some worlds, these same phenomena might explain the origins of dragonborn, kobolds, and perhaps the draconic gifts described in "chapter 2".
 
-![Half-Dragons; Half-Dragon Origin](3-Mechanics/CLI/tables/half-dragons-half-dragon-origin-ftd.md)
+![Half-Dragons; Half-Dragon Origin](half-dragons-half-dragon-origin-ftd.md)
 
 ### Death of a Dragon
 
@@ -195,7 +195,7 @@ Dragons are intimately bound up with the fabric of magic that undergirds the Mat
 
 Some sages describe dragons as being akin to knots in the fabric of magic—concentrations of power in material form. When a dragon dies, that knot is undone, sometimes resulting in a surge of magical energy. You can use the Dragon Death Throes table to help you decide what happens when a dragon dies. Characters who slay a dragon are often on their last legs when the dragon finally succumbs, so if an effect is likely to kill a character, roll again or choose a less dangerous result.
 
-![Death of a Dragon; Dragon Death Throes](3-Mechanics/CLI/tables/death-of-a-dragon-dragon-death-throes-ftd.md)
+![Death of a Dragon; Dragon Death Throes](death-of-a-dragon-dragon-death-throes-ftd.md)
 
 #### Regional Reversal
 
@@ -236,15 +236,15 @@ Despite their incredible life spans, some dragons pursue undeath to extend their
 
 Dracoliches are created by cultists or necromancers who either persuade or trick a dragon into undergoing a foul ritual. In the world of the Forgotten Realms, this ritual originated with the Cult of the Dragon, whose teachings (based on a mistranslated fragment of ancient prophecy) maintain that "dead dragons will rule the world entire." The cult thus creates dracoliches as a step toward achieving that particular vision of a future paradise. Similar rites exist on other worlds, whether spread by cultists from Faerûn, invented independently, or discovered by dragons who have dracolich echoes on Faerûn.
 
-"Chapter 6" details three additional kinds of draconic Undead. A [hollow dragon](3-Mechanics/CLI/bestiary/undead/hollow-dragon-ftd.md) comes into being when a metallic dragon gives up mortal life so a fragment of life essence can linger as an eternal guardian of a precious treasure or knowledge. [Draconic shards](3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md) are lingering psychic projections of psionic gem dragons. And dragons can also linger after death as [ghost dragons](3-Mechanics/CLI/bestiary/undead/ghost-dragon-ftd.md).
+"Chapter 6" details three additional kinds of draconic Undead. A [hollow dragon](hollow-dragon-ftd.md) comes into being when a metallic dragon gives up mortal life so a fragment of life essence can linger as an eternal guardian of a precious treasure or knowledge. [Draconic shards](draconic-shard-ftd.md) are lingering psychic projections of psionic gem dragons. And dragons can also linger after death as [ghost dragons](ghost-dragon-ftd.md).
 
 Whatever form an Undead dragon takes, the creature's transformation ripples throughout the Material Plane. Every dragon has echoes on other worlds, and when one dragon violates the natural cycle of life and death, that dragon's echoes are often affected—particularly in the case of dracoliches. A dracolich's echoes suffer a wasting affliction that spreads out from the dracolich like a contagion. Afflicted dragons grow increasingly violent and cruel, and the physical deterioration they experience from aging accelerates. This wasting can even drive an affected dragon to seek out undeath.
 
 The Undead Dragon Adventure Hooks table translates some of these ideas into inspiration for adventures revolving around Undead dragons.
 
-![Undeath; Undead Dragon Adventure Hooks](3-Mechanics/CLI/tables/undeath-undead-dragon-adventure-hooks-ftd.md)
+![Undeath; Undead Dragon Adventure Hooks](undeath-undead-dragon-adventure-hooks-ftd.md)
 
-![The black dracolich Ebonde...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/022-03-010-the-black-dracolich.webp#center "The black dracolich Ebondeath is venerated by a sect of the Cult of the Dragon")
+![The black dracolich Ebonde...](022-03-010-the-black-dracolich.webp#center "The black dracolich Ebondeath is venerated by a sect of the Cult of the Dragon")
 
 ### Echoes across the Worlds
 
@@ -256,7 +256,7 @@ Dragons' unique connection to the magic of the Material Plane and the history of
 
 You can use the Dragon Echo Characteristics table to help you decide what aspects of a dragon's echo are similar to the dragon you know and which are different. You can then use the other tables in this chapter (including the "Dragon Appearance", "Dragon Mannerisms", "Dragon Bonds", and "Dragon Flaws and Secrets" tables), as well as the tables of personality traits and ideals in "chapter 5", to help you elaborate the differences between one dragon and the dragon's echo.
 
-![Echoes across the Worlds; Dragon Echo Characteristics](3-Mechanics/CLI/tables/echoes-across-the-worlds-dragon-echo-characteristics-ftd.md)
+![Echoes across the Worlds; Dragon Echo Characteristics](echoes-across-the-worlds-dragon-echo-characteristics-ftd.md)
 
 ### Gods and Religion
 
@@ -270,7 +270,7 @@ On many worlds, Humanoids worship Bahamut and Tiamat as gods. On Krynn, they are
 
 Dragons view the primordial dragons differently. To metallic dragons, Bahamut is more like a king than a god. Individual dragons might owe Bahamut allegiance, respect him, pay tribute to him, and strive to emulate him. Similarly, chromatic dragons might fear, respect, envy, and appease Tiamat as a sovereign. But none of those attitudes and behaviors bear any resemblance in a dragon's mind to the worship that mortals offer to their gods.
 
-![Bahamut is often accompani...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/023-03-011-bahamut.webp#center "Bahamut is often accompanied by seven ancient gold dragons in his journeys on the Material Plane")
+![Bahamut is often accompani...](023-03-011-bahamut.webp#center "Bahamut is often accompanied by seven ancient gold dragons in his journeys on the Material Plane")
 
 A few other dragons also command reverence from their kin. These are often greatwyrms who have undergone a sort of apotheosis, joining multiple echoes of themselves into a single powerful form. A few are ancient dragons who have cultivated their dragonsight to such a degree that they can coordinate the actions of their echoes across the Material Plane, influencing events on multiple worlds at once. Humanoids might consider these dragons gods, but as with Bahamut and Tiamat, dragons respect these figures for their wisdom, their might, their magic, and their wealth; they don't worship them. Such enlightened dragons include Aasterinian (a brass dragon who serves as a messenger for Bahamut and is sometimes identified as a god of invention), Chronepsis (a black dragon who now resides in the Outlands, sometimes imagined as a god of fate), and Tamara (a silver dragon of transcendent beneficence, described as a god of life). A number of such dragons of legend are discussed in more detail in sidebars in "chapters 5" and "6".
 
@@ -284,7 +284,7 @@ Dragons are not religious by nature. They can grow to become some of the most fo
 > 
 > Most of you are extremely misguided. Looking glasses have not helped.
 
-Most metallic and gem dragons can change shape to take on a Humanoid or Beast form by the time they reach adulthood or ancient age. A few other Dragon varieties possess similar abilities (including deep dragons, described in "chapter 6"), and you can give any dragon the Change Shape action of an adult or ancient dragon without affecting the dragon's challenge rating (as noted under ""Customizing Dragons"" earlier in this chapter). Likewise, if you use the "Monster Manual" variant rule to make dragons innate spellcasters, you could give any adult or older dragon the [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell to take on an alternate form.
+Most metallic and gem dragons can change shape to take on a Humanoid or Beast form by the time they reach adulthood or ancient age. A few other Dragon varieties possess similar abilities (including deep dragons, described in "chapter 6"), and you can give any dragon the Change Shape action of an adult or ancient dragon without affecting the dragon's challenge rating (as noted under ""Customizing Dragons"" earlier in this chapter). Likewise, if you use the "Monster Manual" variant rule to make dragons innate spellcasters, you could give any adult or older dragon the [polymorph](polymorph-xphb.md) spell to take on an alternate form.
 
 Dragons typically use their shape-shifting ability to move about in the world without drawing attention to themselves. Dragons like to know as much as they can about the lands around their lairs and the inhabitants of those lands, and posing as a more innocuous creature is an easy way to gather such information. Many metallic dragons also believe they are following the example of Bahamut, who is known to wander the worlds of the Material Plane in Humanoid guise, appearing sometimes as an elderly sage or wizard, other times as a young fisher or monk. In any of these forms, he is often accompanied by seven gold dragons in the form of brilliant yellow songbirds.
 
@@ -325,9 +325,9 @@ Since the failure of Severin's effort to bring Tiamat into the world, the Cult o
 
 The Tyranny of Dragons adventure details the cult's efforts to bring Tiamat's avatar into the world. Beyond that plot, the Cult of the Dragon Adventure Hooks table offers suggestions for how adventurers might encounter this sinister cult.
 
-![Cult of the Dragon Adventure Hooks](3-Mechanics/CLI/tables/cult-of-the-dragon-adventure-hooks-ftd.md)
+![Cult of the Dragon Adventure Hooks](cult-of-the-dragon-adventure-hooks-ftd.md)
 
-![An adventurer closes a por...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/024-03-012-an-adventurer-closes.webp#center "An adventurer closes a portal, preventing an agent of Tiamat from emerging to aid the Cult of the Dragon")
+![An adventurer closes a por...](024-03-012-an-adventurer-closes.webp#center "An adventurer closes a portal, preventing an agent of Tiamat from emerging to aid the Cult of the Dragon")
 
 #### The Chamber
 
@@ -349,7 +349,7 @@ Most agents of the Chamber assume the Draconic Prophecy is concerned only with t
 
 "Eberron: Rising from the Last War" contains abundant ideas for adventures related to the Chamber's activities on Eberron. The Chamber Adventure Hooks table here suggests additional ways characters on other worlds might become entangled in the schemes and experiments of the Chamber, by way of agents whose awareness extends beyond Eberron.
 
-![Chamber Adventure Hooks](3-Mechanics/CLI/tables/chamber-adventure-hooks-ftd.md)
+![Chamber Adventure Hooks](chamber-adventure-hooks-ftd.md)
 
 #### Hidecarved Dragons
 
@@ -359,7 +359,7 @@ On worlds across the Material Plane, dragons gather in small communities of thre
 
 Dragons most often form a lauth when they identify a shared goal whose completion requires the sustained effort of a diverse group of dragons. The Lauth Goals table offers a few examples.
 
-![Common Purpose; Lauth Goals](3-Mechanics/CLI/tables/common-purpose-lauth-goals-ftd.md)
+![Common Purpose; Lauth Goals](common-purpose-lauth-goals-ftd.md)
 
 ##### Diverse Dragons
 
@@ -369,9 +369,9 @@ The hidecarved dragons of a lauth share a goal but often have little else in com
 
 The arcane markings carved into hidecarved dragons' scales are magical protections, intended to make the dragons more resilient against the threats they might face in carrying out the lauth's purpose. The longer dragons stay with a lauth, the more wards they receive. Most hidecarved dragons have one of these wards plus an additional ward for each age category above wyrmling. You can roll for these effects on the Hidecarved Wards table or choose effects as you wish.
 
-![Hidecarved dragons adorn t...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/025-03-013-hidecarved-dragons.webp#center "Hidecarved dragons adorn their scales with mystic words")
+![Hidecarved dragons adorn t...](025-03-013-hidecarved-dragons.webp#center "Hidecarved dragons adorn their scales with mystic words")
 
-![Engraved Wards; Hidecarved Wards](3-Mechanics/CLI/tables/engraved-wards-hidecarved-wards-ftd.md)
+![Engraved Wards; Hidecarved Wards](engraved-wards-hidecarved-wards-ftd.md)
 
 ##### Mystic Markings
 
@@ -381,7 +381,7 @@ The sigils engraved in the scales of a hidecarved dragon echo across the Materia
 
 The Hidecarved Dragons Adventure Hooks table offers suggestions for how this order of dragons might get caught up in the affairs of adventurers.
 
-![Hidecarved Dragons Adventure Hooks](3-Mechanics/CLI/tables/hidecarved-dragons-adventure-hooks-ftd.md)
+![Hidecarved Dragons Adventure Hooks](hidecarved-dragons-adventure-hooks-ftd.md)
 
 #### Inheritors of the First World
 
@@ -408,7 +408,7 @@ A central tenet of the Inheritors of the First World is that a reborn Sardior wi
 
 The Inheritors of the First World Adventure Hooks table offers suggestions for how characters might become involved with this apocalyptic sect.
 
-![Inheritors of the First World Adventure Hooks](3-Mechanics/CLI/tables/inheritors-of-the-first-world-adventure-hooks-ftd.md)
+![Inheritors of the First World Adventure Hooks](inheritors-of-the-first-world-adventure-hooks-ftd.md)
 
 ## Followers
 
@@ -446,11 +446,11 @@ An emperor might rule openly in dragon form, which discourages aggressive neighb
 
 The size of a dragon's territory is irrelevant to the "emperor" role. A dragon who acts as a mayor for a small frontier town has the same kind of relationship with the populace as one who rules a continent-spanning nation.
 
-![To Kugluk, the fiery breat...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/026-03-014-to-kugluk.webp#center "To Kugluk, the fiery breath of his &quot;Great Uncle&quot; is a toasty blessing")
+![To Kugluk, the fiery breat...](026-03-014-to-kugluk.webp#center "To Kugluk, the fiery breath of his &quot;Great Uncle&quot; is a toasty blessing")
 
 #### God
 
-Some dragons demand not just service but worship from their minions. Among Humanoid creatures, kobolds are most likely to treat their dragon patrons as deities, since they typically see dragons as idealized versions of themselves. They bring sacrifices of food and treasure to their dragon gods, indulge in various forms of worship (including groveling when evil dragons are involved), and create tales and hymns to stoke their deities' egos. But other Humanoids might also feel (or at least feign) religious devotion to a dragon, sometimes even manifesting magical power as a result of their piety. (The [dragon blessed](3-Mechanics/CLI/bestiary/humanoid/dragon-blessed-ftd.md) follower, described in "chapter 6", is an example of a Humanoid manifesting such power.)
+Some dragons demand not just service but worship from their minions. Among Humanoid creatures, kobolds are most likely to treat their dragon patrons as deities, since they typically see dragons as idealized versions of themselves. They bring sacrifices of food and treasure to their dragon gods, indulge in various forms of worship (including groveling when evil dragons are involved), and create tales and hymns to stoke their deities' egos. But other Humanoids might also feel (or at least feign) religious devotion to a dragon, sometimes even manifesting magical power as a result of their piety. (The [dragon blessed](dragon-blessed-ftd.md) follower, described in "chapter 6", is an example of a Humanoid manifesting such power.)
 
 Dragons can be benevolent patrons who genuinely care for those who worship them, scheming manipulators who view devotion as a means of domination and control, or something in between. All dragon gods, however, have devoted minions who are difficult to sway from their service. One key to this devotion is the fact that a dragon's power is more concrete than the power of most gods; the supernatural fear inspired by a dragon's presence readily translates into reverence among the followers.
 
@@ -484,7 +484,7 @@ The combination of ego and intellect can lead a dragon to become a military lead
 
 Depending on the dragon's age and the power and number of minions involved, a dragon warlord might be a local menace or an imperial conqueror.
 
-![Warlord; Relationships and Adventures](3-Mechanics/CLI/tables/warlord-relationships-and-adventures-ftd.md)
+![Warlord; Relationships and Adventures](warlord-relationships-and-adventures-ftd.md)
 
 ### Dragons' Minions
 
@@ -518,9 +518,9 @@ Whether you're crafting a whole adventure around a dragon or just want to throw 
 
 With these four questions in mind, you can look to the Dragon Encounter Complications table for suggestions of quirks, special effects, and unusual situations that can make any dragon encounter more interesting and exciting.
 
-![An encounter with a dragon...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/027-03-015-an-encounter-with-a-dragon.webp#center "An encounter with a dragon can be devastating to people and property alike")
+![An encounter with a dragon...](027-03-015-an-encounter-with-a-dragon.webp#center "An encounter with a dragon can be devastating to people and property alike")
 
-![Dragon Encounters; Dragon Encounter Complications](3-Mechanics/CLI/tables/dragon-encounters-dragon-encounter-complications-ftd.md)
+![Dragon Encounters; Dragon Encounter Complications](dragon-encounters-dragon-encounter-complications-ftd.md)
 
 ## Dragon Adventures
 
@@ -536,11 +536,11 @@ For all their vast power, great intellect, and range of possible motivations, dr
 
 Three basic goals can provide the framework for a monstrous dragon adventure:
 
-- **Stop the Attacks.** A dragon is causing problems, and the only solution is to get rid of the dragon. The dragon might be terrorizing the area near the lair, perhaps burning farmland and devouring livestock, demanding tribute from a village, or holding captives for ransom. Alternatively, a dragon might have established a new lair in the remote wilderness, driving other monsters out of the region and straight into inhabited lands. Or a dragon could be a pawn in a greater villain's schemes, perhaps a warlord who has acquired one of the [Orbs of Dragonkind](3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md). It might be possible to drive the dragon off or somehow change the dragon's behavior, but sometimes killing the dragon is the only option.  
+- **Stop the Attacks.** A dragon is causing problems, and the only solution is to get rid of the dragon. The dragon might be terrorizing the area near the lair, perhaps burning farmland and devouring livestock, demanding tribute from a village, or holding captives for ransom. Alternatively, a dragon might have established a new lair in the remote wilderness, driving other monsters out of the region and straight into inhabited lands. Or a dragon could be a pawn in a greater villain's schemes, perhaps a warlord who has acquired one of the [Orbs of Dragonkind](orb-of-dragonkind-xdmg.md). It might be possible to drive the dragon off or somehow change the dragon's behavior, but sometimes killing the dragon is the only option.  
 - **Reclaim the Dragon's Lair.** A dragon has displaced an entire population to make a lair in the ruins of what was once a great city or stronghold. The people displaced want their home back, so the dragon must be removed. Killing the dragon is not necessarily the goal, but it's certainly one way to solve the problem.  
 - **Acquire the Dragon's Treasure.** The dragon's hoard contains unimaginable wealth—or perhaps one powerful artifact the characters desperately need to achieve some other goal. Slaying the dragon might be one option, but sneaking into the lair and stealing what the characters seek is another. The characters could even bargain with the dragon to acquire the needed item. Alternatively, a dragon might seek adventurers to recover items stolen from the dragon's hoard—with a threat that local folk will suffer if the characters fail.  
 
-![Sometimes the only solution is to slay the dragon](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/028-03-016-sometimes-the-only-solution.webp#center)
+![Sometimes the only solution is to slay the dragon](028-03-016-sometimes-the-only-solution.webp#center)
 
 An adventure featuring a dragon in a monster's role lends itself to a location-based structure. That location is likely the dragon's lair, since it's difficult to pin a dragon down for an all-out fight in most other sites. You can use one of the lair maps in "chapter 5" of this book as the key location for such an adventure, fleshing the site out with features and inhabitants using the "guidelines" in the "Dungeon Master's Guide".
 
@@ -550,7 +550,7 @@ Most of the adventure hooks in this book involve the schemes a dragon might put 
 
 A dragon's schemes become the basis for an adventure when they intersect with the characters' lives. Most directly, the characters might be asked to aid the dragon's schemes or to oppose them. The Cross Purposes table provides inspiration to help you turn dragon-related adventure hooks into adventures that impact the characters in your game.
 
-![Dragon as Schemer; Cross-Purposes](3-Mechanics/CLI/tables/dragon-as-schemer-cross-purposes-ftd.md)
+![Dragon as Schemer; Cross-Purposes](dragon-as-schemer-cross-purposes-ftd.md)
 
 An adventure featuring a dragon's schemes often works best as an "event-based adventure", as described in the "Dungeon Master's Guide". Whether the dragon is the villain, a patron, or an interested bystander, flesh out the dragon's personality, goals, and other traits using the tables and suggestions in this chapter and "chapter 5". The dragon's lair might be a key location for the adventure (perhaps using a map from chapter 5), but the dragon's schemes could lead the characters anywhere—even to other worlds and planes of existence.
 
@@ -562,13 +562,13 @@ The ""Dragon Campaigns"" section that follows discusses the world-ranging implic
 
 Adventures at this scale might involve dragons as villains or as patrons, and they might well involve multiple dragons in conflict with each other. The characters might loyally serve one dragon in opposition to another, or they might attempt to play multiple dragons against one another—perhaps earning the ire of them all.
 
-![In the heart of the jungle...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/029-03-017-in-the-heart.webp#center "In the heart of the jungle, the black greatwyrm Rhashaak keeps watch over a ruined city")
+![In the heart of the jungle...](029-03-017-in-the-heart.webp#center "In the heart of the jungle, the black greatwyrm Rhashaak keeps watch over a ruined city")
 
 ## Dragon Campaigns
 
 Dragons occupy a prominent place in most D&D worlds, but in some realms, they are central to a world's story. Consider these three examples.
 
-![Laurana and Kitiara—genera...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/030-03-018-laurana-and-kitiara.webp#center "Laurana and Kitiara—generals and dragonriders in opposing armies—battle in the temple of the Dragon Queen")
+![Laurana and Kitiara—genera...](030-03-018-laurana-and-kitiara.webp#center "Laurana and Kitiara—generals and dragonriders in opposing armies—battle in the temple of the Dragon Queen")
 
 - **Krynn.** The home of the Dragonlance setting is the battleground for an unending conflict between Bahamut and Tiamat. Tiamat commands armies of draconians (described in "chapter 6") formed from the corrupted eggs of metallic dragons, while heroes and villains alike ride mighty dragons into battle.  
 - **Council of Wyrms.** The Io's Blood isles are a vast domain governed by an assembly of ancient wyrms representing eighty-eight clans of chromatic, metallic, and gem dragons. The council's subjects include dozens of Humanoid peoples, some of whom serve as closely bonded aides to dragon masters.  
@@ -580,7 +580,7 @@ If you want to build a campaign that puts dragons in a similarly prominent role,
 
 The "Dungeon Master's Guide" includes a discussion of "world-shaking events" that might define turning points at the start, middle, or end of a campaign. One way to give dragons a prominent role in your campaign is to apply a draconic twist to any of these events.
 
-![A half-dragon conqueror ac...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/031-03-019-a-half-dragon-conqueror.webp#center "A half-dragon conqueror acquiring an Orb of Dragonkind can throw a world into chaos")
+![A half-dragon conqueror ac...](031-03-019-a-half-dragon-conqueror.webp#center "A half-dragon conqueror acquiring an Orb of Dragonkind can throw a world into chaos")
 
 - **Rise or Fall of a Leader or an Era.** A powerful dragon establishing a new lair in a region can be a singularly impactful event. Likewise, the death of an ancient dragon can cause dramatic changes in the world. The balance of power shifts. Established territories are suddenly contested or might be undefended against other perils. The dragon's hoard represents tremendous wealth flowing through a single region. Entire populations of Humanoids or monsters might move in or out of the dragon's territory.  
 - **Cataclysmic Disaster.** A dragon rampaging through inhabited lands can be worse than any natural disaster. What has stirred the dragon's wrath? Will these rampages continue? What might appease the creature?  
@@ -629,7 +629,7 @@ If the gods are distant from their mortal worshipers in your campaign, making th
 
 On the other hand, the dragon gods of your campaign might be ever present in the world and fully involved in the lives of their worshipers. You could reimagine the gods of Theros (detailed in "Mythic Odysseys of Theros") as dragons, so shining Heliod becomes a gold dragon, Erebos becomes a black dracolich, Thassa is a dragon turtle, and so on. These dragon gods might grant supernatural gifts to their followers in exchange for devotion, potentially even transforming their favored ones into dragonborn. You could draw on the supernatural gifts described in "chapter 2" as well as the "piety benefits" detailed in "Mythic Odysseys of Theros" for inspiration.
 
-![Tiamat's emergence from Av...](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/032-03-020-tiamats-emergence.webp#center "Tiamat's emergence from Avernus could define the course of a campaign")
+![Tiamat's emergence from Av...](032-03-020-tiamats-emergence.webp#center "Tiamat's emergence from Avernus could define the course of a campaign")
 
 #### Dragons of Myth
 

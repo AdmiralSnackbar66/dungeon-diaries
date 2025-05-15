@@ -20,7 +20,7 @@ The deeds of Vox Machina are sung by bards across Tal'Dorei, often exaggerating 
 
 Those among them who age have softer bodies and lines on their faces. Those among them who don't age still show the weight of the world upon their shoulders. By and large, the members of Vox Machina have set aside weapons, armor, and spells in favor of more subtle ways of helping others. Some lead the lands they were born to lead. Others have been elected to the "Tal'Dorei Council", shaping the fate of the continent's people with quiet wisdom rather than blades and battle cries.
 
-Still, each member of this legendary band of adventurers would take up arms again in an instant if it meant protecting those they care for the most. And the [Vestiges of Divergence](3-Mechanics/CLI/tables/vestiges-of-divergence-by-advancement-tdcsr.md), whose power they unlocked in the battles against the "Cinder King" and The Whispered One, are still within their grasp.
+Still, each member of this legendary band of adventurers would take up arms again in an instant if it meant protecting those they care for the most. And the [Vestiges of Divergence](vestiges-of-divergence-by-advancement-tdcsr.md), whose power they unlocked in the battles against the "Cinder King" and The Whispered One, are still within their grasp.
 
 The following stat blocks are here for GMs to use if their players encounter a member of Vox Machina—hopefully as an ally or a "quest giver," for woe betide anyone who encounters these legendary heroes as a foe. These statistics don't represent the full extent of the characters' abilities as 20th-level adventurers, but have been streamlined to make them easier for the Game Master to run.
 
@@ -32,7 +32,7 @@ Bard extraordinaire, champion of the Knowing Mentor, and braggadocious hero of a
 
 Scanlan has always been a self-centered, showboating braggart, but it doesn't mean he doesn't have a heart. These days, friendship and family mean more to him than anything, even if he's still not very good at showing it.
 
-Following the defeat of The Whispered One, Scanlan eventually proposed to his long-pursued sweetheart, [Pike Trickfoot](3-Mechanics/CLI/bestiary/npc/pike-trickfoot-tdcsr.md), and they were married in a grand ceremony. The duo had a pair of children, one named Juniper (Juni) and the other named Wilhand'ildan (Wax). When the children were grown and in school, [Pike](3-Mechanics/CLI/bestiary/npc/pike-trickfoot-tdcsr.md) and Scanlan amicably divorced and went their separate ways, remaining good friends—and occasional lovers—but content to follow their own paths.
+Following the defeat of The Whispered One, Scanlan eventually proposed to his long-pursued sweetheart, [Pike Trickfoot](pike-trickfoot-tdcsr.md), and they were married in a grand ceremony. The duo had a pair of children, one named Juniper (Juni) and the other named Wilhand'ildan (Wax). When the children were grown and in school, [Pike](pike-trickfoot-tdcsr.md) and Scanlan amicably divorced and went their separate ways, remaining good friends—and occasional lovers—but content to follow their own paths.
 
 Scanlan is approaching a century of life, but as a long-lived gnome, his looks are much as they were in his adventuring days except for his slowly receding hairline and the slight belly he's developed. Vanity dies slowly, though, and he hides even this modest amount of aging with a comb-over, frequent use of his trademark beret, and well-placed illusion magic when he needs to look portrait perfect.
 

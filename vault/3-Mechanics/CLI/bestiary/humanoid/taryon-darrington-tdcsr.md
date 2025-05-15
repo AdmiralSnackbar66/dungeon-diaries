@@ -20,7 +20,7 @@ The deeds of Vox Machina are sung by bards across Tal'Dorei, often exaggerating 
 
 Those among them who age have softer bodies and lines on their faces. Those among them who don't age still show the weight of the world upon their shoulders. By and large, the members of Vox Machina have set aside weapons, armor, and spells in favor of more subtle ways of helping others. Some lead the lands they were born to lead. Others have been elected to the "Tal'Dorei Council", shaping the fate of the continent's people with quiet wisdom rather than blades and battle cries.
 
-Still, each member of this legendary band of adventurers would take up arms again in an instant if it meant protecting those they care for the most. And the [Vestiges of Divergence](3-Mechanics/CLI/tables/vestiges-of-divergence-by-advancement-tdcsr.md), whose power they unlocked in the battles against the "Cinder King" and The Whispered One, are still within their grasp.
+Still, each member of this legendary band of adventurers would take up arms again in an instant if it meant protecting those they care for the most. And the [Vestiges of Divergence](vestiges-of-divergence-by-advancement-tdcsr.md), whose power they unlocked in the battles against the "Cinder King" and The Whispered One, are still within their grasp.
 
 The following stat blocks are here for GMs to use if their players encounter a member of Vox Machina—hopefully as an ally or a "quest giver," for woe betide anyone who encounters these legendary heroes as a foe. These statistics don't represent the full extent of the characters' abilities as 20th-level adventurers, but have been streamlined to make them easier for the Game Master to run.
 
@@ -32,9 +32,9 @@ Gleaming, resplendent, and overflowing with indefatigable confidence, Taryon Gar
 
 After many years running the Darrington Brigade—his heroic adventuring band—and publishing several absolutely true accounts of their exploits, Taryon realized his adventuring checklist was essentially complete. He left his home in Deastok, in "Wildemount's" Dwendalian Empire, and began a new chapter of his life. Leaving the brigade in the capable hands of his sister, Maryanne, and his confidant Lionel Gayheart, Taryon traveled around launching several smaller "satellite" brigades in "Wildemount's" most dangerous lands.
 
-Then, realizing he had spent his career as a writer of nonfiction adventure books, he decided to try his hand at fiction instead. With his trusty scribe and majordomo [Doty X](3-Mechanics/CLI/bestiary/npc/doty-x-tdcsr.md) at his side ("Doty Ten," he patiently explains to anyone who mispronounces it), Taryon and his husband Lawrence moved to the Menagerie Coast, setting up in a small writing cottage in Port Damali. While Lawrence tutors local students, Taryon has been dashing off novel after novel. His most successful books are a series called "The Deastok Mysteries," which feature a young, handsome blonde boy who solves crimes around "Wildemount" with his brilliant intellect and trusty robot sidekick.
+Then, realizing he had spent his career as a writer of nonfiction adventure books, he decided to try his hand at fiction instead. With his trusty scribe and majordomo [Doty X](doty-x-tdcsr.md) at his side ("Doty Ten," he patiently explains to anyone who mispronounces it), Taryon and his husband Lawrence moved to the Menagerie Coast, setting up in a small writing cottage in Port Damali. While Lawrence tutors local students, Taryon has been dashing off novel after novel. His most successful books are a series called "The Deastok Mysteries," which feature a young, handsome blonde boy who solves crimes around "Wildemount" with his brilliant intellect and trusty robot sidekick.
 
-From time to time, Taryon charters a [skyship](3-Mechanics/CLI/items/skyship-tdcsr.md) to visit his old friends in "Whitestone" and enjoy the memories of their time together as full-fledged members of Vox Machina.
+From time to time, Taryon charters a [skyship](skyship-tdcsr.md) to visit his old friends in "Whitestone" and enjoy the memories of their time together as full-fledged members of Vox Machina.
 
 ### The Automatic Scribe, Doty
 
