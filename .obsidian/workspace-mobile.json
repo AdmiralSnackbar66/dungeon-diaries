@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/ttrpgs.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "Bows End Tavern"
             }
           }
         ]
@@ -453,9 +453,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "44ffd25d5f269fae",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Bows End Tavern.md",
+    "vault/ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
     "3-Mechanics/CLI/adventures",
     "3-Mechanics/CLI",
     "3-Mechanics",
@@ -466,7 +467,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
-    "vault/ttrpgs/ttrpgs.md",
     "vault/ttrpgs/Player Characters/Borun Erutan.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
