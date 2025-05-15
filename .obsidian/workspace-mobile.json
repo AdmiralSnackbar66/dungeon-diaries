@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk \"the Bulk\" Tusktooth.md",
+                "file": "content/index.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tulk \"the Bulk\" Tusktooth"
+              "title": "index"
             }
           }
         ]
@@ -472,11 +472,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "aba9ab57ba4d9ee1",
+  "active": "5977079c03fd7318",
   "lastOpenFiles": [
-    "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
+    "content/index.md",
+    "2025-05-12.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk \"the Bulk\" Tusktooth.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
+    "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "vault/ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern 1.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.webp",
@@ -516,7 +518,6 @@
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/dragon-chosen.webp",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/priest-acolyte.webp",
     "vault/3-Mechanics/Dice-Roller-Tables/_Generators/Dice Generators/Angel Generator.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/_Generators/Dice Generators/NPC Generator.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
     "z_Assets/Untitled.canvas"

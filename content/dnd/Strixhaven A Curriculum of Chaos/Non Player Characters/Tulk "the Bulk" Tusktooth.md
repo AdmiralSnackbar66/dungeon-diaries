@@ -2,7 +2,7 @@
 tags:
   - dnd
 publish: true
-published: 2025-05-12
+published: 2025-05-15
 char_image: "[[Tulk Tusktooth.webp]]"
 ---
 
