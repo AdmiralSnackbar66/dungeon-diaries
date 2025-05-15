@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "001_20250511_log"
@@ -455,8 +455,10 @@
   },
   "active": "4cf41475f9ec2916",
   "lastOpenFiles": [
-    "vault/ttrpgs/Handouts/Itinerary.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "vault/ttrpgs/Player Characters/Dalaila Eversnow.md",
+    "vault/ttrpgs/Handouts/Itinerary.md",
     "vault/ttrpgs/Items/Strixhaven Pennant.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
     "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
@@ -489,8 +491,6 @@
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Ragnar-Rathdaen.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Thurwin-Torlo.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Zardra-Zinnik.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Brakana-Cador.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Josian-Kalisteroi.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
     "vault/3-Mechanics/CLI/bestiary/construct/img",
