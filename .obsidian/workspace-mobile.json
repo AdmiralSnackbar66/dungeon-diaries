@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09fa47c3c0b72173",
+        "id": "5ad3fa1ae9a9d62a",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf41475f9ec2916",
+            "id": "3c472d9f8eaec533",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-                "mode": "source",
-                "source": false
+                "file": "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "001_20250511_log"
+              "title": "Mavinder Sharpbeak"
             }
           }
         ]
@@ -453,10 +453,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4cf41475f9ec2916",
+  "active": "3c472d9f8eaec533",
   "lastOpenFiles": [
-    "vault/ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "vault/ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Additional Rules/Extracurriculars and Jobs.md",
     "vault/ttrpgs/Player Characters/Dalaila Eversnow.md",
     "vault/ttrpgs/Handouts/Itinerary.md",
     "vault/ttrpgs/Items/Strixhaven Pennant.md",
@@ -489,8 +491,6 @@
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Urzo-Vanarro.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Sariah-Selathian.md",
     "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Ragnar-Rathdaen.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Thurwin-Torlo.md",
-    "vault/3-Mechanics/Dice-Roller-Tables/Names/All Names/Names Zardra-Zinnik.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
     "vault/3-Mechanics/CLI/bestiary/construct/img",
