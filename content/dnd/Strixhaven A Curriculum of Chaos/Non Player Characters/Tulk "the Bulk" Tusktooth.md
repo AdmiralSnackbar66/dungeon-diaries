@@ -1,9 +1,10 @@
 ---
 tags:
   - dnd
+  - NPC
 publish: true
 published: 2025-05-15
-char_image: "[[Tulk Tusktooth.webp]]"
+title: Tulk "The Bulk" Tusktooth
 ---
 
 > [!infobox]
