@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-                "mode": "preview",
+                "file": "content/blog/Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven"
+              "title": "Untitled"
             }
           }
         ]
@@ -474,10 +474,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "vault/ttrpgs/ttrpgs.md",
+    "content/blog/Untitled.md",
+    "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven",
     "ttrpgs/Campaigns",
     "ttrpgs",
-    "vault/ttrpgs/ttrpgs.md",
     "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
     "vault/0-Scratch Notes/Strixhaven Mysteries 2.md",
     "content/blog/2025-05-11 - First session done.md",
@@ -511,7 +513,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Snarl.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Talk Tusktooth.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/051-03-027-concentration.webp",
-    "vault/z_Example Notes/z_Example Notes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/HEIF Image.heic",
     "z_Assets/HEIF Image.heic",
     "z_Assets",
@@ -519,7 +520,6 @@
     "3-Mechanics/CLI/books",
     "3-Mechanics/CLI/adventures",
     "3-Mechanics/CLI",
-    "3-Mechanics",
     "z_Assets/Untitled.canvas"
   ]
 }
