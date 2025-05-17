@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
+                "file": "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven Mysteries 1"
+              "title": "Strixhaven"
             }
           }
         ]
@@ -474,8 +474,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "vault/0-Scratch Notes/Strixhaven Mysteries 2.md",
     "vault/ttrpgs/ttrpgs.md",
+    "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
+    "vault/0-Scratch Notes/Strixhaven Mysteries 2.md",
     "content/blog/2025-05-11 - First session done.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
@@ -517,7 +518,6 @@
     "3-Mechanics/CLI/adventures",
     "3-Mechanics/CLI",
     "3-Mechanics",
-    "vault/ttrpgs/Player Characters/Borun Erutan.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
     "z_Assets/Untitled.canvas"
