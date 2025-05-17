@@ -11,14 +11,12 @@
             "id": "f108258a018f0d77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
-                "mode": "source",
-                "source": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.png"
               },
-              "icon": "lucide-file",
-              "title": "Rosimyffenbip Rosie Wuzzfedlims"
+              "icon": "lucide-image",
+              "title": "Rosimyffenbip Wuzzfedlims"
             }
           }
         ]
@@ -455,13 +453,13 @@
   },
   "active": "f108258a018f0d77",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
     "vault/ttrpgs/ttrpgs.md",
     "3-Mechanics/CLI/adventures/candlekeep-mysteries/04-mazfroths-mighty-digressions.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",

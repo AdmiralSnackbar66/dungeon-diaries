@@ -9,7 +9,7 @@ tags:
 
 > [!infobox]
 > # `Rosimyffenbip "Rosie" Wuzzfedlims`
-> ![[Rosimyffenbip "Rosie" Wuzzfedlims.PNG|map]]
+> ![[Rosimyffenbip Wuzzfedlims.png|map]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
