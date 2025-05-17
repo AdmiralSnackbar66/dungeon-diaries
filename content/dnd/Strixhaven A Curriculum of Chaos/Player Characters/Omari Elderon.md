@@ -1,8 +1,9 @@
 ---
-draft: false
+published: 2025-05-15
 title: Omari Elderon
 tags:
   - dnd
+publish: true
 ---
 
 ![[Omari Elderon.png|215x323]]

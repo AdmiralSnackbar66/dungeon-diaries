@@ -9,6 +9,7 @@ Class:
 Species:
   - Human
 Alignment: Neutral
+published: 2025-05-15
 ---
 ![[Borun Erutan.png|215x323]]
 

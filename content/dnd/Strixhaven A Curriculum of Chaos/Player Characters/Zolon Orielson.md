@@ -1,8 +1,9 @@
 ---
-draft: false
+publish: true
 title: Zolon Orielson
 tags:
   - dnd
+published: 2025-05-15
 ---
 ![[Zolon Orielson.png|215x323]]
 

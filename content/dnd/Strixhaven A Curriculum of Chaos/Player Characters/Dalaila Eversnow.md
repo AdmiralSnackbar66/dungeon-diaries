@@ -1,8 +1,9 @@
 ---
 title: Dalaila Eversnow
-draft: false
+publish: true
 tags:
   - dnd
+published: 2025-05-15
 ---
 ![[Dalaila Eversnow.png|215x323]]
 
