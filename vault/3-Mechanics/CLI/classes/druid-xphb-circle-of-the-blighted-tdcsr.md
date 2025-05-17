@@ -67,14 +67,14 @@ Additionally, while you are transformed by your Wild Shape feature, you gain a +
 
 ### Call of the Shadowseeds (Level 6)
 
-At 6th level, you learn to summon the feral children of the forest from the life force of your enemies. When a creature that is not undead or a construct takes damage within the area of your Defile Ground feature, you can use your reaction to summon a [blighted sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md) in an unoccupied space within 5 feet of the creature. You can direct the [sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md) to make an attack against any creature within 5 feet of it as a part of this reaction. The [sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md) then acts on your initiative, obeying your verbal commands.
+At 6th level, you learn to summon the feral children of the forest from the life force of your enemies. When a creature that is not undead or a construct takes damage within the area of your Defile Ground feature, you can use your reaction to summon a [blighted sapling](blighted-sapling-tdcsr.md) in an unoccupied space within 5 feet of the creature. You can direct the [sapling](blighted-sapling-tdcsr.md) to make an attack against any creature within 5 feet of it as a part of this reaction. The [sapling](blighted-sapling-tdcsr.md) then acts on your initiative, obeying your verbal commands.
 
-The [blighted sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md) remains in your service until it's reduced to 0 hit points, until the end of your next long rest, or until you summon another [sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md), at which point it crumbles into foul-smelling mulch. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
+The [blighted sapling](blighted-sapling-tdcsr.md) remains in your service until it's reduced to 0 hit points, until the end of your next long rest, or until you summon another [sapling](blighted-sapling-tdcsr.md), at which point it crumbles into foul-smelling mulch. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
-The [sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md) uses the statistics below. Its features scale based on your level and proficiency bonus (PB).
+The [sapling](blighted-sapling-tdcsr.md) uses the statistics below. Its features scale based on your level and proficiency bonus (PB).
 
 > [!embed-monster]- Blighted Sapling
-> ![Blighted Sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md#^statblock)
+> ![Blighted Sapling](blighted-sapling-tdcsr.md#^statblock)
 
 ### Defile Ground (10th Level) (Level 10)
 
@@ -86,7 +86,7 @@ The extra damage dealt by your defiled ground increases to `1d8` when you reach 
 
 ### Foul Conjuration (Level 10)
 
-Starting at 10th level, the creatures you conjure are malformed and bloated with toxins. Any beast, fey, or plant (including your [blighted sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md)) summoned or created by your spells or class features gains the following traits:
+Starting at 10th level, the creatures you conjure are malformed and bloated with toxins. Any beast, fey, or plant (including your [blighted sapling](blighted-sapling-tdcsr.md)) summoned or created by your spells or class features gains the following traits:
 
 #### Blighted Resilience
 _Source: Tal'Dorei Campaign Setting Reborn_

@@ -30,7 +30,7 @@ Once the connection between the two mirrors has been activated three times from 
 | 4 | "Westruun" | "Realmseer Eskil Ryndarien" |
 | 5 | "Syngorn" | "Ouestra, the Voice of Memory" |
 | 6 | The Elemental Plane of Water | Khedive Xundi, Lord of Silver Silt |
-| 7 | The Plane of Shadow | A [Remnant Chosen](3-Mechanics/CLI/bestiary/humanoid/remnant-chosen-tdcsr.md) |
+| 7 | The Plane of Shadow | A [Remnant Chosen](remnant-chosen-tdcsr.md) |
 | 8 | An untraceable location | "The Wonderworker" |
 ^mirror-locations
 

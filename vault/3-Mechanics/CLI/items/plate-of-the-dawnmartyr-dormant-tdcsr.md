@@ -19,7 +19,7 @@ aliases:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-Beautiful silver scrollwork and priceless cut rubies adorn this set of brass-and-gold armor. Legend holds that it was worn by Duana, High Priest of the The Dawnfather, when she was martyred in the Battle of Ghor Dranas in the final days of the "Calamity". In more recent times, it was worn by [Pike Trickfoot](3-Mechanics/CLI/bestiary/npc/pike-trickfoot-tdcsr.md), a legendary cleric of the The Everlight, while fighting against "the Chroma Conclave" and The Whispered One.
+Beautiful silver scrollwork and priceless cut rubies adorn this set of brass-and-gold armor. Legend holds that it was worn by Duana, High Priest of the The Dawnfather, when she was martyred in the Battle of Ghor Dranas in the final days of the "Calamity". In more recent times, it was worn by [Pike Trickfoot](pike-trickfoot-tdcsr.md), a legendary cleric of the The Everlight, while fighting against "the Chroma Conclave" and The Whispered One.
 
 ## Dormant
 

@@ -17,7 +17,7 @@ aliases:
 - **Properties**: [Vestige of Divergence](3-Mechanics/CLI/rules/item-properties.md#Vestige%20of%20Divergence)
 - **Weight**: 13.0 lbs.
 
-This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of The Matron of Ravens. Legends say that it has been worn by a number of that deity's champions over the centuries—most recently, [Vax'ildan of Vox Machina](3-Mechanics/CLI/bestiary/celestial/champion-of-ravens-tdcsr.md).
+This beautiful black leather armor is covered in intricate scrollwork, and has a mantle bearing the black feathers of The Matron of Ravens. Legends say that it has been worn by a number of that deity's champions over the centuries—most recently, [Vax'ildan of Vox Machina](champion-of-ravens-tdcsr.md).
 
 **Items in this group:**
 

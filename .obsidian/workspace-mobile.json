@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Mechanics/CLI/backgrounds/backgrounds.md",
+                "file": "3-Mechanics/CLI/bestiary/bestiary.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backgrounds"
+              "title": "bestiary"
             }
           }
         ]
@@ -455,8 +455,9 @@
   },
   "active": "44ffd25d5f269fae",
   "lastOpenFiles": [
-    "vault/3-Mechanics/CLI/bestiary/celestial/celestial.md",
-    "vault/3-Mechanics/CLI/bestiary/bestiary.md",
+    "3-Mechanics/CLI/backgrounds/backgrounds.md",
+    "3-Mechanics/CLI/bestiary/celestial/celestial.md",
+    "3-Mechanics/CLI/bestiary/bestiary.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
@@ -490,7 +491,6 @@
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/06-wages-of-vice.md",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/04-written-in-blood.md",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/16-beyond-the-radiant-citadel.md",
-    "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/09-trail-of-destruction.md",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/img",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/HEIF Image.heic",

@@ -14,7 +14,7 @@ aliases:
 
 - **Properties**: [Vestige of Divergence](3-Mechanics/CLI/rules/item-properties.md#Vestige%20of%20Divergence)
 
-When you don this circlet of gnarled onyx, black barbs dig into your head, imparting power to you as the circlet twists your appearance to amuse The Spider Queen. The current resting place of the Circlet of Barbed Vision is unknown, but rumor has it that a spectral assassin known as [the Inevitable End](3-Mechanics/CLI/bestiary/npc/jourrael-the-caedogeist-tdcsr.md) seeks this relic.
+When you don this circlet of gnarled onyx, black barbs dig into your head, imparting power to you as the circlet twists your appearance to amuse The Spider Queen. The current resting place of the Circlet of Barbed Vision is unknown, but rumor has it that a spectral assassin known as [the Inevitable End](jourrael-the-caedogeist-tdcsr.md) seeks this relic.
 
 ## Dormant
 

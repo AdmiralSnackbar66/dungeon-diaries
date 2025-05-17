@@ -19,7 +19,7 @@ aliases:
 - **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light), [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown), [Vestige of Divergence](3-Mechanics/CLI/rules/item-properties.md#Vestige%20of%20Divergence)
 - **Weight**: 1.0 lbs.
 
-Forged with a mercurial metal accidentally drawn from the Realms Beyond, this dagger shimmers with an unsettling sourceless light. It was once wielded by [Vax'ildan, a legendary champion of the Matron of Ravens](3-Mechanics/CLI/bestiary/celestial/champion-of-ravens-tdcsr.md). Two raven feathers are linked to its pommel as a memento of its former bearer.
+Forged with a mercurial metal accidentally drawn from the Realms Beyond, this dagger shimmers with an unsettling sourceless light. It was once wielded by [Vax'ildan, a legendary champion of the Matron of Ravens](champion-of-ravens-tdcsr.md). Two raven feathers are linked to its pommel as a memento of its former bearer.
 
 **Items in this group:**
 

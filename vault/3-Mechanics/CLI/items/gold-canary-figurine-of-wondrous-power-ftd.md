@@ -16,11 +16,11 @@ This gold statuette is carved in the likeness of a canary and is small enough to
 
 ## Giant Canary Form
 
-The figurine becomes a [giant canary](3-Mechanics/CLI/bestiary/beast/giant-canary-ftd.md) for up to 8 hours and can be ridden as a mount. Once the figurine has become a [giant canary](3-Mechanics/CLI/bestiary/beast/giant-canary-ftd.md), it can't be used this way again until the next dawn.
+The figurine becomes a [giant canary](giant-canary-ftd.md) for up to 8 hours and can be ridden as a mount. Once the figurine has become a [giant canary](giant-canary-ftd.md), it can't be used this way again until the next dawn.
 
 ## Gold Dragon Form
 
-While you are missing half or more of your hit points, you can speak a different command word and the figurine becomes an [adult gold dragon](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) (see its stat block in the Monster Manual) for up to 1 hour. The dragon can't use any legendary actions or lair actions. Once the figurine has become an [adult gold dragon](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md), it can't be used this way again until 1 year has passed.
+While you are missing half or more of your hit points, you can speak a different command word and the figurine becomes an [adult gold dragon](adult-gold-dragon-xmm.md) (see its stat block in the Monster Manual) for up to 1 hour. The dragon can't use any legendary actions or lair actions. Once the figurine has become an [adult gold dragon](adult-gold-dragon-xmm.md), it can't be used this way again until 1 year has passed.
 
 In either form, the creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.
 

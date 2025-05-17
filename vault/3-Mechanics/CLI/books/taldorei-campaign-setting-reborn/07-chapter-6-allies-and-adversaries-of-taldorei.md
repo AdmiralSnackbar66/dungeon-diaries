@@ -38,9 +38,9 @@ No consistent creation myth exists for these people, who can be found living as 
 
 During the "Calamity", many "elves" fled into the Fey Realm to escape that terrible war. One elven tribe that remained on Exandria to fight alongside their gods were known as the Horselords of Laphithas. The "elves" of Laphithas rode alongside the Arch Heart against the mortal servants of the Ruiner, but the entire tribe was slain in a burst of chaotic magic when the Arch Heart stabbed the Ruiner through one eye. The overflowing power of the wounded god merged these "elves'" mortal bodies with the bodies of their steeds even as they died.
 
-The Arch Heart rewarded the "elves" of Laphithas by reviving them as [centaurs](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md), who would ride across the "Dividing Plains" forever free of war. [Centaurs](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) have long since diverged from their elven ancestry, viewing themselves as a people all their own. Still, some [centaurs](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) throw their arms wide to the "elves" of "Syngorn" as long-lost cousins, even as others nurture an ancient grudge against them for fleeing when their people's need was greatest. Many of the centaur herds of the plains are incredibly faithful, worshiping the Arch Heart with a fervor unknown even among the "elves".
+The Arch Heart rewarded the "elves" of Laphithas by reviving them as [centaurs](centaur-trooper-xmm.md), who would ride across the "Dividing Plains" forever free of war. [Centaurs](centaur-trooper-xmm.md) have long since diverged from their elven ancestry, viewing themselves as a people all their own. Still, some [centaurs](centaur-trooper-xmm.md) throw their arms wide to the "elves" of "Syngorn" as long-lost cousins, even as others nurture an ancient grudge against them for fleeing when their people's need was greatest. Many of the centaur herds of the plains are incredibly faithful, worshiping the Arch Heart with a fervor unknown even among the "elves".
 
-[Centaurs](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) share an origin with "orcs", who were also originally "elves" before being changed by the conflict between the Arch Heart and the Ruiner. Many [centaurs](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) and "orcs" of the "Dividing Plains" see one another as kindred, but just as with real family, this bond can engender feelings of intense affection or equally intense hatred—or simply indifference. The circumstances of their lives determine the way "orcs" and [centaurs](3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md) feel about one another, though their kinship brings them into frequent contact either way.
+[Centaurs](centaur-trooper-xmm.md) share an origin with "orcs", who were also originally "elves" before being changed by the conflict between the Arch Heart and the Ruiner. Many [centaurs](centaur-trooper-xmm.md) and "orcs" of the "Dividing Plains" see one another as kindred, but just as with real family, this bond can engender feelings of intense affection or equally intense hatred—or simply indifference. The circumstances of their lives determine the way "orcs" and [centaurs](centaur-trooper-xmm.md) feel about one another, though their kinship brings them into frequent contact either way.
 
 ### Dragons
 
@@ -66,13 +66,13 @@ At the same time, not all chromatic dragons cling to the ways of their creator. 
 
 The Betrayer God known as the Spider Queen was one of the first casualties of the "Calamity"—impaled by the Stormlord's thunderspear before her dark elf soldiers ever saw battle. Her blood, thick and silvery, seeped into the earth and pooled in the sunless caverns beneath Exandria. In the centuries that followed her defeat, these pools of divine blood were discovered by the Spider Queen's most loyal dark elf servants, and they drank deeply.
 
-The blood of the Spider Queen granted these drow the goddess's terrible power, and warped their bodies into forms that are half-spider, half-elf. Called [driders](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md), these beings grew in number as more and more drow accepted this gift. In time, the pools of divine blood began to run dry, and the [driders](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) found themselves tormented by its absence. They now roam the caverns and tunnels beneath Exandria, desperately searching for hidden pools of the silver nectar.
+The blood of the Spider Queen granted these drow the goddess's terrible power, and warped their bodies into forms that are half-spider, half-elf. Called [driders](drider-xmm.md), these beings grew in number as more and more drow accepted this gift. In time, the pools of divine blood began to run dry, and the [driders](drider-xmm.md) found themselves tormented by its absence. They now roam the caverns and tunnels beneath Exandria, desperately searching for hidden pools of the silver nectar.
 
 ### Fey
 
 People don't discover the fey; rather, the fey discover people. Though enchanted forests are their favored domain, fey folk can be found wherever the power of nature is strong—even a flower garden in the middle of "Emon". Of course, "Emonian" scholars endlessly debate whether the fey typically come to an enchanted forest because of its magic, or whether the magic of such sites blooms because of the fey. The answers to such mysteries are known to the Archfey, of course—but they don't like spilling secrets.
 
-The Fey Realm is a place of intense emotion. There, happiness becomes elation, anger becomes fury, and passions become obsessions. The very shapes of the fey are defined by their innermost feelings, and even fey siblings can take different forms based on what they feel most strongly about. Two daughters of [pixie](3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) parents are just as likely to be a [sprite](3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) and a [satyr](3-Mechanics/CLI/bestiary/fey/satyr-xmm.md) if one sister is drawn to war and the other to revelry. And though uncommon, it is not unheard of for a fey to completely and spontaneously change form after a life-altering event. Since most fey live for upward of three centuries, a particularly unstable fey might take a dozen forms over the course of their life, wildly changing their physical form, voice, gender, likes and dislikes, and more.
+The Fey Realm is a place of intense emotion. There, happiness becomes elation, anger becomes fury, and passions become obsessions. The very shapes of the fey are defined by their innermost feelings, and even fey siblings can take different forms based on what they feel most strongly about. Two daughters of [pixie](pixie-xmm.md) parents are just as likely to be a [sprite](sprite-xmm.md) and a [satyr](satyr-xmm.md) if one sister is drawn to war and the other to revelry. And though uncommon, it is not unheard of for a fey to completely and spontaneously change form after a life-altering event. Since most fey live for upward of three centuries, a particularly unstable fey might take a dozen forms over the course of their life, wildly changing their physical form, voice, gender, likes and dislikes, and more.
 
 Though the fey are beings of chaos and change, one immutable factor of fey life is that all are beholden to the Archfey. The immortal and imperious rulers of feykind, the Archfey rarely travel to Exandria, instead spending their time scheming against each other and plotting elaborate political intrigues. When mortals enter their realm, the Archfey take notice and often spy on them in person, using clever disguises and misdirection to keep those mortals from disrupting the Archfey's own maneuvering. Vox Machina was once pursued by Lord Artagan of the Morncrown, a jovial Archfey who finds the incursions of mortals more amusing than distressing. And there are rumors that Artagan has made his presence known on the Material Plane as well, as a mysterious being known as the Traveler.
 
@@ -90,15 +90,15 @@ Giants have a natural life span of about 300 years, though lives of hardship and
 
 #### Lowborn Giants
 
-[Ogres](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md), [cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md), and [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) occupy the lowest rungs of giant society. The highborn keep them at arm's length, using them as a sort of barrier between humanoid and giant civilizations. The lowborn band together, forming tight-knit social groups that must fight and forage to survive. [Cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) typically rule lowborn settlements, and some [hill giant](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) warriors ritualistically tear out one eye to emulate their rulers. Zealous [hill giant](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) worshipers of the Ruiner sometimes do the same, with that god granting them power to survive in exchange for ever-increasing sacrifices.
+[Ogres](ogre-xmm.md), [cyclopes](cyclops-sentry-xmm.md), and [hill giants](hill-giant-xmm.md) occupy the lowest rungs of giant society. The highborn keep them at arm's length, using them as a sort of barrier between humanoid and giant civilizations. The lowborn band together, forming tight-knit social groups that must fight and forage to survive. [Cyclopes](cyclops-sentry-xmm.md) typically rule lowborn settlements, and some [hill giant](hill-giant-xmm.md) warriors ritualistically tear out one eye to emulate their rulers. Zealous [hill giant](hill-giant-xmm.md) worshipers of the Ruiner sometimes do the same, with that god granting them power to survive in exchange for ever-increasing sacrifices.
 
-[Cyclopes](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md), ogres, and [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) who turn to corrupting magic to help them survive lives of hunger and exile sometimes tumble into a cycle of cruelty and devotion to evil powers from which there is no escape. Their minds and bodies are warped beyond recognition, turning them into [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) or [oni](3-Mechanics/CLI/bestiary/fiend/oni-xmm.md). These giants gain tremendous power but lose any sense of compassion. Such corrupted giants typically live selfishly, and try to transform lowborn enclaves into their own personal armies of conquest.
+[Cyclopes](cyclops-sentry-xmm.md), ogres, and [hill giants](hill-giant-xmm.md) who turn to corrupting magic to help them survive lives of hunger and exile sometimes tumble into a cycle of cruelty and devotion to evil powers from which there is no escape. Their minds and bodies are warped beyond recognition, turning them into [trolls](troll-xmm.md) or [oni](oni-xmm.md). These giants gain tremendous power but lose any sense of compassion. Such corrupted giants typically live selfishly, and try to transform lowborn enclaves into their own personal armies of conquest.
 
 #### Highborn Giants
 
-The humanoid peoples of Tal'Dorei divide the highborn giants into five types: [cloud](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), [fire](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), [frost](3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), [stone](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), and [storm](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md). These giants are considered one people divided into different cultures, having adopted different magics, fighting styles, and codes of ethics and law. Highborn giants are proud of their ability to look their kin in the eye as equals, making it ironic how few of them acknowledge the caste divide between highborn and lowborn.
+The humanoid peoples of Tal'Dorei divide the highborn giants into five types: [cloud](cloud-giant-xmm.md), [fire](fire-giant-xmm.md), [frost](frost-giant-xmm.md), [stone](stone-giant-xmm.md), and [storm](storm-giant-xmm.md). These giants are considered one people divided into different cultures, having adopted different magics, fighting styles, and codes of ethics and law. Highborn giants are proud of their ability to look their kin in the eye as equals, making it ironic how few of them acknowledge the caste divide between highborn and lowborn.
 
-The [hill giants](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) were once considered highborn, but were stripped of their nobility and exiled by the "Council of Seven Scepters", and their culture has long since fallen into ruin.
+The [hill giants](hill-giant-xmm.md) were once considered highborn, but were stripped of their nobility and exiled by the "Council of Seven Scepters", and their culture has long since fallen into ruin.
 
 ##### Cloud Giants
 
@@ -106,59 +106,59 @@ These lofty giants are denizens of Jovatthon, the Castle of Thunder. This mighty
 
 ##### Fire Giants
 
-These subterranean giants dwell in the same tunnels as [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), typically beneath volcanically active mountain ranges whose natural magma fuels their forges. The heart of fire giant civilization is the city-state of Vulkanon, located within the deep magma tubes beneath the "Cliffkeep Mountains". Though their citadels are spacious and vast, many [fire giants](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) have a perpetually stooped posture due to the low clearance of their underground homes. They are masters of the forge, and have been known to occasionally ally with the [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) of the "Emberhold" to produce some of the finest arms ever seen in Tal'Dorei. Weapons of Vulkanon steel are prized by mercenaries across the continent, as much for their value as status symbols as their worth in combat.
+These subterranean giants dwell in the same tunnels as [drow](priest-acolyte-xmm.md) and [duergar](spy-xmm.md), typically beneath volcanically active mountain ranges whose natural magma fuels their forges. The heart of fire giant civilization is the city-state of Vulkanon, located within the deep magma tubes beneath the "Cliffkeep Mountains". Though their citadels are spacious and vast, many [fire giants](fire-giant-xmm.md) have a perpetually stooped posture due to the low clearance of their underground homes. They are masters of the forge, and have been known to occasionally ally with the [duergar](spy-xmm.md) of the "Emberhold" to produce some of the finest arms ever seen in Tal'Dorei. Weapons of Vulkanon steel are prized by mercenaries across the continent, as much for their value as status symbols as their worth in combat.
 
-The ruler of Vulkanon, the Grand Legate Phaestor, has long dreamed of expanding his empire, and the [fire giants'](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) allies have granted them a strategic foothold in Tal'Dorei's darkest depths. [Fire giants](3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) might prove to be a dangerous enemy to the folk of the surface world—but they might also be a fierce ally in the fight against the aberrations lurking in the depths, including the "aboleths" of "Salar".
+The ruler of Vulkanon, the Grand Legate Phaestor, has long dreamed of expanding his empire, and the [fire giants'](fire-giant-xmm.md) [duergar](spy-xmm.md) allies have granted them a strategic foothold in Tal'Dorei's darkest depths. [Fire giants](fire-giant-xmm.md) might prove to be a dangerous enemy to the folk of the surface world—but they might also be a fierce ally in the fight against the aberrations lurking in the depths, including the "aboleths" of "Salar".
 
 ##### Frost Giants
 
-Few beings can survive the "Neverfields", the frozen wasteland north of the "Cliffkeep Mountains". But the [frost giants](3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), riding on the backs of chitinous [remorhaz](3-Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md) and [woolly mammoths](3-Mechanics/CLI/bestiary/beast/mammoth-xmm.md), have risen to be the undisputed rulers of this frigid land. Though their people are mostly nomadic reavers led by petty jarls, they all swear fealty to High King Jorskymmar, who rules from the fortress-city of Jotunborg.
+Few beings can survive the "Neverfields", the frozen wasteland north of the "Cliffkeep Mountains". But the [frost giants](frost-giant-xmm.md), riding on the backs of chitinous [remorhaz](remorhaz-xmm.md) and [woolly mammoths](mammoth-xmm.md), have risen to be the undisputed rulers of this frigid land. Though their people are mostly nomadic reavers led by petty jarls, they all swear fealty to High King Jorskymmar, who rules from the fortress-city of Jotunborg.
 
-The [frost giants](3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) of Jotunborg are renowned for their ability to tame the fearsome beasts of the "Neverfields"—including the white dragons that haunt the skies of that land. This skill and their knack for surviving in an inhospitable realm has made the giants of Jotunborg a pious people, and most pray to the Wildmother for safety before crossing the ice fields. Some giants who have suffered near-death experiences, whether being trapped beneath an icy lake or smothered by an avalanche, clandestinely join one of the cults of the Chained Oblivion, seeking solace in the inevitability of eternal cold.
+The [frost giants](frost-giant-xmm.md) of Jotunborg are renowned for their ability to tame the fearsome beasts of the "Neverfields"—including the white dragons that haunt the skies of that land. This skill and their knack for surviving in an inhospitable realm has made the giants of Jotunborg a pious people, and most pray to the Wildmother for safety before crossing the ice fields. Some giants who have suffered near-death experiences, whether being trapped beneath an icy lake or smothered by an avalanche, clandestinely join one of the cults of the Chained Oblivion, seeking solace in the inevitability of eternal cold.
 
 ##### Stone Giants
 
-Few things are more striking than the sight of a [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) atop a mountain peak, silhouetted against the sun. Some mountain climbers fortunate enough to see such a sight become convinced that they have gazed upon the Dawnfather himself. [Stone giants](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) are happy to encourage such rumors, for it makes their existence seem more like myth than fact. These reclusive highborn giantkin live in fortresses carved from the peaks of mountains. Their greatest stronghold is Skyanchor Citadel, a city hidden within a peak of the "Alabaster Sierras", its halls winding from the mountain's deepest roots to its highest summit.
+Few things are more striking than the sight of a [stone giant](stone-giant-xmm.md) atop a mountain peak, silhouetted against the sun. Some mountain climbers fortunate enough to see such a sight become convinced that they have gazed upon the Dawnfather himself. [Stone giants](stone-giant-xmm.md) are happy to encourage such rumors, for it makes their existence seem more like myth than fact. These reclusive highborn giantkin live in fortresses carved from the peaks of mountains. Their greatest stronghold is Skyanchor Citadel, a city hidden within a peak of the "Alabaster Sierras", its halls winding from the mountain's deepest roots to its highest summit.
 
-[Stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) culture holds physical perfection as the greatest of all virtues, and [stone giants](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) are obsessed with physical appearance and feats of strength. But unlike the lowborn giantkin who have grown strong and resilient out of struggle, [stone giants](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) see physical power as an abstract virtue, best used in sporting events. A quadrennial tournament of prowess called the Sky Queen's Favor is held in coliseums atop Skyanchor, and highborn giants from across Tal'Dorei gather there to compete in tests of strength, agility, and endurance. Even the [stone giants'](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) humanoid kin, the half-giant "goliaths", are occasionally present at the Sky Queen's Favor.
+[Stone giant](stone-giant-xmm.md) culture holds physical perfection as the greatest of all virtues, and [stone giants](stone-giant-xmm.md) are obsessed with physical appearance and feats of strength. But unlike the lowborn giantkin who have grown strong and resilient out of struggle, [stone giants](stone-giant-xmm.md) see physical power as an abstract virtue, best used in sporting events. A quadrennial tournament of prowess called the Sky Queen's Favor is held in coliseums atop Skyanchor, and highborn giants from across Tal'Dorei gather there to compete in tests of strength, agility, and endurance. Even the [stone giants'](stone-giant-xmm.md) humanoid kin, the half-giant "goliaths", are occasionally present at the Sky Queen's Favor.
 
 ##### Storm Giants
 
-The most mysterious of all the highborn, the [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) are rarely seen even by other giantkin. Their flying city-state of Tempestar was destroyed by an unknown force centuries ago, and all the glories of their realm were cast into the "Lucidian Ocean", hundreds of miles off the coast. [Storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) now live solitary lives, calling no other giants their neighbors, and caring only for themselves and their families.
+The most mysterious of all the highborn, the [storm giants](storm-giant-xmm.md) are rarely seen even by other giantkin. Their flying city-state of Tempestar was destroyed by an unknown force centuries ago, and all the glories of their realm were cast into the "Lucidian Ocean", hundreds of miles off the coast. [Storm giants](storm-giant-xmm.md) now live solitary lives, calling no other giants their neighbors, and caring only for themselves and their families.
 
-Centuries have passed since Tempestar was last the seat of the "Council of Seven Scepters", yet the otherwise-reclusive [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) leader, Sea Dreamer Galadawna, has never missed a meeting of the council. Though she takes little interest in the day-to-day minutiae of highborn society, she ensures that the other giant leaders never forget about her people—or the thunderous might of their sorcerers.
+Centuries have passed since Tempestar was last the seat of the "Council of Seven Scepters", yet the otherwise-reclusive [storm giant](storm-giant-xmm.md) leader, Sea Dreamer Galadawna, has never missed a meeting of the council. Though she takes little interest in the day-to-day minutiae of highborn society, she ensures that the other giant leaders never forget about her people—or the thunderous might of their sorcerers.
 
 ##### Council of Seven Scepters
 
-The highborn are united by a democratic council that convenes annually for one week in the tallest spire of Jovatthon, the [cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) citadel. The ruler of each giant civilization—including the two rulers of the [cloud giants](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md)—have a seat on the council, though that seat is sometimes taken by a highly placed ambassador or representative of the ruler. When the council meets, its members deliberate on how best to maintain peace and prosperity. For even as they do their best to maintain a safe distance from the humanoid peoples of Tal'Dorei, the last thing the highborn giants desire is infighting among themselves.
+The highborn are united by a democratic council that convenes annually for one week in the tallest spire of Jovatthon, the [cloud giant](cloud-giant-xmm.md) citadel. The ruler of each giant civilization—including the two rulers of the [cloud giants](cloud-giant-xmm.md)—have a seat on the council, though that seat is sometimes taken by a highly placed ambassador or representative of the ruler. When the council meets, its members deliberate on how best to maintain peace and prosperity. For even as they do their best to maintain a safe distance from the humanoid peoples of Tal'Dorei, the last thing the highborn giants desire is infighting among themselves.
 
-Two of the seven thrones of the council have remained empty for generations. Hillqueen Ovam'mura refused to relinquish her scepter when her [hill giant](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) people were banished from the ranks of the highborn, and the Scepter of Wodensdottr has gathered dust in Jovatthon's vaults since Woden, demigod of the storm, abandoned the [storm giants](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) after the fall of Tempestar. Though the Sea Dreamer of Tempestar has never missed a gathering of the council, she has thus far refused to reclaim her throne or scepter, and the responsibilities that come with both.
+Two of the seven thrones of the council have remained empty for generations. Hillqueen Ovam'mura refused to relinquish her scepter when her [hill giant](hill-giant-xmm.md) people were banished from the ranks of the highborn, and the Scepter of Wodensdottr has gathered dust in Jovatthon's vaults since Woden, demigod of the storm, abandoned the [storm giants](storm-giant-xmm.md) after the fall of Tempestar. Though the Sea Dreamer of Tempestar has never missed a gathering of the council, she has thus far refused to reclaim her throne or scepter, and the responsibilities that come with both.
 
 ### Gnolls
 
-As their canine appearance suggests, "gnolls" are descended from [hyenas](3-Mechanics/CLI/bestiary/beast/hyena-xmm.md) that once roamed the "Dividing Plains". A pack of these creatures was caught in the divine eminence of a Demon Prince that did battle in the "Calamity". When the nimbus of that demon's unholy power faded, the beasts were transformed.
+As their canine appearance suggests, "gnolls" are descended from [hyenas](hyena-xmm.md) that once roamed the "Dividing Plains". A pack of these creatures was caught in the divine eminence of a Demon Prince that did battle in the "Calamity". When the nimbus of that demon's unholy power faded, the beasts were transformed.
 
-Today, most "gnolls" are nomadic groups led by a matriarch and her mate. Many people of the "Dividing Plains" see "gnolls" as demonic monsters, and are driven to acts of cruelty against them by their fear. Nevertheless, many [gnoll](3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) clans live side by side with the other humanoid peoples of Tal'Dorei in small towns across the plains, including the Dustpaw "gnolls" and the people of "Turst Fields".
+Today, most "gnolls" are nomadic groups led by a matriarch and her mate. Many people of the "Dividing Plains" see "gnolls" as demonic monsters, and are driven to acts of cruelty against them by their fear. Nevertheless, many [gnoll](gnoll-warrior-xmm.md) clans live side by side with the other humanoid peoples of Tal'Dorei in small towns across the plains, including the Dustpaw "gnolls" and the people of "Turst Fields".
 
 ### Lizardfolk
 
-The [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) of Tal'Dorei emerged from the "K'Tawl Swamp" in the "Age of Arcanum". Mages from an unnamed flying city descended into the swamp and conducted intense magical experiments on the local fauna. Some mutated into [giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md), others into slithering swamp serpents—and others into humanoid beings. The mages took a few of these [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) as specimens, and left the other fruits of their experiments behind.
+The [lizardfolk](scout-xmm.md) of Tal'Dorei emerged from the "K'Tawl Swamp" in the "Age of Arcanum". Mages from an unnamed flying city descended into the swamp and conducted intense magical experiments on the local fauna. Some mutated into [giant lizards](giant-lizard-xmm.md), others into slithering swamp serpents—and others into humanoid beings. The mages took a few of these [lizardfolk](scout-xmm.md) as specimens, and left the other fruits of their experiments behind.
 
-In time, these abandoned [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) used their cunning minds and skilled hands to create tools. They called themselves the Kuul'tevir—noble masters of the earth and water. These folk advanced rapidly, and though they never matched the heights of the flying cities of the magi who created them, they built magnificent domains filled with towering spires and glimmering magical waterfalls.
+In time, these abandoned [lizardfolk](scout-xmm.md) used their cunning minds and skilled hands to create tools. They called themselves the Kuul'tevir—noble masters of the earth and water. These folk advanced rapidly, and though they never matched the heights of the flying cities of the magi who created them, they built magnificent domains filled with towering spires and glimmering magical waterfalls.
 
-When the decadence of the "Age of Arcanum" gave way to the chaos of the "Calamity", the Kuul'tevir delved deep into corrupting magic to save their grandeur. For a time, their people prospered, bolstered by the magic of demons and evil gods. But in the end, the desire to survive at any cost turned the Kuul'tevir's rulers against one another. Cabals of petty warlocks tore the [lizardfolk's](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) magnificent societies apart, and the evil magic they wielded began to devour even the magic that the ancient mages had used to turn them from simple reptiles into a majestic people.
+When the decadence of the "Age of Arcanum" gave way to the chaos of the "Calamity", the Kuul'tevir delved deep into corrupting magic to save their grandeur. For a time, their people prospered, bolstered by the magic of demons and evil gods. But in the end, the desire to survive at any cost turned the Kuul'tevir's rulers against one another. Cabals of petty warlocks tore the [lizardfolk's](scout-xmm.md) magnificent societies apart, and the evil magic they wielded began to devour even the magic that the ancient mages had used to turn them from simple reptiles into a majestic people.
 
-Today, the majesty of the Kuul'tevir is little more than distant myth. Most [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) live in small communities in swamps, jungles, and fiery mountains across Tal'Dorei. Some live in cities, especially those with hot, humid climates, but no [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) today possess the supernatural poise and power that they did in the "Age of Arcanum". Today, the [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) are a people like any other—just trying to survive in modest comfort. But many still cling to the mythic memory of their ancient civilization and have allied themselves with terrible tyrants such as "Thordak the Cinder King" in an attempt to resurrect their lost glory.
+Today, the majesty of the Kuul'tevir is little more than distant myth. Most [lizardfolk](scout-xmm.md) live in small communities in swamps, jungles, and fiery mountains across Tal'Dorei. Some live in cities, especially those with hot, humid climates, but no [lizardfolk](scout-xmm.md) today possess the supernatural poise and power that they did in the "Age of Arcanum". Today, the [lizardfolk](scout-xmm.md) are a people like any other—just trying to survive in modest comfort. But many still cling to the mythic memory of their ancient civilization and have allied themselves with terrible tyrants such as "Thordak the Cinder King" in an attempt to resurrect their lost glory.
 
-The [serpentfolk of Vos'skyriss](3-Mechanics/CLI/bestiary/monstrosity/vosskyriss-serpentfolk-tdcsr.md) still dwell on "Visa Isle", south of "Daggerbay". They are more serpentine than lizard-like, but it is suspected that their origins are similar to that of the [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md).
+The [serpentfolk of Vos'skyriss](vosskyriss-serpentfolk-tdcsr.md) still dwell on "Visa Isle", south of "Daggerbay". They are more serpentine than lizard-like, but it is suspected that their origins are similar to that of the [lizardfolk](scout-xmm.md).
 
 ### Sahuagin
 
-Known by sailors as "sea devils," the shark-like [sahuagin](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) are both enemy and ally to "humans" who ride the waves, and are rumored to have spawned from a bottomless trench in the ocean floor. Pods of [sahuagin](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) have no de facto leader, and usually have no more than six members. However, several pods might band together and collaborate on tasks they could not accomplish alone, forming schools. These schools follow the will of the majority, and disobedience is rare.
+Known by sailors as "sea devils," the shark-like [sahuagin](sahuagin-warrior-xmm.md) are both enemy and ally to "humans" who ride the waves, and are rumored to have spawned from a bottomless trench in the ocean floor. Pods of [sahuagin](sahuagin-warrior-xmm.md) have no de facto leader, and usually have no more than six members. However, several pods might band together and collaborate on tasks they could not accomplish alone, forming schools. These schools follow the will of the majority, and disobedience is rare.
 
-The few sea devils who dominate multiple schools through personal strength are known as [barons](3-Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md), who are as feared as they are revered. [Sahuagin](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) schools that fall under the sway of a [baron](3-Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md) often become known for their piracy and hunger for slaughter, as the members of the school are directed to steal treasure to appease their tyrant's greed. Other schools might offer their services as mercenaries, aiding those humanoids willing to pay for their ferocity.
+The few sea devils who dominate multiple schools through personal strength are known as [barons](sahuagin-baron-xmm.md), who are as feared as they are revered. [Sahuagin](sahuagin-warrior-xmm.md) schools that fall under the sway of a [baron](sahuagin-baron-xmm.md) often become known for their piracy and hunger for slaughter, as the members of the school are directed to steal treasure to appease their tyrant's greed. Other schools might offer their services as mercenaries, aiding those humanoids willing to pay for their ferocity.
 
-[Sahuagin](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) pods sometimes fall under the corrupting influence of "aboleths" or other aquatic aberrations, with these aberrations taking on roles as demigods and the [sahuagin](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) who obey them becoming cultists. Instead of plundering ships for treasure, these [sahuagin](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) engineer shipwrecks and drag the survivors before their cruel overlord, who adds those humanoids to the ranks of their brainwashed thralls. The most feared of all these unholy figures is one that truly is the progeny of one of the "Betrayer Gods": Uk'otoa, a many-eyed leviathan spawn of the Cloaked Serpent that is supposedly imprisoned deep beneath the "Lucidian Ocean".
+[Sahuagin](sahuagin-warrior-xmm.md) pods sometimes fall under the corrupting influence of "aboleths" or other aquatic aberrations, with these aberrations taking on roles as demigods and the [sahuagin](sahuagin-warrior-xmm.md) who obey them becoming cultists. Instead of plundering ships for treasure, these [sahuagin](sahuagin-warrior-xmm.md) engineer shipwrecks and drag the survivors before their cruel overlord, who adds those humanoids to the ranks of their brainwashed thralls. The most feared of all these unholy figures is one that truly is the progeny of one of the "Betrayer Gods": Uk'otoa, a many-eyed leviathan spawn of the Cloaked Serpent that is supposedly imprisoned deep beneath the "Lucidian Ocean".
 
 ## New Creatures
 
@@ -172,105 +172,105 @@ Tal'Dorei is filled with wondrous creatures and characters. Whether they prove t
 > [!note]
 > This section of the book adds the following new creatures and NPCs:
 
-[Adranach](3-Mechanics/CLI/bestiary/construct/adranach-tdcsr.md)
+[Adranach](adranach-tdcsr.md)
 
-[Master Adranach](3-Mechanics/CLI/bestiary/construct/master-adranach-tdcsr.md)
+[Master Adranach](master-adranach-tdcsr.md)
 
-[Ashari Firetamer](3-Mechanics/CLI/bestiary/humanoid/ashari-firetamer-tdcsr.md)
+[Ashari Firetamer](ashari-firetamer-tdcsr.md)
 
-[Ashari Skydancer](3-Mechanics/CLI/bestiary/humanoid/ashari-skydancer-tdcsr.md)
+[Ashari Skydancer](ashari-skydancer-tdcsr.md)
 
-[Ashari Stoneguard](3-Mechanics/CLI/bestiary/humanoid/ashari-stoneguard-tdcsr.md)
+[Ashari Stoneguard](ashari-stoneguard-tdcsr.md)
 
-[Ashari Waverider](3-Mechanics/CLI/bestiary/humanoid/ashari-waverider-tdcsr.md)
+[Ashari Waverider](ashari-waverider-tdcsr.md)
 
-[Cinderslag Elemental](3-Mechanics/CLI/bestiary/elemental/cinderslag-elemental-tdcsr.md)
+[Cinderslag Elemental](cinderslag-elemental-tdcsr.md)
 
-[Clasp Cutthroat](3-Mechanics/CLI/bestiary/humanoid/clasp-cutthroat-tdcsr.md)
+[Clasp Cutthroat](clasp-cutthroat-tdcsr.md)
 
-[Clasp Enforcer](3-Mechanics/CLI/bestiary/humanoid/clasp-enforcer-tdcsr.md)
+[Clasp Enforcer](clasp-enforcer-tdcsr.md)
 
-[Cold Snap Spirit](3-Mechanics/CLI/bestiary/elemental/cold-snap-spirit-tdcsr.md)
+[Cold Snap Spirit](cold-snap-spirit-tdcsr.md)
 
-[Cyclops Stormcaller](3-Mechanics/CLI/bestiary/giant/cyclops-stormcaller-tdcsr.md)
+[Cyclops Stormcaller](cyclops-stormcaller-tdcsr.md)
 
-[Demonfeed Spider](3-Mechanics/CLI/bestiary/fiend/demonfeed-spider-tdcsr.md)
+[Demonfeed Spider](demonfeed-spider-tdcsr.md)
 
-[Demonfeed Spiderling](3-Mechanics/CLI/bestiary/fiend/demonfeed-spiderling-tdcsr.md)
+[Demonfeed Spiderling](demonfeed-spiderling-tdcsr.md)
 
-[Ember Roc](3-Mechanics/CLI/bestiary/monstrosity/ember-roc-tdcsr.md)
+[Ember Roc](ember-roc-tdcsr.md)
 
-[Cobalt Golem](3-Mechanics/CLI/bestiary/construct/cobalt-golem-tdcsr.md)
+[Cobalt Golem](cobalt-golem-tdcsr.md)
 
-[Forge Guardian](3-Mechanics/CLI/bestiary/construct/forge-guardian-tdcsr.md)
+[Forge Guardian](forge-guardian-tdcsr.md)
 
-[Mage Hunter Golem](3-Mechanics/CLI/bestiary/construct/mage-hunter-golem-tdcsr.md)
+[Mage Hunter Golem](mage-hunter-golem-tdcsr.md)
 
-[Platinum Golem](3-Mechanics/CLI/bestiary/construct/platinum-golem-tdcsr.md)
+[Platinum Golem](platinum-golem-tdcsr.md)
 
-[Jourrael, the Caedogeist](3-Mechanics/CLI/bestiary/npc/jourrael-the-caedogeist-tdcsr.md)
+[Jourrael, the Caedogeist](jourrael-the-caedogeist-tdcsr.md)
 
-[Kraghammer Goat-Knight](3-Mechanics/CLI/bestiary/humanoid/kraghammer-goat-knight-tdcsr.md)
+[Kraghammer Goat-Knight](kraghammer-goat-knight-tdcsr.md)
 
-[Goat-Knight Steed](3-Mechanics/CLI/bestiary/celestial/goat-knight-steed-tdcsr.md)
+[Goat-Knight Steed](goat-knight-steed-tdcsr.md)
 
-[Magma Landshark](3-Mechanics/CLI/bestiary/elemental/magma-landshark-tdcsr.md)
+[Magma Landshark](magma-landshark-tdcsr.md)
 
-[Young Magma Landshark](3-Mechanics/CLI/bestiary/elemental/young-magma-landshark-tdcsr.md)
+[Young Magma Landshark](young-magma-landshark-tdcsr.md)
 
 [Plainscow](3-Mechanics/CLI/bestiary/beast/plainscow-tdcsr.md)
 
-[Ravager Slaughter Lord](3-Mechanics/CLI/bestiary/humanoid/ravager-slaughter-lord-tdcsr.md)
+[Ravager Slaughter Lord](ravager-slaughter-lord-tdcsr.md)
 
-[Ravager Stabby-Stabber](3-Mechanics/CLI/bestiary/humanoid/ravager-stabby-stabber-tdcsr.md)
+[Ravager Stabby-Stabber](ravager-stabby-stabber-tdcsr.md)
 
-[Remnant Chosen](3-Mechanics/CLI/bestiary/humanoid/remnant-chosen-tdcsr.md)
+[Remnant Chosen](remnant-chosen-tdcsr.md)
 
-[Remnant Cultist](3-Mechanics/CLI/bestiary/humanoid/remnant-cultist-tdcsr.md)
+[Remnant Cultist](remnant-cultist-tdcsr.md)
 
-[Rivermaw Brawler](3-Mechanics/CLI/bestiary/humanoid/rivermaw-brawler-tdcsr.md)
+[Rivermaw Brawler](rivermaw-brawler-tdcsr.md)
 
-[Rivermaw Stormborn](3-Mechanics/CLI/bestiary/humanoid/rivermaw-stormborn-tdcsr.md)
+[Rivermaw Stormborn](rivermaw-stormborn-tdcsr.md)
 
-[Centaur Skeleton](3-Mechanics/CLI/bestiary/undead/centaur-skeleton-tdcsr.md)
+[Centaur Skeleton](centaur-skeleton-tdcsr.md)
 
-[Flaming Skeleton](3-Mechanics/CLI/bestiary/undead/flaming-skeleton-tdcsr.md)
+[Flaming Skeleton](flaming-skeleton-tdcsr.md)
 
-[Vos'skyriss Serpentfolk](3-Mechanics/CLI/bestiary/monstrosity/vosskyriss-serpentfolk-tdcsr.md)
+[Vos'skyriss Serpentfolk](vosskyriss-serpentfolk-tdcsr.md)
 
-[Vos'skyriss Serpentfolk Ghost](3-Mechanics/CLI/bestiary/undead/vosskyriss-serpentfolk-ghost-tdcsr.md)
+[Vos'skyriss Serpentfolk Ghost](vosskyriss-serpentfolk-ghost-tdcsr.md)
 
-[Wraithroot Tree](3-Mechanics/CLI/bestiary/plant/wraithroot-tree-tdcsr.md)
+[Wraithroot Tree](wraithroot-tree-tdcsr.md)
 
-[Grog Strongjaw](3-Mechanics/CLI/bestiary/npc/grog-strongjaw-tdcsr.md)
+[Grog Strongjaw](grog-strongjaw-tdcsr.md)
 
-[Keyleth, Voice of the Tempest](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md)
+[Keyleth, Voice of the Tempest](keyleth-voice-of-the-tempest-tdcsr.md)
 
-[Percival de Rolo](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md)
+[Percival de Rolo](percival-de-rolo-tdcsr.md)
 
-[Trinket](3-Mechanics/CLI/bestiary/npc/trinket-tdcsr.md)
+[Trinket](trinket-tdcsr.md)
 
-[Vex'ahlia](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md)
+[Vex'ahlia](vexahlia-tdcsr.md)
 
-[Pike Trickfoot](3-Mechanics/CLI/bestiary/npc/pike-trickfoot-tdcsr.md)
+[Pike Trickfoot](pike-trickfoot-tdcsr.md)
 
-[Scanlan Shorthalt](3-Mechanics/CLI/bestiary/npc/scanlan-shorthalt-tdcsr.md)
+[Scanlan Shorthalt](scanlan-shorthalt-tdcsr.md)
 
-[Doty X](3-Mechanics/CLI/bestiary/npc/doty-x-tdcsr.md)
+[Doty X](doty-x-tdcsr.md)
 
-[Taryon Darrington](3-Mechanics/CLI/bestiary/humanoid/taryon-darrington-tdcsr.md)
+[Taryon Darrington](taryon-darrington-tdcsr.md)
 
-[Champion of Ravens](3-Mechanics/CLI/bestiary/celestial/champion-of-ravens-tdcsr.md)
+[Champion of Ravens](champion-of-ravens-tdcsr.md)
 
-[Drynna Hydra](3-Mechanics/CLI/bestiary/npc/drynna-hydra-tdcsr.md)
+[Drynna Hydra](drynna-hydra-tdcsr.md)
 
-[Black King](3-Mechanics/CLI/bestiary/npc/black-king-tdcsr.md)
+[Black King](black-king-tdcsr.md)
 
-[Diseased Grick](3-Mechanics/CLI/bestiary/monstrosity/diseased-grick-tdcsr.md)
+[Diseased Grick](diseased-grick-tdcsr.md)
 
-[Sagacitous Erusaire](3-Mechanics/CLI/bestiary/npc/sagacitous-erusaire-tdcsr.md)
+[Sagacitous Erusaire](sagacitous-erusaire-tdcsr.md)
 
 > [!note]
 > Additionally the summonable Blighted Sapling supports the new Blighted Druid Subclass:
 
-[Blighted Sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md)
+[Blighted Sapling](blighted-sapling-tdcsr.md)

@@ -14,7 +14,7 @@ aliases:
 
 - **Properties**: [Vestige of Divergence](3-Mechanics/CLI/rules/item-properties.md#Vestige%20of%20Divergence)
 
-Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian [Grog Strongjaw](3-Mechanics/CLI/bestiary/npc/grog-strongjaw-tdcsr.md), who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.
+Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian [Grog Strongjaw](grog-strongjaw-tdcsr.md), who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.
 
 ## Dormant
 

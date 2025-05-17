@@ -94,9 +94,9 @@ This section is a resource for you to use to inspire your character's backstory�
 
 ### People and Monsters
 
-For generations of roleplaying gamers in many different RPG campaign settings, certain of the fantasy peoples in the world of Exandria have long been considered "monsters" or "evil races." "Goblins", "orcs", and "bugbears" are examples of peoples whose very nature was supposedly tainted by inherent evil, and were thus morally unambiguous targets for adventurers to kill and loot. This mindset treats these people as no different from monsters like [basilisks](3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) or [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md).
+For generations of roleplaying gamers in many different RPG campaign settings, certain of the fantasy peoples in the world of Exandria have long been considered "monsters" or "evil races." "Goblins", "orcs", and "bugbears" are examples of peoples whose very nature was supposedly tainted by inherent evil, and were thus morally unambiguous targets for adventurers to kill and loot. This mindset treats these people as no different from monsters like [basilisks](basilisk-xmm.md) or [giant spiders](giant-spider-xmm.md).
 
-The humanoid people of Tal'Dorei aren't set up that way. Any creature with the humanoid type is a thinking, feeling person. Creatures with the dragon, giant, or fey type are also unambiguously sapient, and thus can have any alignment. It's just as likely for a human to be a neutral evil [bandit](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) as it is for an orc to be a chaotic good swashbuckler, or for a [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) to be a lawful good [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md). And if you like, you can take this even further in your games and say that any fantasy creature with an Intelligence score of 6 or higher is capable of free thought, and should have just as wide a range of alignments as other sapient beings.
+The humanoid people of Tal'Dorei aren't set up that way. Any creature with the humanoid type is a thinking, feeling person. Creatures with the dragon, giant, or fey type are also unambiguously sapient, and thus can have any alignment. It's just as likely for a human to be a neutral evil [bandit](bandit-xmm.md) as it is for an orc to be a chaotic good swashbuckler, or for a [hobgoblin](hobgoblin-warrior-xmm.md) to be a lawful good [knight](knight-xmm.md). And if you like, you can take this even further in your games and say that any fantasy creature with an Intelligence score of 6 or higher is capable of free thought, and should have just as wide a range of alignments as other sapient beings.
 
 The stories in *Critical Role* are filled with shades of moral gray, but Tal'Dorei still has plenty of unambiguously evil creatures. Most demons, devils, and undead are suffused with cosmic evil, and always try to subvert righteousness. Likewise, unthinking creatures such as oozes and constructs, and creatures of instinctual intelligence such as beasts, many monstrosities, and plant creatures, all make morally unambiguous foes.
 
@@ -242,7 +242,7 @@ The lyren'alfen, known alternately as Lyrengorn "elves" or high "elves", are a p
 
 Lyrengorn is nestled in the spires of the "Elvenpeaks", spreading under the mysterious northern lights known as the Moonweaver's Ribbons. The city is always aglow with magical light, and its people are taught spellcraft from a young age, for magic is the foundation upon which Lyrengorn was built. The spells of heat and comfort woven into its residents' clothing and architecture are essential to living comfortably in such relentlessly cold lands.
 
-The "elves" who make their home within the pines of the "Elvenpeaks" are best known for riding through the wintry skies on [wyverns](3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md). Every year, people from across Tal'Dorei travel to the "Elvenpeaks" to watch skyswimmers, elite [wyvern](3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) riders who shape the glow of the Moonweaver's Ribbons from the air.
+The "elves" who make their home within the pines of the "Elvenpeaks" are best known for riding through the wintry skies on [wyverns](wyvern-xmm.md). Every year, people from across Tal'Dorei travel to the "Elvenpeaks" to watch skyswimmers, elite [wyvern](wyvern-xmm.md) riders who shape the glow of the Moonweaver's Ribbons from the air.
 
 ##### Magic and Transformation
 
@@ -262,7 +262,7 @@ In times long past, the drow were a wise, beautiful folk with long, silvery hair
 
 More evil powers than just the Spider Queen lurk beneath the surface of the world. With the drow in exile, the whispers of the Crawling King and the Chained Oblivion first reached the ears of their nobility as the dark "elves" struggled to stave away the aberrations that encircled their cities. Now, generations later, the dark "elves" are a people seemingly on the brink of annihilation. Neighbors slaughter one another in the streets as they succumb to paranoia. For when aberrations can take or shape any form, who can be trusted? Unable to stop their citizens from rioting, the drow elite have grown ever more authoritarian, commanding their royal guards to keep order by violently suppressing their people.
 
-Against this ongoing chaos, some dark "elves" who fall deep into the abominable thrall of the Spider Queen become truly monstrous, their skin and eyes turning deathly pale as they become little more than puppets for their tormenting goddess. Others willingly offer themselves to the aberrations to end their suffering, and are transformed into shapeshifting [doppelgangers](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md). And the most power-hungry drow nobles often succumb entirely to their devotion to the Spider Queen, willingly drinking her abyssal blood to become [driders](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) in her service.
+Against this ongoing chaos, some dark "elves" who fall deep into the abominable thrall of the Spider Queen become truly monstrous, their skin and eyes turning deathly pale as they become little more than puppets for their tormenting goddess. Others willingly offer themselves to the aberrations to end their suffering, and are transformed into shapeshifting [doppelgangers](doppelganger-xmm.md). And the most power-hungry drow nobles often succumb entirely to their devotion to the Spider Queen, willingly drinking her abyssal blood to become [driders](drider-xmm.md) in her service.
 
 ##### New Light for the Shadow
 
@@ -338,19 +338,19 @@ For centuries, goblinkin were viewed as monsters by most other people of Tal'Dor
 
 Most "hobgoblins" are alike in stature to "humans" and have similar variations in build, ranging from thin and scrawny to broad shouldered and muscular. Their large ears, gleaming yellow eyes, and powerful incisors give them a vaguely feline appearance.
 
-"Hobgoblins" are often stereotyped as having a warlike, martial nature—a sentiment that arose from rumors surrounding the "Iron Authority" in the "Rifenmist Jungle". That empire is majority [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md), and its cruel leaders have press-ganged the land's entire population into compulsory military service. In ages past, most "hobgoblins" that became known to the other peoples of Tal'Dorei were scouts or captured legionnaires of the "Iron Authority". Today, though, many escapees from the authority's influence live in cities such as "Emon", "Kymal", or "Byroden". Most of these free "hobgoblins" know only their parents' stories of that distant empire, and are able to live happily free of its influence.
+"Hobgoblins" are often stereotyped as having a warlike, martial nature—a sentiment that arose from rumors surrounding the "Iron Authority" in the "Rifenmist Jungle". That empire is majority [hobgoblin](hobgoblin-warrior-xmm.md), and its cruel leaders have press-ganged the land's entire population into compulsory military service. In ages past, most "hobgoblins" that became known to the other peoples of Tal'Dorei were scouts or captured legionnaires of the "Iron Authority". Today, though, many escapees from the authority's influence live in cities such as "Emon", "Kymal", or "Byroden". Most of these free "hobgoblins" know only their parents' stories of that distant empire, and are able to live happily free of its influence.
 
 #### Bugbears
 
-"Bugbears" are tall humanoids covered with brown, black, or blue-gray fur, which combines with large ears and yellow eyes to give them an even more feline appearance than their [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) cousins. Though "bugbears" are tall, their posture is generally stooped, so that their heads are still roughly at human height.
+"Bugbears" are tall humanoids covered with brown, black, or blue-gray fur, which combines with large ears and yellow eyes to give them an even more feline appearance than their [hobgoblin](hobgoblin-warrior-xmm.md) cousins. Though "bugbears" are tall, their posture is generally stooped, so that their heads are still roughly at human height.
 
-Many "bugbears" are solitary folk, living in forests and mountains where their thick fur protects them against the cold. They typically gather in large groups one to three times a year to socialize and play games with friends, reunite with family, and find love—a tradition that has been reworked by those who live in permanent communities. Such "bugbears" often live with a number of romantic partners under the same roof, or "adopt" [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) families and dwell in their loving, chaotic, multigenerational households.
+Many "bugbears" are solitary folk, living in forests and mountains where their thick fur protects them against the cold. They typically gather in large groups one to three times a year to socialize and play games with friends, reunite with family, and find love—a tradition that has been reworked by those who live in permanent communities. Such "bugbears" often live with a number of romantic partners under the same roof, or "adopt" [goblin](goblin-warrior-xmm.md) families and dwell in their loving, chaotic, multigenerational households.
 
 ### Half-Giants
 
 Four peoples were known to exist on Tal'Dorei when the world was reborn out of the ashes of the "Calamity". The "elves", who emerged from the Fey Realm. The "dwarves", who emerged from the earth. The "orcs", who endured the "Calamity" through strength and determination. And the half-giants, who safely rode out that war in mountaintop retreats before eventually descending to the windswept plains below.
 
-Averaging seven feet tall, with hairless, craggy bodies and skin tough as stone, half-giants are often colloquially known as stoneborn or "goliaths". Descended from [stone giants](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), these folk have long been viewed as exemplars of rugged endurance and individualism. They are found in settlements across Tal'Dorei, where they are known for their innate strength and their commonly held belief—passed down from the giants of old—that all must take fate into their own hands.
+Averaging seven feet tall, with hairless, craggy bodies and skin tough as stone, half-giants are often colloquially known as stoneborn or "goliaths". Descended from [stone giants](stone-giant-xmm.md), these folk have long been viewed as exemplars of rugged endurance and individualism. They are found in settlements across Tal'Dorei, where they are known for their innate strength and their commonly held belief—passed down from the giants of old—that all must take fate into their own hands.
 
 In ancient times, "goliaths" and "orcs" lived off the same land, and their nomadic clans frequently warred and intermingled in equal measure. As such, it is common for "orcs" and "goliaths" of Tal'Dorei to discover common ancestors somewhere in their family trees.
 
@@ -370,7 +370,7 @@ Opposing the "Rivermaw" are the Ravagers—a group that the "Rivermaw" have stri
 
 #### Towers of Stone
 
-Tal'Dorei's most famous goliath, the legendary hero [Grog Strongjaw](3-Mechanics/CLI/bestiary/npc/grog-strongjaw-tdcsr.md), is renowned for being a warrior first and a thinker second. But "goliaths" are no less intelligent or canny than Tal'Dorei's other peoples. Despite being known as nomadic folk, many "half-giants" understand that stone is sturdiest when formed into towers, walls, and bridges, and cities such as "Kraghammer" and "Emon" have long been filled with the works of goliath masons and architects not given the historical recognition they deserved.
+Tal'Dorei's most famous goliath, the legendary hero [Grog Strongjaw](grog-strongjaw-tdcsr.md), is renowned for being a warrior first and a thinker second. But "goliaths" are no less intelligent or canny than Tal'Dorei's other peoples. Despite being known as nomadic folk, many "half-giants" understand that stone is sturdiest when formed into towers, walls, and bridges, and cities such as "Kraghammer" and "Emon" have long been filled with the works of goliath masons and architects not given the historical recognition they deserved.
 
 Great advances in mathematics and civil engineering have been made by other city-dwelling stoneborn, and scholars of the "Cobalt Soul" are working to confirm which of the beloved "Emonian" and "Westruunian" structures that survived the "Chroma Conclave" are actually the result of pioneering goliath minds. "Westruun" has long been home to vast numbers of "half-giants" dwelling there to be close to their former herds, but many others have set down more recent roots after the Battle of "Westruun", helping rebuild in the wake of the destruction wrought by the dragon Umbrasyl and the Herd of Storms.
 
@@ -452,7 +452,7 @@ In the centuries after the "Divergence", "tieflings" who had grown weary of gods
 
 "Tieflings" who form a union always have tiefling children, and most "tieflings" belong firmly to that ancient ancestry. Yet to this day, any humanoid—whether famous hero or common farmer—who makes a deal with fiends might give rise to children, grandchildren, or even more distant descendants born with the horns, eyes, and colorful skin of a tiefling.
 
-Perhaps the most famous tiefling born in the past generation is Gwendolyn de Rolo, the youngest daughter of the renowned heroes [Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) and [Vex'ahlia](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) de Rolo of "Whitestone". It is an open secret in the city-state that [Percival](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) had dealings with fiends as a young man. Yet though none of the rumors have precisely pinpointed the nature of [Percival's](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md) supernatural bargain, all who know Gwendolyn agree that she is the sweetest and most innocent de Rolo to roam the halls of "Castle Whitestone" in many years.
+Perhaps the most famous tiefling born in the past generation is Gwendolyn de Rolo, the youngest daughter of the renowned heroes [Percival](percival-de-rolo-tdcsr.md) and [Vex'ahlia](vexahlia-tdcsr.md) de Rolo of "Whitestone". It is an open secret in the city-state that [Percival](percival-de-rolo-tdcsr.md) had dealings with fiends as a young man. Yet though none of the rumors have precisely pinpointed the nature of [Percival's](percival-de-rolo-tdcsr.md) supernatural bargain, all who know Gwendolyn agree that she is the sweetest and most innocent de Rolo to roam the halls of "Castle Whitestone" in many years.
 
 ### Mixed Ancestry
 
@@ -561,10 +561,10 @@ As a druid, you are a keeper of the old ways, attuned to nature and channeling p
 Blighted
 
 > [!note]
-> The Blighted Druid also introduces the [Blighted Sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md) statblock below.
+> The Blighted Druid also introduces the [Blighted Sapling](blighted-sapling-tdcsr.md) statblock below.
 
 > [!embed-monster]- Blighted Sapling
-> ![Blighted Sapling](3-Mechanics/CLI/bestiary/plant/blighted-sapling-tdcsr.md#^statblock)
+> ![Blighted Sapling](blighted-sapling-tdcsr.md#^statblock)
 
 ### Monk
 
@@ -647,7 +647,7 @@ You are a studious spellcaster who has earned your influence over arcane power t
 > 
 > *Female tiefling Blood Magic wizard*
 > 
-> It's not easy being the youngest spellwright in the "League of Miracles", especially when you've got a conscience. Honor Kinnabari was enamored with the league since she was a child in "Westruun", when she saw the spellwrights and their [adranach](3-Mechanics/CLI/bestiary/construct/adranach-tdcsr.md) constructs rebuild the entire Market Ward in a matter of days after it was reduced to a slag pit by a hoard of [magma landsharks](3-Mechanics/CLI/bestiary/elemental/magma-landshark-tdcsr.md). She was raised by dwarf parents from the "Alabaster Sierras", and wears wizardly robes in the style of their clan in honor of them. Honor has just constructed an [adranach](3-Mechanics/CLI/bestiary/construct/adranach-tdcsr.md) of her own, and has begun leading small-scale operations for the league, but she's starting to worry that something cultish and sinister lurks beneath her compatriots' practiced smiles.
+> It's not easy being the youngest spellwright in the "League of Miracles", especially when you've got a conscience. Honor Kinnabari was enamored with the league since she was a child in "Westruun", when she saw the spellwrights and their [adranach](adranach-tdcsr.md) constructs rebuild the entire Market Ward in a matter of days after it was reduced to a slag pit by a hoard of [magma landsharks](magma-landshark-tdcsr.md). She was raised by dwarf parents from the "Alabaster Sierras", and wears wizardly robes in the style of their clan in honor of them. Honor has just constructed an [adranach](adranach-tdcsr.md) of her own, and has begun leading small-scale operations for the league, but she's starting to worry that something cultish and sinister lurks beneath her compatriots' practiced smiles.
 > 
 > ![A pale white tiefling bloo...](3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img/chapter4-bloodwizard.webp#center "A pale white tiefling blood magic wizard stands posed for battle. She wears white robes with red trim, bearing a white wizard staff in one hand and a magical blood shield in the other.")
 ^honor-kinnabari

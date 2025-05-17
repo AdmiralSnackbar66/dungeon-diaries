@@ -24,7 +24,7 @@ aliases:
 > 
 > Records kept by the Birthheart temple in Vasselheim say that the Spire of Conflux was created when the Wildmother breathed on a young beech tree. The sapling transformed into a curving staff and the Wildmother's breath crystallized into the glowing jewel that hovers in its center. The bearer of this mythic staff can command the elements as if they were one with the enduring, yet ever-changing, landscape of Exandria itself...
 
-A powerful relic passed down from generation to generation of Ashari leaders, the Spire of Conflux was lost over three centuries ago when Joran the Sea-Speaker, a respected leader of "the Water Ashari", was devoured by a demon of the Abyss. It was rediscovered by the legendary druid [Keyleth of Zephrah, Voice of the Tempest](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md). However, rumors swirl that she is seeking another hero to wield it—one who can travel the land and do good in small ways as she once did.
+A powerful relic passed down from generation to generation of Ashari leaders, the Spire of Conflux was lost over three centuries ago when Joran the Sea-Speaker, a respected leader of "the Water Ashari", was devoured by a demon of the Abyss. It was rediscovered by the legendary druid [Keyleth of Zephrah, Voice of the Tempest](keyleth-voice-of-the-tempest-tdcsr.md). However, rumors swirl that she is seeking another hero to wield it—one who can travel the land and do good in small ways as she once did.
 
 ## Dormant
 

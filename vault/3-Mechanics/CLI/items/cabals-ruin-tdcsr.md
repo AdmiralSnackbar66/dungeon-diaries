@@ -14,7 +14,7 @@ aliases:
 
 - **Properties**: [Vestige of Divergence](3-Mechanics/CLI/rules/item-properties.md#Vestige%20of%20Divergence)
 
-This cloak is made of heavy dark cloth trimmed with golden patterns, and occasionally shimmers with sparks of arcane energy. It was once worn by the famed gunslinger [Percival Fredrickstein von Musel Klossowski de Rolo III of Whitestone](3-Mechanics/CLI/bestiary/humanoid/percival-de-rolo-tdcsr.md).
+This cloak is made of heavy dark cloth trimmed with golden patterns, and occasionally shimmers with sparks of arcane energy. It was once worn by the famed gunslinger [Percival Fredrickstein von Musel Klossowski de Rolo III of Whitestone](percival-de-rolo-tdcsr.md).
 
 **Items in this group:**
 

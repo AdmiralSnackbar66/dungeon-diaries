@@ -13,6 +13,6 @@ aliases:
 
 
 > [!note]
-> Worn by [Keyleth, Voice of the Tempest](3-Mechanics/CLI/bestiary/npc/keyleth-voice-of-the-tempest-tdcsr.md), increases her Wisdom score by +2.
+> Worn by [Keyleth, Voice of the Tempest](keyleth-voice-of-the-tempest-tdcsr.md), increases her Wisdom score by +2.
 
 *Source: Tal'Dorei Campaign Setting Reborn p. 263*

@@ -19,7 +19,7 @@ aliases:
 - **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed), [Vestige of Divergence](3-Mechanics/CLI/rules/item-properties.md#Vestige%20of%20Divergence)
 - **Weight**: 2.0 lbs.
 
-This gorgeous [longbow](3-Mechanics/CLI/items/longbow-xphb.md) made of everbark from the Fey Realm flexes and shifts like a living entity. It is said to have been wielded by the legendary ranger [Vex'ahlia](3-Mechanics/CLI/bestiary/humanoid/vexahlia-tdcsr.md) against great evils.
+This gorgeous [longbow](3-Mechanics/CLI/items/longbow-xphb.md) made of everbark from the Fey Realm flexes and shifts like a living entity. It is said to have been wielded by the legendary ranger [Vex'ahlia](vexahlia-tdcsr.md) against great evils.
 
 **Items in this group:**
 

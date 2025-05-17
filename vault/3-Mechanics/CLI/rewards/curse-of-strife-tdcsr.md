@@ -14,7 +14,7 @@ The insidious voice of the Strife Emperor, both damnable and damning, invades th
 
 Such transformations are the result of the Strife Emperor's torment, which whispers constantly in the victims' minds. The free goblinkin of Tal'Dorei regard those who spread the curse with special contempt—and those who suffer from it with immense pity.
 
-For centuries, small-minded people in Tal'Dorei have feared "goblins" because they are the children of the Strife Emperor. But while the first [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md), [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md), and [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) were created in the "Calamity" as soldiers for this fell god, the curse does not linger in their blood—it spreads via those who pledge their souls to the Strife Emperor. Clerics of the Strife Emperor can use the [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md) spell to inflict the Curse of Strife.
+For centuries, small-minded people in Tal'Dorei have feared "goblins" because they are the children of the Strife Emperor. But while the first [goblins](goblin-warrior-xmm.md), [hobgoblins](hobgoblin-warrior-xmm.md), and [bugbears](bugbear-warrior-xmm.md) were created in the "Calamity" as soldiers for this fell god, the curse does not linger in their blood—it spreads via those who pledge their souls to the Strife Emperor. Clerics of the Strife Emperor can use the [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md) spell to inflict the Curse of Strife.
 
 ## Curing the Curse
 

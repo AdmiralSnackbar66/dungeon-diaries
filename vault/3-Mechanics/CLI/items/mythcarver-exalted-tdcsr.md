@@ -24,7 +24,7 @@ aliases:
 > 
 > Though the name of the champion who wielded Mythcarver has been lost, legend says that the songs she sung in her beautiful contralto made her friends rejoice and her enemies weep with fear. Mythcarver was forged in the flying city of Zemniaz by a master arcanist and blacksmith along with the wielder herself, who wove song and spell into the blade with each fold of the metal.
 
-This incredible silvered blade once belonged to the legendary White Duke, a founding member of the "Golden Grin", and many other master bards before him. It resonates with nearby musical tones. In the modern era, it is best known as the personal weapon of famed bard [Scanlan Shorthalt](3-Mechanics/CLI/bestiary/npc/scanlan-shorthalt-tdcsr.md).
+This incredible silvered blade once belonged to the legendary White Duke, a founding member of the "Golden Grin", and many other master bards before him. It resonates with nearby musical tones. In the modern era, it is best known as the personal weapon of famed bard [Scanlan Shorthalt](scanlan-shorthalt-tdcsr.md).
 
 ## Dormant
 
