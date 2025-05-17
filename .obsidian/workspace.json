@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c23315db07c4e0",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "333e7ba8476309d1",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Player Characters/Dalaila Eversnow.md",
-                "mode": "source",
-                "source": true
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Dalaila Eversnow"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -255,14 +255,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "333e7ba8476309d1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "vault/ttrpgs/ttrpgs.md",
     "content/dnd/Player Characters/Elvis Parsley.md",
     "content/dnd/Player Characters/Dalaila Eversnow.md",
     "content/dnd/Player Characters/Dalaila Eversnow.png",
     "content/dnd/dnd.md",
     "content/index.md",
-    "vault/ttrpgs/ttrpgs.md",
     "content/dnd/Player Characters/Zolon Orielson.md",
     "content/dnd/Player Characters/Zolon Orielson.png",
     "content/dnd/Player Characters/Roleck Nevari.md",
