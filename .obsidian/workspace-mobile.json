@@ -11,12 +11,14 @@
             "id": "f108258a018f0d77",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.png"
+                "file": "content/blog/2025-05-11 - First session done.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Rosimyffenbip Wuzzfedlims"
+              "icon": "lucide-file",
+              "title": "2025-05-11 - First session done"
             }
           }
         ]
@@ -98,8 +100,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -159,8 +160,8 @@
         "state": {
           "type": "initiative-tracker-view",
           "state": {},
-          "icon": "initiative-tracker",
-          "title": "Initiative Tracker"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -169,8 +170,8 @@
         "state": {
           "type": "DICE_ROLLER_VIEW",
           "state": {},
-          "icon": "dices",
-          "title": "Dice Tray"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -179,8 +180,8 @@
         "state": {
           "type": "help-mate",
           "state": {},
-          "icon": "life-buoy",
-          "title": "HelpMate"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -189,8 +190,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -199,8 +200,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -209,8 +210,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -219,8 +220,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -229,8 +230,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -239,8 +240,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -249,8 +250,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -259,8 +260,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -269,8 +270,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -279,8 +280,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -289,8 +290,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -299,8 +300,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -309,8 +310,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -319,8 +320,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -329,8 +330,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -339,8 +340,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -349,8 +350,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -359,8 +360,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -369,8 +370,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -379,8 +380,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -389,8 +390,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -399,8 +400,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -409,8 +410,8 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -419,8 +420,28 @@
         "state": {
           "type": "initiative-tracker-creature-view",
           "state": {},
-          "icon": "initiative-tracker-creature-view",
-          "title": "Combatant"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "b00424e840954ca0",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "240258f3029484bc",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
         }
       }
     ],
@@ -446,13 +467,14 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "dbfolder:Create a new database table": false,
-      "homepage:Open homepage": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "f108258a018f0d77",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
     "vault/ttrpgs/ttrpgs.md",
@@ -495,7 +517,6 @@
     "3-Mechanics",
     "vault/ttrpgs/Player Characters/Borun Erutan.md",
     "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "vault/ttrpgs/Player Characters/Elvis Parsley.md",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img/githyanki-xenomancer.webp",
     "vault/3-Mechanics/CLI/bestiary/humanoid/img",
     "vault/3-Mechanics/CLI/bestiary/humanoid/token",
