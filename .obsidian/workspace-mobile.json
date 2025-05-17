@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+                "file": "3-Mechanics/CLI/backgrounds/backgrounds.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "backgrounds"
             }
           }
         ]
@@ -455,6 +455,9 @@
   },
   "active": "44ffd25d5f269fae",
   "lastOpenFiles": [
+    "vault/3-Mechanics/CLI/bestiary/celestial/celestial.md",
+    "vault/3-Mechanics/CLI/bestiary/bestiary.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Snarl.jpg",
@@ -465,7 +468,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
@@ -490,8 +492,6 @@
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/16-beyond-the-radiant-citadel.md",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/09-trail-of-destruction.md",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/img",
-    "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/08-gold-for-fools-and-princes.md",
-    "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel/11-between-tangled-roots.md",
     "3-Mechanics/CLI/adventures/journeys-through-the-radiant-citadel",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/HEIF Image.heic",
     "z_Assets/HEIF Image.heic",

@@ -40,15 +40,15 @@ All the classes in the fifth edition core rules are fair game in Tal'Dorei, and 
 
 #### Backgrounds
 
-The backgrounds found in the fifth edition core rules are all well suited to life in Tal'Dorei. This fantasy realm is teeming with [soldiers](3-Mechanics/CLI/backgrounds/soldier-xphb.md), guild artisans, [sailors](3-Mechanics/CLI/backgrounds/sailor-xphb.md), and [nobles](3-Mechanics/CLI/backgrounds/noble-xphb.md), all of whom might make interesting adventurers. This book also presents six new backgrounds, detailed later in this chapter:
+The backgrounds found in the fifth edition core rules are all well suited to life in Tal'Dorei. This fantasy realm is teeming with [soldiers](soldier-xphb.md), guild artisans, [sailors](sailor-xphb.md), and [nobles](noble-xphb.md), all of whom might make interesting adventurers. This book also presents six new backgrounds, detailed later in this chapter:
 
-- [Ashari](3-Mechanics/CLI/backgrounds/ashari-tdcsr.md)  
-- [Clasp Member](3-Mechanics/CLI/backgrounds/clasp-member-tdcsr.md)  
-- [Variant Clasp Member (Myriad Operative)](3-Mechanics/CLI/backgrounds/clasp-member-myriad-operative-variant-tdcsr.md)  
-- [Lyceum Scholar](3-Mechanics/CLI/backgrounds/lyceum-scholar-tdcsr.md)  
-- [Reformed Cultist](3-Mechanics/CLI/backgrounds/reformed-cultist-tdcsr.md)  
-- [Whitestone Rifle Corps](3-Mechanics/CLI/backgrounds/whitestone-rifle-corps-tdcsr.md)  
-- [Variant Whitestone Rifle Corps (Grey Hunter)](3-Mechanics/CLI/backgrounds/whitestone-rifle-corps-grey-hunter-variant-tdcsr.md)  
+- [Ashari](ashari-tdcsr.md)  
+- [Clasp Member](clasp-member-tdcsr.md)  
+- [Variant Clasp Member (Myriad Operative)](clasp-member-myriad-operative-variant-tdcsr.md)  
+- [Lyceum Scholar](lyceum-scholar-tdcsr.md)  
+- [Reformed Cultist](reformed-cultist-tdcsr.md)  
+- [Whitestone Rifle Corps](whitestone-rifle-corps-tdcsr.md)  
+- [Variant Whitestone Rifle Corps (Grey Hunter)](whitestone-rifle-corps-grey-hunter-variant-tdcsr.md)  
 
 #### Session Zero
 
@@ -663,19 +663,19 @@ The new backgrounds in this section each grant your character new proficiencies,
 > [!note]
 > This book adds the following new backgrounds:
 
-[Ashari](3-Mechanics/CLI/backgrounds/ashari-tdcsr.md)
+[Ashari](ashari-tdcsr.md)
 
-[Clasp Member](3-Mechanics/CLI/backgrounds/clasp-member-tdcsr.md)
+[Clasp Member](clasp-member-tdcsr.md)
 
-[Variant Clasp Member (Myriad Operative)](3-Mechanics/CLI/backgrounds/clasp-member-myriad-operative-variant-tdcsr.md)
+[Variant Clasp Member (Myriad Operative)](clasp-member-myriad-operative-variant-tdcsr.md)
 
-[Lyceum Scholar](3-Mechanics/CLI/backgrounds/lyceum-scholar-tdcsr.md)
+[Lyceum Scholar](lyceum-scholar-tdcsr.md)
 
-[Reformed Cultist](3-Mechanics/CLI/backgrounds/reformed-cultist-tdcsr.md)
+[Reformed Cultist](reformed-cultist-tdcsr.md)
 
-[Whitestone Rifle Corps](3-Mechanics/CLI/backgrounds/whitestone-rifle-corps-tdcsr.md)
+[Whitestone Rifle Corps](whitestone-rifle-corps-tdcsr.md)
 
-[Variant Whitestone Rifle Corps (Grey Hunter)](3-Mechanics/CLI/backgrounds/whitestone-rifle-corps-grey-hunter-variant-tdcsr.md)
+[Variant Whitestone Rifle Corps (Grey Hunter)](whitestone-rifle-corps-grey-hunter-variant-tdcsr.md)
 
 ## Supernatural Blessing: Fate-Touched
 
