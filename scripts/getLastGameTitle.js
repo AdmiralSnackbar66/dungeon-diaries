@@ -10,7 +10,7 @@ function lastGameTitle (tp) {
         .sort(b => b.sessionNum)
     console.log(titles)
     if (titles.length > 1) {
-        const filename = JSON.stringify(titles[titles.length-2].file.path).replace("\"","").replace("\"","").replace(".md","");
+        const filename = JSON.stringify(titles[titles.length-2].file.path).replace("\"","").replace("\"","").replace("\"","").replace(".md","");
         return filename
     } else {
         return "No games found";
