@@ -2,7 +2,7 @@ module.exports = (params) => {
     console.log(params);
     let thisCampaign = params.app.workspace.getActiveFile().parent.path.slice(17);
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"vault/ttrpgs/Campaigns/${thisCampaign}"`)
+        .pages(`"ttrpgs/Campaigns/${thisCampaign}"`)
         .where(page => {
             if (page.type === 'session' && page.campaign === thisCampaign) {
                 return true;
@@ -20,5 +20,5 @@ module.exports = (params) => {
     // Put filename together
     let filename = numOfGames + '_' + userDate;
     params.variables["thisGameFilename"] = filename;
-    params.variables["folderName"] = 'vault/ttrpgs/Campaigns/' + thisCampaign;
+    params.variables["folderName"] = 'ttrpgs/Campaigns/' + thisCampaign;
 };

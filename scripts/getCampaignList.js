@@ -1,6 +1,6 @@
 function getNumOfGames(campaign) {
 	let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"vault/ttrpgs/Campaigns/${campaign}"`)
+        .pages(`"ttrpgs/Campaigns/${campaign}"`)
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === campaign) {

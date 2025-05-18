@@ -14,7 +14,7 @@ banner_y: 0
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Name", Race, Class, ac, hp, pasperc
-FROM "vault/ttrpgs"
+FROM "ttrpgs"
 WHERE (NoteIcon = "player") 
 WHERE (campaign = "Strixhaven")
 SORT file.mtime DESC
@@ -24,7 +24,7 @@ SORT file.mtime DESC
 _Put your cursor where the session link should be. Then, from the Command Palette (CMD/CTRL+P), select either QuickAdd: Macro - Add session-player or QuickAdd: Macro - Add session-gm_.
 ```dataview  
 TABLE date,status, summary
-FROM "vault/ttrpgs"
+FROM "ttrpgs"
 WHERE (type = "session") 
 WHERE (campaign = "Strixhaven")
 SORT file.mtime DESC
@@ -37,7 +37,7 @@ SORT file.mtime DESC
 
 ## Factions
 ```dataview
-TABLE description as "Description" from "vault/ttrpgs"
+TABLE description as "Description" from "ttrpgs"
 WHERE contains(lower(type),"faction")
 WHERE (campaign = "Strixhaven")
 ```

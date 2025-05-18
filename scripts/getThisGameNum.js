@@ -1,8 +1,8 @@
 function getThisGameNum (tp) {
     let thisCampaign = tp.file.folder(false);
-    // console.log(app.plugins.plugins.dataview.api.pages(`"vault/ttrpgs/Campaigns/${thisCampaign}"`));
+    // console.log(app.plugins.plugins.dataview.api.pages(`"ttrpgs/Campaigns/${thisCampaign}"`));
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"vault/ttrpgs/Campaigns/${thisCampaign}"`)
+        .pages(`"ttrpgs/Campaigns/${thisCampaign}"`)
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === thisCampaign) {
