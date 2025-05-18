@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
                 "mode": "source",
                 "source": false
               },
@@ -453,12 +453,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "44ffd25d5f269fae",
+  "active": "ab04fead1111f7eb",
   "lastOpenFiles": [
+    "ttrpgs/Campaigns/Strixhaven/001_20250518.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Campaigns/Strixhaven",
     "ttrpgs/Campaigns",
     "ttrpgs",
-    "vault/ttrpgs/ttrpgs.md",
+    "ttrpgs/ttrpgs.md",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
     "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
     "vault/0-Scratch Notes/Obsidian ideas.md",
@@ -482,7 +484,6 @@
     "3-Mechanics/CLI/Dice-Roller-Tables/Names/All Names/Names Thurwin-Torlo.md",
     "3-Mechanics/CLI/Dice-Roller-Tables/Names/All Names/Names Zardra-Zinnik.md",
     "3-Mechanics/CLI/Dice-Roller-Tables/Names/All Names/Names Brakana-Cador.md",
-    "3-Mechanics/CLI/Dice-Roller-Tables/Names/All Names/Names Josian-Kalisteroi.md",
     "3-Mechanics/CLI/Dice-Roller-Tables/_Generators/Dice Generators",
     "3-Mechanics/CLI/Dice-Roller-Tables/_Generators/Rant Generators",
     "3-Mechanics/CLI/Dice-Roller-Tables/Names/All Names",
@@ -490,7 +491,6 @@
     "3-Mechanics/CLI/Dice-Roller-Tables/_Generators",
     "3-Mechanics/CLI/Dice-Roller-Tables/Names",
     "3-Mechanics/CLI/Dice-Roller-Tables/LICENSE",
-    "3-Mechanics/CLI/Dice-Roller-Tables",
     "3-Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp",
     "3-Mechanics/CLI/races/img/tiefling.webp",
     "3-Mechanics/CLI/races/img/dwarf.webp",
