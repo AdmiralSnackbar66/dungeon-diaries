@@ -11,6 +11,7 @@ AssociatedGroup:
 NoteIcon: npc
 ---
 
+
 <% tp.file.title %>
 <% await tp.file.move("ttrpgs/Non Player Characters/" + tp.file.title) %>
 
@@ -27,8 +28,8 @@ _%>
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -49,7 +50,6 @@ _%>
 ## Profile
 
 <% tp.file.cursor() %>
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
 
 > [!info] Statblock
 > ```statblock

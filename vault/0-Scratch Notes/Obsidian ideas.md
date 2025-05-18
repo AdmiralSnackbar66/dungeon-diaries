@@ -1,5 +1,5 @@
 
-Is there a way to tag a note on which will ten automatically publish the not via quartz? 
+Is there a way to tag a note on which will then automatically publish the not via quartz? 
 
 Thinking for dnd session notes. 
 There is the draft property but maybe have a page in content folder that lists all notes tagged with a certain tag? 
