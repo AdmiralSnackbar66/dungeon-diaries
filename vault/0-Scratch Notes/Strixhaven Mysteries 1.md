@@ -1,3 +1,6 @@
+---
+NoteIcon: journal
+---
 # [Conversion] The Joy of Extradimensional Spaces
 
 by RBSkald
@@ -12,7 +15,7 @@ Besides porting "The Joy of Extradimensional Spaces" over to Strixhaven, this co
 
 ## Prelude
 
-The basic backstory behind how the book _The Joy of Extradimensional Spaces_ makes its way to the Biblioplex is not heavily changed. Fistandia (who is presumed dead) was a human librarian who graduated from Whitherbloom College almost two centuries ago. **Drazhomir Yarnask** (see _Strixhaven_'s "Fellow Student" section) is a Biblioplex book clerk who assumes Matreous's role in this converted adventure.
+- [ ] The basic backstory behind how the book _The Joy of Extradimensional Spaces_ makes its way to the Biblioplex is not heavily changed. Fistandia (who is presumed dead) was a human librarian who graduated from Witherbloom College almost two centuries ago. **[[04-school-is-in-session#Drazhomir Yarnask|Drazhomir Yarnask]]** (see _Strixhaven_'s "Fellow Student" section) is a Biblioplex book clerk who assumes Matreous's role in this converted adventure.
 
 ## Finding the Book
 
