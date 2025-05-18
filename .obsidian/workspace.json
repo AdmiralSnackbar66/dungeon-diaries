@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6fe847b1f02b16",
+        "id": "1de3081fbc6a72c2",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7888b343f460b6",
+            "id": "f62cd73f0eecc3c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -255,16 +255,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2e7888b343f460b6",
+  "active": "f62cd73f0eecc3c3",
   "lastOpenFiles": [
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/ttrpgs.md",
+    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "z_templates/session-gm.md",
     "ttrpgs/Campaigns/Strixhaven/003_null.md",
     "ttrpgs/Campaigns/Strixhaven/No games found.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "vault/ttrpgs/ttrpgs.md",
     "content/dnd/Player Characters/Elvis Parsley.md",
     "content/dnd/Player Characters/Dalaila Eversnow.md",
