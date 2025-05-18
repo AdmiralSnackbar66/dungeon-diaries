@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0e1a6c581bbf27f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f108258a018f0d77",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Mechanics/CLI/backgrounds/backgrounds.md",
+                "file": "vault/ttrpgs/ttrpgs.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "backgrounds"
+              "title": "ttrpgs"
             }
           }
         ]
@@ -100,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -452,19 +453,31 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f108258a018f0d77",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1044.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro01.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2022.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1045.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2025.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1042.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2005.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1039.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2028.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c1043.webp",
-    "3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2024.webp",
+    "3-Mechanics/CLI/backgrounds/backgrounds.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/027-03-015-an-encounter-with-a-dragon.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/029-03-017-in-the-heart.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/002-01-001-chapter-splash.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/036-04-004-green-dragons-are-poison.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/033-04-001-chapter-splash.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/6-draconomicon.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/7-bestiary.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/9-credits.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/3-dragon-magic.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/2-character-creation.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/1-elegy-for-the-first-world.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/4-dragons-in-play.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/5-lairs-and-hoards.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons/8-creature-lists.md",
+    "3-Mechanics/CLI/books/fizbans-treasury-of-dragons",
+    "vault/ttrpgs/ttrpgs.md",
     "3-Mechanics/CLI/books/xanathars-guide-to-everything/1-introduction.md",
     "3-Mechanics/CLI/books/xanathars-guide-to-everything/2-character-options.md",
     "3-Mechanics/CLI/books/xanathars-guide-to-everything/img",
@@ -482,24 +495,11 @@
     "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/img",
     "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/10-credits.md",
     "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/02-chapter-1-welcome-to-taldorei.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/09-continent-map.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/04-chapter-3-taldorei-gazetteer.md",
-    "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn/05-chapter-4-character-options.md",
     "3-Mechanics/CLI/books/taldorei-campaign-setting-reborn",
-    "3-Mechanics/CLI/books/players-handbook-2024/12-credits.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/10-appendix-b-creature-stat-blocks.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/09-appendix-a-the-multiverse.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/08-chapter-7-spells.md",
     "3-Mechanics/CLI/books/players-handbook-2024/img",
-    "3-Mechanics/CLI/books/players-handbook-2024/11-rules-glossary.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/01-introduction-welcome-to-adventure.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/07-chapter-6-equipment.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/06-chapter-5-feats.md",
     "3-Mechanics/CLI/books/players-handbook-2024",
     "3-Mechanics/CLI/books/monster-manual-2025/img",
     "3-Mechanics/CLI/books/monster-manual-2025",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024",
     "z_Assets/Untitled.canvas"
   ]
 }
