@@ -1,7 +1,7 @@
 function lastGameTitle (tp) {
     const thisWorld = tp.file.folder(false);
     const titles = app.plugins.plugins.dataview.api
-        .pages(`"ttrpgs/${thisWorld}"`)
+        .pages(`"ttrpgs/Campaigns/${thisWorld}"`)
         .where(page => {
             if (page.type === 'session') {
                 return true;

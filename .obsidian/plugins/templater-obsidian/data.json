@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "vault/z_templates",
+  "templates_folder": "z_templates",
   "templates_pairs": [
     [
       "",
@@ -11,16 +11,16 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "vault/scripts",
+  "user_scripts_folder": "scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "vault/ttrpgs/Non Player Characters",
-      "template": "vault/z_templates/NewNPC.md"
+      "template": "z_templates/NewNPC.md"
     },
     {
       "folder": "content/blog",
-      "template": "vault/z_templates/New Blog Post.md"
+      "template": "z_templates/New Blog Post.md"
     }
   ],
   "enable_file_templates": false,

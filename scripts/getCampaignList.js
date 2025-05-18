@@ -13,7 +13,7 @@ function getNumOfGames(campaign) {
 
 function getCampaignList () {
     let dv = app.plugins.plugins.dataview.api;
-    let campaigns = dv.pages('"ttrpgs"').where(b => b.type === "world").sort(p => p.status);
+    let campaigns = dv.pages('"ttrpgs/Campaigns"').where(b => b.type === "world").sort(p => p.status);
     console.log(campaigns);
     let results = [
         `|Campaign|System|Sessions|Role|Status|
