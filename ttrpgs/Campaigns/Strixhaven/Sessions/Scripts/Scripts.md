@@ -1,6 +1,6 @@
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", sessionNum As “Session”
-from "ttrpgs"
-where contains(type, "session_script") 
-
+TABLE WITHOUT ID link(file.name) AS "Name", sessionNum as "Session"
+from "ttrpgs" 
+where  type =  "session_script"
+SORT file.name ASC
 ```

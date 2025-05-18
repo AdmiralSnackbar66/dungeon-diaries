@@ -36,6 +36,7 @@
     "attendance": "checkbox",
     "Session1_Attendance": "checkbox",
     "modified": "date",
-    "species": "multitext"
+    "species": "multitext",
+    "Session_date": "date"
   }
 }

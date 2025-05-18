@@ -131,7 +131,7 @@ Student characters can join any of the following Extracurriculars.
 #### Dead Languages Society
 
 - **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [History](/3-Mechanics/CLI/skills.md#History)  
-- **Member.** [[#Drazhomir Yarnask]], Quentillius A. Melentor III  
+- **Member.** [[#Drazhomir Yarnask]], [[##Quentillius Antiphiun Melentor III]]  
 
 These linguistics lovers take advantage of Strixhaven's deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.
 

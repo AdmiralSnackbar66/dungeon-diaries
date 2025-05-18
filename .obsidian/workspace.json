@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e84b0be370d044d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "63e185fdbfed68da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Drazhomir Yarnask"
+              "title": "Rook"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0cdd6dd43d93456f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d504ed44297a2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Professor Mavinda Sharpbeak"
             }
           }
         ]
@@ -255,53 +275,90 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "floating": {
+    "id": "aa10c91f21cdd7aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "183fb36d862b1db2",
+        "type": "window",
+        "children": [
+          {
+            "id": "c7a33f42b05adb46",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "46959cc3e3413af5",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "z_Assets/CogworkArchivist.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "CogworkArchivist"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "63e185fdbfed68da",
   "lastOpenFiles": [
-    "ttrpgs/ttrpgs.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",
+    "z_Assets/CogworkArchivist.png",
+    "ttrpgs/Non Player Characters/Rook.md",
+    "ttrpgs/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
+    "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
+    "3-Mechanics/CLI/adventures/candlekeep-mysteries/03-the-joy-of-extradimensional-spaces.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
+    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/ttrpgs.md",
+    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/1-campus-kerfuffle.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
+    "ttrpgs/Sessions/Scripts",
+    "ttrpgs/Sessions",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/1. Tour of the Biblioplex.md",
+    "3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png.crdownload",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png.crdownload",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/049-03-025-zanther.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/048-03-024-urzmaktok.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/047-03-023-tilana.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/046-03-022-shuvadri.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/045-03-021-rubina.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/044-03-020-rosie.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/043-03-019-quentillius.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/042-03-018-nora-ann-wu.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
-    "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "z_templates/session-gm.md",
     "ttrpgs/Campaigns/Strixhaven/003_null.md",
     "ttrpgs/Campaigns/Strixhaven/No games found.md",
-    "vault/ttrpgs/ttrpgs.md",
-    "content/dnd/Player Characters/Elvis Parsley.md",
-    "content/dnd/Player Characters/Dalaila Eversnow.md",
-    "content/dnd/dnd.md",
-    "content/index.md",
-    "content/dnd/Player Characters/Zolon Orielson.md",
-    "content/dnd/Player Characters/Roleck Nevari.md",
-    "content/dnd/Player Characters/Borun Erutan.md",
-    "content/dnd/Player Characters/Omari Elderon.md",
     "public/dnd/Player-Characters/Dalaila-Eversnow.html",
-    "[content/dnd/Player Characters/Player Characters.md",
-    "vault/ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511_log.md",
     "[content/dnd/Player Characters",
     "[content/dnd",
     "[content",
-    "vault/ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "public/dnd/Player-Characters/Borun-Erutan.html",
     "content/dnd/Session Notes",
-    "content/dnd/Player Characters",
-    "content/dnd/NonPlayer Characters",
-    "content/blog",
-    "content/dnd",
     "z_Assets/Untitled.canvas",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
