@@ -72,7 +72,7 @@ The following locations are keyed to the map of Fistandia's mansion.
 
 #### M1. Foyer and Hallway
 
-The characters emerge from the portal in the grand foyer of the mansion. On this side, the portal looks like a double door.
+The characters emerge from the portal in the grand foyer of the mansion. On this side, the portal looks like a double door. ^a4f6f8
 
 > [!readaloud] 
 > 
@@ -119,6 +119,8 @@ The puzzle book with the letter R on its spine is on one of the shelves. Any cha
 ![Swarm of Animated Books](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/012-637514193195635246.webp#center)
 
 #### M4. Exercise Room
+
+^556c99
 
 > [!readaloud] 
 > 
