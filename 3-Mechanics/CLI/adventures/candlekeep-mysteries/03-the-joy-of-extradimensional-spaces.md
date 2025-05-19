@@ -144,6 +144,13 @@ If the characters enter the room, the [cat](/3-Mechanics/CLI/bestiary/beast/cat-
 
 If the characters spend 30 minutes investigating the books in this room, they discover the following facts:
 
+>[!iinfo]  If being ported into Strixhaven
+>What characters learn from investigating the books here differs greatly from the the original text:
+>- Most of the books here were authored by someone named Liliana Vess. A character who succeeds on a DC 10 Intelligence check using calligrapher's tools confirms that her handwriting matches perfectly with the notes left in _The Joy of Extradimensional Spaces_.
+>- A disciple of the necromantic arts, Liliana secretly came to Strixhaven from another world to learn everything the multiverse's greatest magic academy had to offer, posing as a promising novice named Fistandia
+>- Her covert delvings into forbidden knowledge led Liliana to enter into a pact with a daemogoth, granting the necromancer a permanent extradimensional mansion for her to reside in while studying at Strixhaven.
+>- Liliana hid the command word to reopen the portal as a contingency in the unlikely event she forgot it, deliberately making it a puzzle to prevent "uninvited guests" from easily discovering the way out.
+
 - Almost all the books in this study were written by someone named Fistandia. Most are her memoirs.  
 - Fistandia was a powerful mage as well as a priest of Mystra. She frequented Candlekeep to further her studies.  
 - In exchange for Fistandia's pious service and achievements in expanding the arts of magic, Mystra granted Fistandia a permanent extradimensional mansion for her to reside in when studying in Candlekeep.  
@@ -369,6 +376,11 @@ The puzzle book with the letter B on its spine is propped up against a large bea
 
 This is the room where Fistandia summoned the imp that would become the figurine found by Matreous. The current resident of the room is a [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) in toad form. It waits for a creature to approach and then attacks.
 
+>[!info]
+>The [[quasit-xmm#Quasit|Quasit]] does not attack  non-hostile creatures that approach, but follows the characters around in its toad form. Its goal is to use the characters to escape the mansion; perhaps even tricking someone into adopting the toad.  
+>
+>Ages ago, this quasit served as Liliana Vess's demon familiar. It has waited a long time for its master's return, growing restless over the decades from her absence.
+
 #### M19. Preserved Menagerie
 
 > [!readaloud] 
@@ -376,7 +388,7 @@ This is the room where Fistandia summoned the imp that would become the figurine
 > Smells of alcohol and brine permeate this room. Glass vessels large and small stand in rows on the floor and tables, ranging from one foot to six feet tall. Inside each vessel is the body of a creature floating in clear liquid. One four-foot-tall container is missing its lid and has no occupant.
 ^080
 
-Fistandia considered herself to be a knowledgeable natural philosopher, and she collected many rare specimens to study. She kept examples of common and natural creatures in area M11, and rare or aberrant creatures in this room. The collection includes a cockatrice, a flumph, a giant fire beetle, a small grell, a myconid sprout, a pseudodragon, four severed hands in the same jar, and a [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md) that's still alive and attacks if its jar is opened.
+Fistandia considered herself to be a knowledgeable natural philosopher, and she collected many rare specimens to study. She kept examples of common and natural creatures in area M11, and rare or aberrant creatures in this room. The collection includes a [[cockatrice-xmm#Cockatrices|cockatrice]], a [[flumph-xmm#Flumph|Flumph]], a [[giant-fire-beetle-xmm#[Giant Fire Beetle](3-Mechanics CLI bestiary beast/giant-fire-beetle-xmm.md|giant fire beetle]], a small [[grell-xmm#Grell|Grell]], a [[myconid-sprout-xmm#[Myconid Sprout](3-Mechanics CLI bestiary plant/myconid-sprout-xmm.md)|myconid sprout]], a [[pseudodragon-xmm#Pseudodragon|Pseudodragon]], 4 [[crawling-claw-xmm#Crawling Claws|severed hands]] in the same jar, and a [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md) that's still alive and attacks if its jar is opened.
 
 The empty container once held the mimic found in area M8. Gravely injured when it was captured, it feigned death until it could recover and escape into the upper levels of the mansion.
 

@@ -7261,6 +7261,19 @@ async function createSnippetFile(app, fileName, data = "") {
   );
   return file;
 }
+async function renameSnippetFile(app, oldFile, newFileName) {
+  const newFile = new CssFile(newFileName);
+  if (oldFile.name === newFile.name)
+    return oldFile;
+  await _validateFile(newFile);
+  await app.vault.adapter.rename(
+    (0, import_obsidian.normalizePath)(`${getSnippetDirectory(app)}${oldFile.name}`),
+    (0, import_obsidian.normalizePath)(`${getSnippetDirectory(app)}${newFile.name}`)
+  );
+  toggleSnippetFileState(app, oldFile);
+  toggleSnippetFileState(app, newFile);
+  return newFile;
+}
 async function writeSnippetFile(app, file, data) {
   await app.vault.adapter.write(
     (0, import_obsidian.normalizePath)(`${getSnippetDirectory(app)}${file.name}`),
@@ -10065,6 +10078,7 @@ var CssEditorView = class extends import_obsidian2.ItemView {
     var _a, _b;
     super(leaf);
     this.file = null;
+    this.isSavingTitle = false;
     this.requestSave = (0, import_obsidian2.debounce)(this.save, 1e3);
     const { settings } = plugin;
     this.navigation = true;
@@ -10089,6 +10103,10 @@ var CssEditorView = class extends import_obsidian2.ItemView {
         })
       ]
     });
+    this.scope = new import_obsidian2.Scope(this.app.scope);
+    this.scope.register(null, "F2", () => {
+      this.titleEl.focus();
+    });
   }
   getViewType() {
     return VIEW_TYPE_CSS;
@@ -10098,7 +10116,7 @@ var CssEditorView = class extends import_obsidian2.ItemView {
   }
   getDisplayText() {
     var _a, _b;
-    return (_b = (_a = this.file) == null ? void 0 : _a.basename) != null ? _b : "";
+    return (_b = (_a = this.file) == null ? void 0 : _a.basename) != null ? _b : "No file open";
   }
   async onOpen() {
     const timer = window.setInterval(() => {
@@ -10107,6 +10125,19 @@ var CssEditorView = class extends import_obsidian2.ItemView {
         clearInterval(timer);
     }, 200);
     this.registerInterval(timer);
+    if (import_obsidian2.Platform.isMobileApp) {
+      this.titleEl.addEventListener("touchstart", () => {
+        this.titleEl.contentEditable = "true";
+      });
+    } else {
+      this.titleEl.contentEditable = "true";
+    }
+    this.titleEl.addEventListener("focus", this.onTitleFocus.bind(this));
+    this.titleEl.addEventListener("blur", this.onTitleBlur.bind(this));
+    this.titleEl.addEventListener(
+      "keydown",
+      this.onTitleKeydown.bind(this)
+    );
     this.registerEvent(
       this.app.workspace.on("css-editor-change", async (file, data) => {
         var _a;
@@ -10115,6 +10146,65 @@ var CssEditorView = class extends import_obsidian2.ItemView {
         }
       })
     );
+    this.registerEvent(
+      this.app.workspace.on(
+        "css-snippet-rename",
+        async (file, oldFileName) => {
+          var _a;
+          if (((_a = this.file) == null ? void 0 : _a.name) === oldFileName) {
+            this.file = file;
+            this.titleEl.setText(this.getDisplayText());
+            this.leaf.updateHeader();
+            this.app.workspace.requestSaveLayout();
+          }
+        }
+      )
+    );
+  }
+  onTitleFocus() {
+    var _a, _b;
+    this.titleEl.spellcheck = ((_b = (_a = this.app.vault).getConfig) == null ? void 0 : _b.call(_a, "spellcheck")) === true;
+  }
+  onTitleBlur() {
+    this.saveTitle(this.titleEl);
+    this.titleEl.spellcheck = false;
+    if (import_obsidian2.Platform.isMobileApp) {
+      this.titleEl.contentEditable = "false";
+    }
+    this.editor.focus();
+  }
+  onTitleKeydown(event) {
+    if (!this.file)
+      return;
+    if (event.isComposing)
+      return;
+    if (event.key === "Escape") {
+      this.titleEl.setText(this.getDisplayText());
+      this.titleEl.blur();
+    }
+    if (event.key === "Enter" || event.key === "Tab") {
+      event.preventDefault();
+      this.saveTitle(this.titleEl);
+      this.titleEl.blur();
+    }
+  }
+  async saveTitle(el) {
+    var _a;
+    if (!this.file)
+      return;
+    const newTitle = el.getText().trim();
+    if (newTitle === ((_a = this.file) == null ? void 0 : _a.basename))
+      return;
+    if (this.isSavingTitle)
+      return;
+    this.isSavingTitle = true;
+    const newFile = await renameSnippetFile(this.app, this.file, newTitle);
+    this.app.workspace.trigger(
+      "css-snippet-rename",
+      newFile,
+      this.file.name
+    );
+    this.isSavingTitle = false;
   }
   getEditorData() {
     return this.editor.state.doc.toString();
@@ -10152,17 +10242,28 @@ var CssEditorView = class extends import_obsidian2.ItemView {
           file = new CssFile(state.file);
         }
       }
-      if (file && file.name !== ((_a = this.file) == null ? void 0 : _a.name)) {
-        const data = await readSnippetFile(this.app, file);
-        this.dispatchEditorData(data);
-        this.file = file;
-        this.app.workspace.requestSaveLayout();
-        result.history = true;
+    }
+    if (file) {
+      if (file.name !== ((_a = this.file) == null ? void 0 : _a.name)) {
+        try {
+          await this.loadFile(file);
+        } catch (e) {
+          await this.loadFile(null);
+        }
       }
     } else {
-      result.history = true;
+      await this.loadFile(null);
     }
+    result.history = true;
     super.setState({ file: file == null ? void 0 : file.name }, result);
+  }
+  async loadFile(file) {
+    this.file = file;
+    this.titleEl.setText(this.getDisplayText());
+    this.leaf.updateHeader();
+    const data = file ? await readSnippetFile(this.app, file) : "";
+    this.dispatchEditorData(data);
+    this.app.workspace.requestSaveLayout();
   }
   /**
    * You should almost always call `requestSave` instead of `save` to debounce the saving.
@@ -10579,7 +10680,7 @@ var CssEditorPlugin = class extends import_obsidian8.Plugin {
     await this.loadSettings();
     this.addCommand({
       id: "create-css-snippet",
-      name: "Create CSS Snippet",
+      name: "Create CSS snippet",
       callback: async () => {
         new CssSnippetCreateModal(this.app, this).open();
       }
@@ -10593,7 +10694,7 @@ var CssEditorPlugin = class extends import_obsidian8.Plugin {
     });
     this.addCommand({
       id: "delete-css-snippet",
-      name: "Delete current CSS Snippet",
+      name: "Delete CSS snippet",
       checkCallback: (checking) => {
         const activeCssEditorView = this.app.workspace.getActiveViewOfType(CssEditorView);
         if (!activeCssEditorView)
@@ -10614,7 +10715,7 @@ var CssEditorPlugin = class extends import_obsidian8.Plugin {
     });
     this.addCommand({
       id: "toggle-css-snippet-enabled-status",
-      name: "Toggle the enabled/disabled state of current CSS snippet",
+      name: "Toggle the enabled/disabled state of CSS snippet",
       checkCallback: (checking) => {
         const activeCssEditorView = this.app.workspace.getActiveViewOfType(CssEditorView);
         if (!activeCssEditorView)
@@ -10637,7 +10738,10 @@ var CssEditorPlugin = class extends import_obsidian8.Plugin {
         () => !!this.app.workspace.getActiveViewOfType(CssEditorView)
       )
     );
-    this.registerView(VIEW_TYPE_CSS, (leaf) => new CssEditorView(leaf, this));
+    this.registerView(
+      VIEW_TYPE_CSS,
+      (leaf) => new CssEditorView(leaf, this)
+    );
     this.settingTab = new CSSEditorSettingTab(this.app, this);
     this.addSettingTab(this.settingTab);
   }
