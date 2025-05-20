@@ -8,7 +8,7 @@ NoteIcon: npc
 ---
 >[!infobox]
 ># `=this.file.name`
->![[Serafina Onyx.jpeg|200]]
+>![[Serafina Onyx.jpeg|map]]
 >###### Basic Information
 >Type|Stat|
 >---|---|
@@ -17,6 +17,7 @@ NoteIcon: npc
 >###### Strixhaven
 >Type|Stat|
 >---|---|
+>College|Silverquill|
 >Profession | Professor - Teacher of Introduction to Magical Philosophies|
 >
 
@@ -56,25 +57,26 @@ senses: truesight 120 ft., passive Perception 11
 languages: Abyssal, Celestial, Common, Deep Speech, Draconic, Infernal, Primordial
 cr: 11
 spells:
-desc: Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18)
-- At will: [[false-life-xphb|False Life]], [[mage-armor-xphb|Mage Armor (self only)]], [[mage-hand-xphb|Mage Hand]], [[spare-the-dying-xphb|Spare the Dying]],[[speak-with-dead-xphb|Speak with Dead]],[[thaumaturgy-xphb|Thaumaturgy]]
+- Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18)
+- At will: [[false-life-xphb|False Life]], [[mage-armor-xphb|Mage Armor (self only)]], [[mage-hand-xphb|Mage Hand]], [[spare-the-dying-xphb|Spare the Dying]],[[speak-with-dead-xphb|Speak with Dead]],[[thaumaturgy-xphb|Thaumaturgy]] 
 - 3/day each: [[blindness-deafness-xphb|Blindness/Deafness]], [[charm-person-xphb|Charm Person]]
 - 1/day each: [[bestow-curse-xphb|Bestow Curse]],[[contagion-xphb|Contagion]], [[fear-xphb|Fear]], [[feign-death-xphb|Feign Death]]
 actions:
 - name: Multi-attack
   desc: Onyx makes two Ulcerate attacks. She can replace one of the attacks with a use of Spellcasting.
 - name: Ulcerate
-  desc: Melee or Ranged Spell Attack: +10 to hit, reach 5 ft. or range 120 ft., one target. _Hit_: 24 (4d8 + 6) necrotic damage, and the target can't regain hit points until the start of Onyx's next turn. If she hits a living target, it also has disadvantage on attack rolls until the end of Onyx's next turn
+  desc: "_Melee or Ranged Spell Attack_: +10 to hit, reach 5 ft. or range 120 ft., one target. _Hit_ 24 (4d8 + 6) necrotic damage, and the target can't regain hit points until the start of Onyx's next turn. If she hits a living target, it also has disadvantage on attack rolls until the end of Onyx's next turn"
 - name: Killing Wave (Recharge 5–6)
   desc: Onyx unleashes necrotic energy in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 54 (12d8) necrotic damage on a failed save, or half as much damage on a successful one.
 - name: Planeswalk (1/day)
   desc: Onyx and up to eight willing creatures are transported to another world on the Material Plane. Each creature must use its action on ten consecutive turns to link hands in a circle, and must maintain concentration while doing so (as if concentrating on a spell).
-legendary_actions: 
- desc: Onyx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Onyx regains spent legendary actions at the start of her turn.
+legendary_actions:
+- name: 
+  desc: Onyx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Onyx regains spent legendary actions at the start of her turn.
 - name: Scornful Step
- desc: Onyx moves up to her speed without provoking opportunity attacks.
-- name: Spellcasting (Costs 2 Actions)
- desc: Onyx uses Spellcasting
+  desc: Onyx moves up to her speed without provoking opportunity attacks.
+- name: Spellcasting (Costs 2 Actions
+  desc: Onyx uses Spellcasting
 - name: Endless Obedience (Costs 3 Actions)
- desc: Onyx targets one creature she can see within 60 feet of her. The target must succeed on a DC 18 Charisma saving throw or be possessed by a shadow spirit. While possessed, the target must obey Onyx's commands. The target can repeat the saving throw at the end of each of its turns, banishing the shadow spirit and ending the effect on itself on a success. 
+  desc: Onyx targets one creature she can see within 60 feet of her. The target must succeed on a DC 18 Charisma saving throw or be possessed by a shadow spirit. While possessed, the target must obey Onyx's commands. The target can repeat the saving throw at the end of each of its turns, banishing the shadow spirit and ending the effect on itself on a success. 
 ```
