@@ -26,41 +26,45 @@ Serafina Onyx is one of Strixhaven's newest faculty members. A brilliant necroma
 
 
 ```statblock
-name: Serafina Onyx
-size: Medium
-type: Human
-subtype: Warlock
-ac: 13 (16 with _mage armor_)
-hp: 156
-hit_dice: 24d8 + 48
-stats:
+"name": "Serafina Onyx"
+"size": "Medium"
+"type": "Human"
+"subtype": "Warlock"
+"alignment" : "Unknown"
+"ac": !!int "13"
+"hp": "156"
+"hit_dice": "24d8 + 48"
+"stats":
 - !!int "10"
 - !!int "16"
 - !!int "16"
 - !!int "21"
 - !!int "14"
 - !!int "16"
-speed: 30ft
-saves:
-  - Intelligence: !!int 8
-  - Wisdom: !!int 5
-  - Charisma: !!int 10
-skillsaves:
-  - Arcana: !!int 8
-  - Deception: !!int 10
-  - Medicine: !!int 9
-  - Persuasion: !!int 10
-  - Religion: !!int 12
-condition_immunities: [[3-Mechanics/CLI/conditions#Charmed|Charmed]], [[3-Mechanics/CLI/conditions#Frightened|Frightened]]
-senses: truesight 120ft, passive Perception 11
-languages: Abyssal, Celestial, Common, Deep Speech, Draconic, Infernal, Primordial
-cr: 11
+"speed": "30 ft."
+"saves":
+   "Intelligence": !!int "8"
+   "Wisdom": !!int "5"
+   "Charisma": !!int "10"
+"skillsaves":
+   "Arcana": !!int "8"
+   "Deception": !!int "10"
+   "Medicine": !!int "9"
+   "Persuasion": !!int "10"
+   "Religion": !!int "12"
+"condition_immunities": "[[3-Mechanics/CLI/conditions#Charmed|Charmed]], [[3-Mechanics/CLI/conditions#Frightened|Frightened]]"
+"senses": "truesight 120ft, passive Perception 11"
+"languages": "Abyssal, Celestial, Common, Deep Speech, Draconic, Infernal, Primordial"
+"cr": "11"
 "traits":
-  - desc: "Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):\n\nAt will: [[false-life-xphb|False Life]], [[mage-armor-xphb|Mage Armor (self only)]], [[mage-hand-xphb|Mage Hand]], [[spare-the-dying-xphb|Spare the Dying]],[[speak-with-dead-xphb|Speak with Dead]],[[thaumaturgy-xphb|Thaumaturgy]]\n\
+- "desc": "Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):\n\nAt will: [[false-life-xphb|False Life]], [[mage-armor-xphb|Mage Armor (self only)]], [[mage-hand-xphb|Mage Hand]], [[spare-the-dying-xphb|Spare the Dying]],[[speak-with-dead-xphb|Speak with Dead]],[[thaumaturgy-xphb|Thaumaturgy]]\n\
     \n3/day each: [[blindness-deafness-xphb|Blindness/Deafness]], [[charm-person-xphb|Charm Person]]\n\
     \n1/day each: [[bestow-curse-xphb|Bestow Curse]],[[contagion-xphb|Contagion]], [[fear-xphb|Fear]], [[feign-death-xphb|Feign Death]]"
-"Name": Spellcasting
-- desc: Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
+"name": Spellcasting
+- "desc": "Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18): \n\nAt will:\ \ [Counterspell]](/3-Mechanics/CLI/spells/counterspell-xphb.md), [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
+  "name" : "Multiattak"
+- "desc": "Onyx makes two Ulcerate attacks. She can replace one of the attacks with a use of Spellcasting."
+
 ```
 
 > > 
