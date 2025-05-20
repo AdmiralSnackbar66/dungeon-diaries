@@ -60,6 +60,7 @@ Serafina Onyx is one of Strixhaven's newest faculty members. A brilliant necroma
 - "desc": "Onyx casts one of the following spells at 5th level, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):\n\nAt will: [[false-life-xphb|False Life]], [[mage-armor-xphb|Mage Armor (self only)]], [[mage-hand-xphb|Mage Hand]], [[spare-the-dying-xphb|Spare the Dying]],[[speak-with-dead-xphb|Speak with Dead]],[[thaumaturgy-xphb|Thaumaturgy]]\n\
     \n3/day each: [[blindness-deafness-xphb|Blindness/Deafness]], [[charm-person-xphb|Charm Person]]\n\
     \n1/day each: [[bestow-curse-xphb|Bestow Curse]],[[contagion-xphb|Contagion]], [[fear-xphb|Fear]], [[feign-death-xphb|Feign Death]]"
+    Actions:
   "name" : "Multiattak"
 - "desc": "Onyx makes two Ulcerate attacks. She can replace one of the attacks with a use of Spellcasting."
   "name": "Ulcerate"
