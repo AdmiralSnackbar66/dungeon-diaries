@@ -4,52 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc81040e76c7233a",
+        "id": "5e21da2706b7c4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9e008ec2924468",
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
+            "id": "c31d4b8215653bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/Professor Serafina Onyx.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Professor Serafina Onyx"
-            }
-          }
-        ]
-      },
-      {
-        "id": "326243348dfd89ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f16479ad794a4635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Mechanics/CLI/bestiary/undead/lich-xmm.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "lich-xmm"
-                "file": "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven"
+              "title": "7. The Joy of Extradimensional Space"
             }
           }
         ]
@@ -165,12 +134,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f16479ad794a4635",
-<<<<<<< refs/remotes/origin/v4
-  "active": "ad9e008ec2924468",
+  "active": "c31d4b8215653bf0",
   "lastOpenFiles": [
-    "ttrpgs/Professor Serafina Onyx.md",
+    "ttrpgs/Non Player Characters/Extus Narr.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/ttrpgs.md",
     "3-Mechanics/CLI/bestiary/undead/lich-xmm.md",
+    "ttrpgs/Professor Serafina Onyx.md",
     "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
     "3-Mechanics/CLI/bestiary/undead/demilich-xmm.md",
     "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
@@ -179,57 +151,12 @@
     "3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md",
     "3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md",
     "3-Mechanics/CLI/bestiary/humanoid/witherbloom-apprentice-scc.md",
-    "ttrpgs/ttrpgs.md",
     "ttrpgs/Non Player Characters/Strixhaven Mysteries 1.md",
-=======
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "vault/ttrpgs/ttrpgs.md",
-    "3-Mechanics/CLI/backgrounds/backgrounds.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/223-15-004-otyugh.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/112-04-016-dryads.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/030-29-003-alt-cover.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/invisible-stalker.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/249-18-010-rust-monster.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/202-13-012-mezzoloth.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/hill-giant.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/gelatinous-cube.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/300-23-004-were-creature-group.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/3-animals.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/img",
-    "3-Mechanics/CLI/books/monster-manual-2025/5-credits.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/1-how-to-use-a-monster.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
-    "3-Mechanics/CLI/books/monster-manual-2025",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/07-chapter-7-treasure.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/06-chapter-6-cosmology.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/12-credits.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/05-chapter-5-creating-campaigns.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/04-chapter-4-creating-adventures.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/10-appendix-b-maps.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/03-chapter-3-dms-toolbox.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/02-chapter-2-running-the-game.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/08-chapter-8-bastions.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/11-appendix-c-tracking-sheets.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/09-appendix-a-lore-glossary.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024",
-    "3-Mechanics/CLI/bestiary/bestiary.md",
-    "3-Mechanics/CLI/bestiary/celestial/celestial.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
->>>>>>> Last Sync: May 19, 2025 10:35:53 PM (Mobile)
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
     "z_Assets/Serafina Onyx.jpeg",
     "vault/index.md",
-    "ttrpgs/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "3-Mechanics/CLI/adventures/candlekeep-mysteries/03-the-joy-of-extradimensional-spaces.md",
     "3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp",
     "3-Mechanics/CLI/bestiary/aberration/token/slaad-tadpole-xmm.webp",
@@ -239,12 +166,9 @@
     "z_templates/session-player.md",
     "z_templates/session-gm.md",
     "ttrpgs/Campaigns/Strixhaven/003_20250524.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
     "ttrpgs/Campaigns/Strixhaven/002_202050601.md",
     "ttrpgs/Campaigns/Strixhaven/Additional Rules/Urzmaktok Grojsh.md",
-    "ttrpgs/Campaigns/Strixhaven/No games found.md",
-    "ttrpgs/Campaigns/Strixhaven/002_null.md",
     "ttrpgs/Campaigns/Strixhaven",
     "ttrpgs/Campaigns",
     "ttrpgs",
