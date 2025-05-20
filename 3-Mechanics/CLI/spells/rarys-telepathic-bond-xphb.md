@@ -11,12 +11,15 @@ tags:
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/aberrant-sorcery
 - ttrpg-cli/spell/subclass/diviner
+- ttrpg-cli/spell/subclass/peace-domain
 classes:
 - Bard
+- Cleric (Peace Domain)
 - Sorcerer (Aberrant Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Rary's Telepathic Bond"]
+aliases:
+- Rary's Telepathic Bond
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  
@@ -31,6 +34,6 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Cleric (Peace Domain)](/3-Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Telepathic Bond")*
+*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Telepathic Bond") and the Free Rules (2024)*

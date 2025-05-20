@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Hippopotamus"]
+statblock-link: "#^statblock"
+aliases:
+- Hippopotamus
 ---
 # [Hippopotamus](3-Mechanics\CLI\bestiary\beast/hippopotamus-xmm.md)
-*Source: Monster Manual (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,31 +29,33 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "14"
 "hp": !!int "82"
 "hit_dice": "11d10 + 22"
+"modifier": !!int "-2"
 "stats":
-- !!int "21"
-- !!int "7"
-- !!int "15"
-- !!int "2"
-- !!int "12"
-- !!int "4"
+  - !!int "21"
+  - !!int "7"
+  - !!int "15"
+  - !!int "2"
+  - !!int "12"
+  - !!int "4"
 "speed": "30 ft., swim 30 ft."
 "saves":
-  "Strength": !!int "7"
+  - "strength": "+7"
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "4"
 "traits":
-- "desc": "The hippopotamus can hold its breath for 10 minutes."
-  "name": "Hold Breath"
+  - "desc": "The hippopotamus can hold its breath for 10 minutes."
+    "name": "Hold Breath"
 "actions":
-- "desc": "The hippopotamus makes two Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Piercing damage."
-  "name": "Bite"
+  - "desc": "The hippopotamus makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/hippopotamus-xmm.webp"
 ```
 ^statblock

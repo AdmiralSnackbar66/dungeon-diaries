@@ -16,4 +16,4 @@ You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to blow this ho
 
 A silver horn summons 2 [Berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md). They are [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
 
-*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

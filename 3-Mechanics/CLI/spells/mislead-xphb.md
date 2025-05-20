@@ -10,13 +10,16 @@ tags:
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/fey-wanderer
 - ttrpg-cli/spell/subclass/illusionist
+- ttrpg-cli/spell/subclass/twilight-domain
 classes:
 - Bard
+- Cleric (Twilight Domain)
 - Ranger (Fey Wanderer)
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Mislead"]
+aliases:
+- Mislead
 ---
 # Mislead
 *5th-level, Illusion*  
@@ -33,6 +36,6 @@ As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can move the illusor
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Ranger (Fey Wanderer)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Ranger (Fey Wanderer)](/3-Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (Twilight Domain)](/3-Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

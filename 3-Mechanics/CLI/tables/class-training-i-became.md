@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Class Training; I became..."]
+aliases:
+- Class Training; I became...
 ---
 # Class Training; I became...
 *Source: Xanathar's Guide to Everything p. 66* 

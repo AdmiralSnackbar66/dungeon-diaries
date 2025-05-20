@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Galeb Duhr"]
+statblock-link: "#^statblock"
+aliases:
+- Galeb Duhr
 ---
 # [Galeb Duhr](3-Mechanics\CLI\bestiary\elemental/galeb-duhr-xmm.md)
 *Source: Monster Manual (2024) p. 127*  
@@ -35,13 +37,14 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
 "ac": !!int "16"
 "hp": !!int "123"
 "hit_dice": "13d8 + 65"
+"modifier": !!int "2"
 "stats":
-- !!int "20"
-- !!int "14"
-- !!int "20"
-- !!int "11"
-- !!int "12"
-- !!int "11"
+  - !!int "20"
+  - !!int "14"
+  - !!int "20"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -51,21 +54,21 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
 "languages": "Primordial (Terran)"
 "cr": "6"
 "actions":
-- "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 12 (2d6 + 5) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature and the galeb duhr moved 20+ feet\
-    \ straight toward it immediately before the hit, the target takes an extra 7 (2d6)\
-    \ Bludgeoning damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Avalanche Slam"
-- "desc": "The galeb duhr magically animates one or two boulders it can see within\
-    \ 60 feet of itself. Each boulder uses the Galeb Duhr stat block, except it has\
-    \ Intelligence and Charisma scores of 1 and lacks this action. The boulder takes\
-    \ its turn immediately after the galeb duhr on the same [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
-    \ count, and it obeys the galeb duhr. A boulder remains animate for 1 minute or\
-    \ until it or the galeb duhr dies."
-  "name": "Animate Boulders (1/Day)"
+  - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 12 (2d6 + 5) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature and the galeb duhr moved\
+      \ 20+ feet straight toward it immediately before the hit, the target takes an\
+      \ extra 7 (2d6) Bludgeoning damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Avalanche Slam"
+  - "desc": "The galeb duhr magically animates one or two boulders it can see within\
+      \ 60 feet of itself. Each boulder uses the Galeb Duhr stat block, except it\
+      \ has Intelligence and Charisma scores of 1 and lacks this action. The boulder\
+      \ takes its turn immediately after the galeb duhr on the same [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
+      \ count, and it obeys the galeb duhr. A boulder remains animate for 1 minute\
+      \ or until it or the galeb duhr dies."
+    "name": "Animate Boulders (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/galeb-duhr-xmm.webp"
 ```
 ^statblock

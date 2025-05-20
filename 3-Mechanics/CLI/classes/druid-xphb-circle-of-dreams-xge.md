@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/druid/dreams
-aliases: ["Circle of Dreams"]
+aliases:
+- Circle of Dreams
 ---
 # Circle of Dreams
 *[Druid](./druid-xphb.md): Druid Subclass*  

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc-ck
-aliases: ["Campus Kerfuffle"]
+aliases:
+- Campus Kerfuffle
 ---
 # Campus Kerfuffle
 *Source: Strixhaven: Campus Kerfuffle, p. 60* 
@@ -45,15 +46,16 @@ Use the First-Year Encounters table for random encounters on campus during this 
 
 **First-Year Encounters**
 
-`dice: [[1-campus-kerfuffle^first-year-encounters]]`
+`dice: [](1-campus-kerfuffle.md#^first-year-encounters)`
 
-| dice: d10              | Encounters                                                                                                                                   |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-4                    | `encounter: 2:Stirge` and `encounter: 1:Giant Rat`, both of which were attracted to a nearby sickly scent and are hostile                    |
-| 5-6                    | `encounter: 2:Animated Armor` that look like dusty, wizard robes                                                                             |
-| 7-8                    | `encounter: 1: Ochre Jelly` that has bits of chewed scrolls and shards of potion bottles in its oozy mass                                    |
-| 9-10                   | `encounter: 1:Basilisk` wearing a monocle and a top hat that has escaped and is aggressive, although a student has tried to keep it as a per |
-| ^first-year-encounters |                                                                                                                                              |
+| dice: d10 | Encounter |
+|-----------|-----------|
+| 1–4 | 2 [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) and 1 [giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md), both of which were attracted to a nearby sickly scent and are hostile |
+| 5–6 | 2 suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that look like dusty, armored wizard robes |
+| 7–8 | 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) that has bits of chewed scrolls and shards of potion bottles in its oozy mass |
+| 9–10 | 1 [basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) wearing a monocle and top hat that has escaped and is aggressive, although a student tried to keep it as a pet |
+^first-year-encounters
+
 ### Student Schedules
 
 Before starting this adventure, have the players choose at least three courses their characters are taking this year, either by coming up with the courses themselves or by rolling on the First-Year Courses table. Inform them that the characters are also enrolled in a required course, Magical Physiologies.
@@ -137,7 +139,7 @@ Enchanted marble steps lead up 5 feet to a small plaza at the Biblioplex's entra
 
 #### B2. Biblioplex Lounge
 
-Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from `dice:1d3|noform|noparens|avg` (`1d3`) Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. "Extracurriculars" and "Jobs" are detailed earlier in the chapter.
+Luxurious couches and sturdy tables furnish this spacious area. Students, employees, and staff members often use this lounge to relax between shifts in the student store (area B5), the Biblioplex café (area B6), or elsewhere in the library. Each table holds piles of magazines, newsletters, flyers, and nonmagical scrolls from around campus. A character who examines these materials finds recruitment flyers from `dice:1d3|noform|noparens|avg` (`d3`) Extracurriculars. They also find "Help Wanted" ads for the Jobs at the Biblioplex. "Extracurriculars" and "Jobs" are detailed earlier in the chapter.
 
 #### B3. Student Café Seating
 
@@ -167,14 +169,14 @@ The café always serves coffee and tea, which costs 1 cp per cup. The sandwich o
 
 `dice: [](1-campus-kerfuffle.md#^cafe-sandwich-of-the-day)`
 
-| dice: d6 | Sandwich                                          |
-| -------- | ------------------------------------------------- |
-| 1        | Grilled halloumi with morels on wheat             |
-| 2        | Toasted cockatrice gizzards on rye                |
-| 3        | Open-faced radish chips, deep-fried with dijon    |
-| 4        | Crunchy frog legs on toast                        |
-| 5        | Rainbow carrots and watercress chestnuts on white |
-| 6        | Dragonbreath peppers and salami on a bagel        |
+| dice: d6 | Sandwich |
+|----------|----------|
+| 1 | Grilled halloumi with morels on wheat |
+| 2 | Toasted cockatrice gizzards on rye |
+| 3 | Open-faced radish chips, deep-fried with dijon |
+| 4 | Crunchy frog legs on toast |
+| 5 | Rainbow carrots and watercress chestnuts on white |
+| 6 | Dragonbreath peppers and salami on a bagel |
 ^cafe-sandwich-of-the-day
 
 #### B7. Lecture Hall
@@ -211,7 +213,7 @@ The "Orientation Challenge" event later in this chapter starts here.
 
 This crisp-looking room features white walls and columns that stretch from floor to ceiling. Displayed on or within these are art pieces representative of various media. Students from Prismari College typically tend this space, and three [Prismari pledgemages](/3-Mechanics/CLI/bestiary/humanoid/prismari-pledgemage-scc.md) (see "chapter 7") can be found here most days, either cleaning the gallery or studying the techniques used in the displayed pieces. A storage area at the back holds supplies and artwork waiting to go on display.
 
-The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, [[04-school-is-in-session#Cadoras Damellawar|Cadoras Damellawar]] (chaotic good elf [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting first-year students to the society.
+The Distinguished Society of Fine Artists often meets and holds discussions here. If the characters explore this area before or after orientation, Cadoras Damellawar (chaotic good elf [first-year student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md); see the "Fellow Students" section) is here recruiting first-year students to the society.
 
 #### B13. Amphitheater
 
@@ -472,7 +474,7 @@ Once the frogs are no longer threats, a successful DC 12 Wisdom ([Perception](/3
 
 ## Magical Physiologies Exam: Slaadi
 
-The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked B7 on map 3.1). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class's professor is [[02-life-at-strixhaven#Verelda Lang, Arcano-Biologist|Veralda Lang]] (chaotic neutral [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
+The characters are enrolled together in the course Magical Physiologies, which is held in a lecture hall in the Biblioplex (one of the areas marked B7 on map 3.1). The course covers the anatomy, abilities, and dispositions of monsters commonly encountered while adventuring. Students read popular accounts related to Aberrations, Monstrosities, and Oozes, as well as studying how best to either avoid a fight with such creatures or battle them and emerge triumphant. The class's professor is Verelda Lang (chaotic neutral [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) professor from Witherbloom College), a respected arcano-biologist who teaches Quandrix College courses in addition to her Witherbloom College and general education offerings.
 
 This course's first Exam takes place a short while after the events of the "A Great Frog Race" section and sees students tested on their knowledge of the creatures known as slaadi. The rules for "Exams" can be found earlier in this chapter.
 
@@ -781,7 +783,7 @@ The manor has the following features:
 - **Lighting.** By night, the interior of the manor is in darkness.  
 - **Magic Stairs.** Stairs and steps in the manor are enchanted to move and reshape themselves for full accessibility.  
 - **Transport Circles.** A runic circle is painted on the floor near each staircase in the manor, as well as at the top and bottom of the steps leading inside the building in area C1. These circles are permanent, customized teleportation circles. Anyone can move onto a circle and mentally focus on the floor to which they wish to travel. (The circle leading to the attic is in the manor's hidden staircase, which must be found first.) When a character is teleported from a circle near a staircase, they arrive on the destination floor on the runic circle nearest the corresponding staircase. The circle outside the main entrance automatically transports characters directly in front of the manor's front doors.  
-- **Security.** If an outside door is smashed or the characters engage in noticeable vandalism, a [Silverquill professor of radiance](/3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc.md) and a [Quandrix professor of substance](/3-Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc.md) (see "chapter 7" for both) arrive at the manor in `dice:1d4|noform|noparens|avg` (`1d4`) rounds. Both are serving as campus security for the night and deal with the characters as noted in the sidebar "The Jig Is Up!"  
+- **Security.** If an outside door is smashed or the characters engage in noticeable vandalism, a [Silverquill professor of radiance](/3-Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-radiance-scc.md) and a [Quandrix professor of substance](/3-Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc.md) (see "chapter 7" for both) arrive at the manor in `dice:1d4|noform|noparens|avg` (`d4`) rounds. Both are serving as campus security for the night and deal with the characters as noted in the sidebar "The Jig Is Up!"  
 
 > [!note] Just a Little Vandalism?
 > 

@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Earth Elemental"]
+statblock-link: "#^statblock"
+aliases:
+- Earth Elemental
 ---
 # [Earth Elemental](3-Mechanics\CLI\bestiary\elemental/earth-elemental-xmm.md)
-*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Earth Elemental
 
@@ -56,13 +58,14 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "ac": !!int "17"
 "hp": !!int "147"
 "hit_dice": "14d10 + 70"
+"modifier": !!int "-1"
 "stats":
-- !!int "20"
-- !!int "8"
-- !!int "20"
-- !!int "5"
-- !!int "10"
-- !!int "5"
+  - !!int "20"
+  - !!int "8"
+  - !!int "20"
+  - !!int "5"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
@@ -73,22 +76,23 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "languages": "Primordial (Terran)"
 "cr": "5"
 "traits":
-- "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
-    \ While doing so, the elemental doesn't disturb the material it moves through."
-  "name": "Earth Glide"
-- "desc": "The elemental deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "The elemental can burrow through nonmagical, unworked earth and stone.\
+      \ While doing so, the elemental doesn't disturb the material it moves through."
+    "name": "Earth Glide"
+  - "desc": "The elemental deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The elemental makes two attacks, using Slam or Rock Launch in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning damage."
-  "name": "Slam"
-- "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Rock Launch"
+  - "desc": "The elemental makes two attacks, using Slam or Rock Launch in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 14 (2d8 + 5) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Rock Launch"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock

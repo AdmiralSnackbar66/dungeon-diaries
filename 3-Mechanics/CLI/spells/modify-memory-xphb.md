@@ -14,7 +14,8 @@ classes:
 - Cleric (Trickery Domain)
 - Warlock (Great Old One Patron)
 - Wizard
-aliases: ["Modify Memory"]
+aliases:
+- Modify Memory
 ---
 # Modify Memory
 *5th-level, Enchantment*  
@@ -37,6 +38,6 @@ A [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) or [Greater Resto
 
 **Using a Higher-Level Spell Slot.** You can alter the target's memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature's past (level 9 spell slot).
 
-**Classes**: [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

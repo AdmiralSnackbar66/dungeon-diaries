@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Holy Avenger"
 - "Holy Avenger Antimatter Rifle"
@@ -492,4 +493,4 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

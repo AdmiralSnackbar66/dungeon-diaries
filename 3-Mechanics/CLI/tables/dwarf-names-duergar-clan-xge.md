@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Dwarf Names – Duergar Clan"]
+aliases:
+- Dwarf Names – Duergar Clan
 ---
 # Dwarf Names – Duergar Clan
 *Source: Xanathar's Guide to Everything p. 176* 

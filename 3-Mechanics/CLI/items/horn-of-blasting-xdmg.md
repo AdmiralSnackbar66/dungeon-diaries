@@ -16,4 +16,4 @@ You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to blow the hor
 
 Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals `dice:10d6|noform|noparens|avg` (`10d6`) Force damage to the user and destroys the horn.
 
-*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

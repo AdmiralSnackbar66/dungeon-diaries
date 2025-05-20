@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Grick"]
+statblock-link: "#^statblock"
+aliases:
+- Grick
 ---
 # [Grick](3-Mechanics\CLI\bestiary\aberration/grick-xmm.md)
-*Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.
 
@@ -35,30 +37,32 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 "ac": !!int "14"
 "hp": !!int "54"
 "hit_dice": "12d8"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "14"
-- !!int "11"
-- !!int "3"
-- !!int "14"
-- !!int "5"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "3"
+  - !!int "14"
+  - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "The grick makes one Beak attack and one Tentacles attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage."
-  "name": "Beak"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 12) from all four tentacles."
-  "name": "Tentacles"
+  - "desc": "The grick makes one Beak attack and one Tentacles attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 12) from all four tentacles."
+    "name": "Tentacles"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
 ```
 ^statblock

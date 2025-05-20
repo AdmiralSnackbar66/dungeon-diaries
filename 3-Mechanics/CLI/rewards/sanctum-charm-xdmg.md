@@ -4,7 +4,8 @@ cssclasses: json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
-aliases: ["Sanctum Charm"]
+aliases:
+- Sanctum Charm
 ---
 # Sanctum Charm
 *Charm*  

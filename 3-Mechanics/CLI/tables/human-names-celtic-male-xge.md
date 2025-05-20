@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Celtic, Male"]
+aliases:
+- Human Names – Celtic, Male
 ---
 # Human Names – Celtic, Male
 *Source: Xanathar's Guide to Everything p. 181* 

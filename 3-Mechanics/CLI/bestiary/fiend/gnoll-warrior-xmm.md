@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Gnoll Warrior"]
+statblock-link: "#^statblock"
+aliases:
+- Gnoll Warrior
 ---
 # [Gnoll Warrior](3-Mechanics\CLI\bestiary\fiend/gnoll-warrior-xmm.md)
-*Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
 
@@ -40,30 +42,31 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 "ac": !!int "15"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "12"
-- !!int "11"
-- !!int "6"
-- !!int "10"
-- !!int "7"
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "6"
+  - !!int "10"
+  - !!int "7"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1/2"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage."
-  "name": "Rend"
-- "desc": "Ranged Attack Roll: +3, range 150/600 ft. Hit: 6 (1d10 + 1) Piercing\
-    \ damage."
-  "name": "Bone Bow"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage."
+    "name": "Rend"
+  - "desc": "Ranged Attack Roll: +3, range 150/600 ft. Hit: 6 (1d10 + 1) Piercing\
+      \ damage."
+    "name": "Bone Bow"
 "bonus_actions":
-- "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
-    \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
-    \ and it makes one Rend attack."
-  "name": "Rampage (1/Day)"
+  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+      \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+      \ and it makes one Rend attack."
+    "name": "Rampage (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-warrior-xmm.webp"
 ```
 ^statblock

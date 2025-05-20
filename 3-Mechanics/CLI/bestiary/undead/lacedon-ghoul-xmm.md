@@ -10,7 +10,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Lacedon Ghoul"]
+statblock-link: "#^statblock"
+aliases:
+- Lacedon Ghoul
 ---
 # [Lacedon Ghoul](3-Mechanics\CLI\bestiary\undead/lacedon-ghoul-xmm.md)
 *Source: Monster Manual (2024) p. 132*  
@@ -39,13 +41,14 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "2"
 "stats":
-- !!int "13"
-- !!int "15"
-- !!int "10"
-- !!int "7"
-- !!int "10"
-- !!int "6"
+  - !!int "13"
+  - !!int "15"
+  - !!int "10"
+  - !!int "7"
+  - !!int "10"
+  - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "cold"
 "damage_immunities": "poison"
@@ -55,24 +58,24 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 "languages": "Common"
 "cr": "1"
 "actions":
-- "desc": "The ghoul makes two Icy Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Cold damage, and\
-    \ the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
-    \ by 5 feet until the start of the ghoul's next turn."
-  "name": "Icy Bite"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.\
-    \ If the target is a creature that isn't an Undead or elf, it is subjected to\
-    \ the following effect. Constitution Saving Throw: DC 10. Failure: The target\
-    \ has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition until\
-    \ the end of its next turn."
-  "name": "Claw"
+  - "desc": "The ghoul makes two Icy Bite attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Cold damage,\
+      \ and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
+      \ by 5 feet until the start of the ghoul's next turn."
+    "name": "Icy Bite"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.\
+      \ If the target is a creature that isn't an Undead or elf, it is subjected to\
+      \ the following effect. Constitution Saving Throw: DC 10. Failure: The target\
+      \ has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition until\
+      \ the end of its next turn."
+    "name": "Claw"
 "bonus_actions":
-- "desc": "While underwater, the ghoul moves up to half its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
-    \ without provoking Opportunity Attacks."
-  "name": "Watery Rush"
+  - "desc": "While underwater, the ghoul moves up to half its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
+      \ without provoking Opportunity Attacks."
+    "name": "Watery Rush"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/lacedon-ghoul-xmm.webp"
 ```
 ^statblock

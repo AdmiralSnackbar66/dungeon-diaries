@@ -15,7 +15,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Contact Other Plane"]
+aliases:
+- Contact Other Plane
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  
@@ -30,6 +31,6 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other kn
 
 On a failed save, you take `dice:6d6|noform|noparens|avg` (`6d6`) Psychic damage and have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). A [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on you ends this effect.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

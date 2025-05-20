@@ -29,7 +29,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Locate Object"]
+aliases:
+- Locate Object
 ---
 # Locate Object
 *2nd-level, Divination*  
@@ -46,6 +47,6 @@ The spell can locate a specific object known to you if you have seen it up close
 
 This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

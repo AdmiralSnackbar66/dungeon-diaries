@@ -6,7 +6,8 @@ tags:
 - ttrpg-cli/deity/greek
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
-aliases: ["Hephaestus"]
+aliases: 
+- Hephaestus
 ---
 # Hephaestus
 *Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

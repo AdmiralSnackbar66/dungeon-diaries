@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Urban Encounters (Levels 17—20)"]
+aliases:
+- Urban Encounters (Levels 17—20)
 ---
 # Urban Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 110* 

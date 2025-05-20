@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Glossary Conventions"]
+aliases:
+- Glossary Conventions
 ---
 # Glossary Conventions
 *Source: Player's Handbook (2024) p. 360* 

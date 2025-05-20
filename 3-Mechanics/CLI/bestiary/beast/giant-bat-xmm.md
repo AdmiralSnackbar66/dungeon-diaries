@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Bat"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Bat
 ---
 # [Giant Bat](3-Mechanics\CLI\bestiary\beast/giant-bat-xmm.md)
-*Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,22 +29,23 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "22"
 "hit_dice": "4d10"
+"modifier": !!int "3"
 "stats":
-- !!int "15"
-- !!int "16"
-- !!int "11"
-- !!int "2"
-- !!int "12"
-- !!int "6"
+  - !!int "15"
+  - !!int "16"
+  - !!int "11"
+  - !!int "2"
+  - !!int "12"
+  - !!int "6"
 "speed": "10 ft., fly 60 ft."
 "senses": "blindsight 120 ft., passive Perception 11"
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-bat-xmm.webp"
 ```
 ^statblock

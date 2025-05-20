@@ -8,13 +8,18 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/conjuration
+- ttrpg-cli/spell/subclass/alchemist
+- ttrpg-cli/spell/subclass/circle-of-spores
 - ttrpg-cli/spell/subclass/oath-of-conquest
 classes:
+- Artificer (Alchemist)
 - Bard
+- Druid (Circle of Spores)
 - Paladin (Oath of Conquest)
 - Sorcerer
 - Wizard
-aliases: ["Cloudkill"]
+aliases:
+- Cloudkill
 ---
 # Cloudkill
 *5th-level, Conjuration*  
@@ -31,8 +36,8 @@ Each creature in the Sphere makes a Constitution saving throw, taking `dice:5d8|
 
 The Sphere moves 10 feet away from you at the start of each of your turns.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each spell slot level above 5.
 
-**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Druid (Circle of Spores)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

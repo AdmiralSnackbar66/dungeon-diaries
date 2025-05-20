@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/ei
-aliases: ["Gift of the Protectors"]
+aliases:
+- Gift of the Protectors
 ---
 # Gift of the Protectors
 *Source: Player's Handbook (2024) p. 156*  

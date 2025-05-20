@@ -12,7 +12,8 @@ classes:
 - Bard
 - Druid
 - Warlock
-aliases: ["Conjure Fey"]
+aliases:
+- Conjure Fey
 ---
 # Conjure Fey
 *6th-level, Conjuration*  
@@ -27,8 +28,8 @@ You conjure a Medium spirit from the Feywild in an unoccupied space you can see 
 
 As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d12|noform|noparens|avg|text(1d12)` for each spell slot level above 6.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d12|noform|noparens|avg|text(d12)` for each spell slot level above 6.
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

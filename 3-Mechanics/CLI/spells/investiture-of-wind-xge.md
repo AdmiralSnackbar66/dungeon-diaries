@@ -16,7 +16,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Investiture of Wind"]
+aliases:
+- Investiture of Wind
 ---
 # Investiture of Wind
 *6th-level, Transmutation*  

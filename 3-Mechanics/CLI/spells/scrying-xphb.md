@@ -13,6 +13,7 @@ tags:
 - ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/light-domain
+- ttrpg-cli/spell/subclass/oath-of-the-watchers
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 classes:
 - Bard
@@ -20,11 +21,13 @@ classes:
 - Cleric (Light Domain)
 - Druid
 - Paladin (Oath of Vengeance)
+- Paladin (Oath of the Watchers)
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Scrying"]
+aliases:
+- Scrying
 ---
 # Scrying
 *5th-level, Divination*  
@@ -57,6 +60,6 @@ On a failed save, the spell creates an [Invisible](/3-Mechanics/CLI/conditions.m
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
-**Classes**: [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of the Watchers)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

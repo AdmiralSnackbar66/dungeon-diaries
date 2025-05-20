@@ -4,10 +4,11 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/dragonborn
-aliases: ["Dragonborn"]
+aliases:
+- Dragonborn
 ---
 # Dragonborn
-*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/races/img/dragonborn.webp#right)
 
 - **Ability Scores**: None
@@ -39,7 +40,7 @@ Your lineage stems from a dragon progenitor. Choose the kind of dragon from the 
 
 ### Breath Weapon
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md) or a 30-foot [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md) that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes `dice:1d10|noform|noparens|avg` (`1d10`) damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `dice:1d10|noform|noparens|avg` (`1d10`) when you reach character levels `dice:2d10|noform|noparens|avg|text(5)` (`2d10`), `dice:3d10|noform|noparens|avg|text(11)` (`3d10`), and `dice:4d10|noform|noparens|avg|text(17)` (`4d10`).
+When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md) or a 30-foot [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md) that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes `dice:1d10|noform|noparens|avg` (`d10`) damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by `dice:1d10|noform|noparens|avg` (`d10`) when you reach character levels `dice:2d10|noform|noparens|avg|text(5)` (`2d10`), `dice:3d10|noform|noparens|avg|text(11)` (`3d10`), and `dice:4d10|noform|noparens|avg|text(17)` (`4d10`).
 
 You can use this Breath Weapon a number of times equal to your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 

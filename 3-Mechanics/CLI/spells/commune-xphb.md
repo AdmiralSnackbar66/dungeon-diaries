@@ -10,12 +10,15 @@ tags:
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/oath-of-devotion
+- ttrpg-cli/spell/subclass/order-domain
 classes:
 - Bard
 - Cleric
+- Cleric (Order Domain)
 - Paladin (Oath of Devotion)
 - Sorcerer (Divine Soul)
-aliases: ["Commune"]
+aliases:
+- Commune
 ---
 # Commune
 *5th-level, Divination (ritual)*  
@@ -32,6 +35,6 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell more than once before finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), there is a cumulative  chance for each casting after the first that you get no answer.
 
-**Classes**: [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Cleric (Order Domain)](/3-Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

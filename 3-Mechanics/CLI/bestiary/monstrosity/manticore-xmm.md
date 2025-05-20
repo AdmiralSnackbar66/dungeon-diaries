@@ -12,10 +12,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Manticore"]
+statblock-link: "#^statblock"
+aliases:
+- Manticore
 ---
 # [Manticore](3-Mechanics\CLI\bestiary\monstrosity/manticore-xmm.md)
-*Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Manticore
 
@@ -54,27 +56,28 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 "ac": !!int "14"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "3"
 "stats":
-- !!int "17"
-- !!int "16"
-- !!int "17"
-- !!int "7"
-- !!int "12"
-- !!int "8"
+  - !!int "17"
+  - !!int "16"
+  - !!int "17"
+  - !!int "7"
+  - !!int "12"
+  - !!int "8"
 "speed": "30 ft., fly 50 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "actions":
-- "desc": "The manticore makes three attacks, using Rend or Tail Spike in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
-  "name": "Rend"
-- "desc": "Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing\
-    \ damage."
-  "name": "Tail Spike"
+  - "desc": "The manticore makes three attacks, using Rend or Tail Spike in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
+    "name": "Rend"
+  - "desc": "Ranged Attack Roll: +5, range 100/200 ft. Hit: 7 (1d8 + 3) Piercing\
+      \ damage."
+    "name": "Tail Spike"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
 ```
 ^statblock

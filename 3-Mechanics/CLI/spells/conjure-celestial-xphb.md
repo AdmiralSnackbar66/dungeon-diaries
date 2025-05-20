@@ -12,7 +12,8 @@ classes:
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
-aliases: ["Conjure Celestial"]
+aliases:
+- Conjure Celestial
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  
@@ -32,8 +33,8 @@ Until the spell ends, [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light
 
 Whenever the Cylinder moves into the space of a creature you can see and whenever a creature you can see enters the Cylinder or ends its turn there, you can bathe it in one of the lights. A creature can be affected by this spell only once per turn.
 
-**Using a Higher-Level Spell Slot.** The healing and damage increase by `dice:1d12|noform|noparens|avg|text(1d12)` for each spell slot level above 7.
+**Using a Higher-Level Spell Slot.** The healing and damage increase by `dice:1d12|noform|noparens|avg|text(d12)` for each spell slot level above 7.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

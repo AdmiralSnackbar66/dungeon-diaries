@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Dryad"]
+statblock-link: "#^statblock"
+aliases:
+- Dryad
 ---
 # [Dryad](3-Mechanics\CLI\bestiary\fey/dryad-xmm.md)
-*Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Dryad
 
@@ -44,49 +46,53 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 "ac": !!int "16"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "12"
-- !!int "11"
-- !!int "14"
-- !!int "15"
-- !!int "18"
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+  - !!int "14"
+  - !!int "15"
+  - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
-- "desc": "The dryad casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md), [Charm\
-    \ Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md) (lasts 24 hours; ends\
-    \ early if the dryad casts the spell again), [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
-    \n1/day each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Pass\
-    \ without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The dryad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The dryad can communicate with Beasts and Plants as if they shared a language."
-  "name": "Speak with Beasts and Plants"
+  - "desc": "The dryad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
+      \ language."
+    "name": "Speak with Beasts and Plants"
 "actions":
-- "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-    \ to cast [Charm Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md)."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) Slashing damage."
-  "name": "Vine Lash"
-- "desc": "Ranged Attack Roll: +6, range 60 ft. Hit: 7 (1d6 + 4) Piercing damage."
-  "name": "Thorn Burst"
+  - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
+      \ to cast [Charm Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md)."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) Slashing damage."
+    "name": "Vine Lash"
+  - "desc": "Ranged Attack Roll: +6, range 60 ft. Hit: 7 (1d6 + 4) Piercing damage."
+    "name": "Thorn Burst"
+  - "desc": "The dryad casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 14):\n\nAt\
+      \ will: [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
+      \ [Charm Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md) (lasts 24 hours;\
+      \ ends early if the dryad casts the spell again), [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
+      \n1/day each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Pass\
+      \ without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "If within 5 feet of a Large or bigger tree, the dryad teleports to an unoccupied\
-    \ space within 5 feet of a second Large or bigger tree that is within 60 feet\
-    \ of the previous tree."
-  "name": "Tree Stride"
+  - "desc": "If within 5 feet of a Large or bigger tree, the dryad teleports to an\
+      \ unoccupied space within 5 feet of a second Large or bigger tree that is within\
+      \ 60 feet of the previous tree."
+    "name": "Tree Stride"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/dryad-xmm.webp"
 ```
 ^statblock

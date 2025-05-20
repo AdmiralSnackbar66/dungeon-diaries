@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Bat"]
+statblock-link: "#^statblock"
+aliases:
+- Bat
 ---
 # [Bat](3-Mechanics\CLI\bestiary\beast/bat-xmm.md)
-*Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 349, Player's Handbook (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -28,23 +30,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "2"
 "stats":
-- !!int "2"
-- !!int "15"
-- !!int "8"
-- !!int "2"
-- !!int "12"
-- !!int "4"
+  - !!int "2"
+  - !!int "15"
+  - !!int "8"
+  - !!int "2"
+  - !!int "12"
+  - !!int "4"
 "speed": "5 ft., fly 30 ft."
 "senses": "blindsight 60 ft., passive Perception 11"
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +4 to hit, reach 5 ft. Hit: 1 Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +4 to hit, reach 5 ft. Hit: 1 Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/bat-xmm.webp"
 ```
 ^statblock

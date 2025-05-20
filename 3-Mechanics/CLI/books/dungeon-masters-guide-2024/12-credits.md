@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Dungeon Master's Guide (2024)* 

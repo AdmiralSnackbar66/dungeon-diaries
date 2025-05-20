@@ -11,7 +11,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Warhorse Skeleton"]
+statblock-link: "#^statblock"
+aliases:
+- Warhorse Skeleton
 ---
 # [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
@@ -49,13 +51,14 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "ac": !!int "13"
 "hp": !!int "22"
 "hit_dice": "3d10 + 6"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "12"
-- !!int "15"
-- !!int "2"
-- !!int "8"
-- !!int "5"
+  - !!int "18"
+  - !!int "12"
+  - !!int "15"
+  - !!int "2"
+  - !!int "8"
+  - !!int "5"
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
@@ -65,13 +68,13 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "languages": ""
 "cr": "1/2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
-    \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Hooves"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
+      \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
+      \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Hooves"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton-xmm.webp"
 ```
 ^statblock

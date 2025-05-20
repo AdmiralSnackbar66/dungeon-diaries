@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-aliases: ["Nalfeshnee"]
+statblock-link: "#^statblock"
+aliases:
+- Nalfeshnee
 ---
 # [Nalfeshnee](3-Mechanics\CLI\bestiary\fiend/nalfeshnee-xmm.md)
-*Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Nalfeshnee
 
@@ -39,19 +41,20 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 "ac": !!int "18"
 "hp": !!int "184"
 "hit_dice": "16d10 + 96"
+"modifier": !!int "5"
 "stats":
-- !!int "21"
-- !!int "10"
-- !!int "22"
-- !!int "19"
-- !!int "12"
-- !!int "15"
+  - !!int "21"
+  - !!int "10"
+  - !!int "22"
+  - !!int "19"
+  - !!int "12"
+  - !!int "15"
 "speed": "20 ft., fly 30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "9"
-  "Constitution": !!int "11"
+  - "constitution": "+11"
+  - "intelligence": "+9"
+  - "wisdom": "+6"
+  - "charisma": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -60,36 +63,37 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "13"
 "traits":
-- "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
-    \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Abyss."
-  "name": "Demonic Restoration"
-- "desc": "The nalfeshnee has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The nalfeshnee has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The nalfeshnee makes three Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage\
-    \ plus 11 (2d10) Force damage."
-  "name": "Rend"
-- "desc": "The nalfeshnee teleports up to 120 feet to an unoccupied space it can see."
-  "name": "Teleport"
+  - "desc": "The nalfeshnee makes three Rend attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 16 (2d10 + 5) Slashing\
+      \ damage plus 11 (2d10) Force damage."
+    "name": "Rend"
+  - "desc": "The nalfeshnee teleports up to 120 feet to an unoccupied space it can\
+      \ see."
+    "name": "Teleport"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the\
-    \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
-    \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\
-    \ out of line of sight. Success: The target is immune to this nalfeshnee's Horror\
-    \ Nimbus for 24 hours."
-  "name": "Horror Nimbus (Recharge 5-6)"
+  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the\
+      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
+      \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\
+      \ out of line of sight. Success: The target is immune to this nalfeshnee's\
+      \ Horror Nimbus for 24 hours."
+    "name": "Horror Nimbus (Recharge 5-6)"
 "reactions":
-- "desc": "Trigger: Another creature the nalfeshnee can see ends its move within 120\
-    \ feet of the nalfeshnee. _Response:_ The nalfeshnee uses Teleport, but its destination\
-    \ space must be within 10 feet of the triggering creature."
-  "name": "Pursuit"
+  - "desc": "Trigger: Another creature the nalfeshnee can see ends its move within\
+      \ 120 feet of the nalfeshnee. _Response:_ The nalfeshnee uses Teleport, but\
+      \ its destination space must be within 10 feet of the triggering creature."
+    "name": "Pursuit"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/nalfeshnee-xmm.webp"
 ```
 ^statblock

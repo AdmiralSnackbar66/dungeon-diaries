@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Constructed Commoner"]
+statblock-link: "#^statblock"
+aliases:
+- Constructed Commoner
 ---
 # [Constructed Commoner](3-Mechanics\CLI\bestiary\construct/constructed-commoner-cm.md)
 *Source: Candlekeep Mysteries p. 149*  
@@ -27,13 +29,14 @@ Constructed commoners don't bleed or feel pain like flesh-and-blood humanoids. I
 "ac_class": "natural armor"
 "hp": !!int "6"
 "hit_dice": "1d8 + 2"
+"modifier": !!int "0"
 "stats":
-- !!int "10"
-- !!int "10"
-- !!int "15"
-- !!int "10"
-- !!int "10"
-- !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
 "speed": "25 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -42,16 +45,16 @@ Constructed commoners don't bleed or feel pain like flesh-and-blood humanoids. I
 "languages": "Common"
 "cr": "0"
 "traits":
-- "desc": "The commoner doesn't require air, food, drink, or sleep, and it gains no\
-    \ benefit from finishing a short or long rest. When it drops to 0 hit points,\
-    \ it becomes a lifeless object."
-  "name": "Unusual Nature"
+  - "desc": "The commoner doesn't require air, food, drink, or sleep, and it gains\
+      \ no benefit from finishing a short or long rest. When it drops to 0 hit points,\
+      \ it becomes a lifeless object."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ bludgeoning damage."
-  "name": "Club"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ bludgeoning damage."
+    "name": "Club"
 "source":
-- "CM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/constructed-commoner-cm.webp"
 ```
 ^statblock

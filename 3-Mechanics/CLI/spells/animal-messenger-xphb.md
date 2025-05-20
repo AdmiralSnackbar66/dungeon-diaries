@@ -15,7 +15,8 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Animal Messenger"]
+aliases:
+- Animal Messenger
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  
@@ -32,6 +33,6 @@ When the Beast arrives, it delivers your message to the creature that you descri
 
 **Using a Higher-Level Spell Slot.** The spell's duration increases by 48 hours for each spell slot level above 2.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Arcane Shot"]
+aliases:
+- Arcane Shot
 ---
 # Arcane Shot
 *Source: Xanathar's Guide to Everything* 

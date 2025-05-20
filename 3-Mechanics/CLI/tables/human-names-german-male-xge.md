@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – German, Male"]
+aliases:
+- Human Names – German, Male
 ---
 # Human Names – German, Male
 *Source: Xanathar's Guide to Everything p. 181* 

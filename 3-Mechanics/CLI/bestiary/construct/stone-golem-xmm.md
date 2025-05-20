@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Stone Golem"]
+statblock-link: "#^statblock"
+aliases:
+- Stone Golem
 ---
 # [Stone Golem](3-Mechanics\CLI\bestiary\construct/stone-golem-xmm.md)
-*Source: Monster Manual (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Stone Golem
 
@@ -51,13 +53,14 @@ Stone golems are typically created to protect places of significance to a group,
 "ac": !!int "18"
 "hp": !!int "220"
 "hit_dice": "21d10 + 105"
+"modifier": !!int "3"
 "stats":
-- !!int "22"
-- !!int "9"
-- !!int "20"
-- !!int "3"
-- !!int "11"
-- !!int "1"
+  - !!int "22"
+  - !!int "9"
+  - !!int "20"
+  - !!int "3"
+  - !!int "11"
+  - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -67,25 +70,26 @@ Stone golems are typically created to protect places of significance to a group,
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "10"
 "traits":
-- "desc": "The golem casts the [Slow](/3-Mechanics/CLI/spells/slow-xphb.md) spell,\
-    \ requiring no spell components and using Constitution as the spellcasting ability\
-    \ (spell save DC 17).\n"
-  "name": "Slow (Recharge 5-6)"
-- "desc": "The golem can't shape-shift."
-  "name": "Immutable Form"
-- "desc": "The golem has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The golem can't shape-shift."
+    "name": "Immutable Form"
+  - "desc": "The golem has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The golem makes two attacks, using Slam or Force Bolt in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning damage\
-    \ plus 9 (2d8) Force damage."
-  "name": "Slam"
-- "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage."
-  "name": "Force Bolt"
+  - "desc": "The golem makes two attacks, using Slam or Force Bolt in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 15 (2d8 + 6) Bludgeoning\
+      \ damage plus 9 (2d8) Force damage."
+    "name": "Slam"
+  - "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 22 (4d10) Force damage."
+    "name": "Force Bolt"
+"bonus_actions":
+  - "desc": "The golem casts the [Slow](/3-Mechanics/CLI/spells/slow-xphb.md) spell,\
+      \ requiring no spell components and using Constitution as the spellcasting ability\
+      \ (spell save DC 17).\n"
+    "name": "Slow (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/stone-golem-xmm.webp"
 ```
 ^statblock

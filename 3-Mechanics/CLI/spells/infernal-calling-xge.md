@@ -12,7 +12,8 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["Infernal Calling"]
+aliases:
+- Infernal Calling
 ---
 # Infernal Calling
 *5th-level, Conjuration*  

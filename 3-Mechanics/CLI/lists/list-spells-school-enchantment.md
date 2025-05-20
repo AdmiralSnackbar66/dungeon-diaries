@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/enchantment
-aliases: ["Enchantment Spells"]
+aliases:
+- Enchantment Spells
 ---
 # Enchantment Spells
 
@@ -36,6 +37,7 @@ aliases: ["Enchantment Spells"]
 - [Enthrall](/3-Mechanics/CLI/spells/enthrall-xphb.md "XPHB")
 - [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
 - [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB")
+- [Tasha's Mind Whip](/3-Mechanics/CLI/spells/tashas-mind-whip-tce.md "TCE")
 - [Zone of Truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB")
 
 ## 3rd Level

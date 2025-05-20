@@ -17,17 +17,20 @@ tags:
 - ttrpg-cli/spell/subclass/draconic-sorcery
 - ttrpg-cli/spell/subclass/fiend-patron
 - ttrpg-cli/spell/subclass/oath-of-conquest
+- ttrpg-cli/spell/subclass/order-domain
 classes:
 - Bard
 - Bard (College of Glamour)
 - Bard (College of Lore)
 - Cleric
+- Cleric (Order Domain)
 - Paladin
 - Paladin (Oath of Conquest)
 - Sorcerer (Divine Soul)
 - Sorcerer (Draconic Sorcery)
 - Warlock (Fiend Patron)
-aliases: ["Command"]
+aliases:
+- Command
 ---
 # Command
 *1st-level, Enchantment*  
@@ -48,6 +51,6 @@ You speak a one-word command to a creature you can see within range. The target 
 
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Glamour)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Cleric (Order Domain)](/3-Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Glamour)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

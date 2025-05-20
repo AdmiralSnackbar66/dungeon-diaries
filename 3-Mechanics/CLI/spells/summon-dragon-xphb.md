@@ -16,7 +16,8 @@ classes:
 - Sorcerer
 - Sorcerer (Draconic Sorcery)
 - Wizard
-aliases: ["Summon Dragon"]
+aliases:
+- Summon Dragon
 ---
 # Summon Dragon
 *5th-level, Conjuration*  
@@ -33,6 +34,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

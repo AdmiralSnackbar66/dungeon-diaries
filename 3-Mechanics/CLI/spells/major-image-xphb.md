@@ -22,7 +22,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Major Image"]
+aliases:
+- Major Image
 ---
 # Major Image
 *3rd-level, Illusion*  
@@ -41,6 +42,6 @@ Physical interaction with the image reveals it to be an illusion, for things can
 
 **Using a Higher-Level Spell Slot.** The spell lasts until dispelled, without requiring [Concentration](/3-Mechanics/CLI/conditions.md#Concentration), if cast with a level 4+ spell slot.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

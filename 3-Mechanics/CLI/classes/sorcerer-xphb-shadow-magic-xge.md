@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/sorcerer/shadow
-aliases: ["Shadow Magic"]
+aliases:
+- Shadow Magic
 ---
 # Shadow Magic
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  

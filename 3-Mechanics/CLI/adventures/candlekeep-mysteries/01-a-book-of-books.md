@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["A Book of Books"]
+aliases:
+- A Book of Books
 ---
 # A Book of Books
 *Source: Candlekeep Mysteries, p. 4* 

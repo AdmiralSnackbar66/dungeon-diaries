@@ -9,7 +9,8 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Sorcerer
-aliases: ["Chaos Bolt"]
+aliases:
+- Chaos Bolt
 ---
 # Chaos Bolt
 *1st-level, Evocation*  
@@ -42,7 +43,7 @@ If you roll the same number on both `dice:d8|noform|noparens|avg` (`d8`)s, the c
 
 A creature can be targeted only once by each casting of this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `dice:1d6|noform|noparens|avg|text(1d6)` extra damage of the type rolled for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `dice:1d6|noform|noparens|avg|text(d6)` extra damage of the type rolled for each slot level above 1st.
 
 **Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
 

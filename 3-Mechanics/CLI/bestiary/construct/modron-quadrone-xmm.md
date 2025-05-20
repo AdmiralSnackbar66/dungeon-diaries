@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Modron Quadrone"]
+statblock-link: "#^statblock"
+aliases:
+- Modron Quadrone
 ---
 # [Modron Quadrone](3-Mechanics\CLI\bestiary\construct/modron-quadrone-xmm.md)
 *Source: Monster Manual (2024) p. 218*  
@@ -64,33 +66,35 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "ac": !!int "16"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "11"
+  - !!int "12"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
-- "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-    \ it was wearing or carrying."
-  "name": "Disintegration"
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
 "actions":
-- "desc": "The modron makes four Slam attacks or four Gears Launcher attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Force damage."
-  "name": "Slam"
-- "desc": "Ranged Attack Roll: +4, range 320 ft. Hit: 4 (1d4 + 2) Force damage."
-  "name": "Gears Launcher"
+  - "desc": "The modron makes four Slam attacks or four Gears Launcher attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Force damage."
+    "name": "Slam"
+  - "desc": "Ranged Attack Roll: +4, range 320 ft. Hit: 4 (1d4 + 2) Force damage."
+    "name": "Gears Launcher"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/modron-quadrone-xmm.webp"
 ```
 ^statblock

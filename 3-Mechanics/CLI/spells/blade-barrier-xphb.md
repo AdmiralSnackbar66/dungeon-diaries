@@ -12,7 +12,8 @@ classes:
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
-aliases: ["Blade Barrier"]
+aliases:
+- Blade Barrier
 ---
 # Blade Barrier
 *6th-level, Evocation*  
@@ -27,6 +28,6 @@ You create a wall of whirling blades made of magical energy. The wall appears wi
 
 Any creature in the wall's space makes a Dexterity saving throw, taking `dice:6d10|noform|noparens|avg` (`6d10`) Force damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monsters A to Z"]
+aliases:
+- Monsters A to Z
 ---
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 
@@ -125,8 +126,8 @@ aliases: ["Monsters A to Z"]
 - [Earth Elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md)  
 - [Efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md)  
 - [Elemental Cataclysm](/3-Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm.md)  
-- [Empyrean Iota](/3-Mechanics/CLI/bestiary//empyrean-iota-xmm.md)  
-- [Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md)  
+- [Empyrean Iota](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md)  
+- [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md)  
 - [Erinyes](/3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md)  
 - [Ettercap](/3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md)  
 - [Ettin](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md)  
@@ -659,7 +660,7 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 |-----------|--------------------------------|
 | 1 | Another tunnel (either natural or of worked stone) that extends into the Underdark. |
 | 2 | A buried ruin or grave exposed by the tunnel. |
-| 3 | A cluster of `dice:1d4\|noform\|noparens\|avg` (`1d4`) fresh ankheg eggs that can be broken and used as vials of Acid. |
+| 3 | A cluster of `dice:1d4\|noform\|noparens\|avg` (`d4`) fresh ankheg eggs that can be broken and used as vials of Acid. |
 | 4 | A dead ankheg and evidence of a deadlier subterranean predator. |
 | 5 | A piece of ankheg carapace usable as a Shield. |
 | 6 | A pouch with `dice:2d6\|noform\|noparens\|avg` (`2d6`) GP near a puddle of acid. |
@@ -2445,10 +2446,10 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 ![Celestial and fiendish emp...](/3-Mechanics/CLI/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas")
 
 > [!embed-monster]- Empyrean Iota
-> ![Empyrean Iota](/3-Mechanics/CLI/bestiary//empyrean-iota-xmm.md#^statblock)
+> ![Empyrean Iota](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md#^statblock)
 
 > [!embed-monster]- Empyrean
-> ![Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md#^statblock)
+> ![Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md#^statblock)
 
 ### Erinyes
 
@@ -2993,7 +2994,7 @@ Githyanki were once an ordinary people, but the deeds of a vile mind flayer empi
 
 **History of the Gith.** Ages ago, a humanlike people were conquered by an empire of mind flayers. The illithids manipulated this forgotten people through untold horrors, forced evolution, and psychic reshaping. Eventually one named Gith rose from among the captives and led a rebellion against their oppressors. Gith's followers, who became known as the gith, defeated the mind flayers and shattered their vast empire.
 
-The victory of the gith was short-lived. As Gith was forging her own burgeoning empire, a leader named Zerthimon challenged her. Zerthimon claimed Gith's drive for vengeance and new conquests was evidence of species-wide mental programing laid by the mind flayers, biological manipulation that condemned her people to continued servitude. This claim split the gith into Gith's followers, the githyanki (meaning "followers of Gith"), and Zerthimon's followers, the githzerai (meaning "those who spurn Gith"), and sparked an ongoing conflict.
+The victory of the gith was short-lived. As Gith was forging her own burgeoning empire, a leader named Zerthimon challenged her. Zerthimon claimed Gith's drive for vengeance and new conquests was evidence of species-wide mental programming laid by the mind flayers, biological manipulation that condemned her people to continued servitude. This claim split the gith into Gith's followers, the githyanki (meaning "followers of Gith"), and Zerthimon's followers, the githzerai (meaning "those who spurn Gith"), and sparked an ongoing conflict.
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
@@ -4994,7 +4995,7 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 | 2 | Broken dragonborn or tiefling horns. |
 | 3 | An ornate prosthetic limb. |
 | 4 | The skeleton of an explorer's pet (perhaps a small dog, monkey, or parrot). |
-| 5 | A skull with gold teeth worth `dice:1d4\|noform\|noparens\|avg` (`1d4`) GP. |
+| 5 | A skull with gold teeth worth `dice:1d4\|noform\|noparens\|avg` (`d4`) GP. |
 | 6 | A spotless suit of metal armor. |
 ^ochre-jelly-leftovers
 
@@ -5097,7 +5098,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 |-----------|----------------------------|
 | 1 | Evidence of previous occupants, like bandits, wolves, or dragons. |
 | 2 | Heaps of regurgitated pellets studded with coins or other treasure. |
-| 3 | A nest with `dice:1d6\|noform\|noparens\|avg` (`1d6`) owlbear eggs. |
+| 3 | A nest with `dice:1d6\|noform\|noparens\|avg` (`d6`) owlbear eggs. |
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
@@ -5691,7 +5692,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 1 | The burial litter of a lost hero. |
 | 2 | A caravan wagon full of trade goods. |
 | 3 | A live elephant. |
-| 4 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) eggs larger than adult humans. |
+| 4 | `dice:1d4\|noform\|noparens\|avg` (`d4`) eggs larger than adult humans. |
 | 5 | Someone marooned in the nest. |
 | 6 | A statue of a knight riding a rearing steed. |
 ^roc-nest-remnants

@@ -4,7 +4,8 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
-aliases: ["Extreme Heat"]
+aliases:
+- Extreme Heat
 ---
 # Extreme Heat
 *Environmental Hazard*  

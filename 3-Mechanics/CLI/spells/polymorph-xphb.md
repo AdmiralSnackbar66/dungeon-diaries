@@ -20,7 +20,8 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Polymorph"]
+aliases:
+- Polymorph
 ---
 # Polymorph
 *4th-level, Transmutation*  
@@ -39,6 +40,6 @@ The target is limited in the actions it can perform by the anatomy of its new fo
 
 The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

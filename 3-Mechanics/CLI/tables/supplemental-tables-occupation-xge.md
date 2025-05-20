@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Supplemental Tables; Occupation"]
+aliases:
+- Supplemental Tables; Occupation
 ---
 # Supplemental Tables; Occupation
 *Source: Xanathar's Guide to Everything p. 72* 

@@ -12,7 +12,8 @@ classes:
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
-aliases: ["Divine Word"]
+aliases:
+- Divine Word
 ---
 # Divine Word
 *7th-level, Evocation*  
@@ -35,6 +36,6 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the [Deafened](/3-Mechanics/CLI/conditions.md#Deafened) condition for 1 minute. |
 ^divine-word-effects
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

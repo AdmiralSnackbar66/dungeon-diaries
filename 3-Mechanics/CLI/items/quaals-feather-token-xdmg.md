@@ -37,4 +37,4 @@ This object looks like a feather. Different types of feather tokens exist, each 
 - [Quaal's Feather Token, Tree](/3-Mechanics/CLI/items/quaals-feather-token-tree-xdmg.md)
 - [Quaal's Feather Token, Whip](/3-Mechanics/CLI/items/quaals-feather-token-whip-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 290*
+*Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

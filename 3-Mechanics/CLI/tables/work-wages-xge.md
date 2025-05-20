@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Work; Wages"]
+aliases:
+- Work; Wages
 ---
 # Work; Wages
 *Source: Xanathar's Guide to Everything p. 134* 

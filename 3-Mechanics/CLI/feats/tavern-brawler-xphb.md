@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Tavern Brawler"]
+aliases:
+- Tavern Brawler
 ---
 # Tavern Brawler
 *Source: Player's Handbook (2024) p. 202*  
@@ -12,7 +13,7 @@ You gain the following benefits.
 
 ## Enhanced Unarmed Strike
 
-When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) plus your Strength modifier instead of the normal damage of an Unarmed Strike.
+When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`d4`) plus your Strength modifier instead of the normal damage of an Unarmed Strike.
 
 ## Damage Rerolls
 

@@ -15,10 +15,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
-aliases: ["Hobgoblin Captain"]
+statblock-link: "#^statblock"
+aliases:
+- Hobgoblin Captain
 ---
 # [Hobgoblin Captain](3-Mechanics\CLI\bestiary\fey/hobgoblin-captain-xmm.md)
-*Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
 
@@ -62,34 +64,35 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "ac": !!int "17"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
+"modifier": !!int "4"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "13"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-- "desc": "While in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on attack rolls and saving throws, provided the hobgoblin doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Aura of Authority"
+  - "desc": "While in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
+      \ [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+    "name": "Aura of Authority"
 "actions":
-- "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing damage\
-    \ plus 3 (1d6) Poison damage."
-  "name": "Greatsword"
-- "desc": "Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing\
-    \ damage plus 5 (2d4) Poison damage."
-  "name": "Longbow"
+  - "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Slashing damage\
+      \ plus 3 (d6) Poison damage."
+    "name": "Greatsword"
+  - "desc": "Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing\
+      \ damage plus 5 (2d4) Poison damage."
+    "name": "Longbow"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-captain-xmm.webp"
 ```
 ^statblock

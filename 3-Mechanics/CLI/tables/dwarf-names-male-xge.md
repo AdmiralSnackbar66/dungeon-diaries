@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Dwarf Names – Male"]
+aliases:
+- Dwarf Names – Male
 ---
 # Dwarf Names – Male
 *Source: Xanathar's Guide to Everything p. 176* 

@@ -30,4 +30,4 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 | 20 | Bead of Wind Walking | [Wind Walk](/3-Mechanics/CLI/spells/wind-walk-xphb.md) |
 ^1-bead-spell
 
-*Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

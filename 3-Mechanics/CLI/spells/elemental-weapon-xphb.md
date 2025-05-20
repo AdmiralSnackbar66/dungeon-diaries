@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/paladin
@@ -13,6 +14,7 @@ tags:
 - ttrpg-cli/spell/subclass/forge-domain
 - ttrpg-cli/spell/subclass/the-hexblade
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Cleric (Forge Domain)
@@ -20,7 +22,8 @@ classes:
 - Paladin
 - Ranger
 - Warlock (The Hexblade)
-aliases: ["Elemental Weapon"]
+aliases:
+- Elemental Weapon
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  
@@ -31,10 +34,10 @@ aliases: ["Elemental Weapon"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra `dice:1d4|noform|noparens|avg` (`1d4`) damage of the chosen type when it hits.
+A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra `dice:1d4|noform|noparens|avg` (`d4`) damage of the chosen type when it hits.
 
 **Using a Higher-Level Spell Slot.** If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to `dice:2d4|noform|noparens|avg` (`2d4`). If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to `dice:3d4|noform|noparens|avg` (`3d4`).
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock (The Hexblade)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-the-hexblade-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (The Hexblade)](/3-Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB"); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 267*

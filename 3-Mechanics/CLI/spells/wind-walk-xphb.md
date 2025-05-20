@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Wind Walk"]
+aliases:
+- Wind Walk
 ---
 # Wind Walk
 *6th-level, Transmutation*  
@@ -27,4 +28,4 @@ If a target is in cloud form and flying when the effect ends, the target descend
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

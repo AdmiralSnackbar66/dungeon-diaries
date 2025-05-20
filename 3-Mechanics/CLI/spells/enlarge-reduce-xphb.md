@@ -4,6 +4,7 @@ cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/background/quandrix-student
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/sorcerer
@@ -14,6 +15,7 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Druid
@@ -21,7 +23,8 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Enlarge/Reduce"]
+aliases:
+- Enlarge/Reduce
 ---
 # Enlarge/Reduce
 *2nd-level, Transmutation*  
@@ -38,14 +41,14 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ## Enlarge
 
-The target's size increases by one category—from Medium to Large, for example. The target also has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) damage on a hit.
+The target's size increases by one category—from Medium to Large, for example. The target also has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra `dice:1d4|noform|noparens|avg` (`d4`) damage on a hit.
 
 ## Reduce
 
-The target's size decreases by one category—from Medium to Small, for example. The target also has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal `dice:1d4|noform|noparens|avg` (`1d4`) less damage on a hit (this can't reduce the damage below 1).
+The target's size decreases by one category—from Medium to Small, for example. The target also has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal `dice:1d4|noform|noparens|avg` (`d4`) less damage on a hit (this can't reduce the damage below 1).
 
 ## Summary
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

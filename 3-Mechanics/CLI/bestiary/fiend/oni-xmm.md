@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Oni"]
+statblock-link: "#^statblock"
+aliases:
+- Oni
 ---
 # [Oni](3-Mechanics\CLI\bestiary\fiend/oni-xmm.md)
-*Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Oni
 
@@ -45,58 +47,63 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 "ac": !!int "17"
 "hp": !!int "119"
 "hit_dice": "14d10 + 42"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "11"
-- !!int "16"
-- !!int "14"
-- !!int "12"
-- !!int "15"
+  - !!int "19"
+  - !!int "11"
+  - !!int "16"
+  - !!int "14"
+  - !!int "12"
+  - !!int "15"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  - "dexterity": "+3"
+  - "constitution": "+6"
+  - "wisdom": "+4"
+  - "charisma": "+5"
 "skillsaves":
-  "Deception": !!int "8"
-  "Perception": !!int "4"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+8"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Giant"
 "cr": "7"
 "traits":
-- "desc": "The oni casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n1/day\
-    \ each: [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md) (level\
-    \ 2 version), [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
-    \ [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The oni casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-    \ on itself, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\nAt will: [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
-  "name": "Invisibility"
-- "desc": "The oni regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Regeneration"
+  - "desc": "The oni regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
 "actions":
-- "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
-    \ with a use of Spellcasting."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage\
-    \ plus 9 (2d8) Necrotic damage."
-  "name": "Claw"
-- "desc": "Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage,\
-    \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ condition until the start of the oni's next turn."
-  "name": "Nightmare Ray"
-- "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
-    \ or it returns to its true form. Other than its size, its game statistics are\
-    \ the same in each form. Any equipment it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The oni makes two Claw or Nightmare Ray attacks. It can replace one attack\
+      \ with a use of Spellcasting."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage\
+      \ plus 9 (2d8) Necrotic damage."
+    "name": "Claw"
+  - "desc": "Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage,\
+      \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ condition until the start of the oni's next turn."
+    "name": "Nightmare Ray"
+  - "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
+      \ or it returns to its true form. Other than its size, its game statistics are\
+      \ the same in each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
+  - "desc": "The oni casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n1/day\
+      \ each: [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md) (level\
+      \ 2 version), [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [Gaseous\
+      \ Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The oni casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ on itself, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Invisibility"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/oni-xmm.webp"
 ```
 ^statblock

@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/celestial/angel
 statblock: inline
-aliases: ["Deva"]
+statblock-link: "#^statblock"
+aliases:
+- Deva
 ---
 # [Deva](3-Mechanics\CLI\bestiary\celestial/deva-xmm.md)
-*Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Deva
 
@@ -48,20 +50,23 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 "ac": !!int "17"
 "hp": !!int "229"
 "hit_dice": "27d8 + 108"
+"modifier": !!int "4"
 "stats":
-- !!int "18"
-- !!int "18"
-- !!int "18"
-- !!int "17"
-- !!int "20"
-- !!int "20"
+  - !!int "18"
+  - !!int "18"
+  - !!int "18"
+  - !!int "17"
+  - !!int "20"
+  - !!int "20"
 "speed": "30 ft., fly 90 ft. (hover)"
 "saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "9"
+  - "wisdom": "+9"
+  - "charisma": "+9"
 "skillsaves":
-  "Insight": !!int "9"
-  "Perception": !!int "9"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+9"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+9"
 "damage_resistances": "radiant"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
   \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
@@ -69,37 +74,36 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 "languages": "all; telepathy 120 ft."
 "cr": "10"
 "traits":
-- "desc": "The deva casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt will:\
-    \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-    \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
-    \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-    \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-    \ required to maintain the spell)\n\n1/day each: [Commune](/3-Mechanics/CLI/spells/commune-xphb.md),\
-    \ [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The deva casts [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-    \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), or\
-    \ [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), using the same\
-    \ spellcasting ability as Spellcasting.\n\n2/day: [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-    \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [Remove\
-    \ Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md)"
-  "name": "Divine Aid (2/Day)"
-- "desc": "If the deva dies outside Mount Celestia, its body disappears, and it gains\
-    \ a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in Mount Celestia."
-  "name": "Exalted Restoration"
-- "desc": "The deva has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
+      \ gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in Mount Celestia."
+    "name": "Exalted Restoration"
+  - "desc": "The deva has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The deva makes two Holy Mace attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
-    \ plus 18 (4d8) Radiant damage."
-  "name": "Holy Mace"
+  - "desc": "The deva makes two Holy Mace attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
+      \ plus 18 (4d8) Radiant damage."
+    "name": "Holy Mace"
+  - "desc": "The deva casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
+      \ will: [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
+      \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ required to maintain the spell)\n\n1/day each: [Commune](/3-Mechanics/CLI/spells/commune-xphb.md),\
+      \ [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The deva casts [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ or [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), using the\
+      \ same spellcasting ability as Spellcasting.\n"
+    "name": "Divine Aid (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/celestial/token/deva-xmm.webp"
 ```
 ^statblock

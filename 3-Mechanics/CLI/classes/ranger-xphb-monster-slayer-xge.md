@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/ranger/monster-slayer
-aliases: ["Monster Slayer"]
+aliases:
+- Monster Slayer
 ---
 # Monster Slayer
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
@@ -74,13 +75,13 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Slayer's Prey (Level 3)
 
-Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage from the weapon.
+Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|noparens|avg` (`d6`) damage from the weapon.
 
 This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.
 
 ### Supernatural Defense (Level 7)
 
-At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|noparens|avg` (`1d6`) to your roll.
+At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|noparens|avg` (`d6`) to your roll.
 
 ### Magic-User's Nemesis (Level 11)
 

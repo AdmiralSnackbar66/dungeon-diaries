@@ -12,10 +12,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Water Elemental"]
+statblock-link: "#^statblock"
+aliases:
+- Water Elemental
 ---
 # [Water Elemental](3-Mechanics\CLI\bestiary\elemental/water-elemental-xmm.md)
-*Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Water Elemental
 
@@ -53,13 +55,14 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "ac": !!int "14"
 "hp": !!int "114"
 "hit_dice": "12d10 + 48"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "18"
-- !!int "5"
-- !!int "10"
-- !!int "8"
+  - !!int "18"
+  - !!int "14"
+  - !!int "18"
+  - !!int "5"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid, fire"
 "damage_immunities": "poison"
@@ -72,32 +75,33 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "languages": "Primordial (Aquan)"
 "cr": "5"
 "traits":
-- "desc": "If the elemental takes Cold damage, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ decreases by 20 feet until the end of its next turn."
-  "name": "Freeze"
-- "desc": "The elemental can enter an enemy's space and stop there. It can move through\
-    \ a space as narrow as 1 inch without expending extra movement to do so."
-  "name": "Water Form"
+  - "desc": "If the elemental takes Cold damage, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ decreases by 20 feet until the end of its next turn."
+    "name": "Freeze"
+  - "desc": "The elemental can enter an enemy's space and stop there. It can move\
+      \ through a space as narrow as 1 inch without expending extra movement to do\
+      \ so."
+    "name": "Water Form"
 "actions":
-- "desc": "The elemental makes two Slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage.\
-    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Slam"
-- "desc": "Strength Saving Throw: DC 15, each creature in the elemental's space.\
-    \ Failure: 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller\
-    \ creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition\
-    \ (escape DC 14). Until the grapple ends, the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning\
-    \ damage at the start of each of the elemental's turns. The elemental can grapple\
-    \ one Large creature or up to two Medium or smaller creatures at a time with Whelm.\
-    \ As an action, a creature within 5 feet of the elemental can pull a creature\
-    \ out of it by succeeding on a DC 14 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
-    \ check. Success: Half damage only."
-  "name": "Whelm (Recharge 4-6)"
+  - "desc": "The elemental makes two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
+      \ damage. If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Slam"
+  - "desc": "Strength Saving Throw: DC 15, each creature in the elemental's space.\
+      \ Failure: 22 (4d8 + 4) Bludgeoning damage. If the target is a Large or smaller\
+      \ creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition\
+      \ (escape DC 14). Until the grapple ends, the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition, is suffocating unless it can breathe water, and takes 9 (2d8) Bludgeoning\
+      \ damage at the start of each of the elemental's turns. The elemental can grapple\
+      \ one Large creature or up to two Medium or smaller creatures at a time with\
+      \ Whelm. As an action, a creature within 5 feet of the elemental can pull a\
+      \ creature out of it by succeeding on a DC 14 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
+      \ check. Success: Half damage only."
+    "name": "Whelm (Recharge 4-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/water-elemental-xmm.webp"
 ```
 ^statblock

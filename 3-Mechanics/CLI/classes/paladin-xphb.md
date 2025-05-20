@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/paladin
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Paladin"]
+aliases:
+- Paladin
 ---
 # Paladin
-*Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -108,9 +109,9 @@ You can use a [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) as a [Sp
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the <span title="Player's Handbook (2024)">mastery properties</span> of two kinds of weapons of your choice with which you have proficiency, such as [Longswords](/3-Mechanics/CLI/items/longsword-xphb.md) and [Javelins](/3-Mechanics/CLI/items/javelin-xphb.md).
+Your training with weapons allows you to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longswords](/3-Mechanics/CLI/items/longsword-xphb.md) and [Javelins](/3-Mechanics/CLI/items/javelin-xphb.md).
 
-Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the <span title="Player's Handbook (2024)">mastery properties</span> of [Halberds](/3-Mechanics/CLI/items/halberd-xphb.md) and [Flails](/3-Mechanics/CLI/items/flail-xphb.md).
+Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of [Halberds](/3-Mechanics/CLI/items/halberd-xphb.md) and [Flails](/3-Mechanics/CLI/items/flail-xphb.md).
 
 ### Fighting Style (Level 2)
 
@@ -185,7 +186,7 @@ You and your allies have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb
 
 ### Radiant Strikes (Level 11)
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) Radiant damage.
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) Radiant damage.
 
 ### Ability Score Improvement (Level 12)
 

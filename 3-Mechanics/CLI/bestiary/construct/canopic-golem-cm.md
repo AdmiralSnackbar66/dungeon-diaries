@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Canopic Golem"]
+statblock-link: "#^statblock"
+aliases:
+- Canopic Golem
 ---
 # [Canopic Golem](3-Mechanics\CLI\bestiary\construct/canopic-golem-cm.md)
 *Source: Candlekeep Mysteries p. 179*  
@@ -23,18 +25,19 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
 "ac_class": "natural armor"
 "hp": !!int "252"
 "hit_dice": "24d10 + 120"
+"modifier": !!int "0"
 "stats":
-- !!int "20"
-- !!int "10"
-- !!int "20"
-- !!int "7"
-- !!int "11"
-- !!int "1"
+  - !!int "20"
+  - !!int "10"
+  - !!int "20"
+  - !!int "7"
+  - !!int "11"
+  - !!int "1"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "0"
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "3"
+  - "intelligence": "+3"
+  - "wisdom": "+5"
+  - "charisma": "+0"
 "damage_immunities": "poison"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
   \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -44,26 +47,26 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
 "languages": ""
 "cr": "13"
 "traits":
-- "desc": "The golem automatically succeeds on saving throws against spells of 7th\
-    \ level or lower, and the attack rolls of such spells always miss it."
-  "name": "Limited Spell Immunity"
-- "desc": "The golem doesn't require air, food, drink, or sleep."
-  "name": "Unusual Nature"
+  - "desc": "The golem automatically succeeds on saving throws against spells of 7th\
+      \ level or lower, and the attack rolls of such spells always miss it."
+    "name": "Limited Spell Immunity"
+  - "desc": "The golem doesn't require air, food, drink, or sleep."
+    "name": "Unusual Nature"
 "actions":
-- "desc": "The golem makes two attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 27 (4d10\
-    \ + 5) force damage."
-  "name": "Slam"
-- "desc": "Ranged Weapon Attack: +10 to hit, range 120 ft., one target. Hit: 14\
-    \ (2d8 + 5) force damage."
-  "name": "Crystal Dart"
+  - "desc": "The golem makes two attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 27\
+      \ (4d10 + 5) force damage."
+    "name": "Slam"
+  - "desc": "Ranged Weapon Attack: +10 to hit, range 120 ft., one target. Hit:\
+      \ 14 (2d8 + 5) force damage."
+    "name": "Crystal Dart"
 "reactions":
-- "desc": "In response to a spell attack missing the golem, it causes that spell to\
-    \ hit another creature within 120 feet of it that it can see."
-  "name": "Spell Deflection"
+  - "desc": "In response to a spell attack missing the golem, it causes that spell\
+      \ to hit another creature within 120 feet of it that it can see."
+    "name": "Spell Deflection"
 "source":
-- "CM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/canopic-golem-cm.webp"
 ```
 ^statblock

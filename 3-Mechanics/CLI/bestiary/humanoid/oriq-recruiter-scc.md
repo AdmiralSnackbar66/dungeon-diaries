@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/warlock
 statblock: inline
-aliases: ["Oriq Recruiter"]
+statblock-link: "#^statblock"
+aliases:
+- Oriq Recruiter
 ---
 # [Oriq Recruiter](3-Mechanics\CLI\bestiary\humanoid/oriq-recruiter-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 202*  
@@ -30,52 +32,58 @@ The Oriq work in secret, infiltrating Strixhaven to search for the magic their m
 "ac_class": "misdirecting defense"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "17"
-- !!int "15"
-- !!int "18"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "17"
+  - !!int "15"
+  - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "5"
+  - "intelligence": "+5"
+  - "wisdom": "+4"
+  - "charisma": "+6"
 "skillsaves":
-  "Deception": !!int "8"
-  "Insight": !!int "4"
-  "Arcana": !!int "5"
-  "Persuasion": !!int "6"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+8"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+6"
 "damage_resistances": "psychic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 12"
 "languages": "Common plus any two languages"
 "cr": "4"
 "traits":
-- "desc": "The recruiter casts one of the following spells, requiring no material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-    \nAt will: [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)\n\n1/day: [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
-    \n2/day: [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The AC of the recruiter includes its Charisma modifier while it isn't wearing\
-    \ armor or wielding a shield."
-  "name": "Misdirecting Defense"
-- "desc": "The recruiter wears an Oriq mask. While wearing the mask, the recruiter\
-    \ can't be targeted by any divination magic or perceived through magical scrying\
-    \ sensors, and it adds double its proficiency bonus to Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
-    \ checks (included above)."
-  "name": "Oriq Mask"
+  - "desc": "The AC of the recruiter includes its Charisma modifier while it isn't\
+      \ wearing armor or wielding a shield."
+    "name": "Misdirecting Defense"
+  - "desc": "The recruiter wears an Oriq mask. While wearing the mask, the recruiter\
+      \ can't be targeted by any divination magic or perceived through magical scrying\
+      \ sensors, and it adds double its proficiency bonus to Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
+      \ checks (included above)."
+    "name": "Oriq Mask"
 "actions":
-- "desc": "The recruiter makes two Psychic Knife attacks. It can use Spellcasting\
-    \ in place of one of the attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 30 ft.,\
-    \ one creature. Hit: 21 (5d6 + 4) psychic damage."
-  "name": "Psychic Knife"
+  - "desc": "The recruiter makes two Psychic Knife attacks. It can use Spellcasting\
+      \ in place of one of the attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Spell Attack: +6 to hit, reach 5 ft. or range 30 ft.,\
+      \ one creature. Hit: 21 (5d6 + 4) psychic damage."
+    "name": "Psychic Knife"
+  - "desc": "The recruiter casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
+      \nAt will: [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)\n\n2/day:\
+      \ [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md)\n\n1/day:\
+      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/oriq-recruiter-scc.webp"
 ```
 ^statblock

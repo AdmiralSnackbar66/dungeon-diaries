@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Slaad Tadpole"]
+statblock-link: "#^statblock"
+aliases:
+- Slaad Tadpole
 ---
 # [Slaad Tadpole](3-Mechanics\CLI\bestiary\aberration/slaad-tadpole-xmm.md)
-*Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357*  
+*Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
 
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `dice:2d12|noform|noparens|avg` (`2d12`) hours of hatching.
 
@@ -47,30 +49,32 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "ac": !!int "12"
 "hp": !!int "7"
 "hit_dice": "3d4"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "15"
-- !!int "10"
-- !!int "3"
-- !!int "5"
-- !!int "3"
+  - !!int "7"
+  - !!int "15"
+  - !!int "10"
+  - !!int "3"
+  - !!int "5"
+  - !!int "3"
 "speed": "30 ft., burrow 10 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Slaad but can't speak"
 "cr": "1/8"
 "traits":
-- "desc": "The slaad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The slaad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/slaad-tadpole-xmm.webp"
 ```
 ^statblock

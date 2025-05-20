@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Random Magic Items - Implements"]
+aliases:
+- Random Magic Items - Implements
 ---
 # Random Magic Items - Implements
 *Source: Dungeon Master's Guide (2024) p. 329* 

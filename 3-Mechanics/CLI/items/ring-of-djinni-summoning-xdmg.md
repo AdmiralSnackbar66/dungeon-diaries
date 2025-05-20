@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Djinni Summoning"
 ---
 # Ring of Djinni Summoning
-*Legendary (requires attunement)*  
+*Ring, legendary (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
 
 
@@ -21,4 +22,4 @@ After the djinni departs, it can't be summoned again for 24 hours, and the ring 
 
 Rings of Djinni Summoning are often created by the djinn they summon and given to mortals as gifts of friendship or tokens of esteem.
 
-*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

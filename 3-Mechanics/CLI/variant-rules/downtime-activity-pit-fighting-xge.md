@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Activity: Pit Fighting"]
+aliases:
+- Downtime Activity: Pit Fighting
 ---
 # Downtime Activity: Pit Fighting
 *Source: Xanathar's Guide to Everything p. 131* 

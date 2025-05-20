@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-aliases: ["Shadow Demon"]
+statblock-link: "#^statblock"
+aliases:
+- Shadow Demon
 ---
 # [Shadow Demon](3-Mechanics\CLI\bestiary\fiend/shadow-demon-xmm.md)
 *Source: Monster Manual (2024) p. 273*  
@@ -43,19 +45,21 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 "ac": !!int "14"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "1"
-- !!int "17"
-- !!int "12"
-- !!int "14"
-- !!int "13"
-- !!int "14"
+  - !!int "1"
+  - !!int "17"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "5"
+  - "dexterity": "+5"
+  - "charisma": "+4"
 "skillsaves":
-  "Stealth": !!int "7"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
@@ -68,28 +72,28 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "4"
 "traits":
-- "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
-    \ it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Abyss."
-  "name": "Demonic Restoration"
-- "desc": "The demon can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
-    \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
-  "name": "Incorporeal Movement"
-- "desc": "While in [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md),\
-    \ the demon has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Light Sensitivity"
+  - "desc": "If the demon dies outside the Abyss, its body dissolves into ichor, and\
+      \ it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The demon can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md),\
+      \ the demon has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Light Sensitivity"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 16 (3d8 + 3) Psychic damage."
-  "name": "Umbral Claw"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 16 (3d8 + 3) Psychic damage."
+    "name": "Umbral Claw"
 "bonus_actions":
-- "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the demon takes\
-    \ the Hide action."
-  "name": "Shadow Stealth"
+  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the demon\
+      \ takes the Hide action."
+    "name": "Shadow Stealth"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/shadow-demon-xmm.webp"
 ```
 ^statblock

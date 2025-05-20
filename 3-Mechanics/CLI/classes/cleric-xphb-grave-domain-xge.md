@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/domain/grave
 - ttrpg-cli/subclass/cleric/grave
-aliases: ["Grave Domain"]
+aliases:
+- Grave Domain
 ---
 # Grave Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
@@ -50,7 +51,7 @@ aliases: ["Grave Domain"]
 
 ### Grave Domain (Level 3)
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of the Undying Court, Hades, Anubis, and Osiris. Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [the Undying Court](/3-Mechanics/CLI/deities/eberron-the-undying-court.md), [Hades](/3-Mechanics/CLI/deities/greek-hades.md), [Anubis](/3-Mechanics/CLI/deities/egyptian-anubis.md), and [Osiris](/3-Mechanics/CLI/deities/egyptian-osiris.md). Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
 **Grave Domain Spells**
 
@@ -94,9 +95,9 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric <span title="Tasha's Cauldron of Everything">optional feature</span>, which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional feature](/3-Mechanics/CLI/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Keeper of Souls (Level 17)
 

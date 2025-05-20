@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Black Dragon"]
+aliases:
+- Black Dragon
 ---
 # Black Dragon
 
@@ -34,7 +35,7 @@ The region containing a legendary black dragon's lair is warped by the dragon's 
 - Water sources within 1 mile of the lair are supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes.  
 - Fog lightly obscures the land within 6 miles of the lair.  
 
-If the dragon dies, vegetation remains as it has grown, but other effects fade over `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the dragon dies, vegetation remains as it has grown, but other effects fade over `dice:1d10|noform|noparens|avg` (`d10`) days.
 
 ### Additional Regional Effects
 

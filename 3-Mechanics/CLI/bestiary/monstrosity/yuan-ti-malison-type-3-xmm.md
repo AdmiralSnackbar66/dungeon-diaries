@@ -11,7 +11,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Yuan-ti Malison (Type 3)"]
+statblock-link: "#^statblock"
+aliases:
+- Yuan-ti Malison (Type 3)
 ---
 # [Yuan-ti Malison (Type 3)](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-malison-type-3-xmm.md)
 *Source: Monster Manual (2024) p. 344*  
@@ -62,50 +64,52 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "ac": !!int "12"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "13"
-- !!int "14"
-- !!int "16"
-- !!int "12"
+  - !!int "16"
+  - !!int "14"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
+  - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "0"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4 (+6 while in snake form)"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
-- "desc": "The yuan-ti casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
-    \ [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
-    \ only)\n\n2/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
-  "name": "Spellcasting (Yuan-ti Form Only)"
-- "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The yuan-ti makes two Poison Burst attacks, and it can use Spellcasting\
-    \ to cast [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) if available."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
-    \ 12 (2d8 + 3) Poison damage."
-  "name": "Poison Burst (Yuan-ti Form Only)"
-- "desc": "Strength Saving Throw: DC 13, one Medium or smaller creature within 5\
-    \ feet. Failure: 21 (4d8 + 3) Bludgeoning damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 13), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ condition until the grapple ends."
-  "name": "Constrict"
+  - "desc": "The yuan-ti makes two Poison Burst attacks, and it can use Spellcasting\
+      \ to cast [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) if available."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
+      \ 12 (2d8 + 3) Poison damage."
+    "name": "Poison Burst (Yuan-ti Form Only)"
+  - "desc": "Strength Saving Throw: DC 13, one Medium or smaller creature within\
+      \ 5 feet. Failure: 21 (4d8 + 3) Bludgeoning damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 13), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Constrict"
+  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
+      \nAt will: [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n2/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
-- "desc": "The yuan-ti shape-shifts into a Medium snake or returns to its true form.\
-    \ If it dies, it stays in its current form. The yuan-ti's game statistics are\
-    \ the same in each form, except where noted. Any equipment it is wearing or carrying\
-    \ isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The yuan-ti shape-shifts into a Medium snake or returns to its true form.\
+      \ If it dies, it stays in its current form. The yuan-ti's game statistics are\
+      \ the same in each form, except where noted. Any equipment it is wearing or\
+      \ carrying isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-malison-type-3-xmm.webp"
 ```
 ^statblock

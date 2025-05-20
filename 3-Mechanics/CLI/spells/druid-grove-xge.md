@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Druid Grove"]
+aliases:
+- Druid Grove
 ---
 # Druid Grove
 *6th-level, Abjuration*  

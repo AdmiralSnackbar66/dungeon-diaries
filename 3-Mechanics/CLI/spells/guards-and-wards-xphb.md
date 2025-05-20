@@ -12,7 +12,8 @@ classes:
 - Bard
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Guards and Wards"]
+aliases:
+- Guards and Wards
 ---
 # Guards and Wards
 *6th-level, Abjuration*  
@@ -53,6 +54,6 @@ Place one of the following magical effects within the warded area:
 
 ## Summary
 
-**Classes**: [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

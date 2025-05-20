@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Activity: Religious Service"]
+aliases:
+- Downtime Activity: Religious Service
 ---
 # Downtime Activity: Religious Service
 *Source: Xanathar's Guide to Everything p. 131* 

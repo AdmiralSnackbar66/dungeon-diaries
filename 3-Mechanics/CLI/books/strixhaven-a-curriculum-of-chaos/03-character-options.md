@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Character Options"]
+aliases:
+- Character Options
 ---
 # Character Options
 *Source: Strixhaven: A Curriculum of Chaos, p. 29* 

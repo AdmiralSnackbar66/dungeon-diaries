@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/medium
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Lightning Cannon"]
+aliases:
+- Lightning Cannon
 ---
 # Lightning Cannon
 %%-- Embedded content starts on the next line. --%%

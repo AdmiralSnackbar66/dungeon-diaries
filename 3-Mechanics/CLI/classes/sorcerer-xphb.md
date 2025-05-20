@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/sorcerer
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Sorcerer"]
+aliases:
+- Sorcerer
 ---
 # Sorcerer
-*Source: Player's Handbook (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -139,7 +140,7 @@ Any spell slot you create with this feature vanishes when you finish a [Long Res
 
 ### Metamagic (Level 2)
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "[Metamagic Options](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md)" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^[Optional features from [Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
@@ -177,7 +178,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Metamagic (Level 10)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "[Metamagic Options](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md)" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -197,7 +198,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Metamagic (Level 17)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "[Metamagic Options](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md)" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](/3-Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 

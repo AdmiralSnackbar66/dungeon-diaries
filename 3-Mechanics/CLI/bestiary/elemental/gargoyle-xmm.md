@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Gargoyle"]
+statblock-link: "#^statblock"
+aliases:
+- Gargoyle
 ---
 # [Gargoyle](3-Mechanics\CLI\bestiary\elemental/gargoyle-xmm.md)
-*Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Gargoyle
 
@@ -72,16 +74,18 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 "ac": !!int "15"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "11"
-- !!int "16"
-- !!int "6"
-- !!int "11"
-- !!int "7"
+  - !!int "15"
+  - !!int "11"
+  - !!int "16"
+  - !!int "6"
+  - !!int "11"
+  - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
   \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -89,16 +93,16 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 "languages": "Primordial (Terran)"
 "cr": "2"
 "traits":
-- "desc": "The gargoyle doesn't provoke an Opportunity Attack when it flies out of\
-    \ an enemy's reach."
-  "name": "Flyby"
+  - "desc": "The gargoyle doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "The gargoyle makes two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage."
-  "name": "Claw"
+  - "desc": "The gargoyle makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/gargoyle-xmm.webp"
 ```
 ^statblock

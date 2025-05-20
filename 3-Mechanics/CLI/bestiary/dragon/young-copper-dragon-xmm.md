@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Young Copper Dragon"]
+statblock-link: "#^statblock"
+aliases:
+- Young Copper Dragon
 ---
 # [Young Copper Dragon](3-Mechanics\CLI\bestiary\dragon/young-copper-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young copper dragons forge strong connections with a community or group of friends while flitting from one artistic fixation to the next.
 
@@ -39,42 +41,46 @@ Copper dragons typically inhabit multichamber caves and renovated ruins.
 "ac": !!int "17"
 "hp": !!int "119"
 "hit_dice": "14d10 + 42"
+"modifier": !!int "4"
 "stats":
-- !!int "19"
-- !!int "12"
-- !!int "17"
-- !!int "16"
-- !!int "13"
-- !!int "15"
+  - !!int "19"
+  - !!int "12"
+  - !!int "17"
+  - !!int "16"
+  - !!int "13"
+  - !!int "15"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
+  - "dexterity": "+4"
+  - "wisdom": "+4"
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "4"
-  "Perception": !!int "7"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "damage_immunities": "acid"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "7"
 "actions":
-- "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
-    \ of Slowing Breath."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
-    \ 40 (9d8) Acid damage. Success: Half damage."
-  "name": "Acid Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target can't take Reactions; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ is halved; and it can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
-    \ on its turn, not both. This effect lasts until the end of its next turn."
-  "name": "Slowing Breath"
+  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
+      \ use of Slowing Breath."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
+      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ 40 (9d8) Acid damage. Success: Half damage."
+    "name": "Acid Breath (Recharge 5-6)"
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target can't take Reactions; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ is halved; and it can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ on its turn, not both. This effect lasts until the end of its next turn."
+    "name": "Slowing Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/young-copper-dragon-xmm.webp"
 ```
 ^statblock

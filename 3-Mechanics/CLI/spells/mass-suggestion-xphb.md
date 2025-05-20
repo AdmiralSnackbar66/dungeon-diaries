@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Mass Suggestion"]
+aliases:
+- Mass Suggestion
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  
@@ -33,4 +34,4 @@ Each target must succeed on a Wisdom saving throw or have the [Charmed](/3-Mecha
 
 **Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Layers of the Nine Hells"]
+aliases:
+- Layers of the Nine Hells
 ---
 # Layers of the Nine Hells
 *Source: Dungeon Master's Guide (2024) p. 202* 

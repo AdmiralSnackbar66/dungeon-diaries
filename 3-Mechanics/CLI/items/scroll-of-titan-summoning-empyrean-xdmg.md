@@ -13,8 +13,8 @@ aliases:
 
 
 
-When you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to read this scroll, an [Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md) appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to read this scroll, an [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md) is [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward all other creatures and disappears when it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If the [Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md) is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) is [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward all other creatures and disappears when it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If the [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*

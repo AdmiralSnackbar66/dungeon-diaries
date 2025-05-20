@@ -13,6 +13,8 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/the-fathomless
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Cleric
@@ -20,8 +22,11 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer (Divine Soul)
+- Warlock (The Fathomless)
+- Warlock (The Genie)
 - Wizard
-aliases: ["Control Water"]
+aliases:
+- Control Water
 ---
 # Control Water
 *4th-level, Transmutation*  
@@ -54,6 +59,6 @@ You cause a whirlpool to form in the center of the area, which must be at least 
 
 ## Summary
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Warlock (The Fathomless)](/3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/elements
-aliases: ["Warrior of the Elements"]
+aliases:
+- Warrior of the Elements
 ---
 # Warrior of the Elements
 *[Monk](./monk-xphb.md): Monk Subclass*  

@@ -20,7 +20,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Sunbeam"]
+aliases:
+- Sunbeam
 ---
 # Sunbeam
 *6th-level, Evocation*  
@@ -37,6 +38,6 @@ Until the spell ends, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) 
 
 For the duration, a mote of brilliant radiance shines above you. It sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 30 feet. This light is sunlight.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

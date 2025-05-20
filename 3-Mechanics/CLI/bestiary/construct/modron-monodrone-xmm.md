@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Modron Monodrone"]
+statblock-link: "#^statblock"
+aliases:
+- Modron Monodrone
 ---
 # [Modron Monodrone](3-Mechanics\CLI\bestiary\construct/modron-monodrone-xmm.md)
 *Source: Monster Manual (2024) p. 216*  
@@ -64,29 +66,30 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "ac": !!int "15"
 "hp": !!int "5"
 "hit_dice": "1d8 + 1"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "4"
-- !!int "10"
-- !!int "5"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "4"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft., fly 30 ft."
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/8"
 "traits":
-- "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-    \ it was wearing or carrying."
-  "name": "Disintegration"
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Force damage."
-  "name": "Gear"
-- "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 6 (1d8 + 2) Force damage."
-  "name": "Gear Flinger"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Force damage."
+    "name": "Gear"
+  - "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 6 (1d8 + 2) Force damage."
+    "name": "Gear Flinger"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/modron-monodrone-xmm.webp"
 ```
 ^statblock

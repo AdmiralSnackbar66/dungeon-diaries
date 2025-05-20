@@ -17,4 +17,4 @@ While this bowl is filled with water and you are within 5 feet of it, you can ta
 
 The bowl is about 1 foot in diameter and half as deep. It holds about 3 gallons.
 
-*Source: Dungeon Master's Guide (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

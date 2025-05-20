@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Blue Dragon"]
+aliases:
+- Blue Dragon
 ---
 # Blue Dragon
 
@@ -33,7 +34,7 @@ The region containing a legendary blue dragon's lair is warped by the dragon's m
 - Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).  
 - Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall `1d6 × 10` feet into the sinkhole.  
 
-If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within `dice:1d10|noform|noparens|avg` (`1d10`) days. Any sinkholes remain where they are.
+If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within `dice:1d10|noform|noparens|avg` (`d10`) days. Any sinkholes remain where they are.
 
 ### Additional Regional Effects
 

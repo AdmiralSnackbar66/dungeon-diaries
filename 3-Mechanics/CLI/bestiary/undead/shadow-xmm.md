@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Shadow"]
+statblock-link: "#^statblock"
+aliases:
+- Shadow
 ---
 # [Shadow](3-Mechanics\CLI\bestiary\undead/shadow-xmm.md)
-*Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Shadow
 
@@ -51,16 +53,18 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 "ac": !!int "12"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "13"
-- !!int "6"
-- !!int "10"
-- !!int "8"
+  - !!int "6"
+  - !!int "14"
+  - !!int "13"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
@@ -73,25 +77,25 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The shadow can move through a space as narrow as 1 inch without expending\
-    \ extra movement to do so."
-  "name": "Amorphous"
-- "desc": "While in sunlight, the shadow has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)."
-  "name": "Sunlight Weakness"
+  - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
+      \ extra movement to do so."
+    "name": "Amorphous"
+  - "desc": "While in sunlight, the shadow has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)."
+    "name": "Sunlight Weakness"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage,\
-    \ and the target's Strength score decreases by 1d4. The target dies if this reduces\
-    \ that score to 0. If a Humanoid is slain by this attack, a Shadow rises from\
-    \ the corpse 1d4 hours later."
-  "name": "Draining Swipe"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage,\
+      \ and the target's Strength score decreases by d4. The target dies if this reduces\
+      \ that score to 0. If a Humanoid is slain by this attack, a Shadow rises from\
+      \ the corpse d4 hours later."
+    "name": "Draining Swipe"
 "bonus_actions":
-- "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the shadow takes\
-    \ the Hide action."
-  "name": "Shadow Stealth"
+  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the shadow\
+      \ takes the Hide action."
+    "name": "Shadow Stealth"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/shadow-xmm.webp"
 ```
 ^statblock

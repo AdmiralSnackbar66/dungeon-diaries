@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Layers of Gehenna"]
+aliases:
+- Layers of Gehenna
 ---
 # Layers of Gehenna
 *Source: Dungeon Master's Guide (2024) p. 197* 

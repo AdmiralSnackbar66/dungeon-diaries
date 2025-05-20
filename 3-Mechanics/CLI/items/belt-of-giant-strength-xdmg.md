@@ -31,4 +31,4 @@ aliases:
 - [Belt of Stone Giant Strength](/3-Mechanics/CLI/items/belt-of-stone-giant-strength-xdmg.md)
 - [Belt of Storm Giant Strength](/3-Mechanics/CLI/items/belt-of-storm-giant-strength-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 236*
+*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

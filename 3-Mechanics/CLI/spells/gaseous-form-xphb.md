@@ -9,18 +9,25 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/transmutation
+- ttrpg-cli/spell/subclass/alchemist
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/circle-of-spores
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/swarmkeeper
 classes:
+- Artificer (Alchemist)
 - Bard
 - Bard (College of Lore)
+- Druid (Circle of Spores)
 - Fighter (Eldritch Knight)
+- Ranger (Swarmkeeper)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Gaseous Form"]
+aliases:
+- Gaseous Form
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  
@@ -39,6 +46,6 @@ The target can't talk or manipulate objects, and any objects it was carrying or 
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Swarmkeeper)](/3-Mechanics/CLI/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Druid (Circle of Spores)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

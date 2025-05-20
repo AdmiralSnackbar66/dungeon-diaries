@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc-tmm
-aliases: ["The Magister's Masquerade"]
+aliases:
+- The Magister's Masquerade
 ---
 # The Magister's Masquerade
 *Source: Strixhaven: The Magister's Masquerade, p. 125* 
@@ -49,9 +50,9 @@ Use the Third-Year Encounters table for random encounters on campus during this 
 | dice: d10 | Encounter |
 |-----------|-----------|
 | 1–3 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [pest mascots](/3-Mechanics/CLI/bestiary/monstrosity/pest-mascot-scc.md) (see "chapter 7") making off with a student's ball gown |
-| 4–5 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [Lorehold apprentices](/3-Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc.md) (see "chapter 7") affected by an [Otto's irresistible dance](/3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md) spell |
-| 6–7 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [inkling mascots](/3-Mechanics/CLI/bestiary/ooze/inkling-mascot-scc.md) (see "chapter 7") on a mission to mar a student's outfit for the Magister's Masquerade |
-| 8–9 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) bolts of shimmering, animate fabric (use the [rug of smothering](/3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) stat block for each bolt) that clearly don't want to be turned into clothes |
+| 4–5 | `dice:1d4\|noform\|noparens\|avg` (`d4`) [Lorehold apprentices](/3-Mechanics/CLI/bestiary/humanoid/lorehold-apprentice-scc.md) (see "chapter 7") affected by an [Otto's irresistible dance](/3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md) spell |
+| 6–7 | `dice:1d6\|noform\|noparens\|avg` (`d6`) [inkling mascots](/3-Mechanics/CLI/bestiary/ooze/inkling-mascot-scc.md) (see "chapter 7") on a mission to mar a student's outfit for the Magister's Masquerade |
+| 8–9 | `dice:1d4\|noform\|noparens\|avg` (`d4`) bolts of shimmering, animate fabric (use the [rug of smothering](/3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) stat block for each bolt) that clearly don't want to be turned into clothes |
 | 10 | 1 [cloaker](/3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md) disguised as part of a student's outfit for the Magister's Masquerade |
 ^third-year-encounters
 
@@ -689,7 +690,7 @@ The following locations are keyed to map 5.2. This map depicts only the building
 
 ##### K1. Serenity Quadrants
 
-Study areas under the hall's tiered balconies hold an impressive collection of history books. Sorting the book collection day and night are `dice:1d4|noform|noparens|avg` (`1d4`) [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) (see "chapter 7").
+Study areas under the hall's tiered balconies hold an impressive collection of history books. Sorting the book collection day and night are `dice:1d4|noform|noparens|avg` (`d4`) [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) (see "chapter 7").
 
 ##### K2. Wise Kollema
 
@@ -701,7 +702,7 @@ This stage rises 5 feet to be flush with the base of Kollema's statue. Here, Lor
 
 ##### K4. Second-Floor Study
 
-The collection of books upon the second floor focuses on historical accounts of mage-explorers and archaeomancers. Attending this collection day and night are `dice:1d4|noform|noparens|avg` (`1d4`) [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) (see "chapter 7").
+The collection of books upon the second floor focuses on historical accounts of mage-explorers and archaeomancers. Attending this collection day and night are `dice:1d4|noform|noparens|avg` (`d4`) [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) (see "chapter 7").
 
 ##### K5. Infirmary Intake
 
@@ -859,8 +860,8 @@ Many students spend the day of the Magister's Masquerade preparing for the event
 | 6 | The character loses their [masque charm](/3-Mechanics/CLI/items/masque-charm-scc.md). |
 | 7 | The character's date backs out at the last moment, or they're encouraged to have someone unexpected attend the ball with them. |
 | 8 | An unexpected emergency at a Job or related to an Extracurricular takes up some of the character's preparation time. This makes them `dice:6d10\|noform\|noparens\|avg` (`6d10`) minutes late to the event. |
-| 9 | The masquerade's organizers require the character to show up to the event `dice:1d4\|noform\|noparens\|avg` (`1d4`) hours early and work for a portion of the masquerade. |
-| 10 | An accident—such as a chemical spill, animal damage, or a rain of magic pigment—ruins the character's costume `dice:1d4\|noform\|noparens\|avg` (`1d4`) hours before the event. |
+| 9 | The masquerade's organizers require the character to show up to the event `dice:1d4\|noform\|noparens\|avg` (`d4`) hours early and work for a portion of the masquerade. |
+| 10 | An accident—such as a chemical spill, animal damage, or a rain of magic pigment—ruins the character's costume `dice:1d4\|noform\|noparens\|avg` (`d4`) hours before the event. |
 ^preparation-accidents
 
 ### Arriving at the Masquerade
@@ -1047,7 +1048,7 @@ These porches are used as sitting and meal areas on the rare occasion that socia
 
 ###### Spirit Statues
 
-Two [spirit statue mascots](/3-Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc.md) (see "chapter 7") stand on each of these porches. They house the spirits of departed Lorehold faculty, and they politely ask anyone who hops the railing to use the main doors during working hours. If they're ignored, the statues shout an alarm, calling the characters "trespassers" as they move to attack. This alerts the two [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) in the nearby Records Room (area L4), which remain in that area, and causes the [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) that guards the wing to arrive in `dice:1d4|noform|noparens|avg` (`1d4`) rounds.
+Two [spirit statue mascots](/3-Mechanics/CLI/bestiary/construct/spirit-statue-mascot-scc.md) (see "chapter 7") stand on each of these porches. They house the spirits of departed Lorehold faculty, and they politely ask anyone who hops the railing to use the main doors during working hours. If they're ignored, the statues shout an alarm, calling the characters "trespassers" as they move to attack. This alerts the two [cogwork archivists](/3-Mechanics/CLI/bestiary/construct/cogwork-archivist-scc.md) in the nearby Records Room (area L4), which remain in that area, and causes the [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) that guards the wing to arrive in `dice:1d4|noform|noparens|avg` (`d4`) rounds.
 
 ##### L4. Records Room
 

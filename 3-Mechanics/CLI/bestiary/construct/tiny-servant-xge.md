@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Tiny Servant"]
+statblock-link: "#^statblock"
+aliases:
+- Tiny Servant
 ---
 # [Tiny Servant](3-Mechanics\CLI\bestiary\construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  
@@ -21,13 +23,14 @@ aliases: ["Tiny Servant"]
 "ac_class": "natural armor"
 "hp": !!int "10"
 "hit_dice": "4d4"
+"modifier": !!int "3"
 "stats":
-- !!int "4"
-- !!int "16"
-- !!int "10"
-- !!int "2"
-- !!int "10"
-- !!int "1"
+  - !!int "4"
+  - !!int "16"
+  - !!int "10"
+  - !!int "2"
+  - !!int "10"
+  - !!int "1"
 "speed": "30 ft., climb 30 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
@@ -37,11 +40,11 @@ aliases: ["Tiny Servant"]
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "actions":
-- "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
-    \ + 3) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4\
+      \ + 3) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "XGE"
+  - "XGE"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/tiny-servant-xge.webp"
 ```
 ^statblock

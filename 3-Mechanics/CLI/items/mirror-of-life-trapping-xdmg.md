@@ -29,4 +29,4 @@ In a similar way, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) acti
 
 Placing the mirror inside an extradimensional space created by a [Bag of Holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md), Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

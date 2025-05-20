@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Swarm of Bats"]
+statblock-link: "#^statblock"
+aliases:
+- Swarm of Bats
 ---
 # [Swarm of Bats](3-Mechanics\CLI\bestiary\beast/swarm-of-bats-xmm.md)
-*Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -28,13 +30,14 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "11"
 "hit_dice": "2d10"
+"modifier": !!int "2"
 "stats":
-- !!int "5"
-- !!int "15"
-- !!int "10"
-- !!int "2"
-- !!int "12"
-- !!int "4"
+  - !!int "5"
+  - !!int "15"
+  - !!int "10"
+  - !!int "2"
+  - !!int "12"
+  - !!int "4"
 "speed": "5 ft., fly 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -45,17 +48,17 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny bat. The swarm can't regain\
-    \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain [Temporary\
-    \ Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny bat. The swarm\
+      \ can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4) Piercing damage, or\
-    \ 2 (1d4) Piercing damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
-  "name": "Bites"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4) Piercing damage,\
+      \ or 2 (d4) Piercing damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+    "name": "Bites"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/swarm-of-bats-xmm.webp"
 ```
 ^statblock

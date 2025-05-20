@@ -16,7 +16,8 @@ classes:
 - Druid
 - Druid (Circle of the Moon)
 - Ranger
-aliases: ["Conjure Animals"]
+aliases:
+- Conjure Animals
 ---
 # Conjure Animals
 *3rd-level, Conjuration*  
@@ -33,8 +34,8 @@ You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Streng
 
 Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes `dice:3d10|noform|noparens|avg` (`3d10`) Slashing damage. A creature makes this save only once per turn.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(d10)` for each spell slot level above 3.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Druid (Circle of the Moon)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

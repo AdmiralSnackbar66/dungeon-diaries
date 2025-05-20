@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Webs"]
+aliases:
+- Webs
 ---
 # Webs
 *Generic Hazard*  

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/rogue/inquisitive
-aliases: ["Inquisitive"]
+aliases:
+- Inquisitive
 ---
 # Inquisitive
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  

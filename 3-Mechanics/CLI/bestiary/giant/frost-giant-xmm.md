@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Frost Giant"]
+statblock-link: "#^statblock"
+aliases:
+- Frost Giant
 ---
 # [Frost Giant](3-Mechanics\CLI\bestiary\giant/frost-giant-xmm.md)
-*Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Frost Giant
 
@@ -38,43 +40,46 @@ Frost giants often travel far to find food and goods. This leads many to become 
 "ac": !!int "15"
 "hp": !!int "149"
 "hit_dice": "13d12 + 65"
+"modifier": !!int "2"
 "stats":
-- !!int "23"
-- !!int "9"
-- !!int "21"
-- !!int "9"
-- !!int "10"
-- !!int "12"
+  - !!int "23"
+  - !!int "9"
+  - !!int "21"
+  - !!int "9"
+  - !!int "10"
+  - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "3"
-  "Constitution": !!int "8"
+  - "constitution": "+8"
+  - "wisdom": "+3"
+  - "charisma": "+4"
 "skillsaves":
-  "Athletics": !!int "9"
-  "Perception": !!int "3"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+9"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
 "languages": "Giant"
 "cr": "8"
 "actions":
-- "desc": "The giant makes two attacks, using Frost Axe or Great Bow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing damage\
-    \ plus 9 (2d8) Cold damage."
-  "name": "Frost Axe"
-- "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing\
-    \ damage plus 7 (2d6) Cold damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ decreases by 10 feet until the end of its next turn."
-  "name": "Great Bow"
+  - "desc": "The giant makes two attacks, using Frost Axe or Great Bow in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 19 (2d12 + 6) Slashing damage\
+      \ plus 9 (2d8) Cold damage."
+    "name": "Frost Axe"
+  - "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing\
+      \ damage plus 7 (2d6) Cold damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ decreases by 10 feet until the end of its next turn."
+    "name": "Great Bow"
 "bonus_actions":
-- "desc": "The giant or one creature of its choice that can see or hear it gains 16\
-    \ (2d10 + 5) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-    \ and has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
-    \ rolls until the start of the giant's next turn."
-  "name": "War Cry (Recharge 5-6)"
+  - "desc": "The giant or one creature of its choice that can see or hear it gains\
+      \ 16 (2d10 + 5) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ and has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
+      \ rolls until the start of the giant's next turn."
+    "name": "War Cry (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-xmm.webp"
 ```
 ^statblock

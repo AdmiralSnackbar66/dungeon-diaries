@@ -11,12 +11,14 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate
 - ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/race/triton
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/circle-of-the-land
 - ttrpg-cli/spell/subclass/circle-of-the-sea
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Bard (College of Lore)
@@ -27,8 +29,10 @@ classes:
 - Ranger
 - Rogue (Arcane Trickster)
 - Sorcerer
+- Warlock (The Genie)
 - Wizard
-aliases: ["Fog Cloud"]
+aliases:
+- Fog Cloud
 ---
 # Fog Cloud
 *1st-level, Conjuration*  
@@ -43,6 +47,6 @@ You create a 20-foot-radius Sphere of fog centered on a point within range. The 
 
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 20 feet for each spell slot level above 1.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Druid (Circle of the Sea)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Druid (Circle of the Sea)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -101,7 +101,7 @@ You gain the service of a [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm
 
 ## Moon
 
-You gain the ability to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) `dice:1d3|noform|noparens|avg` (`1d3`) times.
+You gain the ability to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) `dice:1d3|noform|noparens|avg` (`d3`) times.
 
 ## Puzzle
 
@@ -143,4 +143,4 @@ You gain proficiency and [Expertise](/3-Mechanics/CLI/variant-rules/expertise-xp
 
 Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
-*Source: Dungeon Master's Guide (2024) p. 250*
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*

@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Sprite"]
+statblock-link: "#^statblock"
+aliases:
+- Sprite
 ---
 # [Sprite](3-Mechanics\CLI\bestiary\fey/sprite-xmm.md)
-*Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Sprite
 
@@ -41,39 +43,41 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 "ac": !!int "15"
 "hp": !!int "10"
 "hit_dice": "4d4"
+"modifier": !!int "4"
 "stats":
-- !!int "3"
-- !!int "18"
-- !!int "10"
-- !!int "14"
-- !!int "13"
-- !!int "11"
+  - !!int "3"
+  - !!int "18"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
+  - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  "Stealth": !!int "8"
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+8"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
-"traits":
-- "desc": "The sprite casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-    \ on itself, requiring no spell components and using Charisma as the spellcasting\
-    \ ability.\n\nAt will: [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
-  "name": "Invisibility"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage."
-  "name": "Needle Sword"
-- "desc": "Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage, and\
-    \ the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition\
-    \ until the start of the sprite's next turn."
-  "name": "Enchanting Bow"
-- "desc": "Charisma Saving Throw: DC 10, one creature within 5 feet the sprite can\
-    \ see (Celestials, Fiends, and Undead automatically fail the save). Failure:\
-    \ The sprite knows the target's emotions and alignment."
-  "name": "Heart Sight"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage."
+    "name": "Needle Sword"
+  - "desc": "Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage,\
+      \ and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition\
+      \ until the start of the sprite's next turn."
+    "name": "Enchanting Bow"
+  - "desc": "Charisma Saving Throw: DC 10, one creature within 5 feet the sprite\
+      \ can see (Celestials, Fiends, and Undead automatically fail the save). Failure:\
+      \ The sprite knows the target's emotions and alignment."
+    "name": "Heart Sight"
+  - "desc": "The sprite casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ on itself, requiring no spell components and using Charisma as the spellcasting\
+      \ ability.\n"
+    "name": "Invisibility"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/sprite-xmm.webp"
 ```
 ^statblock

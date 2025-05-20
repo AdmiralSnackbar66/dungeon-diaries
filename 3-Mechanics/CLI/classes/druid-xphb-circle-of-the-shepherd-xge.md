@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/druid/shepherd
-aliases: ["Circle of the Shepherd"]
+aliases:
+- Circle of the Shepherd
 ---
 # Circle of the Shepherd
 *[Druid](./druid-xphb.md): Druid Subclass*  

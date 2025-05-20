@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Brass Dragon"]
+aliases:
+- Brass Dragon
 ---
 # Brass Dragon
 
@@ -33,7 +34,7 @@ The region containing a legendary brass dragon's lair is warped by the dragon's 
 - Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.  
 - Whenever a creature with an Intelligence of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's lair, the dragon becomes aware of the creature's presence and location.  
 
-If the dragon dies, the tracks fade in `dice:1d10|noform|noparens|avg` (`1d10`) days, but the other effects fade immediately.
+If the dragon dies, the tracks fade in `dice:1d10|noform|noparens|avg` (`d10`) days, but the other effects fade immediately.
 
 ### Additional Regional Effects
 

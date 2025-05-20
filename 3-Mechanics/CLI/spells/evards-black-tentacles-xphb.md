@@ -10,13 +10,16 @@ tags:
 - ttrpg-cli/spell/subclass/aberrant-sorcery
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/the-fathomless
 classes:
 - Bard
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer (Aberrant Sorcery)
+- Warlock (The Fathomless)
 - Wizard
-aliases: ["Evard's Black Tentacles"]
+aliases:
+- Evard's Black Tentacles
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  
@@ -33,6 +36,6 @@ Each creature in that area makes a Strength saving throw. On a failed save, it t
 
 A [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature can take an action to make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check against your spell save DC, ending the condition on itself on a success.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](/3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Black Tentacles")*
+*Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Black Tentacles") and the Free Rules (2024)*

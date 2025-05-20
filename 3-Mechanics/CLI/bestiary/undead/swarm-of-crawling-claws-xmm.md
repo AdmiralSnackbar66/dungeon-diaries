@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Swarm of Crawling Claws"]
+statblock-link: "#^statblock"
+aliases:
+- Swarm of Crawling Claws
 ---
 # [Swarm of Crawling Claws](3-Mechanics\CLI\bestiary\undead/swarm-of-crawling-claws-xmm.md)
-*Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
 
@@ -37,13 +39,14 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "ac": !!int "12"
 "hp": !!int "49"
 "hit_dice": "11d8"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "14"
-- !!int "11"
-- !!int "5"
-- !!int "10"
-- !!int "4"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "5"
+  - !!int "10"
+  - !!int "4"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison"
@@ -57,19 +60,19 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "languages": "understands Common but can't speak"
 "cr": "3"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny creature. The swarm can't\
-    \ regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain\
-    \ [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny creature. The swarm\
+      \ can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 20 (4d8 + 2) Necrotic damage,\
-    \ or 11 (2d8 + 2) Necrotic damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md).\
-    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Swarm of Grasping Hands"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 20 (4d8 + 2) Necrotic damage,\
+      \ or 11 (2d8 + 2) Necrotic damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md).\
+      \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Swarm of Grasping Hands"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/swarm-of-crawling-claws-xmm.webp"
 ```
 ^statblock

@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Elemental Command (Earth)"
 ---
 # Ring of Elemental Command (Earth)
-*Legendary (requires attunement)*  
+*Ring, legendary (requires attunement)*  
 
 
 
@@ -28,4 +29,4 @@ While wearing the ring, you benefit from additional properties corresponding to 
 
 The ring has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [Earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md) (5 charges), [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md) (2 charges), [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md) (3 charges), [Wall of Stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md) (3 charges)
 
-*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

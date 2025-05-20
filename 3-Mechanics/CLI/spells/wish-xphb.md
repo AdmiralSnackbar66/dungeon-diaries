@@ -8,11 +8,14 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/9th-level
 - ttrpg-cli/spell/school/conjuration
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Sorcerer
+- Warlock (The Genie)
 - Wizard
-aliases: ["Wish"]
+aliases:
+- Wish
 ---
 # Wish
 *9th-level, Conjuration*  
@@ -37,8 +40,8 @@ Alternatively, you can create one of the following effects of your choice:
 - **Roll Redo.** You undo a single recent event by forcing a reroll of any die roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a Wish spell could undo an ally's failed saving throw or a foe's [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md). You can force the reroll to be made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) or [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md), and you choose whether to use the reroll or the original roll.  
 - **Reshape Reality.** You may wish for something not included in any of the other effects. To do so, state your wish to the DM as precisely as possible. The DM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might be achieved only in part, or you might suffer an unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a Legendary magic item or an Artifact might instantly transport you to the presence of the item's current owner. If your wish is granted and its effects have consequences for a whole community, region, or world, you are likely to attract powerful foes. If your wish would affect a god, the god's divine servants might instantly intervene to prevent it or to encourage you to craft the wish in a particular way. If your wish would undo the multiverse itself, threaten the City of Sigil, or affect the Lady of Pain in any way, you see an image of her in your mind for a moment; she shakes her head, and your wish fails.  
 
-The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `dice:1d10|noform|noparens|avg` (`1d10`) Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for `dice:2d4|noform|noparens|avg` (`2d4`) days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a  chance that you are unable to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) ever again if you suffer this stress.
+The stress of casting Wish to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `dice:1d10|noform|noparens|avg` (`d10`) Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for `dice:2d4|noform|noparens|avg` (`2d4`) days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a  chance that you are unable to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) ever again if you suffer this stress.
 
-**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

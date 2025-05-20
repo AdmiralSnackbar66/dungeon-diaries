@@ -17,7 +17,8 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Entangle"]
+aliases:
+- Entangle
 ---
 # Entangle
 *1st-level, Conjuration*  
@@ -32,6 +33,6 @@ Grasping plants sprout from the ground in a 20-foot square within range. For the
 
 Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition until the spell ends. A [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature can take an action to make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) by them.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

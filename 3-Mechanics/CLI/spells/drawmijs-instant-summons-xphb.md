@@ -11,7 +11,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Drawmij's Instant Summons"]
+aliases:
+- Drawmij's Instant Summons
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  
@@ -30,4 +31,4 @@ If another creature is holding or carrying the object, crushing the sapphire doe
 
 **Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons")*
+*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)*

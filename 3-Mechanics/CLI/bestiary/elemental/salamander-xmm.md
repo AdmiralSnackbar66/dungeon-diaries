@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Salamander"]
+statblock-link: "#^statblock"
+aliases:
+- Salamander
 ---
 # [Salamander](3-Mechanics\CLI\bestiary\elemental/salamander-xmm.md)
-*Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
 
@@ -41,13 +43,14 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "ac": !!int "15"
 "hp": !!int "90"
 "hit_dice": "12d10 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "15"
-- !!int "11"
-- !!int "10"
-- !!int "12"
+  - !!int "18"
+  - !!int "14"
+  - !!int "15"
+  - !!int "11"
+  - !!int "10"
+  - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
@@ -55,26 +58,27 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "languages": "Primordial (Ignan)"
 "cr": "5"
 "traits":
-- "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-    \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the salamander takes 7 (2d6) Fire damage."
-  "name": "Fire Aura"
+  - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
+      \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the salamander takes 7 (2d6) Fire damage."
+    "name": "Fire Aura"
 "actions":
-- "desc": "The salamander makes two Flame Spear attacks. It can replace one attack\
-    \ with a use of Constrict."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The spear\
-    \ magically returns to the salamander's hand immediately after a ranged attack."
-  "name": "Flame Spear"
-- "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\
-    \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7 (2d6)\
-    \ Fire damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ condition until the grapple ends."
-  "name": "Constrict"
+  - "desc": "The salamander makes two Flame Spear attacks. It can replace one attack\
+      \ with a use of Constrict."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
+      \ 13 (2d8 + 4) Piercing damage plus 7 (2d6) Fire damage. Hit or Miss: The\
+      \ spear magically returns to the salamander's hand immediately after a ranged\
+      \ attack."
+    "name": "Flame Spear"
+  - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\
+      \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7\
+      \ (2d6) Fire damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Constrict"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
 ```
 ^statblock

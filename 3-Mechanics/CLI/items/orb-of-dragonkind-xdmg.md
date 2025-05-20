@@ -55,4 +55,4 @@ While you control the orb, you can take a [Magic](/3-Mechanics/CLI/actions.md#Ma
 
 An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [Disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md) spell. Nothing else can harm it.
 
-*Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Dragon Orb")*
+*Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Dragon Orb") and the Free Rules (2024)*

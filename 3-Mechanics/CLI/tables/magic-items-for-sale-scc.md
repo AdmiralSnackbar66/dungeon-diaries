@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Magic Items for Sale"]
+aliases:
+- Magic Items for Sale
 ---
 # Magic Items for Sale
 *Source: Strixhaven: A Curriculum of Chaos p. 38* 

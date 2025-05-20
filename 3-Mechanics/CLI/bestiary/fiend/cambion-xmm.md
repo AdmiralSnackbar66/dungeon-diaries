@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Cambion"]
+statblock-link: "#^statblock"
+aliases:
+- Cambion
 ---
 # [Cambion](3-Mechanics\CLI\bestiary\fiend/cambion-xmm.md)
 *Source: Monster Manual (2024) p. 65*  
@@ -52,47 +54,50 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 "ac": !!int "19"
 "hp": !!int "105"
 "hit_dice": "14d8 + 42"
+"modifier": !!int "4"
 "stats":
-- !!int "18"
-- !!int "18"
-- !!int "16"
-- !!int "14"
-- !!int "12"
-- !!int "16"
+  - !!int "18"
+  - !!int "18"
+  - !!int "16"
+  - !!int "14"
+  - !!int "12"
+  - !!int "16"
 "speed": "30 ft., fly 60 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Intelligence": !!int "5"
-  "Strength": !!int "7"
-  "Constitution": !!int "6"
+  - "strength": "+7"
+  - "constitution": "+6"
+  - "intelligence": "+5"
+  - "charisma": "+6"
 "skillsaves":
-  "Deception": !!int "6"
-  "Stealth": !!int "7"
-  "Perception": !!int "4"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, lightning, poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
-"traits":
-- "desc": "The cambion casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n1/day\
-    \ each: [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) (level\
-    \ 8 version), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self\
-    \ only)\n\n2/day each: [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md),\
-    \ [Command](/3-Mechanics/CLI/spells/command-xphb.md) (level 3 version), [Detect\
-    \ Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The cambion makes two attacks, using Claw or Fire Ray in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage\
-    \ plus 7 (2d6) Fire damage."
-  "name": "Claw"
-- "desc": "Ranged Attack Roll: +7, range 120 ft. Hit: 13 (3d6 + 3) Fire damage."
-  "name": "Fire Ray"
+  - "desc": "The cambion makes two attacks, using Claw or Fire Ray in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage\
+      \ plus 7 (2d6) Fire damage."
+    "name": "Claw"
+  - "desc": "Ranged Attack Roll: +7, range 120 ft. Hit: 13 (3d6 + 3) Fire damage."
+    "name": "Fire Ray"
+  - "desc": "The cambion casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
+      \n2/day each: [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md),\
+      \ [Command](/3-Mechanics/CLI/spells/command-xphb.md) (level 3 version), [Detect\
+      \ Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n1/day each: [Dominate\
+      \ Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) (level 8 version),\
+      \ [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/cambion-xmm.webp"
 ```
 ^statblock

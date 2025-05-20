@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Friends and Foes; Strixhaven Creatures"]
+aliases:
+- Friends and Foes; Strixhaven Creatures
 ---
 # Friends and Foes; Strixhaven Creatures
 *Source: Strixhaven: A Curriculum of Chaos p. 183* 

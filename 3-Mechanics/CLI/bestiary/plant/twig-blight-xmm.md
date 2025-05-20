@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Twig Blight"]
+statblock-link: "#^statblock"
+aliases:
+- Twig Blight
 ---
 # [Twig Blight](3-Mechanics\CLI\bestiary\plant/twig-blight-xmm.md)
 *Source: Monster Manual (2024) p. 43*  
@@ -37,32 +39,34 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "ac": !!int "14"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "14"
-- !!int "11"
-- !!int "4"
-- !!int "8"
-- !!int "3"
+  - !!int "6"
+  - !!int "14"
+  - !!int "11"
+  - !!int "4"
+  - !!int "8"
+  - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "damage_vulnerabilities": "fire"
 "condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-- "desc": "The blight has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the blight's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The blight has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the blight's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
-  "name": "Claw"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/twig-blight-xmm.webp"
 ```
 ^statblock

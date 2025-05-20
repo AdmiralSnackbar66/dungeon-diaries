@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Quaggoth Thonot"]
+statblock-link: "#^statblock"
+aliases:
+- Quaggoth Thonot
 ---
 # [Quaggoth Thonot](3-Mechanics\CLI\bestiary\monstrosity/quaggoth-thonot-xmm.md)
 *Source: Monster Manual (2024) p. 251*  
@@ -34,46 +36,48 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
 "ac": !!int "15"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "14"
-- !!int "7"
+  - !!int "17"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "14"
+  - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-- "desc": "The quaggoth casts one of the following spells, requiring no spell components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible),\
-    \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n2/day:\
-    \ [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The quaggoth casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
-    \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\n3/day: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
-  "name": "Psionic Defense (3/Day)"
-- "desc": "While [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md), the\
-    \ quaggoth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on\
-    \ attack rolls."
-  "name": "Bloodied Fury"
+  - "desc": "While [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md), the\
+      \ quaggoth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls."
+    "name": "Bloodied Fury"
 "actions":
-- "desc": "The quaggoth makes two Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage\
-    \ plus 5 (2d4) Psychic damage."
-  "name": "Claw"
+  - "desc": "The quaggoth makes two Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage\
+      \ plus 5 (2d4) Psychic damage."
+    "name": "Claw"
+  - "desc": "The quaggoth casts one of the following spells, requiring no spell components\
+      \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
+      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible),\
+      \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n2/day:\
+      \ [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The quaggoth casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Psionic Defense (3/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/quaggoth-thonot-xmm.webp"
 ```
 ^statblock

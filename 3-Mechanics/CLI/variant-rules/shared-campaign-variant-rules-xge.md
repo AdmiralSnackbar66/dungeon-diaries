@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Shared Campaign Variant Rules"]
+aliases:
+- Shared Campaign Variant Rules
 ---
 # Shared Campaign Variant Rules
 *Source: Xanathar's Guide to Everything p. 173* 

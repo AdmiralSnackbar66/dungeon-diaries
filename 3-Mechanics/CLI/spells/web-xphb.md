@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
@@ -12,15 +13,19 @@ tags:
 - ttrpg-cli/spell/subclass/circle-of-the-land
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/swarmkeeper
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Druid (Circle of the Land)
 - Fighter (Eldritch Knight)
+- Ranger (Swarmkeeper)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
-aliases: ["Web"]
+aliases:
+- Web
 ---
 # Web
 *2nd-level, Conjuration*  
@@ -41,6 +46,6 @@ A creature [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the webs c
 
 The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 round, dealing `dice:2d4|noform|noparens|avg` (`2d4`) Fire damage to any creature that starts its turn in the fire.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Swarmkeeper)](/3-Mechanics/CLI/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Crawling Claw"]
+statblock-link: "#^statblock"
+aliases:
+- Crawling Claw
 ---
 # [Crawling Claw](3-Mechanics\CLI\bestiary\undead/crawling-claw-xmm.md)
 *Source: Monster Manual (2024) p. 83*  
@@ -37,13 +39,14 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "ac": !!int "12"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "2"
 "stats":
-- !!int "13"
-- !!int "14"
-- !!int "11"
-- !!int "5"
-- !!int "10"
-- !!int "4"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+  - !!int "5"
+  - !!int "10"
+  - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -53,10 +56,10 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "languages": "understands Common but can't speak"
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 2 Necrotic damage."
-  "name": "Slam"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 2 Necrotic damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp"
 ```
 ^statblock

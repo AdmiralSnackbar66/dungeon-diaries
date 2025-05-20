@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/optional-feature/ei
-aliases: ["Improved Pact Weapon"]
+aliases:
+- Improved Pact Weapon
 ---
 # Improved Pact Weapon
 *Source: Xanathar's Guide to Everything p. 57*  

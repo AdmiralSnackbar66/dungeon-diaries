@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Chef"]
+aliases:
+- Chef
 ---
 # Chef
 *Source: Player's Handbook (2024) p. 202*  
@@ -18,7 +19,7 @@ You gain proficiency with Cook's Utensils if you don't already have it.
 
 ## Replenishing Meal
 
-As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra `dice:1d8|noform|noparens|avg` (`1d8`) Hit Points.
+As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra `dice:1d8|noform|noparens|avg` (`d8`) Hit Points.
 
 ## Bolstering Treats
 

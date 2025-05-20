@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/bard
 statblock: inline
-aliases: ["Silverquill Professor of Shadow"]
+statblock-link: "#^statblock"
+aliases:
+- Silverquill Professor of Shadow
 ---
 # [Silverquill Professor of Shadow](3-Mechanics\CLI\bestiary\humanoid/silverquill-professor-of-shadow-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 215*  
@@ -29,49 +31,55 @@ The scholars of Silverquill College study the power of magic shaped through spok
 "ac": !!int "12"
 "hp": !!int "97"
 "hit_dice": "15d8 + 30"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "14"
-- !!int "14"
-- !!int "16"
-- !!int "13"
-- !!int "19"
+  - !!int "11"
+  - !!int "14"
+  - !!int "14"
+  - !!int "16"
+  - !!int "13"
+  - !!int "19"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "6"
+  - "dexterity": "+5"
+  - "intelligence": "+6"
+  - "wisdom": "+4"
+  - "charisma": "+7"
 "skillsaves":
-  "Deception": !!int "10"
-  "Stealth": !!int "5"
-  "Arcana": !!int "6"
-  "Persuasion": !!int "7"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+10"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+7"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "damage_resistances": "necrotic"
 "senses": "darkvision 300 ft., passive Perception 11"
 "languages": "Common plus any four languages"
 "cr": "7"
 "traits":
-- "desc": "The professor casts one of the following spells, requiring no material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-    \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-    \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\
-    \n2/day each: [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-    \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "Magical darkness doesn't impede the professor's darkvision."
-  "name": "Devil's Sight"
+  - "desc": "Magical darkness doesn't impede the professor's darkvision."
+    "name": "Devil's Sight"
 "actions":
-- "desc": "The professor makes two Ink Lance attacks. The professor can replace one\
-    \ of the attacks with a use of Spellcasting."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120 ft.,\
-    \ one target. Hit: 17 (3d8 + 4) necrotic damage. If the target is a creature,\
-    \ it must succeed on a DC 15 Constitution saving throw be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-    \ until the end of its next turn."
-  "name": "Ink Lance"
+  - "desc": "The professor makes two Ink Lance attacks. The professor can replace\
+      \ one of the attacks with a use of Spellcasting."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 120\
+      \ ft., one target. Hit: 17 (3d8 + 4) necrotic damage. If the target is a creature,\
+      \ it must succeed on a DC 15 Constitution saving throw be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ until the end of its next turn."
+    "name": "Ink Lance"
+  - "desc": "The professor casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
+      \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n2/day each: [bane](/3-Mechanics/CLI/spells/bane-xphb.md),\
+      \ [command](/3-Mechanics/CLI/spells/command-xphb.md), [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\n1/day each:\
+      \ [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/silverquill-professor-of-shadow-scc.webp"
 ```
 ^statblock

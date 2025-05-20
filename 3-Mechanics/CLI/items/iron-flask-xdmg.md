@@ -54,4 +54,4 @@ An [Identify](/3-Mechanics/CLI/spells/identify-xphb.md) spell reveals if the fla
 | 00 | [Xorn](/3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md) |
 ^1-contents
 
-*Source: Dungeon Master's Guide (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

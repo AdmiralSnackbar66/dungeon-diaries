@@ -10,7 +10,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Meenlock"]
+statblock-link: "#^statblock"
+aliases:
+- Meenlock
 ---
 # [Meenlock](3-Mechanics\CLI\bestiary\fey/meenlock-vgm.md)
 *Source: Volo's Guide to Monsters p. 170, Candlekeep Mysteries*  
@@ -23,8 +25,6 @@ Meenlocks are spawned by fear. Whenever fear overwhelms a creature in the Feywil
 
 Meenlocks give other creatures the creeps and project a supernatural aura that instills terror in those nearby. So evil and twisted are they that a palpable sense of foreboding haunts those who intrude upon a meenlock lair. Inside the warren, black moss covers every surface, muffling sound. A large central chamber serves as the meenlocks' den, where they torment captives.
 
-During the day, meenlocks confine themselves to their dark warrens. At night, they crawl out of their tunnels to torment sleeping prey, particularly those who seem to embody all that is good in the world. Meenlocks like to paralyze creatures with their claws, drag them back to their hidden den, beat them unconscious, and telepathically torture them over a period of hours. A humanoid that succumbs to this psychic torment undergoes a transformation into an evil, full-grown meenlock (see the "Telepathic Torment" sidebar).
-
 ## Dark Dwellers
 
 A meenlock shuns bright light. It can supernaturally sense areas of darkness and shadow in its vicinity and thus is able to teleport from one darkened space to another-enabling it to sneak up on its prey or run away when outmatched.
@@ -32,6 +32,8 @@ A meenlock shuns bright light. It can supernaturally sense areas of darkness and
 ## Telepathic Tormentors
 
 Meenlocks have no form of communication other than telepathy. They can use it to project unsettling hallucinations into the minds of their prey. These hallucinations take the form of terrible whispers or fleeting movements just at the edges of one's peripheral vision.
+
+During the day, meenlocks confine themselves to their dark warrens. At night, they crawl out of their tunnels to torment sleeping prey, particularly those who seem to embody all that is good in the world. Meenlocks like to paralyze creatures with their claws, drag them back to their hidden den, beat them unconscious, and telepathically torture them over a period of hours. A humanoid that succumbs to this psychic torment undergoes a transformation into an evil, full-grown meenlock (see the "Telepathic Torment" sidebar).
 
 > [!note] Telepathic Torment
 > 
@@ -47,45 +49,50 @@ Meenlocks have no form of communication other than telepathy. They can use it to
 "ac_class": "natural armor"
 "hp": !!int "31"
 "hit_dice": "7d6 + 7"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "10"
-- !!int "8"
+  - !!int "7"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "4"
-  "Survival": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
+  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+    "desc": "+2"
 "condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"
 "traits":
-- "desc": "Any beast or humanoid that starts its turn within 10 feet of the meenlock\
-    \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ until the start of the creature's next turn."
-  "name": "Fear Aura"
-- "desc": "While in bright light, the meenlock has disadvantage on attack rolls, as\
-    \ well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-    \ that rely on sight."
-  "name": "Light Sensitivity"
-- "desc": "As a bonus action, the meenlock can teleport to an unoccupied space within\
-    \ 30 feet of it, provided that both the space it's teleporting from and its destination\
-    \ are in dim light or darkness. The destination need not be within line of sight."
-  "name": "Shadow Teleport (Recharge 5-6)"
+  - "desc": "Any beast or humanoid that starts its turn within 10 feet of the meenlock\
+      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ until the start of the creature's next turn."
+    "name": "Fear Aura"
+  - "desc": "While in bright light, the meenlock has disadvantage on attack rolls,\
+      \ as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ checks that rely on sight."
+    "name": "Light Sensitivity"
+  - "desc": "As a bonus action, the meenlock can teleport to an unoccupied space within\
+      \ 30 feet of it, provided that both the space it's teleporting from and its\
+      \ destination are in dim light or darkness. The destination need not be within\
+      \ line of sight."
+    "name": "Shadow Teleport (Recharge 5-6)"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
-    \ + 2) slashing damage, and the target must succeed on a DC 11 Constitution saving\
-    \ throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute.\
-    \ The target can repeat the saving throw at the end of each of its turns, ending\
-    \ the effect on itself on a success."
-  "name": "Claws"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
+      \ + 2) slashing damage, and the target must succeed on a DC 11 Constitution\
+      \ saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for\
+      \ 1 minute. The target can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success."
+    "name": "Claws"
 "source":
-- "VGM"
-- "CM"
+  - "VGM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/meenlock-vgm.webp"
 ```
 ^statblock

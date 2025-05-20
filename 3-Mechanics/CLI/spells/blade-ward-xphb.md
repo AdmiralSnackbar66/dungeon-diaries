@@ -25,7 +25,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Blade Ward"]
+aliases:
+- Blade Ward
 ---
 # Blade Ward
 *cantrip, Abjuration*  
@@ -36,8 +37,8 @@ aliases: ["Blade Ward"]
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts `dice:1d4|noform|noparens|avg` (`1d4`) from the attack roll.
+Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts `dice:1d4|noform|noparens|avg` (`d4`) from the attack roll.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 247*

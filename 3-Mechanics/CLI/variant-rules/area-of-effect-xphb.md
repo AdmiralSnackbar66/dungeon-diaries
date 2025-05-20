@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Area of Effect"]
+aliases:
+- Area of Effect
 ---
 # Area of Effect
-*Source: Player's Handbook (2024) p. 361* 
+*Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes. These shapes are defined elsewhere in this glossary:
 

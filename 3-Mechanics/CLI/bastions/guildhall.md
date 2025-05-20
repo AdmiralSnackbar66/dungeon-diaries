@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Guildhall"]
+aliases:
+- Guildhall
 ---
 # Guildhall
 *Level 17 Bastion facility*  

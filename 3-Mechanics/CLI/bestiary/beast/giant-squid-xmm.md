@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Squid"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Squid
 ---
 # [Giant Squid](3-Mechanics\CLI\bestiary\beast/giant-squid-xmm.md)
 *Source: Monster Manual (2024) p. 360*  
@@ -25,45 +27,47 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "120"
 "hit_dice": "16d12 + 16"
+"modifier": !!int "2"
 "stats":
-- !!int "23"
-- !!int "14"
-- !!int "12"
-- !!int "5"
-- !!int "11"
-- !!int "4"
+  - !!int "23"
+  - !!int "14"
+  - !!int "12"
+  - !!int "5"
+  - !!int "11"
+  - !!int "4"
 "speed": "5 ft., swim 80 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Strength": !!int "9"
+  - "strength": "+9"
+  - "dexterity": "+5"
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": ""
 "cr": "6"
 "traits":
-- "desc": "The squid can breathe only underwater."
-  "name": "Water Breathing"
+  - "desc": "The squid can breathe only underwater."
+    "name": "Water Breathing"
 "actions":
-- "desc": "The squid makes one Bite attack and one Tentacle attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 28 (4d10 + 6) Piercing damage."
-  "name": "Bite"
-- "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 19 (3d8 + 6) Bludgeoning damage.\
-    \ If the target is a Huge or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 16) from one of two tentacles, and the squid can pull the\
-    \ target up to 10 feet straight toward itself."
-  "name": "Tentacle"
+  - "desc": "The squid makes one Bite attack and one Tentacle attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 28 (4d10 + 6) Piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 19 (3d8 + 6) Bludgeoning\
+      \ damage. If the target is a Huge or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 16) from one of two tentacles, and the squid can pull\
+      \ the target up to 10 feet straight toward itself."
+    "name": "Tentacle"
 "reactions":
-- "desc": "Trigger: The squid takes damage while underwater. _Response:_ The squid\
-    \ releases ink that fills a 15-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
-    \ centered on itself, and the squid moves up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md).\
-    \ The [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) is [Heavily\
-    \ Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) for 1 minute\
-    \ or until a strong current or similar effect disperses the ink."
-  "name": "Ink Cloud (1/Day)"
+  - "desc": "Trigger: The squid takes damage while underwater. _Response:_ The squid\
+      \ releases ink that fills a 15-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+      \ centered on itself, and the squid moves up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md).\
+      \ The [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) is\
+      \ [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md)\
+      \ for 1 minute or until a strong current or similar effect disperses the ink."
+    "name": "Ink Cloud (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-squid-xmm.webp"
 ```
 ^statblock

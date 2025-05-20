@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Mighty Fortress"]
+aliases:
+- Mighty Fortress
 ---
 # Mighty Fortress
 *8th-level, Conjuration*  

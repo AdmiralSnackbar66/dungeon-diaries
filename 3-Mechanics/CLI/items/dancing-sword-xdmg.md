@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Dancing Sword"
 - "Dancing Double-Bladed Scimitar"
@@ -74,4 +75,4 @@ After the hovering weapon attacks for the fourth time, it flies back to you and 
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

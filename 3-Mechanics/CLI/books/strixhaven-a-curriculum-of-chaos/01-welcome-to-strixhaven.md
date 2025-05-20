@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Welcome to Strixhaven"]
+aliases:
+- Welcome to Strixhaven
 ---
 # Welcome to Strixhaven
 *Source: Strixhaven: A Curriculum of Chaos, p. 4* 

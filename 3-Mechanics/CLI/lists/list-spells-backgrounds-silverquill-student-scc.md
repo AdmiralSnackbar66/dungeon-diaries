@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/background/silverquill-student
-aliases: ["Spells for Silverquill Student"]
+aliases:
+- Spells for Silverquill Student
 ---
 # Spells for Silverquill Student
 

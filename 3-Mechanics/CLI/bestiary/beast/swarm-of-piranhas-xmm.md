@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Swarm of Piranhas"]
+statblock-link: "#^statblock"
+aliases:
+- Swarm of Piranhas
 ---
 # [Swarm of Piranhas](3-Mechanics\CLI\bestiary\beast/swarm-of-piranhas-xmm.md)
-*Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -25,13 +27,14 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "28"
 "hit_dice": "8d8 - 8"
+"modifier": !!int "3"
 "stats":
-- !!int "13"
-- !!int "16"
-- !!int "9"
-- !!int "1"
-- !!int "7"
-- !!int "2"
+  - !!int "13"
+  - !!int "16"
+  - !!int "9"
+  - !!int "1"
+  - !!int "7"
+  - !!int "2"
 "speed": "5 ft., swim 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -42,21 +45,21 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny piranha. The swarm can't\
-    \ regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain\
-    \ [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
-- "desc": "The swarm can breathe only underwater."
-  "name": "Water Breathing"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny piranha. The swarm\
+      \ can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
+  - "desc": "The swarm can breathe only underwater."
+    "name": "Water Breathing"
 "actions":
-- "desc": "Melee Attack Roll: +5 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ if the target doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
-    \ reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage\
-    \ if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
-  "name": "Bites"
+  - "desc": "Melee Attack Roll: +5 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ if the target doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
+      \ reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage\
+      \ if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+    "name": "Bites"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/swarm-of-piranhas-xmm.webp"
 ```
 ^statblock

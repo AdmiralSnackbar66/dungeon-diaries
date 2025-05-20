@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Dust Mephit"]
+statblock-link: "#^statblock"
+aliases:
+- Dust Mephit
 ---
 # [Dust Mephit](3-Mechanics\CLI\bestiary\elemental/dust-mephit-xmm.md)
-*Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Dust mephits are composed of air and fine earth. They are drawn to forsaken places, and they think everything associated with death is hilarious.
 
@@ -40,17 +42,20 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "ac": !!int "12"
 "hp": !!int "17"
 "hit_dice": "5d6"
+"modifier": !!int "2"
 "stats":
-- !!int "5"
-- !!int "14"
-- !!int "10"
-- !!int "9"
-- !!int "11"
-- !!int "10"
+  - !!int "5"
+  - !!int "14"
+  - !!int "10"
+  - !!int "9"
+  - !!int "11"
+  - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -59,24 +64,24 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "languages": "Primordial (Auran, Terran)"
 "cr": "1/2"
 "traits":
-- "desc": "The mephit casts the [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) spell,\
-    \ requiring no spell components and using Charisma as the spellcasting ability\
-    \ (spell save DC 10).\n\n1/day: [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
-  "name": "Sleep (1/Day)"
-- "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each\
-    \ creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the mephit. Failure: 5 (2d4) Bludgeoning damage. Success:\
-    \ Half damage."
-  "name": "Death Burst"
+  - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 10, each\
+      \ creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the mephit. Failure: 5 (2d4) Bludgeoning damage. Success:\
+      \ Half damage."
+    "name": "Death Burst"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
-  "name": "Claw"
-- "desc": "Dexterity Saving Throw: DC 10, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-    \ condition until the end of the mephit's next turn."
-  "name": "Blinding Breath (Recharge 6)"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage."
+    "name": "Claw"
+  - "desc": "Dexterity Saving Throw: DC 10, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ condition until the end of the mephit's next turn."
+    "name": "Blinding Breath (Recharge 6)"
+  - "desc": "The mephit casts the [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) spell,\
+      \ requiring no spell components and using Charisma as the spellcasting ability\
+      \ (spell save DC 10).\n"
+    "name": "Sleep (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/dust-mephit-xmm.webp"
 ```
 ^statblock

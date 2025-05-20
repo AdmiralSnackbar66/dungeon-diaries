@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/fiend
-aliases: ["Fiend Patron"]
+aliases:
+- Fiend Patron
 ---
 # Fiend Patron
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
-*Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -70,7 +71,7 @@ When you reduce an enemy to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-po
 
 ### Dark One's Own Luck (Level 6)
 
-You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add `dice:1d10|noform|noparens|avg` (`1d10`) to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
+You can call on your fiendish patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add `dice:1d10|noform|noparens|avg` (`d10`) to your roll. You can do so after seeing the roll but before any of the roll's effects occur.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), but you can use it no more than once per roll. You regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 

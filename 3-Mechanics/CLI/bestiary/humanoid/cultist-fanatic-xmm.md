@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Cultist Fanatic"]
+statblock-link: "#^statblock"
+aliases:
+- Cultist Fanatic
 ---
 # [Cultist Fanatic](3-Mechanics\CLI\bestiary\humanoid/cultist-fanatic-xmm.md)
-*Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 85. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Cultist fanatics lead small cults or cells within larger cults. They're privy to more of a cult's mysteries than lower-ranking cultists are, granting them access to magical powers from their patrons.
 
@@ -81,39 +83,43 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "13"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "14"
-- !!int "13"
+  - !!int "11"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
+  - "wisdom": "+4"
 "skillsaves":
-  "Deception": !!int "3"
-  "Religion": !!int "2"
-  "Persuasion": !!int "3"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+3"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+3"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "2"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 12, +4 to hit with spell attacks):\n\nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md),\
-    \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day: [Hold\
-    \ Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n2/day: [Command](/3-Mechanics/CLI/spells/command-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The cultist casts the [Spiritual Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\
-    \ spell, using the same spellcasting ability as Spellcasting.\n\n2/day: [Spiritual\
-    \ Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
-  "name": "Spiritual Weapon (2/Day)"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
-    \ plus 7 (2d6) Necrotic damage."
-  "name": "Pact Blade"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
+      \ plus 7 (2d6) Necrotic damage."
+    "name": "Pact Blade"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 12, +4 to hit with spell attacks):\n\nAt will:\
+      \ [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n2/day: [Command](/3-Mechanics/CLI/spells/command-xphb.md)\n\n1/day:\
+      \ [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The cultist casts the [Spiritual Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\
+      \ spell, using the same spellcasting ability as Spellcasting.\n"
+    "name": "Spiritual Weapon (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
 ```
 ^statblock

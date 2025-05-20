@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Drider"]
+statblock-link: "#^statblock"
+aliases:
+- Drider
 ---
 # [Drider](3-Mechanics\CLI\bestiary\monstrosity/drider-xmm.md)
-*Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Drider
 
@@ -47,44 +49,49 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 "ac": !!int "19"
 "hp": !!int "123"
 "hit_dice": "13d10 + 52"
+"modifier": !!int "4"
 "stats":
-- !!int "16"
-- !!int "19"
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "12"
+  - !!int "16"
+  - !!int "19"
+  - !!int "18"
+  - !!int "13"
+  - !!int "16"
+  - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "10"
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+10"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "6"
 "traits":
-- "desc": "The drider casts [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
-    \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/3-Mechanics/CLI/spells/web-xphb.md),\
-    \ requiring no Material components and using Wisdom as the spellcasting ability\
-    \ (spell save DC 14).\n"
-  "name": "Magic of the Spider Queen (Recharge 5-6)"
-- "desc": "The drider can climb difficult surfaces, including along ceilings, without\
-    \ needing to make an ability check."
-  "name": "Spider Climb"
-- "desc": "While in sunlight, the drider has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
-- "desc": "The drider ignores movement restrictions caused by webs, and the drider\
-    \ knows the location of any other creature in contact with the same web."
-  "name": "Web Walker"
+  - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "While in sunlight, the drider has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
+  - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
+      \ knows the location of any other creature in contact with the same web."
+    "name": "Web Walker"
 "actions":
-- "desc": "The drider makes three attacks, using Foreleg or Poison Burst in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 13 (2d8 + 4) Piercing damage."
-  "name": "Foreleg"
-- "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
-  "name": "Poison Burst"
+  - "desc": "The drider makes three attacks, using Foreleg or Poison Burst in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 13 (2d8 + 4) Piercing damage."
+    "name": "Foreleg"
+  - "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
+    "name": "Poison Burst"
+"bonus_actions":
+  - "desc": "The drider casts [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/3-Mechanics/CLI/spells/web-xphb.md),\
+      \ requiring no Material components and using Wisdom as the spellcasting ability\
+      \ (spell save DC 14).\n"
+    "name": "Magic of the Spider Queen (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
 ```
 ^statblock

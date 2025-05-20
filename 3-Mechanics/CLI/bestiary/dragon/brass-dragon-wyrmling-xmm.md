@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Brass Dragon Wyrmling"]
+statblock-link: "#^statblock"
+aliases:
+- Brass Dragon Wyrmling
 ---
 # [Brass Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/brass-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Brass dragon wyrmlings are relentlessly curious. These dragons eagerly engage approachable creatures and are quick to explore any place that has an interesting story. Once they hear tales of adventure, many are keen to start their own quests.
 
@@ -41,40 +43,43 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
 "ac": !!int "15"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "10"
-- !!int "13"
-- !!int "10"
-- !!int "11"
-- !!int "13"
+  - !!int "15"
+  - !!int "10"
+  - !!int "13"
+  - !!int "10"
+  - !!int "11"
+  - !!int "13"
 "speed": "30 ft., burrow 15 ft., fly 60 ft."
 "saves":
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
+  - "dexterity": "+2"
+  - "wisdom": "+2"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+2"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
-    \ 14 (4d6) Fire damage. Success: Half damage."
-  "name": "Fire Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition until the end of its next turn, at which point it repeats the save.\
-    \ 2nd Failure: The target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-    \ condition for 1 minute. This effect ends for the target if it takes damage or\
-    \ a creature within 5 feet of it takes an action to wake it."
-  "name": "Sleep Breath"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
+      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ 14 (4d6) Fire damage. Success: Half damage."
+    "name": "Fire Breath (Recharge 5-6)"
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition until the end of its next turn, at which point it repeats the save.\
+      \ 2nd Failure: The target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ condition for 1 minute. This effect ends for the target if it takes damage\
+      \ or a creature within 5 feet of it takes an action to wake it."
+    "name": "Sleep Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling-xmm.webp"
 ```
 ^statblock

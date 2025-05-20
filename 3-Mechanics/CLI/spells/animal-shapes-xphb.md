@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Animal Shapes"]
+aliases:
+- Animal Shapes
 ---
 # Animal Shapes
 *8th-level, Transmutation*  
@@ -29,4 +30,4 @@ The target gains a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rul
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

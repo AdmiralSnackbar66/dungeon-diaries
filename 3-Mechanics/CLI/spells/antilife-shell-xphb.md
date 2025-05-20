@@ -13,7 +13,8 @@ classes:
 - Bard
 - Cleric (Grave Domain)
 - Druid
-aliases: ["Antilife Shell"]
+aliases:
+- Antilife Shell
 ---
 # Antilife Shell
 *5th-level, Abjuration*  
@@ -28,6 +29,6 @@ An aura extends from you in a 10-foot Emanation for the duration. The aura preve
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

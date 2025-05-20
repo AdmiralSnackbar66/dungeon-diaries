@@ -24,7 +24,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Dimension Door"]
+aliases:
+- Dimension Door
 ---
 # Dimension Door
 *4th-level, Conjuration*  
@@ -41,6 +42,6 @@ You can also teleport one willing creature. The creature must be within 5 feet o
 
 If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take `dice:4d6|noform|noparens|avg` (`4d6`) Force damage, and the teleportation fails.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Fey Wanderer)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Ranger (Fey Wanderer)](/3-Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

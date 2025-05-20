@@ -21,7 +21,8 @@ classes:
 - Sorcerer (Draconic Sorcery)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Legend Lore"]
+aliases:
+- Legend Lore
 ---
 # Legend Lore
 *5th-level, Divination*  
@@ -38,6 +39,6 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

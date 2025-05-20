@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Red Slaad"]
+statblock-link: "#^statblock"
+aliases:
+- Red Slaad
 ---
 # [Red Slaad](3-Mechanics\CLI\bestiary\aberration/red-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  
@@ -47,43 +49,45 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "ac": !!int "14"
 "hp": !!int "93"
 "hit_dice": "11d10 + 33"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "16"
-- !!int "6"
-- !!int "6"
-- !!int "7"
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "6"
+  - !!int "6"
+  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Slaad; telepathy 60 ft."
 "cr": "5"
 "traits":
-- "desc": "The slaad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The slaad regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Regeneration"
+  - "desc": "The slaad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
 "actions":
-- "desc": "The slaad makes three Injecting Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 10 (2d6 + 3) Piercing damage.\
-    \ If the target is a Humanoid not cursed by a slaad, it is subjected to the following\
-    \ effect. Constitution Saving Throw: DC 14. Failure: The target is cursed\
-    \ unawares, and a minuscule slaad egg is implanted in it. Removing the curse destroys\
-    \ the egg.\n\nOver 2d4 × 10 days, the egg gestates. In the final 24 hours, the\
-    \ cursed target feels unwell; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ is halved, and it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). At the end\
-    \ of this time, the egg turns into a Slaad Tadpole, which chews out of the host\
-    \ and kills it."
-  "name": "Injecting Claw"
+  - "desc": "The slaad makes three Injecting Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 10 (2d6 + 3) Piercing damage.\
+      \ If the target is a Humanoid not cursed by a slaad, it is subjected to the\
+      \ following effect. Constitution Saving Throw: DC 14. Failure: The target\
+      \ is cursed unawares, and a minuscule slaad egg is implanted in it. Removing\
+      \ the curse destroys the egg.\n\nOver 2d4 × 10 days, the egg gestates. In the\
+      \ final 24 hours, the cursed target feels unwell; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ is halved, and it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). At the end\
+      \ of this time, the egg turns into a Slaad Tadpole, which chews out of the host\
+      \ and kills it."
+    "name": "Injecting Claw"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/red-slaad-xmm.webp"
 ```
 ^statblock

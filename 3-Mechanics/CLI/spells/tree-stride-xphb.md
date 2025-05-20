@@ -16,7 +16,8 @@ classes:
 - Druid (Circle of the Land)
 - Paladin (Oath of the Ancients)
 - Ranger
-aliases: ["Tree Stride"]
+aliases:
+- Tree Stride
 ---
 # Tree Stride
 *5th-level, Conjuration*  
@@ -31,6 +32,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

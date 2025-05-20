@@ -12,7 +12,8 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["Summon Fiend"]
+aliases:
+- Summon Fiend
 ---
 # Summon Fiend
 *6th-level, Conjuration*  

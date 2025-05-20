@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Nine Lives Stealer"
 - "Nine Lives Stealer Antimatter Rifle"
@@ -494,4 +495,4 @@ The weapon has `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges. When you at
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

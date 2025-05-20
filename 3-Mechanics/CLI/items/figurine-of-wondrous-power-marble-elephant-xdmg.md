@@ -22,4 +22,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 This marble statuette resembles a trumpeting elephant. It can become an [Elephant](/3-Mechanics/CLI/bestiary/beast/elephant-xmm.md) for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

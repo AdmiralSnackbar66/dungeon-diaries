@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["1,000 GP Gemstones"]
+aliases:
+- 1,000 GP Gemstones
 ---
 # 1,000 GP Gemstones
 *Source: Dungeon Master's Guide (2024) p. 214* 

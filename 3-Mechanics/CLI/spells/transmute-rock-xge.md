@@ -3,16 +3,19 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/transmutation
 classes:
+- Artificer
 - Bard
 - Druid
 - Wizard
-aliases: ["Transmute Rock"]
+aliases:
+- Transmute Rock
 ---
 # Transmute Rock
 *5th-level, Transmutation*  
@@ -39,6 +42,6 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 ## Summary
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 169*

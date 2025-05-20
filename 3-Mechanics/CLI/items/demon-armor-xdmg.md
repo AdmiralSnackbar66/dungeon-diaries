@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Demon Armor"
 - "Demon Breastplate"
@@ -29,7 +30,7 @@ aliases:
 
 - **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
 
-While wearing this armor, you gain a +1 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md), and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `dice:1d8|noform|noparens|avg` (`1d8`) Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
+While wearing this armor, you gain a +1 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md), and you know Abyssal. In addition, the armor's clawed gauntlets allow your Unarmed Strikes to deal `dice:1d8|noform|noparens|avg` (`d8`) Slashing damage instead of the usual Bludgeoning damage, and you gain a +1 bonus to the attack and damage rolls of your Unarmed Strikes.
 
 ## Curse
 
@@ -132,4 +133,4 @@ Once you don this cursed armor, you can't doff it unless you are targeted by a [
 - **Weight**: 13.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

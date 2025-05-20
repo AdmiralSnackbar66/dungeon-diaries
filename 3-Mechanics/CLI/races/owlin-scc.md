@@ -4,7 +4,8 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/scc
 - ttrpg-cli/race/owlin
-aliases: ["Owlin"]
+aliases:
+- Owlin
 ---
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  

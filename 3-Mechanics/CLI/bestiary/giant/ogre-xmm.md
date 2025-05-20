@@ -15,10 +15,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Ogre"]
+statblock-link: "#^statblock"
+aliases:
+- Ogre
 ---
 # [Ogre](3-Mechanics\CLI\bestiary\giant/ogre-xmm.md)
-*Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
 
@@ -41,25 +43,27 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 "ac": !!int "11"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "-1"
 "stats":
-- !!int "19"
-- !!int "8"
-- !!int "16"
-- !!int "5"
-- !!int "7"
-- !!int "7"
+  - !!int "19"
+  - !!int "8"
+  - !!int "16"
+  - !!int "5"
+  - !!int "7"
+  - !!int "7"
 "speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage."
-  "name": "Greatclub"
-- "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 11 (2d6 + 4) Piercing damage."
-  "name": "Javelin"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
+      \ damage."
+    "name": "Greatclub"
+  - "desc": "Melee  or Ranged Attack Roll: +6, reach 5 ft. or range 30/120 ft. Hit:\
+      \ 11 (2d6 + 4) Piercing damage."
+    "name": "Javelin"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
 ```
 ^statblock

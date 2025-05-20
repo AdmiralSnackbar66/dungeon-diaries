@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
-aliases: ["Maneuver, Battle Master"]
+aliases:
+- Maneuver, Battle Master
 ---
 # Maneuver, Battle Master
 *Source: Player's Handbook, Tasha's Cauldron of Everything p. 42, Player's Handbook (2024)* 
@@ -12,6 +13,7 @@ aliases: ["Maneuver, Battle Master"]
 - [Ambush](/3-Mechanics/CLI/optional-features/ambush-xphb.md)
 - [Bait and Switch](/3-Mechanics/CLI/optional-features/bait-and-switch-xphb.md)
 - [Bait and Switch](/3-Mechanics/CLI/optional-features/bait-and-switch-xphb.md)
+- [Brace](/3-Mechanics/CLI/optional-features/brace-tce.md)
 - [Commander's Strike](/3-Mechanics/CLI/optional-features/commanders-strike-xphb.md)
 - [Commander's Strike](/3-Mechanics/CLI/optional-features/commanders-strike-xphb.md)
 - [Commanding Presence](/3-Mechanics/CLI/optional-features/commanding-presence-xphb.md)
@@ -26,6 +28,7 @@ aliases: ["Maneuver, Battle Master"]
 - [Feinting Attack](/3-Mechanics/CLI/optional-features/feinting-attack-xphb.md)
 - [Goading Attack](/3-Mechanics/CLI/optional-features/goading-attack-xphb.md)
 - [Goading Attack](/3-Mechanics/CLI/optional-features/goading-attack-xphb.md)
+- [Grappling Strike](/3-Mechanics/CLI/optional-features/grappling-strike-tce.md)
 - [Lunging Attack](/3-Mechanics/CLI/optional-features/lunging-attack-xphb.md)
 - [Lunging Attack](/3-Mechanics/CLI/optional-features/lunging-attack-xphb.md)
 - [Maneuvering Attack](/3-Mechanics/CLI/optional-features/maneuvering-attack-xphb.md)
@@ -38,6 +41,7 @@ aliases: ["Maneuver, Battle Master"]
 - [Precision Attack](/3-Mechanics/CLI/optional-features/precision-attack-xphb.md)
 - [Pushing Attack](/3-Mechanics/CLI/optional-features/pushing-attack-xphb.md)
 - [Pushing Attack](/3-Mechanics/CLI/optional-features/pushing-attack-xphb.md)
+- [Quick Toss](/3-Mechanics/CLI/optional-features/quick-toss-tce.md)
 - [Rally](/3-Mechanics/CLI/optional-features/rally-xphb.md)
 - [Rally](/3-Mechanics/CLI/optional-features/rally-xphb.md)
 - [Riposte](/3-Mechanics/CLI/optional-features/riposte-xphb.md)

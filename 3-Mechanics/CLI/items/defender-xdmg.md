@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Defender"
 - "Defender Battleaxe"
@@ -264,4 +265,4 @@ The first time you attack with the weapon on each of your turns, you can transfe
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

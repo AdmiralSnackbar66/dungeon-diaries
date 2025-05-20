@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Spanish, Female"]
+aliases:
+- Human Names – Spanish, Female
 ---
 # Human Names – Spanish, Female
 *Source: Xanathar's Guide to Everything p. 181* 

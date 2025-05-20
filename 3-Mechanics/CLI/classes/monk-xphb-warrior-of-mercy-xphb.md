@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/mercy
-aliases: ["Warrior of Mercy"]
+aliases:
+- Warrior of Mercy
 ---
 # Warrior of Mercy
 *[Monk](./monk-xphb.md): Monk Subclass*  

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["The Canopic Being"]
+aliases:
+- The Canopic Being
 ---
 # The Canopic Being
 *Source: Candlekeep Mysteries, p. 170* 

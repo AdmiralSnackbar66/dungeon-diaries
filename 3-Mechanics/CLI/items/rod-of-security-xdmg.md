@@ -4,11 +4,12 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/rod
 aliases: 
 - "Rod of Security"
 ---
 # Rod of Security
-*Very rare*  
+*Rod, very rare*  
 
 
 - **Weight**: 2.0 lbs.
@@ -19,4 +20,4 @@ For each hour spent in the demiplane, a visitor regains [Hit Points](/3-Mechanic
 
 When the time runs out or you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to end the effect, all visitors reappear in the location they occupied when you activated the rod or an unoccupied space nearest that location. Once used, this property can't be used again until 10 days have passed.
 
-*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

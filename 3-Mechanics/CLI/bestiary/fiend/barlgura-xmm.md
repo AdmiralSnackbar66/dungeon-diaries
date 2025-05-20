@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-aliases: ["Barlgura"]
+statblock-link: "#^statblock"
+aliases:
+- Barlgura
 ---
 # [Barlgura](3-Mechanics\CLI\bestiary\fiend/barlgura-xmm.md)
 *Source: Monster Manual (2024) p. 31*  
@@ -36,20 +38,23 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 "ac": !!int "15"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "7"
-- !!int "14"
-- !!int "9"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "7"
+  - !!int "14"
+  - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Constitution": !!int "6"
+  - "dexterity": "+5"
+  - "constitution": "+6"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -57,31 +62,32 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "The barlgura casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\n1/day\
-    \ each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
-    \ (level 6 version)\n\n2/day each: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only)"
-  "name": "Spellcasting"
-- "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
-    \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Abyss."
-  "name": "Demonic Restoration"
+  - "desc": "If the barlgura dies outside the Abyss, its body dissolves into ichor,\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Abyss."
+    "name": "Demonic Restoration"
 "actions":
-- "desc": "The barlgura makes one Tormenting Bite attack and two Thrash attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage\
-    \ plus 13 (2d12) Psychic damage."
-  "name": "Tormenting Bite"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Thrash"
+  - "desc": "The barlgura makes one Tormenting Bite attack and two Thrash attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage\
+      \ plus 13 (2d12) Psychic damage."
+    "name": "Tormenting Bite"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Thrash"
+  - "desc": "The barlgura casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
+      \n2/day each: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\
+      \n1/day each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Phantasmal\
+      \ Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) (level 6 version)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The barlgura jumps up to 40 feet by spending 10 feet of movement."
-  "name": "Leap"
+  - "desc": "The barlgura jumps up to 40 feet by spending 10 feet of movement."
+    "name": "Leap"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/barlgura-xmm.webp"
 ```
 ^statblock

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/bard/valor
-aliases: ["College of Valor"]
+aliases:
+- College of Valor
 ---
 # College of Valor
 *[Bard](./bard-xphb.md): Bard Subclass*  

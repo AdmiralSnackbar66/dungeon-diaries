@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Awaken"]
+aliases:
+- Awaken
 ---
 # Awaken
 *5th-level, Transmutation*  
@@ -27,4 +28,4 @@ The awakened target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) co
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

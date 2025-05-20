@@ -15,7 +15,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Swarm of Stirges"]
+statblock-link: "#^statblock"
+aliases:
+- Swarm of Stirges
 ---
 # [Swarm of Stirges](3-Mechanics\CLI\bestiary\monstrosity/swarm-of-stirges-xmm.md)
 *Source: Monster Manual (2024) p. 299*  
@@ -51,13 +53,14 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 "ac": !!int "14"
 "hp": !!int "36"
 "hit_dice": "8d8"
+"modifier": !!int "3"
 "stats":
-- !!int "4"
-- !!int "16"
-- !!int "11"
-- !!int "2"
-- !!int "8"
-- !!int "6"
+  - !!int "4"
+  - !!int "16"
+  - !!int "11"
+  - !!int "2"
+  - !!int "8"
+  - !!int "6"
 "speed": "10 ft., fly 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -68,21 +71,21 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through any opening large enough for a Tiny creature. The swarm can't\
-    \ regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain\
-    \ [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through any opening large enough for a Tiny creature. The swarm\
+      \ can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage,\
-    \ or 8 (1d10 + 3) Piercing damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md).\
-    \ If the target is a Medium or smaller creature in the swarm's space, the target\
-    \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-    \ DC 13). Until the grapple ends, the target takes 7 (2d6) Necrotic damage at\
-    \ the end of each of its turns."
-  "name": "Swarm of Proboscises"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage,\
+      \ or 8 (1d10 + 3) Piercing damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md).\
+      \ If the target is a Medium or smaller creature in the swarm's space, the target\
+      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 13). Until the grapple ends, the target takes 7 (2d6) Necrotic damage at\
+      \ the end of each of its turns."
+    "name": "Swarm of Proboscises"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/swarm-of-stirges-xmm.webp"
 ```
 ^statblock

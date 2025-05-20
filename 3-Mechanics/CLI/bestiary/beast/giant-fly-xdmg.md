@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Fly"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Fly
 ---
 # [Giant Fly](3-Mechanics\CLI\bestiary\beast/giant-fly-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 261*  
@@ -20,19 +22,20 @@ aliases: ["Giant Fly"]
 "ac": !!int "11"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "13"
-- !!int "13"
-- !!int "2"
-- !!int "10"
-- !!int "3"
+  - !!int "14"
+  - !!int "13"
+  - !!int "13"
+  - !!int "2"
+  - !!int "10"
+  - !!int "3"
 "speed": "30 ft., fly 60 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "source":
-- "XDMG"
+  - "XDMG"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-fly-xdmg.webp"
 ```
 ^statblock

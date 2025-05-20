@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Elemental Spirit (Earth)"]
+statblock-link: "#^statblock"
+aliases:
+- Elemental Spirit (Earth)
 ---
 # [Elemental Spirit (Earth)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-earth-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
@@ -18,13 +20,14 @@ aliases: ["Elemental Spirit (Earth)"]
 "type": "elemental"
 "alignment": "Neutral"
 "ac_class": "11 + the spell's level"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "17"
-- !!int "4"
-- !!int "10"
-- !!int "16"
+  - !!int "18"
+  - !!int "15"
+  - !!int "17"
+  - !!int "4"
+  - !!int "10"
+  - !!int "16"
 "speed": "40 ft., burrow 40 ft."
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "poison"
@@ -34,13 +37,13 @@ aliases: ["Elemental Spirit (Earth)"]
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "actions":
-- "desc": "The spirit makes a number of Slam attacks equal to half this spell's level\
-    \ (round down)."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft.. Hit: 1d10 + 4 + the spell's level Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
+      \ ft.. Hit: 1d10 + 4 + the spell's level Bludgeoning damage."
+    "name": "Slam"
 "source":
-- "XPHB"
+  - "XPHB"
 ```
 ^statblock

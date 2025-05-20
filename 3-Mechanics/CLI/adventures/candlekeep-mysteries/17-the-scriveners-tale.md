@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["The Scrivener's Tale"]
+aliases:
+- The Scrivener's Tale
 ---
 # The Scrivener's Tale
 *Source: Candlekeep Mysteries, p. 184* 
@@ -187,7 +188,7 @@ The characters' status as seasoned adventurers means they have no difficulty ent
 
 The driving force behind the Rillyn family's revival, Yvandre (a human [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) is an iron-willed and accomplished swordfighter as well as a rising political figure in Baldur's Gate. Her manner is brusque but professional. She is happy to deal with anyone who appears likely to further her family's goals, but she can be ruthless toward those who cross her. A former member of the Flaming Fist, she has many friends in that mercenary company who would be only too happy to make trouble for the characters on her behalf.
 
-If Yvandre is attacked, `dice:1d4|noform|noparens|avg` (`1d4`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) arrive at the end of each of her turns until twenty have appeared.
+If Yvandre is attacked, `dice:1d4|noform|noparens|avg` (`d4`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) arrive at the end of each of her turns until twenty have appeared.
 
 ##### Personality Trait
 

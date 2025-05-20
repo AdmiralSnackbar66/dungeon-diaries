@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/sorcerer/divine-soul
-aliases: ["Divine Soul"]
+aliases:
+- Divine Soul
 ---
 # Divine Soul
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  

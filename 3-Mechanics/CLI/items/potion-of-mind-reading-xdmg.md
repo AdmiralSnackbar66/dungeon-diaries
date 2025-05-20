@@ -18,4 +18,4 @@ When you drink this potion, you gain the effect of the [Detect Thoughts](/3-Mech
 
 This potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 
-*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

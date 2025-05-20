@@ -3,9 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/artificer-initiate
 - ttrpg-cli/spell/feat/magic-initiate
 - ttrpg-cli/spell/feat/ritual-caster
 - ttrpg-cli/spell/feat/strixhaven-initiate
@@ -18,16 +20,20 @@ tags:
 - ttrpg-cli/spell/subclass/clockwork-sorcery
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/oath-of-the-watchers
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
+- Paladin (Oath of the Watchers)
 - Ranger
 - Rogue (Arcane Trickster)
 - Sorcerer (Clockwork Sorcery)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Alarm"]
+aliases:
+- Alarm
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  
@@ -43,6 +49,6 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 - **Audible Alarm.** The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.  
 - **Mental Alarm.** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.  
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Watchers)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Hook Horror"]
+statblock-link: "#^statblock"
+aliases:
+- Hook Horror
 ---
 # [Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/hook-horror-xmm.md)
 *Source: Monster Manual (2024) p. 173*  
@@ -32,30 +34,32 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 "ac": !!int "15"
 "hp": !!int "75"
 "hit_dice": "10d10 + 20"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "10"
-- !!int "15"
-- !!int "6"
-- !!int "12"
-- !!int "7"
+  - !!int "18"
+  - !!int "10"
+  - !!int "15"
+  - !!int "6"
+  - !!int "12"
+  - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Constitution": !!int "4"
+  - "constitution": "+4"
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Hook Horror"
 "cr": "3"
 "actions":
-- "desc": "The hook horror makes two Hook attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.\
-    \ If the target is a Large or smaller creature, the hook horror moves the target\
-    \ 5 feet straight toward or away from itself."
-  "name": "Hook"
+  - "desc": "The hook horror makes two Hook attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.\
+      \ If the target is a Large or smaller creature, the hook horror moves the target\
+      \ 5 feet straight toward or away from itself."
+    "name": "Hook"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hook-horror-xmm.webp"
 ```
 ^statblock

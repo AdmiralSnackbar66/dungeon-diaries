@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Psychic Scream"]
+aliases:
+- Psychic Scream
 ---
 # Psychic Scream
 *9th-level, Enchantment*  

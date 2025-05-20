@@ -24,7 +24,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Witch Bolt"]
+aliases:
+- Witch Bolt
 ---
 # Witch Bolt
 *1st-level, Evocation*  
@@ -37,12 +38,12 @@ aliases: ["Witch Bolt"]
 
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes `dice:2d12|noform|noparens|avg` (`2d12`) Lightning damage.
 
-On each of your subsequent turns, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to deal `dice:1d12|noform|noparens|avg` (`1d12`) Lightning damage to the target automatically, even if the first attack missed.
+On each of your subsequent turns, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to deal `dice:1d12|noform|noparens|avg` (`d12`) Lightning damage to the target automatically, even if the first attack missed.
 
 The spell ends if the target is ever outside the spell's range or if it has Total [Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) from you.
 
-**Using a Higher-Level Spell Slot.** The initial damage increases by `dice:1d12|noform|noparens|avg|text(1d12)` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The initial damage increases by `dice:1d12|noform|noparens|avg|text(d12)` for each spell slot level above 1.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 343*

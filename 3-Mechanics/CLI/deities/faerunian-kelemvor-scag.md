@@ -6,7 +6,10 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/grave
-aliases: ["Kelemvor", "The Lord of the Dead", "The Judge of the Damned"]
+aliases: 
+- Kelemvor
+- The Lord of the Dead
+- The Judge of the Damned
 ---
 # Kelemvor
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* 

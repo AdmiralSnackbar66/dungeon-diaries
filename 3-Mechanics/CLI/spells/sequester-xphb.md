@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Sequester"]
+aliases:
+- Sequester
 ---
 # Sequester
 *7th-level, Transmutation*  
@@ -29,4 +30,4 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 **Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

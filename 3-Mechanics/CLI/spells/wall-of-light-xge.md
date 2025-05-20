@@ -16,7 +16,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Wall of Light"]
+aliases:
+- Wall of Light
 ---
 # Wall of Light
 *5th-level, Evocation*  
@@ -35,8 +36,8 @@ A creature that ends its turn in the wall's area takes `dice:4d8|noform|noparens
 
 Until the spell ends, you can use an action to launch a beam of radiance from the wall at one creature you can see within 60 feet of it. Make a ranged spell attack. On a hit, the target takes `dice:4d8|noform|noparens|avg` (`4d8`) radiant damage. Whether you hit or miss, reduce the length of the wall by 10 feet. If the wall's length drops to 0 feet, the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 5th.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 170*

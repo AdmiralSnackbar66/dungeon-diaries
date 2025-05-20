@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/rogue
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Rogue"]
+aliases:
+- Rogue
 ---
 # Rogue
-*Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -80,7 +81,7 @@ At Rogue level 6, you gain [Expertise](/3-Mechanics/CLI/variant-rules/expertise-
 
 ### Sneak Attack (Level 1)
 
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage to one creature you hit with an attack roll if you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `dice:1d6|noform|noparens|avg` (`d6`) damage to one creature you hit with an attack roll if you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
 You don't need [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition, and you don't have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the attack roll.
 
@@ -92,9 +93,9 @@ You picked up various languages in the communities where you plied your roguish 
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the <span title="Player's Handbook (2024)">mastery properties</span> of two kinds of weapons of your choice with which you have proficiency, such as [Daggers](/3-Mechanics/CLI/items/dagger-xphb.md) and [Shortbows](/3-Mechanics/CLI/items/shortbow-xphb.md).
+Your training with weapons allows you to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Daggers](/3-Mechanics/CLI/items/dagger-xphb.md) and [Shortbows](/3-Mechanics/CLI/items/shortbow-xphb.md).
 
-Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the <span title="Player's Handbook (2024)">mastery properties</span> of [Scimitars](/3-Mechanics/CLI/items/scimitar-xphb.md) and [Shortswords](/3-Mechanics/CLI/items/shortsword-xphb.md).
+Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](/3-Mechanics/CLI/items/scimitar-xphb.md) and [Shortswords](/3-Mechanics/CLI/items/shortsword-xphb.md).
 
 ### Cunning Action (Level 2)
 
@@ -114,7 +115,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Cunning Strike (Level 5)
 
-You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove `dice:1d6|noform|noparens|avg` (`1d6`) from the Sneak Attack's damage before rolling.
+You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove `dice:1d6|noform|noparens|avg` (`d6`) from the Sneak Attack's damage before rolling.
 
 If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md).
 

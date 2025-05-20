@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Cat"]
+statblock-link: "#^statblock"
+aliases:
+- Cat
 ---
 # [Cat](3-Mechanics\CLI\bestiary\beast/cat-xmm.md)
-*Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -28,32 +30,35 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "2"
 "stats":
-- !!int "3"
-- !!int "15"
-- !!int "10"
-- !!int "3"
-- !!int "12"
-- !!int "7"
+  - !!int "3"
+  - !!int "15"
+  - !!int "10"
+  - !!int "3"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "4"
+  - "dexterity": "+4"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The cat's jump distance is determined using its Dexterity rather than its\
-    \ Strength."
-  "name": "Jumper"
+  - "desc": "The cat's jump distance is determined using its Dexterity rather than\
+      \ its Strength."
+    "name": "Jumper"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage."
-  "name": "Scratch"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage."
+    "name": "Scratch"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/cat-xmm.webp"
 ```
 ^statblock

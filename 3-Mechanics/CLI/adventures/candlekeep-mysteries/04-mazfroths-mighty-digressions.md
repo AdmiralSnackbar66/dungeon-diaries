@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Mazfroth's Mighty Digressions"]
+aliases:
+- Mazfroth's Mighty Digressions
 ---
 # Mazfroth's Mighty Digressions
 *Source: Candlekeep Mysteries, p. 26* 

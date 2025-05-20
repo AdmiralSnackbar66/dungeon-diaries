@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Banshee"]
+statblock-link: "#^statblock"
+aliases:
+- Banshee
 ---
 # [Banshee](3-Mechanics\CLI\bestiary\undead/banshee-xmm.md)
 *Source: Monster Manual (2024) p. 29*  
@@ -46,16 +48,17 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 "ac": !!int "12"
 "hp": !!int "54"
 "hit_dice": "12d8"
+"modifier": !!int "2"
 "stats":
-- !!int "1"
-- !!int "14"
-- !!int "10"
-- !!int "12"
-- !!int "11"
-- !!int "17"
+  - !!int "1"
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "11"
+  - !!int "17"
 "speed": "5 ft., fly 40 ft. (hover)"
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": "+2"
 "damage_resistances": "acid, bludgeoning, fire, lightning, piercing, slashing, thunder"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -67,31 +70,31 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
-- "desc": "The banshee magically senses the direction of creatures up to 1 mile away\
-    \ that aren't Constructs or Undead."
-  "name": "Detect Life"
-- "desc": "The banshee can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
-    \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
-  "name": "Incorporeal Movement"
+  - "desc": "The banshee magically senses the direction of creatures up to 1 mile\
+      \ away that aren't Constructs or Undead."
+    "name": "Detect Life"
+  - "desc": "The banshee can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
 "actions":
-- "desc": "The banshee makes two Corrupting Touch attacks and uses Horrify."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Necrotic damage."
-  "name": "Corrupting Touch"
-- "desc": "Wisdom Saving Throw: DC 13, one creature the banshee can see within 60\
-    \ feet that can see the banshee. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ condition until the start of the banshee's next turn. Success: The target\
-    \ is immune to this banshee's Horrify for 24 hours."
-  "name": "Horrify"
-- "desc": "The banshee releases a mournful wail if it isn't in sunlight. Constitution\
-    \ Saving Throw: DC 13, each creature within 30 feet that can hear the wail and\
-    \ isn't a Construct or an Undead. Failure: If the target has 25 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ or fewer, it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
-    \ Otherwise, the target takes 10 (3d6) Psychic damage."
-  "name": "Deathly Wail (1/Day)"
+  - "desc": "The banshee makes two Corrupting Touch attacks and uses Horrify."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Necrotic damage."
+    "name": "Corrupting Touch"
+  - "desc": "Wisdom Saving Throw: DC 13, one creature the banshee can see within\
+      \ 60 feet that can see the banshee. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ condition until the start of the banshee's next turn. Success: The target\
+      \ is immune to this banshee's Horrify for 24 hours."
+    "name": "Horrify"
+  - "desc": "The banshee releases a mournful wail if it isn't in sunlight. Constitution\
+      \ Saving Throw: DC 13, each creature within 30 feet that can hear the wail\
+      \ and isn't a Construct or an Undead. Failure: If the target has 25 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or fewer, it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ Otherwise, the target takes 10 (3d6) Psychic damage."
+    "name": "Deathly Wail (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/banshee-xmm.webp"
 ```
 ^statblock

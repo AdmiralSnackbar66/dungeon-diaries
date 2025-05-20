@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Vine Blight"]
+statblock-link: "#^statblock"
+aliases:
+- Vine Blight
 ---
 # [Vine Blight](3-Mechanics\CLI\bestiary\plant/vine-blight-xmm.md)
 *Source: Monster Manual (2024) p. 44*  
@@ -39,33 +41,34 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "ac": !!int "12"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
+"modifier": !!int "-1"
 "stats":
-- !!int "15"
-- !!int "8"
-- !!int "14"
-- !!int "5"
-- !!int "10"
-- !!int "3"
+  - !!int "15"
+  - !!int "8"
+  - !!int "14"
+  - !!int "5"
+  - !!int "10"
+  - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  "Stealth": !!int "1"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+1"
 "condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
 "senses": "blindsight 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
-"traits":
-- "desc": "The blight casts the [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md)\
-    \ spell, using Constitution as the spellcasting ability (spell save DC 12).\n"
-  "name": "Entangling Plants (Recharge 5-6)"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 6 (1d8 + 2) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 12). Until the grapple ends, the target takes 4 (1d8) Bludgeoning\
-    \ damage at the start of each of its turns, and the blight can't make Constricting\
-    \ Vine attacks."
-  "name": "Constricting Vine"
+  - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 6 (1d8 + 2) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 12). Until the grapple ends, the target takes 4 (d8)\
+      \ Bludgeoning damage at the start of each of its turns, and the blight can't\
+      \ make Constricting Vine attacks."
+    "name": "Constricting Vine"
+  - "desc": "The blight casts the [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md)\
+      \ spell, using Constitution as the spellcasting ability (spell save DC 12).\n"
+    "name": "Entangling Plants (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/vine-blight-xmm.webp"
 ```
 ^statblock

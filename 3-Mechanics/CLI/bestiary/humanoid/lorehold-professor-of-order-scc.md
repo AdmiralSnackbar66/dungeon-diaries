@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
 statblock: inline
-aliases: ["Lorehold Professor of Order"]
+statblock-link: "#^statblock"
+aliases:
+- Lorehold Professor of Order
 ---
 # [Lorehold Professor of Order](3-Mechanics\CLI\bestiary\humanoid/lorehold-professor-of-order-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 198*  
@@ -27,65 +29,69 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 "ac": !!int "12"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "14"
-- !!int "14"
-- !!int "19"
-- !!int "15"
-- !!int "13"
+  - !!int "11"
+  - !!int "14"
+  - !!int "14"
+  - !!int "19"
+  - !!int "15"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "7"
-  "Constitution": !!int "5"
+  - "constitution": "+5"
+  - "intelligence": "+7"
+  - "wisdom": "+5"
+  - "charisma": "+4"
 "skillsaves":
-  "Perception": !!int "5"
-  "History": !!int "7"
-  "Arcana": !!int "7"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+7"
+  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+    "desc": "+7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "damage_resistances": "force"
 "senses": "passive Perception 15"
 "languages": "Common plus any four languages"
 "cr": "7"
 "traits":
-- "desc": "The professor casts one of the following spells, requiring no material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 15):\n\nAt will: [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-    \ [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
-    \n2/day each: [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-    \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-    \ [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The professor can cast the [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md)\
-    \ spell to contact a long-dead spirit, using Intelligence as the spellcasting\
-    \ ability."
-  "name": "Voice from the Past (1/Day)"
+  - "desc": "The professor can cast the [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md)\
+      \ spell to contact a long-dead spirit, using Intelligence as the spellcasting\
+      \ ability."
+    "name": "Voice from the Past (1/Day)"
 "actions":
-- "desc": "The professor makes two Repelling Burst attacks. It can also use Force\
-    \ Barrier, if available."
-  "name": "Multiattack"
-- "desc": "Melee Spell Attack: +7 to hit, reach 30 ft., one target. Hit: 13 (2d8\
-    \ + 4) force damage. If the target is a Large or smaller creature, it must succeed\
-    \ on a DC 15 Strength saving throw or be pushed up to 10 feet directly away from\
-    \ the professor and become [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ until the start of professor's next turn."
-  "name": "Repelling Burst"
-- "desc": "The professor magically creates a wall of translucent, golden force within\
-    \ 90 feet of itself. The wall lasts for 1 minute or until the professor uses this\
-    \ action again. The barrier can be a vertical or horizontal plane up to 30 feet\
-    \ on a side or a 10-foot-radius hemispherical dome with a floor. The wall provides\
-    \ total cover. It has AC 17, 30 hit points, and immunity to poison and psychic\
-    \ damage."
-  "name": "Force Barrier (Recharge 5-6)"
+  - "desc": "The professor makes two Repelling Burst attacks. It can also use Force\
+      \ Barrier, if available."
+    "name": "Multiattack"
+  - "desc": "Melee Spell Attack: +7 to hit, reach 30 ft., one target. Hit: 13\
+      \ (2d8 + 4) force damage. If the target is a Large or smaller creature, it must\
+      \ succeed on a DC 15 Strength saving throw or be pushed up to 10 feet directly\
+      \ away from the professor and become [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ until the start of professor's next turn."
+    "name": "Repelling Burst"
+  - "desc": "The professor magically creates a wall of translucent, golden force within\
+      \ 90 feet of itself. The wall lasts for 1 minute or until the professor uses\
+      \ this action again. The barrier can be a vertical or horizontal plane up to\
+      \ 30 feet on a side or a 10-foot-radius hemispherical dome with a floor. The\
+      \ wall provides total cover. It has AC 17, 30 hit points, and immunity to poison\
+      \ and psychic damage."
+    "name": "Force Barrier (Recharge 5-6)"
+  - "desc": "The professor casts one of the following spells, requiring no material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 15):\n\nAt will: [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
+      \n2/day each: [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "When a creature the professor can see within 60 feet of it casts a spell,\
-    \ the professor can magically lock the casting in the moment before completion.\
-    \ The spellcaster must succeed on a DC 15 saving throw using the spell's spellcasting\
-    \ ability, or the spell fails and is wasted."
-  "name": "Arcane Stasis (2/Day)"
+  - "desc": "When a creature the professor can see within 60 feet of it casts a spell,\
+      \ the professor can magically lock the casting in the moment before completion.\
+      \ The spellcaster must succeed on a DC 15 saving throw using the spell's spellcasting\
+      \ ability, or the spell fails and is wasted."
+    "name": "Arcane Stasis (2/Day)"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/lorehold-professor-of-order-scc.webp"
 ```
 ^statblock

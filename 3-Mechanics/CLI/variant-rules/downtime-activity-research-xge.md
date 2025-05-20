@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Activity: Research"]
+aliases:
+- Downtime Activity: Research
 ---
 # Downtime Activity: Research
 *Source: Xanathar's Guide to Everything p. 132* 

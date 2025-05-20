@@ -16,7 +16,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Foresight"]
+aliases:
+- Foresight
 ---
 # Foresight
 *9th-level, Divination*  
@@ -29,6 +30,6 @@ aliases: ["Foresight"]
 
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), and other creatures have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

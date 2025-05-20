@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Mage Apprentice"]
+statblock-link: "#^statblock"
+aliases:
+- Mage Apprentice
 ---
 # [Mage Apprentice](3-Mechanics\CLI\bestiary\humanoid/mage-apprentice-xmm.md)
 *Source: Monster Manual (2024) p. 198*  
@@ -57,37 +59,39 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 "ac": !!int "15"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "12"
-- !!int "16"
-- !!int "13"
-- !!int "10"
+  - !!int "8"
+  - !!int "14"
+  - !!int "12"
+  - !!int "16"
+  - !!int "13"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "3"
-  "Intelligence": !!int "5"
+  - "intelligence": "+5"
+  - "wisdom": "+3"
 "skillsaves":
-  "Perception": !!int "3"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "2"
-"traits":
-- "desc": "The mage casts one of the following spells, using Intelligence as the spellcasting\
-    \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will: [Mage\
-    \ Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ [Ice Knife](/3-Mechanics/CLI/spells/ice-knife-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-    \ (included in AC), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
-    \ 14 (2d10 + 3) Force damage."
-  "name": "Arcane Burst"
+  - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 120 ft. Hit:\
+      \ 14 (2d10 + 3) Force damage."
+    "name": "Arcane Burst"
+  - "desc": "The mage casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 13, +5 to hit with spell attacks):\n\n\
+      At will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n1/day each: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [Ice Knife](/3-Mechanics/CLI/spells/ice-knife-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage-apprentice-xmm.webp"
 ```
 ^statblock

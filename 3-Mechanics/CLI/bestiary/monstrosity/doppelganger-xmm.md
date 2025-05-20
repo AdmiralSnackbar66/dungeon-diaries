@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Doppelganger"]
+statblock-link: "#^statblock"
+aliases:
+- Doppelganger
 ---
 # [Doppelganger](3-Mechanics\CLI\bestiary\monstrosity/doppelganger-xmm.md)
-*Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Doppelganger
 
@@ -52,46 +54,49 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 "ac": !!int "14"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
+"modifier": !!int "4"
 "stats":
-- !!int "11"
-- !!int "18"
-- !!int "14"
-- !!int "11"
-- !!int "12"
-- !!int "14"
+  - !!int "11"
+  - !!int "18"
+  - !!int "14"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "6"
-  "Insight": !!int "3"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+6"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+3"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common plus three other languages"
 "cr": "3"
-"traits":
-- "desc": "The doppelganger casts [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ requiring no spell components and using Charisma as the spellcasting ability\
-    \ (spell save DC 12).\n\nAt will: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md)"
-  "name": "Read Thoughts"
 "actions":
-- "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if available."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ during the first round of each combat), reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
-    \ damage."
-  "name": "Slam"
-- "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the doppelganger that can see the doppelganger. Failure:\
-    \ The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
-    \ and repeats the save at the end of each of its turns, ending the effect on itself\
-    \ on a success. After 1 minute, it succeeds automatically."
-  "name": "Unsettling Visage (Recharge 6)"
+  - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
+      \ available."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ during the first round of each combat), reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the doppelganger that can see the doppelganger. Failure:\
+      \ The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Unsettling Visage (Recharge 6)"
+  - "desc": "The doppelganger casts [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ requiring no spell components and using Charisma as the spellcasting ability\
+      \ (spell save DC 12).\n"
+    "name": "Read Thoughts"
 "bonus_actions":
-- "desc": "The doppelganger shape-shifts into a Medium or Small Humanoid, or it returns\
-    \ to its true form. Its game statistics, other than its size, are the same in\
-    \ each form. Any equipment it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The doppelganger shape-shifts into a Medium or Small Humanoid, or it\
+      \ returns to its true form. Its game statistics, other than its size, are the\
+      \ same in each form. Any equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger-xmm.webp"
 ```
 ^statblock

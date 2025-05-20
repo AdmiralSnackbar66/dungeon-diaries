@@ -29,4 +29,4 @@ You can take the [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action to pour a
 
 Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action) and rekindle it again until it has burned for a total of 6 hours.
 
-*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

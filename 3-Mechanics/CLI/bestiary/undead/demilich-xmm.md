@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Demilich"]
+statblock-link: "#^statblock"
+aliases:
+- Demilich
 ---
 # [Demilich](3-Mechanics\CLI\bestiary\undead/demilich-xmm.md)
 *Source: Monster Manual (2024) p. 96*  
@@ -34,18 +36,19 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
 "ac": !!int "20"
 "hp": !!int "180"
 "hit_dice": "72d4"
+"modifier": !!int "17"
 "stats":
-- !!int "1"
-- !!int "20"
-- !!int "10"
-- !!int "20"
-- !!int "17"
-- !!int "20"
+  - !!int "1"
+  - !!int "20"
+  - !!int "10"
+  - !!int "20"
+  - !!int "17"
+  - !!int "20"
 "speed": "5 ft., fly 30 ft. (hover)"
 "saves":
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "11"
-  "Constitution": !!int "6"
+  - "constitution": "+6"
+  - "intelligence": "+11"
+  - "wisdom": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison, psychic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
@@ -57,55 +60,55 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
 "languages": ""
 "cr": "18"
 "traits":
-- "desc": "If the demilich fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-- "desc": "If the demilich is destroyed, it reforms and regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ in 1d10 days unless a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell is\
-    \ cast on its remains."
-  "name": "Undead Restoration"
+  - "desc": "If the demilich fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
+  - "desc": "If the demilich is destroyed, it reforms and regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in d10 days unless a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell is\
+      \ cast on its remains."
+    "name": "Undead Restoration"
 "actions":
-- "desc": "The demilich makes three Necrotic Burst attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +11, reach 5 ft. or range 120 ft. Hit:\
-    \ 24 (7d6) Necrotic damage."
-  "name": "Necrotic Burst"
-- "desc": "Constitution Saving Throw: DC 19, each creature in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the demilich. Failure: 70 (20d6) Psychic damage. Failure\
-    \ or Success: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ condition until the start of the demilich's next turn."
-  "name": "Howl (Recharge 5-6)"
+  - "desc": "The demilich makes three Necrotic Burst attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +11, reach 5 ft. or range 120 ft. Hit:\
+      \ 24 (7d6) Necrotic damage."
+    "name": "Necrotic Burst"
+  - "desc": "Constitution Saving Throw: DC 19, each creature in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the demilich. Failure: 70 (20d6) Psychic damage. Failure\
+      \ or Success: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ condition until the start of the demilich's next turn."
+    "name": "Howl (Recharge 5-6)"
 "legendary_actions":
-- "desc": "Constitution Saving Throw: DC 19, one creature the demilich can see within\
-    \ 120 feet. Failure: The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by 14 (4d6). Failure or Success: The demilich can't take\
-    \ this action again until the start of its next turn."
-  "name": "Energy Drain"
-- "desc": "The demilich flies up to its [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md),\
-    \ shedding grave dust. Each creature within 5 feet of the demilich as it moves\
-    \ is targeted once by the following effect. Constitution Saving Throw: DC 19.\
-    \ Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-    \ condition until the end of the demilich's next turn. Failure or Success: The\
-    \ demilich can't take this action again until the start of its next turn."
-  "name": "Grave-Dust Flight"
-- "desc": "The demilich makes one Necrotic Burst attack."
-  "name": "Necrosis"
+  - "desc": "Constitution Saving Throw: DC 19, one creature the demilich can see\
+      \ within 120 feet. Failure: The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by 14 (4d6). Failure or Success: The demilich can't take\
+      \ this action again until the start of its next turn."
+    "name": "Energy Drain"
+  - "desc": "The demilich flies up to its [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md),\
+      \ shedding grave dust. Each creature within 5 feet of the demilich as it moves\
+      \ is targeted once by the following effect. Constitution Saving Throw: DC\
+      \ 19. Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ condition until the end of the demilich's next turn. Failure or Success:\
+      \ The demilich can't take this action again until the start of its next turn."
+    "name": "Grave-Dust Flight"
+  - "desc": "The demilich makes one Necrotic Burst attack."
+    "name": "Necrosis"
 "regional_effects":
-- "desc": "The region containing a demilich's lair is twisted by its presence, creating\
-    \ the following effects:"
-  "name": ""
-- "desc": "- Enervating Domain. Whenever a creature other than the demilich or\
-    \ one of its allies finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
-    \ within 1 mile of the lair, the creature must succeed on a DC 20 Constitution\
-    \ saving throw or have its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ maximum reduced by 1d4. This reduction lasts until the creature finishes a [Long\
-    \ Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) outside that area. \
-    \ \n- Travel Ward. Creatures can't use teleportation or planar travel to enter\
-    \ or exit the lair.  "
-  "name": ""
-- "desc": "If the demilich dies or moves its lair elsewhere, these effects end immediately."
-  "name": ""
+  - "desc": "The region containing a demilich's lair is twisted by its presence, creating\
+      \ the following effects:"
+    "name": ""
+  - "desc": "- Enervating Domain. Whenever a creature other than the demilich\
+      \ or one of its allies finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ within 1 mile of the lair, the creature must succeed on a DC 20 Constitution\
+      \ saving throw or have its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum reduced by d4. This reduction lasts until the creature finishes a\
+      \ [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) outside that\
+      \ area.  \n- Travel Ward. Creatures can't use teleportation or planar travel\
+      \ to enter or exit the lair.  "
+    "name": ""
+  - "desc": "If the demilich dies or moves its lair elsewhere, these effects end immediately."
+    "name": ""
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/demilich-xmm.webp"
 ```
 ^statblock

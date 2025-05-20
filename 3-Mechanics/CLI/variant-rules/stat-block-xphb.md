@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Stat Block"]
+aliases:
+- Stat Block
 ---
 # Stat Block
-*Source: Player's Handbook (2024) p. 374* 
+*Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 A stat block contains the game slatistics of a [monster](/3-Mechanics/CLI/variant-rules/monster-xphb.md). Each stat block includes the following information presented after the [monster's](/3-Mechanics/CLI/variant-rules/monster-xphb.md) name.
 

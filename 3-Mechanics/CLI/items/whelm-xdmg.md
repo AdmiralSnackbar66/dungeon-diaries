@@ -27,7 +27,7 @@ You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon
 
 ## Hurl
 
-Whelm has [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown) with a normal range of 60 feet and a long range of 180 feet. When you hit with a ranged attack roll using Whelm, the target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) Force damage, or an extra `dice:4d8|noform|noparens|avg` (`4d8`) Force damage if the target is a Construct, an Elemental, or a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
+Whelm has [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown) with a normal range of 60 feet and a long range of 180 feet. When you hit with a ranged attack roll using Whelm, the target takes an extra `dice:1d8|noform|noparens|avg` (`d8`) Force damage, or an extra `dice:4d8|noform|noparens|avg` (`4d8`) Force damage if the target is a Construct, an Elemental, or a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
 
 ## Shock Wave
 

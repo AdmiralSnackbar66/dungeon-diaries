@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Spy Master"]
+statblock-link: "#^statblock"
+aliases:
+- Spy Master
 ---
 # [Spy Master](3-Mechanics\CLI\bestiary\humanoid/spy-master-xmm.md)
 *Source: Monster Manual (2024) p. 295*  
@@ -44,49 +46,56 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 "ac": !!int "19"
 "hp": !!int "137"
 "hit_dice": "25d8 + 25"
+"modifier": !!int "9"
 "stats":
-- !!int "10"
-- !!int "20"
-- !!int "12"
-- !!int "18"
-- !!int "16"
-- !!int "16"
+  - !!int "10"
+  - !!int "20"
+  - !!int "12"
+  - !!int "18"
+  - !!int "16"
+  - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": !!int "9"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "8"
-  "Constitution": !!int "5"
+  - "dexterity": "+9"
+  - "constitution": "+5"
+  - "intelligence": "+8"
+  - "wisdom": "+7"
 "skillsaves":
-  "Sleight of Hand": !!int "9"
-  "Deception": !!int "7"
-  "Stealth": !!int "13"
-  "Investigation": !!int "8"
-  "Insight": !!int "7"
-  "Perception": !!int "11"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+7"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+7"
+  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+    "desc": "+8"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+11"
+  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+    "desc": "+9"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+13"
 "senses": "passive Perception 21"
 "languages": "Common plus two other languages"
 "cr": "10"
 "actions":
-- "desc": "The spy makes three attacks, using Rapier or Hand Crossbow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Rapier"
-- "desc": "Ranged Attack Roll: +9, range 30/120 ft. Hit: 12 (2d6 + 5) Piercing\
-    \ damage plus 9 (2d8) Poison damage."
-  "name": "Hand Crossbow"
-- "desc": "The spy throws a bomb to a point it can see within 30 feet of itself. Constitution\
-    \ Saving Throw: DC 16, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
-    \ centered on that point. Failure: 28 (8d6) Poison damage, and the target has\
-    \ the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until the end\
-    \ of the spy's next turn. Success: Half damage only."
-  "name": "Smoke Bomb (1/Day)"
+  - "desc": "The spy makes three attacks, using Rapier or Hand Crossbow in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage\
+      \ plus 7 (2d6) Poison damage."
+    "name": "Rapier"
+  - "desc": "Ranged Attack Roll: +9, range 30/120 ft. Hit: 12 (2d6 + 5) Piercing\
+      \ damage plus 9 (2d8) Poison damage."
+    "name": "Hand Crossbow"
+  - "desc": "The spy throws a bomb to a point it can see within 30 feet of itself.\
+      \ Constitution Saving Throw: DC 16, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on that point. Failure: 28 (8d6) Poison damage, and the target\
+      \ has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until\
+      \ the end of the spy's next turn. Success: Half damage only."
+    "name": "Smoke Bomb (1/Day)"
 "bonus_actions":
-- "desc": "The spy takes the Dash, Disengage, or Hide action."
-  "name": "Cunning Action"
+  - "desc": "The spy takes the Dash, Disengage, or Hide action."
+    "name": "Cunning Action"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/spy-master-xmm.webp"
 ```
 ^statblock

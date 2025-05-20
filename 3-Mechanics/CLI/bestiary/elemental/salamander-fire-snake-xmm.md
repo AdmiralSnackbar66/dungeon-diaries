@@ -10,7 +10,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Salamander Fire Snake"]
+statblock-link: "#^statblock"
+aliases:
+- Salamander Fire Snake
 ---
 # [Salamander Fire Snake](3-Mechanics\CLI\bestiary\elemental/salamander-fire-snake-xmm.md)
 *Source: Monster Manual (2024) p. 266*  
@@ -41,13 +43,14 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "ac": !!int "14"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "14"
-- !!int "11"
-- !!int "7"
-- !!int "10"
-- !!int "8"
+  - !!int "12"
+  - !!int "14"
+  - !!int "11"
+  - !!int "7"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
@@ -55,16 +58,16 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "languages": "understands Primordial but can't speak"
 "cr": "1"
 "traits":
-- "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-    \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the salamander takes 3 (1d6) Fire damage."
-  "name": "Fire Aura"
+  - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
+      \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the salamander takes 3 (d6) Fire damage."
+    "name": "Fire Aura"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage\
-    \ plus 3 (1d6) Fire damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage\
+      \ plus 3 (d6) Fire damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-fire-snake-xmm.webp"
 ```
 ^statblock

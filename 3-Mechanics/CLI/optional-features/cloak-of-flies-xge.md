@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/optional-feature/ei
-aliases: ["Cloak of Flies"]
+aliases:
+- Cloak of Flies
 ---
 # Cloak of Flies
 *Source: Xanathar's Guide to Everything p. 56*  

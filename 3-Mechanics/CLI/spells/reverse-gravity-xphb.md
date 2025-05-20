@@ -14,7 +14,8 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Reverse Gravity"]
+aliases:
+- Reverse Gravity
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  
@@ -31,4 +32,4 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

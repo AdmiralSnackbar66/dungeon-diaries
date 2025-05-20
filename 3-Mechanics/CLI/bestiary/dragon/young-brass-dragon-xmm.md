@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Young Brass Dragon"]
+statblock-link: "#^statblock"
+aliases:
+- Young Brass Dragon
 ---
 # [Young Brass Dragon](3-Mechanics\CLI\bestiary\dragon/young-brass-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
 
@@ -41,44 +43,48 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
 "ac": !!int "17"
 "hp": !!int "110"
 "hit_dice": "13d10 + 39"
+"modifier": !!int "3"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "17"
-- !!int "12"
-- !!int "11"
-- !!int "15"
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
 "speed": "40 ft., burrow 20 ft., fly 80 ft."
 "saves":
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "3"
+  - "dexterity": "+3"
+  - "wisdom": "+3"
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "6"
-  "Persuasion": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+3"
 "damage_immunities": "fire"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
 "actions":
-- "desc": "The dragon makes three Rend attacks. It can replace two attacks with a\
-    \ use of Sleep Breath."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
-    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
-    \ 38 (11d6) Fire damage. Success: Half damage."
-  "name": "Fire Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition until the end of its next turn, at which point it repeats the save.\
-    \ 2nd Failure: The target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-    \ condition for 1 minute. This effect ends for the target if it takes damage or\
-    \ a creature within 5 feet of it takes an action to wake it."
-  "name": "Sleep Breath"
+  - "desc": "The dragon makes three Rend attacks. It can replace two attacks with\
+      \ a use of Sleep Breath."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 14, each creature in a 40-foot-long, 5-foot-wide\
+      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ 38 (11d6) Fire damage. Success: Half damage."
+    "name": "Fire Breath (Recharge 5-6)"
+  - "desc": "Constitution Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition until the end of its next turn, at which point it repeats the save.\
+      \ 2nd Failure: The target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ condition for 1 minute. This effect ends for the target if it takes damage\
+      \ or a creature within 5 feet of it takes an action to wake it."
+    "name": "Sleep Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/young-brass-dragon-xmm.webp"
 ```
 ^statblock

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations"]
+aliases:
+- Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
 ---
 # Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 

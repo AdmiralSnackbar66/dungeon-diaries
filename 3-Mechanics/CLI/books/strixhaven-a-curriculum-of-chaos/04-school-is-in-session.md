@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["School Is in Session"]
+aliases:
+- School Is in Session
 ---
 # School Is in Session
 *Source: Strixhaven: A Curriculum of Chaos, p. 41* 
@@ -131,7 +132,7 @@ Student characters can join any of the following Extracurriculars.
 #### Dead Languages Society
 
 - **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [History](/3-Mechanics/CLI/skills.md#History)  
-- **Member.** [[#Drazhomir Yarnask]], [[##Quentillius Antiphiun Melentor III]]  
+- **Member.** Drazhomir Yarnask, Quentillius A. Melentor III  
 
 These linguistics lovers take advantage of Strixhaven's deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.
 
@@ -180,7 +181,7 @@ These graceful gymnasts work to hone their craft, and they compete against each 
 #### Intramural Silkball Club
 
 - **Skills.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
-- **Member.** Javenesh Stoutclaw, [[#Melwythorne]], [[#Tilana Kapule]]  
+- **Member.** Javenesh Stoutclaw, Melwythorne, Tilana Kapule  
 
 These hardy athletes train together and compete in the rough-and-tumble Strixhaven game of silkball, which is played in muddy fields with balls made of spider silk.
 
@@ -201,14 +202,14 @@ These storytelling enthusiasts engage in a mix of strategy and playacting—ofte
 #### Mage Tower Cheer Squad
 
 - **Skills.** [Perception](/3-Mechanics/CLI/skills.md#Perception), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
-- **Member.** [[#Zanther Bowen]]  
+- **Member.** Zanther Bowen  
 
 With their coordinated cheers, outfits, and school spirit, these cheerleaders inspire pride in the official Strixhaven University Mage Tower teams.
 
 #### Playactors Drama Guild
 
 - **Skills.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Deception](/3-Mechanics/CLI/skills.md#Deception)  
-- **Member.** [[#Quentillius Antiphiun Melentor III]], Rubina Larkingdale  
+- **Member.** Quentillius A. Melentor III, Rubina Larkingdale  
 
 These actors work together to create productions of brilliant stagecraft, often involving new spins on old classics as well as displays of magic and music.
 
@@ -222,14 +223,14 @@ These bodybuilders support each other in developing strong muscles and even stro
 #### Strixhaven Show Band Association
 
 - **Skills.** [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
-- **Member.** [[#Aurora Luna Wynterstarr]], [[#Rubina Larkingdale]]  
+- **Member.** Aurora Luna Wynterstarr, Rubina Larkingdale  
 
 These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes, and drums, and they regularly perform rousing concerts.
 
 #### Strixhaven Star
 
 - **Skills.** [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Insight](/3-Mechanics/CLI/skills.md#Insight)  
-- **Member.** [[#Grayson Wildemere]], Mina Lee  
+- **Member.** Grayson Wildemere, Mina Lee  
 
 These truth seekers and wordsmiths report on campus news, regularly interviewing important figures and producing the monthly *Strixhaven Star* newspaper, which is distributed across the campus.
 
@@ -269,47 +270,47 @@ Student characters can find work at the places below. A number of possible posit
 #### Biblioplex
 
 - **Jobs.** Book clerk, book shelver, café worker, cleanup crew member, garden tender, store worker  
-- **Coworker.**  [[#Drazhomir Yarnask]]
+- **Coworker.** Drazhomir Yarnask  
 
 #### Bow's End Tavern
 
 - **Jobs.** Assistant manager, cleanup crew member, cook, host, server  
-- **Coworker.** [[#Javenesh Stoutclaw ]]
+- **Coworker.** Javenesh Stoutclaw  
 
 #### Campus Grounds
 
 - **Jobs.** Graffiti eraser, lawn manicurist, litter retriever, sidewalk sweeper, statuary repairer, trash collector  
-- **Coworker.** [[#Shuvadri Glintmantle ]] 
+- **Coworker.** Shuvadri Glintmantle  
 
 #### Campus Magic Labs
 
 - **Jobs.** Cleanup crew member, specimen preparer, volunteer lab partner  
-- **Coworker.** [[#Urzmaktok Grojsh]]  
+- **Coworker.** Urzmaktok Grojsh  
 
 #### Dormitories
 
 - **Jobs.** Cleanup crew member, events assistant, front-desk worker, resident assistant  
-- **Coworker.** [[#Nora Ann Wu]]  
+- **Coworker.** Nora Ann Wu  
 
 #### Firejolt Café
 
 - **Jobs.** Barista, cashier, cleanup crew member, server  
-- **Coworker.** [[#Mina Lee]]  
+- **Coworker.** Mina Lee  
 
 #### Intramural Fields
 
 - **Jobs.** Cleanup crew member, crowd manager, equipment assistant, groundskeeper, referee  
-- **Coworker.** [[#Rosimyffenbip "Rosie" Wuzfeddlims]]  
+- **Coworker.** Rosimyffenbip "Rosie" Wuzfeddlims  
 
 #### Strixhaven Performing Arts Society
 
 - **Jobs.** Cleanup crew member, general assistant, refreshments expert, stagehand, ticket taker, usher  
-- **Coworker.** [[#Larine Arneza]]  
+- **Coworker.** Larine Arneza  
 
 #### Strixhaven Stadium
 
 - **Jobs.** Cleanup crew member, entertainment assistant, equipment assistant, groundskeeper, refreshments expert, ticket taker, usher  
-- **Coworker.** [[#Aurora Luna Wynterstarr]],[[# Greta Gorunn ]] 
+- **Coworker.** Aurora Luna Wynterstarr, Greta Gorunn  
 
 ## Exams
 

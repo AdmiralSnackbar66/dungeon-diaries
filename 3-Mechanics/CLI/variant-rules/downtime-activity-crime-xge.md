@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Activity: Crime"]
+aliases:
+- Downtime Activity: Crime
 ---
 # Downtime Activity: Crime
 *Source: Xanathar's Guide to Everything p. 130* 

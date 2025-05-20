@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Succubus"]
+statblock-link: "#^statblock"
+aliases:
+- Succubus
 ---
 # [Succubus](3-Mechanics\CLI\bestiary\fiend/succubus-xmm.md)
-*Source: Monster Manual (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Succubus
 
@@ -48,52 +50,58 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 "ac": !!int "15"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "17"
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "20"
+  - !!int "8"
+  - !!int "17"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Deception": !!int "9"
-  "Stealth": !!int "7"
-  "Insight": !!int "5"
-  "Perception": !!int "5"
-  "Persuasion": !!int "9"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+9"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+9"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-- "desc": "When the succubus finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
-    \ it can shape-shift into an [Incubus](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md),\
-    \ using that stat block instead of this one."
-  "name": "Incubus Form"
+  - "desc": "When the succubus finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ it can shape-shift into an [Incubus](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md),\
+      \ using that stat block instead of this one."
+    "name": "Incubus Form"
 "actions":
-- "desc": "The succubus makes one Fiendish Touch attack and uses Charm or Draining\
-    \ Kiss."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage."
-  "name": "Fiendish Touch"
-- "desc": "The succubus casts [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)\
-    \ (level 8 version), requiring no spell components and using Charisma as the spellcasting\
-    \ ability (spell save DC 15)."
-  "name": "Charm"
-- "desc": "Constitution Saving Throw: DC 15, one creature [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-    \ by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success:\
-    \ Half damage. Failure or Success: The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the damage taken."
-  "name": "Draining Kiss"
+  - "desc": "The succubus makes one Fiendish Touch attack and uses Charm or Draining\
+      \ Kiss."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Psychic damage."
+    "name": "Fiendish Touch"
+  - "desc": "The succubus casts [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)\
+      \ (level 8 version), requiring no spell components and using Charisma as the\
+      \ spellcasting ability (spell save DC 15)."
+    "name": "Charm"
+  - "desc": "Constitution Saving Throw: DC 15, one creature [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ by the succubus within 5 feet. Failure: 13 (3d8) Psychic damage. Success:\
+      \ Half damage. Failure or Success: The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the damage taken."
+    "name": "Draining Kiss"
 "bonus_actions":
-- "desc": "The succubus shape-shifts to resemble a Medium or Small Humanoid or back\
-    \ into its true form. Its game statistics are the same in each form, except its\
-    \ [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) is available only\
-    \ in its true form. Any equipment it's wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The succubus shape-shifts to resemble a Medium or Small Humanoid or back\
+      \ into its true form. Its game statistics are the same in each form, except\
+      \ its [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) is available\
+      \ only in its true form. Any equipment it's wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/succubus-xmm.webp"
 ```
 ^statblock

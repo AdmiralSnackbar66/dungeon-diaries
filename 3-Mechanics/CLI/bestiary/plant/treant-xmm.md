@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Treant"]
+statblock-link: "#^statblock"
+aliases:
+- Treant
 ---
 # [Treant](3-Mechanics\CLI\bestiary\plant/treant-xmm.md)
-*Source: Monster Manual (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Treant
 
@@ -46,13 +48,14 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 "ac": !!int "16"
 "hp": !!int "138"
 "hit_dice": "12d12 + 60"
+"modifier": !!int "3"
 "stats":
-- !!int "23"
-- !!int "8"
-- !!int "21"
-- !!int "12"
-- !!int "16"
-- !!int "12"
+  - !!int "23"
+  - !!int "8"
+  - !!int "21"
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
@@ -60,26 +63,27 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 "languages": "Common, Druidic, Elvish, Sylvan"
 "cr": "9"
 "traits":
-- "desc": "The treant deals double damage to objects and structures."
-  "name": "Siege Monster"
+  - "desc": "The treant deals double damage to objects and structures."
+    "name": "Siege Monster"
 "actions":
-- "desc": "The treant makes two Slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Bludgeoning damage."
-  "name": "Slam"
-- "desc": "Ranged Attack Roll: +10, range 180 ft. Hit: 28 (4d10 + 6) Piercing\
-    \ damage."
-  "name": "Hail of Bark"
-- "desc": "The treant magically animates up to two trees it can see within 60 feet\
-    \ of itself. Each tree uses the Treant stat block, except it has Intelligence\
-    \ and Charisma scores of 1, it can't speak, and it lacks this action. The tree\
-    \ takes its turn immediately after the treant on the same [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
-    \ count, and it obeys the treant. A tree remains animate for 1 day or until it\
-    \ dies, the treant dies, or it is more than 120 feet from the treant. The tree\
-    \ then takes root if possible."
-  "name": "Animate Trees (1/Day)"
+  - "desc": "The treant makes two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Bludgeoning\
+      \ damage."
+    "name": "Slam"
+  - "desc": "Ranged Attack Roll: +10, range 180 ft. Hit: 28 (4d10 + 6) Piercing\
+      \ damage."
+    "name": "Hail of Bark"
+  - "desc": "The treant magically animates up to two trees it can see within 60 feet\
+      \ of itself. Each tree uses the Treant stat block, except it has Intelligence\
+      \ and Charisma scores of 1, it can't speak, and it lacks this action. The tree\
+      \ takes its turn immediately after the treant on the same [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
+      \ count, and it obeys the treant. A tree remains animate for 1 day or until\
+      \ it dies, the treant dies, or it is more than 120 feet from the treant. The\
+      \ tree then takes root if possible."
+    "name": "Animate Trees (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/treant-xmm.webp"
 ```
 ^statblock

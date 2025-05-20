@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mv-b
-aliases: ["Disarming Attack"]
+aliases:
+- Disarming Attack
 ---
 # Disarming Attack
 *Source: Player's Handbook (2024) p. 95*  

@@ -26,7 +26,8 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 - Warlock
-aliases: ["Speak with Animals"]
+aliases:
+- Speak with Animals
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  
@@ -41,6 +42,6 @@ For the duration, you can comprehend and verbally communicate with Beasts, and y
 
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-barbarian-xphb-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

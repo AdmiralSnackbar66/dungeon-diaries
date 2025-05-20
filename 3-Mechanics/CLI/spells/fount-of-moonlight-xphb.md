@@ -12,7 +12,8 @@ classes:
 - Bard
 - Druid
 - Druid (Circle of the Moon)
-aliases: ["Fount of Moonlight"]
+aliases:
+- Fount of Moonlight
 ---
 # Fount of Moonlight
 *4th-level, Evocation*  
@@ -29,6 +30,6 @@ Until the spell ends, you have [Resistance](/3-Mechanics/CLI/variant-rules/resis
 
 In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until the end of your next turn.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Druid (Circle of the Moon)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 277*

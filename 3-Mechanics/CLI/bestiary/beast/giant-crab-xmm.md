@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Crab"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Crab
 ---
 # [Giant Crab](3-Mechanics\CLI\bestiary\beast/giant-crab-xmm.md)
-*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,30 +28,32 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "15"
 "hp": !!int "13"
 "hit_dice": "3d8"
+"modifier": !!int "1"
 "stats":
-- !!int "13"
-- !!int "13"
-- !!int "11"
-- !!int "1"
-- !!int "9"
-- !!int "3"
+  - !!int "13"
+  - !!int "13"
+  - !!int "11"
+  - !!int "1"
+  - !!int "9"
+  - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+3"
 "senses": "blindsight 30 ft., passive Perception 9"
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The crab can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The crab can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 11) from one of two claws."
-  "name": "Claw"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage.\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 11) from one of two claws."
+    "name": "Claw"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-crab-xmm.webp"
 ```
 ^statblock

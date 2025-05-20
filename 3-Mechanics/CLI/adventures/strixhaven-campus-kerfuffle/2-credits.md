@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc-ck
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Strixhaven: Campus Kerfuffle* 

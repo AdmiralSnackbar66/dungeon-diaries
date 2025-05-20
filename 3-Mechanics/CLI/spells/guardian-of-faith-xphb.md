@@ -16,7 +16,8 @@ classes:
 - Paladin (Oath of Devotion)
 - Sorcerer (Divine Soul)
 - Warlock (Celestial Patron)
-aliases: ["Guardian of Faith"]
+aliases:
+- Guardian of Faith
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  
@@ -31,6 +32,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

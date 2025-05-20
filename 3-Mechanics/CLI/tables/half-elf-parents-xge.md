@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Half-Elf Parents"]
+aliases:
+- Half-Elf Parents
 ---
 # Half-Elf Parents
 *Source: Xanathar's Guide to Everything p. 62* 

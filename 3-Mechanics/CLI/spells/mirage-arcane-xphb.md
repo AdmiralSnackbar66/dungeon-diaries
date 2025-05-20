@@ -14,7 +14,8 @@ classes:
 - Druid
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Mirage Arcane"]
+aliases:
+- Mirage Arcane
 ---
 # Mirage Arcane
 *7th-level, Illusion*  
@@ -33,6 +34,6 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 Creatures with [Truesight](/3-Mechanics/CLI/senses.md#Truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

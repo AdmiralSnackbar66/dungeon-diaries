@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Potions for Sale"]
+aliases:
+- Potions for Sale
 ---
 # Potions for Sale
 *Source: Xanathar's Guide to Everything* 

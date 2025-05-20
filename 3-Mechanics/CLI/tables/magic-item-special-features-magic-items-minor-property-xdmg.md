@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Magic Item Special Features; Magic Item's Minor Property"]
+aliases:
+- Magic Item Special Features; Magic Item's Minor Property
 ---
 # Magic Item Special Features; Magic Item's Minor Property
 *Source: Dungeon Master's Guide (2024) p. 222* 

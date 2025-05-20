@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/2nd-level
+- ttrpg-cli/spell/race/yuan-ti-pureblood
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
@@ -22,7 +23,8 @@ classes:
 - Warlock
 - Warlock (Fiend Patron)
 - Wizard
-aliases: ["Suggestion"]
+aliases:
+- Suggestion
 ---
 # Suggestion
 *2nd-level, Enchantment*  
@@ -37,6 +39,6 @@ You suggest a course of activity—described in no more than 25 words—to one c
 
 The target must succeed on a Wisdom saving throw or have the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition for the duration or until you or your allies deal damage to the target. The [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

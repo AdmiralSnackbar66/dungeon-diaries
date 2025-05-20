@@ -18,4 +18,4 @@ aliases:
 - [Bag of Tricks, Rust](/3-Mechanics/CLI/items/bag-of-tricks-rust-xdmg.md)
 - [Bag of Tricks, Tan](/3-Mechanics/CLI/items/bag-of-tricks-tan-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 234*
+*Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

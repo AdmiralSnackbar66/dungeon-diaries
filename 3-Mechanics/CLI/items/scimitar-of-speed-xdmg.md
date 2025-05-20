@@ -20,4 +20,4 @@ aliases:
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon. In addition, you can make one attack with it as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on each of your turns.
 
-*Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

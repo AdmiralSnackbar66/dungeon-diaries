@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Special Facility Descriptions; Special Facilities"]
+aliases:
+- Special Facility Descriptions; Special Facilities
 ---
 # Special Facility Descriptions; Special Facilities
 *Source: Dungeon Master's Guide (2024) p. 336* 

@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Spined Devil"]
+statblock-link: "#^statblock"
+aliases:
+- Spined Devil
 ---
 # [Spined Devil](3-Mechanics\CLI\bestiary\fiend/spined-devil-xmm.md)
 *Source: Monster Manual (2024) p. 296*  
@@ -46,13 +48,14 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "ac": !!int "13"
 "hp": !!int "45"
 "hit_dice": "10d6 + 10"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "14"
-- !!int "8"
+  - !!int "10"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
+  - !!int "14"
+  - !!int "8"
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
@@ -62,24 +65,24 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
 "traits":
-- "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of an\
-    \ enemy's reach."
-  "name": "Flyby"
-- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of\
+      \ an enemy's reach."
+    "name": "Flyby"
+  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes two attacks, using Infernal Fork and Tail Spine in any\
-    \ combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
-    \ plus 3 (1d6) Fire damage."
-  "name": "Infernal Fork"
-- "desc": "Ranged Attack Roll: +4, range 20/80 ft. Hit: 4 (1d4 + 2) Piercing damage\
-    \ plus 3 (1d6) Fire damage."
-  "name": "Tail Spine"
+  - "desc": "The devil makes two attacks, using Infernal Fork and Tail Spine in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
+      \ plus 3 (d6) Fire damage."
+    "name": "Infernal Fork"
+  - "desc": "Ranged Attack Roll: +4, range 20/80 ft. Hit: 4 (1d4 + 2) Piercing\
+      \ damage plus 3 (d6) Fire damage."
+    "name": "Tail Spine"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
 ```
 ^statblock

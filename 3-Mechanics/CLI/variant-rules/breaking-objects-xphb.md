@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Breaking Objects"]
+aliases:
+- Breaking Objects
 ---
 # Breaking Objects
-*Source: Player's Handbook (2024) p. 362* 
+*Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 Objects can be harmed by attacks and by some spells, using the rules below. If an object is exceedingly fragile, the DM may allow a creature to break it automatically with the [Attack](/3-Mechanics/CLI/actions.md#Attack) or [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action.
 
@@ -35,10 +36,10 @@ An object is destroyed when it has 0 Hit Points. The Object Hit Points table sug
 
 | Size | Fragile | Resilient |
 |------|---------|-----------|
-| Tiny (bottle, lock) | 2 (`dice:1d4\|noform\|noparens\|avg` (`1d4`)) | 5 (`dice:2d4\|noform\|noparens\|avg` (`2d4`)) |
-| Small (chest, lute) | 3 (`dice:1d6\|noform\|noparens\|avg` (`1d6`)) | 10 (`dice:3d6\|noform\|noparens\|avg` (`3d6`)) |
-| Medium (barrel, chandelier) | 4 (`dice:1d8\|noform\|noparens\|avg` (`1d8`)) | 18 (`dice:4d8\|noform\|noparens\|avg` (`4d8`)) |
-| Large (cart, dining table) | 5 (`dice:1d10\|noform\|noparens\|avg` (`1d10`)) | 27 (`dice:5d10\|noform\|noparens\|avg` (`5d10`)) |
+| Tiny (bottle, lock) | 2 (`dice:1d4\|noform\|noparens\|avg` (`d4`)) | 5 (`dice:2d4\|noform\|noparens\|avg` (`2d4`)) |
+| Small (chest, lute) | 3 (`dice:1d6\|noform\|noparens\|avg` (`d6`)) | 10 (`dice:3d6\|noform\|noparens\|avg` (`3d6`)) |
+| Medium (barrel, chandelier) | 4 (`dice:1d8\|noform\|noparens\|avg` (`d8`)) | 18 (`dice:4d8\|noform\|noparens\|avg` (`4d8`)) |
+| Large (cart, dining table) | 5 (`dice:1d10\|noform\|noparens\|avg` (`d10`)) | 27 (`dice:5d10\|noform\|noparens\|avg` (`5d10`)) |
 ^object-hit-points
 
 ## Damage Types and Objects

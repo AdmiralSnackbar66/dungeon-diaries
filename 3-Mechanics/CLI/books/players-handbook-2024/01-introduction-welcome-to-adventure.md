@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Introduction: Welcome to Adventure"]
+aliases:
+- Introduction: Welcome to Adventure
 ---
 # Introduction: Welcome to Adventure
 *Source: Player's Handbook (2024), p. 4* 

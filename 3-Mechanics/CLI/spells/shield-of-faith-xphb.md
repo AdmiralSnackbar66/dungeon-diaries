@@ -22,7 +22,8 @@ classes:
 - Paladin
 - Paladin (Oath of Devotion)
 - Sorcerer (Divine Soul)
-aliases: ["Shield of Faith"]
+aliases:
+- Shield of Faith
 ---
 # Shield of Faith
 *1st-level, Abjuration*  
@@ -35,6 +36,6 @@ aliases: ["Shield of Faith"]
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -23,4 +23,4 @@ When you hit a Fiend or an Undead with this magic weapon, that creature takes an
 
 While you hold this weapon, it sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 20 feet.
 
-*Source: Dungeon Master's Guide (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

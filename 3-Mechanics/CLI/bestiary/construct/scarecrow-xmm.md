@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Scarecrow"]
+statblock-link: "#^statblock"
+aliases:
+- Scarecrow
 ---
 # [Scarecrow](3-Mechanics\CLI\bestiary\construct/scarecrow-xmm.md)
 *Source: Monster Manual (2024) p. 269*  
@@ -48,13 +50,14 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "ac": !!int "11"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "3"
 "stats":
-- !!int "11"
-- !!int "13"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "13"
+  - !!int "11"
+  - !!int "13"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "13"
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
@@ -66,17 +69,17 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage,\
-    \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ condition until the end of the scarecrow's next turn."
-  "name": "Fearsome Claw"
-- "desc": "Wisdom Saving Throw: DC 11, one creature the scarecrow can see within\
-    \ 30 feet. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ condition until the end of the scarecrow's next turn. While [Frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-    \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
-  "name": "Terrifying Glare"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage,\
+      \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ condition until the end of the scarecrow's next turn."
+    "name": "Fearsome Claw"
+  - "desc": "Wisdom Saving Throw: DC 11, one creature the scarecrow can see within\
+      \ 30 feet. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ condition until the end of the scarecrow's next turn. While [Frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+      \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+    "name": "Terrifying Glare"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/scarecrow-xmm.webp"
 ```
 ^statblock

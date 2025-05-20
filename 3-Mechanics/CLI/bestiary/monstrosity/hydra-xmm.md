@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Hydra"]
+statblock-link: "#^statblock"
+aliases:
+- Hydra
 ---
 # [Hydra](3-Mechanics\CLI\bestiary\monstrosity/hydra-xmm.md)
-*Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hydra
 
@@ -47,16 +49,18 @@ While many hydras claim their own territories, wicked deities might use them to 
 "ac": !!int "15"
 "hp": !!int "184"
 "hit_dice": "16d12 + 80"
+"modifier": !!int "4"
 "stats":
-- !!int "20"
-- !!int "12"
-- !!int "20"
-- !!int "2"
-- !!int "10"
-- !!int "7"
+  - !!int "20"
+  - !!int "12"
+  - !!int "20"
+  - !!int "2"
+  - !!int "10"
+  - !!int "7"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
   \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
   \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
@@ -64,25 +68,26 @@ While many hydras claim their own territories, wicked deities might use them to 
 "languages": ""
 "cr": "8"
 "traits":
-- "desc": "The hydra can hold its breath for 1 hour."
-  "name": "Hold Breath"
-- "desc": "The hydra has five heads. Whenever the hydra takes 25 damage or more on\
-    \ a single turn, one of its heads dies. The hydra dies if all its heads are dead.\
-    \ At the end of each of its turns when it has at least one living head, the hydra\
-    \ grows two heads for each of its heads that died since its last turn, unless\
-    \ it has taken Fire damage since its last turn. The hydra regains 20 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ when it grows new heads."
-  "name": "Multiple Heads"
-- "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
-    \ that can be used only for Opportunity Attacks."
-  "name": "Reactive Heads"
+  - "desc": "The hydra can hold its breath for 1 hour."
+    "name": "Hold Breath"
+  - "desc": "The hydra has five heads. Whenever the hydra takes 25 damage or more\
+      \ on a single turn, one of its heads dies. The hydra dies if all its heads are\
+      \ dead. At the end of each of its turns when it has at least one living head,\
+      \ the hydra grows two heads for each of its heads that died since its last turn,\
+      \ unless it has taken Fire damage since its last turn. The hydra regains 20\
+      \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) when it grows\
+      \ new heads."
+    "name": "Multiple Heads"
+  - "desc": "For each head the hydra has beyond one, it gets an extra [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+      \ that can be used only for Opportunity Attacks."
+    "name": "Reactive Heads"
 "actions":
-- "desc": "The hydra makes as many Bite attacks as it has heads."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 10 (1d10 + 5) Piercing damage."
-  "name": "Bite"
+  - "desc": "The hydra makes as many Bite attacks as it has heads."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 10 (1d10 + 5) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hydra-xmm.webp"
 ```
 ^statblock

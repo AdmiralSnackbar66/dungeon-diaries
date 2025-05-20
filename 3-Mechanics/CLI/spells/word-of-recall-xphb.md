@@ -12,7 +12,8 @@ classes:
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
-aliases: ["Word of Recall"]
+aliases:
+- Word of Recall
 ---
 # Word of Recall
 *6th-level, Conjuration*  
@@ -27,6 +28,6 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

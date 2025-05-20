@@ -3,10 +3,12 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/artificer-initiate
 - ttrpg-cli/spell/feat/magic-initiate
 - ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/1st-level
@@ -16,6 +18,7 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Druid
@@ -24,7 +27,8 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Snare"]
+aliases:
+- Snare
 ---
 # Snare
 *1st-level, Abjuration*  
@@ -45,6 +49,6 @@ A [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature can make a De
 
 After the trap is triggered, the spell ends when no creature is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by it.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 165*

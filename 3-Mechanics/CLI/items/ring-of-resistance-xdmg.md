@@ -4,11 +4,12 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Resistance"
 ---
 # Ring of Resistance
-*Rare*  
+*Ring, rare*  
 
 
 
@@ -43,4 +44,4 @@ You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to one 
 - [Ring of Radiant Resistance](/3-Mechanics/CLI/items/ring-of-radiant-resistance-xdmg.md)
 - [Ring of Thunder Resistance](/3-Mechanics/CLI/items/ring-of-thunder-resistance-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 294*
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

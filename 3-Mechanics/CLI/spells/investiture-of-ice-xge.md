@@ -16,7 +16,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Investiture of Ice"]
+aliases:
+- Investiture of Ice
 ---
 # Investiture of Ice
 *6th-level, Transmutation*  

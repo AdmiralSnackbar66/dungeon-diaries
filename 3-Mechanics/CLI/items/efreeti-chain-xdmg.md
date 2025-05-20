@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Efreeti Chain"
 - "Efreeti Chain Mail"
@@ -36,4 +37,4 @@ While wearing this armor, you gain a +3 bonus to [Armor Class](/3-Mechanics/CLI/
 - **Weight**: 20.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 257*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*

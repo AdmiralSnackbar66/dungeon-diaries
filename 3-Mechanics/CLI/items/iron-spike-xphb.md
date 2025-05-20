@@ -17,4 +17,4 @@ aliases:
 
 Iron Spikes come in bundles of ten. As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can use a blunt object, such as a [Light Hammer](/3-Mechanics/CLI/items/light-hammer-xphb.md), to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [Rope](/3-Mechanics/CLI/items/rope-xphb.md) or [Chain](/3-Mechanics/CLI/items/chain-xphb.md) to the Spike.
 
-*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

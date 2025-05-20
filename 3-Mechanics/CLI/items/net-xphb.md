@@ -19,4 +19,4 @@ When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, you can r
 
 To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check, freeing the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature on a success. Destroying the Net (AC 10; 5 HP; [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
 
-*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/circle-of-spores
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/great-old-one-patron
 - ttrpg-cli/spell/subclass/trickery-domain
@@ -18,12 +19,14 @@ classes:
 - Bard
 - Cleric (Trickery Domain)
 - Druid
+- Druid (Circle of Spores)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (Great Old One Patron)
 - Wizard
-aliases: ["Confusion"]
+aliases:
+- Confusion
 ---
 # Confusion
 *4th-level, Enchantment*  
@@ -34,13 +37,13 @@ aliases: ["Confusion"]
 - **Components:** V, S, M (three nut shells)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `dice:1d10|noform|noparens|avg` (`1d10`) at the start of each of its turns to determine its behavior for that turn, consulting the table below.
+Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `dice:1d10|noform|noparens|avg` (`d10`) at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
 `dice: [](confusion-xphb.md#^1-behavior-for-the-turn)`
 
 | dice: 1d10 | Behavior for the Turn |
 |------------|-----------------------|
-| 1 | The target doesn't take an action, and it uses all its movement to move. Roll `dice:1d4\|noform\|noparens\|avg` (`1d4`) for the direction: **1**, north; **2**, east; **3**, south; or **4**, west. |
+| 1 | The target doesn't take an action, and it uses all its movement to move. Roll `dice:1d4\|noform\|noparens\|avg` (`d4`) for the direction: **1**, north; **2**, east; **3**, south; or **4**, west. |
 | 2-6 | The target doesn't move or take actions. |
 | 7-8 | The target doesn't move, and it takes the [Attack](/3-Mechanics/CLI/actions.md#Attack) action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
 | 9-10 | The target chooses its behavior. |
@@ -50,6 +53,6 @@ At the end of each of its turns, an affected target repeats the save, ending the
 
 **Using a Higher-Level Spell Slot.** The Sphere's radius increases by 5 feet for each spell slot level above 4.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of Spores)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

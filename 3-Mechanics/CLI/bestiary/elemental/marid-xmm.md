@@ -11,7 +11,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental/genie
 statblock: inline
-aliases: ["Marid"]
+statblock-link: "#^statblock"
+aliases:
+- Marid
 ---
 # [Marid](3-Mechanics\CLI\bestiary\elemental/marid-xmm.md)
 *Source: Monster Manual (2024) p. 203*  
@@ -36,63 +38,65 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 "ac": !!int "17"
 "hp": !!int "229"
 "hit_dice": "17d10 + 136"
+"modifier": !!int "5"
 "stats":
-- !!int "22"
-- !!int "12"
-- !!int "26"
-- !!int "18"
-- !!int "17"
-- !!int "18"
+  - !!int "22"
+  - !!int "12"
+  - !!int "26"
+  - !!int "18"
+  - !!int "17"
+  - !!int "18"
 "speed": "30 ft., fly 60 ft., swim 90 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "5"
+  - "dexterity": "+5"
+  - "charisma": "+8"
 "damage_resistances": "acid, cold, lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
 "languages": "Primordial (Aquan)"
 "cr": "11"
 "traits":
-- "desc": "The marid casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt will:\
-    \ [Create or Destroy Water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md),\
-    \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Purify Food and\
-    \ Drink](/3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md)\n\n1/day each:\
-    \ [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md), [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md),\
-    \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-    \ [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The marid casts [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n"
-  "name": "Misty Veil (Recharge 5-6)"
-- "desc": "The marid can breathe air and water."
-  "name": "Amphibious"
-- "desc": "If the marid dies outside the Elemental Plane of Water, its body dissolves\
-    \ into brine, and it gains a new body in 1d4 days, reviving with all its [Hit\
-    \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) somewhere on the\
-    \ Plane of Water."
-  "name": "Elemental Restoration"
-- "desc": "The marid has a 30 percent chance of knowing the [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
-    \ spell. If the marid knows it, the marid can cast it only on behalf of a non-genie\
-    \ creature who communicates a wish in a way the marid can understand. If the marid\
-    \ casts the spell for the creature, the marid suffers none of the spell's stress.\
-    \ Once the marid has cast it three times, the marid can't do so again for 365\
-    \ days."
-  "name": "Wishes"
+  - "desc": "The marid can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "If the marid dies outside the Elemental Plane of Water, its body dissolves\
+      \ into brine, and it gains a new body in d4 days, reviving with all its [Hit\
+      \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) somewhere on the\
+      \ Plane of Water."
+    "name": "Elemental Restoration"
+  - "desc": "The marid has a 30 percent chance of knowing the [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
+      \ spell. If the marid knows it, the marid can cast it only on behalf of a non-genie\
+      \ creature who communicates a wish in a way the marid can understand. If the\
+      \ marid casts the spell for the creature, the marid suffers none of the spell's\
+      \ stress. Once the marid has cast it three times, the marid can't do so again\
+      \ for 365 days."
+    "name": "Wishes"
 "actions":
-- "desc": "The marid makes three Aquatic Lash attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 15 ft. Hit: 15 (2d8 + 6) Slashing damage\
-    \ plus 9 (2d8) Cold damage."
-  "name": "Aquatic Lash"
-- "desc": "Dexterity Saving Throw: DC 18, each creature in a 60-foot-long, 10-foot-wide\
-    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
-    \ 31 (9d6) Cold damage. If the target is a Huge or smaller creature, it is pushed\
-    \ up to 20 feet straight away from the marid and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition. Success: Half damage only."
-  "name": "Water Jet"
+  - "desc": "The marid makes three Aquatic Lash attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 15 ft. Hit: 15 (2d8 + 6) Slashing damage\
+      \ plus 9 (2d8) Cold damage."
+    "name": "Aquatic Lash"
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 60-foot-long, 10-foot-wide\
+      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ 31 (9d6) Cold damage. If the target is a Huge or smaller creature, it is pushed\
+      \ up to 20 feet straight away from the marid and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition. Success: Half damage only."
+    "name": "Water Jet"
+  - "desc": "The marid casts one of the following spells, requiring no Material components\
+      \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
+      \ will: [Create or Destroy Water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md),\
+      \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Purify Food\
+      \ and Drink](/3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md)\n\n1/day\
+      \ each: [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md), [Gaseous\
+      \ Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The marid casts [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Misty Veil (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/marid-xmm.webp"
 ```
 ^statblock

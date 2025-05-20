@@ -18,7 +18,8 @@ classes:
 - Sorcerer (Aberrant Sorcery)
 - Warlock (Great Old One Patron)
 - Wizard
-aliases: ["Telekinesis"]
+aliases:
+- Telekinesis
 ---
 # Telekinesis
 *5th-level, Transmutation*  
@@ -45,6 +46,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Psi Warrior)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Fighter (Psi Warrior)](/3-Mechanics/CLI/lists/list-spells-classes-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

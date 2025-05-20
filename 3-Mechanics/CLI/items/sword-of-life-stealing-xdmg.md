@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Sword of Life Stealing"
 - "Glaive of Life Stealing"
@@ -70,4 +71,4 @@ When you attack a creature with this magic weapon and roll a 20 on the `dice:d20
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

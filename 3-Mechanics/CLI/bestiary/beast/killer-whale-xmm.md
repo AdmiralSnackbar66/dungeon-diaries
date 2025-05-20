@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Killer Whale"]
+statblock-link: "#^statblock"
+aliases:
+- Killer Whale
 ---
 # [Killer Whale](3-Mechanics\CLI\bestiary\beast/killer-whale-xmm.md)
-*Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -25,28 +27,31 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "90"
 "hit_dice": "12d12 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "19"
-- !!int "14"
-- !!int "13"
-- !!int "3"
-- !!int "12"
-- !!int "7"
+  - !!int "19"
+  - !!int "14"
+  - !!int "13"
+  - !!int "3"
+  - !!int "12"
+  - !!int "7"
 "speed": "5 ft., swim 60 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "blindsight 120 ft., passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-- "desc": "The whale can hold its breath for 30 minutes."
-  "name": "Hold Breath"
+  - "desc": "The whale can hold its breath for 30 minutes."
+    "name": "Hold Breath"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 21 (5d6 + 4) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 21 (5d6 + 4) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/killer-whale-xmm.webp"
 ```
 ^statblock

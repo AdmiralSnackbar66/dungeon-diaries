@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Far Step"]
+aliases:
+- Far Step
 ---
 # Far Step
 *5th-level, Conjuration*  

@@ -22,4 +22,4 @@ If the hole is folded up, a creature within the hole's extradimensional space ca
 
 Placing a Portable Hole inside an extradimensional space created by a [Bag of Holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md), [Heward's Handy Haversack](/3-Mechanics/CLI/items/hewards-handy-haversack-xdmg.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

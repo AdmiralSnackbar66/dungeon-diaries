@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Needle Blight"]
+statblock-link: "#^statblock"
+aliases:
+- Needle Blight
 ---
 # [Needle Blight](3-Mechanics\CLI\bestiary\plant/needle-blight-xmm.md)
 *Source: Monster Manual (2024) p. 43*  
@@ -37,25 +39,27 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 "ac": !!int "12"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "12"
-- !!int "12"
-- !!int "13"
-- !!int "4"
-- !!int "8"
-- !!int "3"
+  - !!int "12"
+  - !!int "12"
+  - !!int "13"
+  - !!int "4"
+  - !!int "8"
+  - !!int "3"
 "speed": "30 ft."
 "condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage."
-  "name": "Claw"
-- "desc": "Ranged Attack Roll: +3, range 30/60 ft. Hit: 6 (2d4 + 1) Piercing damage."
-  "name": "Needles"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage."
+    "name": "Claw"
+  - "desc": "Ranged Attack Roll: +3, range 30/60 ft. Hit: 6 (2d4 + 1) Piercing\
+      \ damage."
+    "name": "Needles"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/needle-blight-xmm.webp"
 ```
 ^statblock

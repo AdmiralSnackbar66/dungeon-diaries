@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Kuo-toa Monitor"]
+statblock-link: "#^statblock"
+aliases:
+- Kuo-toa Monitor
 ---
 # [Kuo-toa Monitor](3-Mechanics\CLI\bestiary\aberration/kuo-toa-monitor-xmm.md)
 *Source: Monster Manual (2024) p. 190*  
@@ -86,35 +88,38 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "ac": !!int "13"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
+"modifier": !!int "0"
 "stats":
-- !!int "16"
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "14"
-- !!int "11"
+  - !!int "16"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "3"
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+3"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 16"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-- "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The kuo-toa can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The kuo-toa makes two Bone Whip attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 6 (1d6 + 3) Slashing damage\
-    \ plus 7 (2d6) Lightning damage, and the target can't make Opportunity Attacks\
-    \ until the start of the kuo-toa's next turn."
-  "name": "Bone Whip"
+  - "desc": "The kuo-toa makes two Bone Whip attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 6 (1d6 + 3) Slashing damage\
+      \ plus 7 (2d6) Lightning damage, and the target can't make Opportunity Attacks\
+      \ until the start of the kuo-toa's next turn."
+    "name": "Bone Whip"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
 ```
 ^statblock

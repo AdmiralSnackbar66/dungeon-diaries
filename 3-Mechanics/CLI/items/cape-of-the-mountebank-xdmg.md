@@ -16,4 +16,4 @@ This cape smells faintly of brimstone. While wearing it, you can use it to cast 
 
 When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [Lightly Obscured](/3-Mechanics/CLI/variant-rules/lightly-obscured-xphb.md) by that smoke until the end of your next turn.
 
-*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

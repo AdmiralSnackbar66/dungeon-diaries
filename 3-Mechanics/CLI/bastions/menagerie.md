@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Menagerie"]
+aliases:
+- Menagerie
 ---
 # Menagerie
 *Level 13 Bastion facility*  

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Upper-Class Carousing Complications"]
+aliases:
+- Upper-Class Carousing Complications
 ---
 # Upper-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 

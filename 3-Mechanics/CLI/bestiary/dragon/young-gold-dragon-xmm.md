@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Young Gold Dragon"]
+statblock-link: "#^statblock"
+aliases:
+- Young Gold Dragon
 ---
 # [Young Gold Dragon](3-Mechanics\CLI\bestiary\dragon/young-gold-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young gold dragons have seen glimpses of the world's true evils and crusade to oppose them. They often seek bold and direct solutions to problems.
 
@@ -40,48 +42,54 @@ Gold dragons make their homes in places of natural and magical wonder.
 "ac": !!int "18"
 "hp": !!int "178"
 "hit_dice": "17d10 + 85"
+"modifier": !!int "6"
 "stats":
-- !!int "23"
-- !!int "14"
-- !!int "21"
-- !!int "16"
-- !!int "13"
-- !!int "20"
+  - !!int "23"
+  - !!int "14"
+  - !!int "21"
+  - !!int "16"
+  - !!int "13"
+  - !!int "20"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "5"
+  - "dexterity": "+6"
+  - "wisdom": "+5"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Insight": !!int "5"
-  "Perception": !!int "9"
-  "Persuasion": !!int "9"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+9"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+9"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "damage_immunities": "fire"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
 "languages": "Common, Draconic"
 "cr": "10"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
-    \ of Weakening Breath."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: 55 (10d10) Fire damage. Success: Half damage."
-  "name": "Fire Breath (Recharge 5-6)"
-- "desc": "Strength Saving Throw: DC 17, each creature that isn't currently affected\
-    \ by this breath in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on Strength-based [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)\
-    \ and subtracts 3 (1d6) from its damage rolls. It repeats the save at the end\
-    \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
-    \ it succeeds automatically."
-  "name": "Weakening Breath"
+  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
+      \ use of Weakening Breath."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 17 (2d10 + 6) Slashing\
+      \ damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 55 (10d10) Fire damage. Success: Half damage."
+    "name": "Fire Breath (Recharge 5-6)"
+  - "desc": "Strength Saving Throw: DC 17, each creature that isn't currently affected\
+      \ by this breath in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on Strength-based [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)\
+      \ and subtracts 3 (d6) from its damage rolls. It repeats the save at the end\
+      \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
+      \ it succeeds automatically."
+    "name": "Weakening Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/young-gold-dragon-xmm.webp"
 ```
 ^statblock

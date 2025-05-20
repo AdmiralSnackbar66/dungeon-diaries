@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Keg Launcher"]
+aliases:
+- Keg Launcher
 ---
 # Keg Launcher
 %%-- Embedded content starts on the next line. --%%

@@ -4,7 +4,8 @@ cssclasses: json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/cm
 - ttrpg-cli/reward/charm
-aliases: ["Charm of the Mirage"]
+aliases:
+- Charm of the Mirage
 ---
 # Charm of the Mirage
 

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/monk/kensei
-aliases: ["Way of the Kensei"]
+aliases:
+- Way of the Kensei
 ---
 # Way of the Kensei
 *[Monk](./monk-xphb.md): Monk Subclass*  
@@ -68,7 +69,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Kensei's Shot**  
 
-    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `dice:1d4|noform|noparens|avg` (`1d4`) damage of the weapon's type. You retain this benefit until the end of the current turn.  
+    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `dice:1d4|noform|noparens|avg` (`d4`) damage of the weapon's type. You retain this benefit until the end of the current turn.  
 
 #### Way of the Brush
 _Source: Xanathar's Guide to Everything_

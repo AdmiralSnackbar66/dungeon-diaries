@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Indian, Female"]
+aliases:
+- Human Names – Indian, Female
 ---
 # Human Names – Indian, Female
 *Source: Xanathar's Guide to Everything p. 181* 

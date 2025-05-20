@@ -12,7 +12,8 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Abi-Dalzim's Horrid Wilting"]
+aliases:
+- Abi-Dalzim's Horrid Wilting
 ---
 # Abi-Dalzim's Horrid Wilting
 *8th-level, Necromancy*  

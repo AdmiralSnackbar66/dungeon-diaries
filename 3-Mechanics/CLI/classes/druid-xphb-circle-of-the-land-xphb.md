@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/land
-aliases: ["Circle of the Land"]
+aliases:
+- Circle of the Land
 ---
 # Circle of the Land
 *[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -98,7 +99,7 @@ Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.
 
 As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each creature of your choice in the [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) must make a Constitution saving throw against your spell save DC, taking `dice:2d6|noform|noparens|avg` (`2d6`) Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `dice:2d6|noform|noparens|avg` (`2d6`) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
-The damage and healing increase by `dice:1d6|noform|noparens|avg` (`1d6`) when you reach Druid levels `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) and `dice:4d6|noform|noparens|avg|text(14)` (`4d6`).
+The damage and healing increase by `dice:1d6|noform|noparens|avg` (`d6`) when you reach Druid levels `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) and `dice:4d6|noform|noparens|avg|text(14)` (`4d6`).
 
 ### Natural Recovery (Level 6)
 

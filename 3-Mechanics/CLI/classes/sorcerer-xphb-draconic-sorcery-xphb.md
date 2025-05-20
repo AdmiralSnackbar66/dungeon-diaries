@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/draconic
-aliases: ["Draconic Sorcery"]
+aliases:
+- Draconic Sorcery
 ---
 # Draconic Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
-*Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 

@@ -12,7 +12,8 @@ classes:
 - Bard
 - Wizard
 - Wizard (Evoker)
-aliases: ["Mordenkainen's Sword"]
+aliases:
+- Mordenkainen's Sword
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  
@@ -29,6 +30,6 @@ When the sword appears, you make a melee spell attack against a target within 5 
 
 On your later turns, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword")*
+*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)*

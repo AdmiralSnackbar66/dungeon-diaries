@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/fey-touched
-aliases: ["Spells for Fey-Touched"]
+aliases:
+- Spells for Fey-Touched
 ---
 # Spells for Fey-Touched
 

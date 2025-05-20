@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/bard
 statblock: inline
-aliases: ["Silverquill Apprentice"]
+statblock-link: "#^statblock"
+aliases:
+- Silverquill Apprentice
 ---
 # [Silverquill Apprentice](3-Mechanics\CLI\bestiary\humanoid/silverquill-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 214*  
@@ -29,42 +31,45 @@ The scholars of Silverquill College study the power of magic shaped through spok
 "ac": !!int "12"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "11"
-- !!int "15"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "4"
+  - "dexterity": "+4"
+  - "charisma": "+4"
 "skillsaves":
-  "Deception": !!int "4"
-  "Performance": !!int "6"
-  "Persuasion": !!int "6"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+4"
+  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+    "desc": "+6"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+6"
 "senses": "passive Perception 10"
 "languages": "Common plus any two languages"
 "cr": "2"
-"traits":
-- "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-    \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-    \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
-    \ one target. Hit: 5 (1d6 + 2) piercing damage plus 9 (2d8) psychic damage."
-  "name": "Ink Blade"
+  - "desc": "Melee  or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
+      \ one target. Hit: 5 (1d6 + 2) piercing damage plus 9 (2d8) psychic damage."
+    "name": "Ink Blade"
+  - "desc": "The apprentice casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
+      \nAt will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [friends](/3-Mechanics/CLI/spells/friends-xphb.md)\n\n1/day each: [command](/3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "When a creature the apprentice can see within 30 feet of it fails a saving\
-    \ throw, the apprentice magically weaves together stirring prose, allowing the\
-    \ creature to reroll the saving throw and use the higher result."
-  "name": "Rousing Verse"
+  - "desc": "When a creature the apprentice can see within 30 feet of it fails a saving\
+      \ throw, the apprentice magically weaves together stirring prose, allowing the\
+      \ creature to reroll the saving throw and use the higher result."
+    "name": "Rousing Verse"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/silverquill-apprentice-scc.webp"
 ```
 ^statblock

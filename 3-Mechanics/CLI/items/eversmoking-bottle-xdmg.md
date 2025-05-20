@@ -20,4 +20,4 @@ Each minute the bottle remains open, the size of the [Emanation](/3-Mechanics/CL
 
 Closing the bottle causes the cloud to become fixed in place until it disperses after 10 minutes. A strong wind (such as that created by the [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) spell) disperses the cloud after 1 minute.
 
-*Source: Dungeon Master's Guide (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

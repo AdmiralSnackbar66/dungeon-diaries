@@ -4,14 +4,15 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Hidden Pit"]
+aliases:
+- Hidden Pit
 ---
 # Hidden Pit
 *Generic Hazard*  
 
 This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
 
-A creature that falls into the pit takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Bludgeoning damage from the fall.
+A creature that falls into the pit takes `dice:1d6|noform|noparens|avg|text(3)` (`d6`) Bludgeoning damage from the fall.
 
 ## Detect and Disarm
 

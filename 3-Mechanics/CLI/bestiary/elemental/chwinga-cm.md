@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Chwinga"]
+statblock-link: "#^statblock"
+aliases:
+- Chwinga
 ---
 # [Chwinga](3-Mechanics\CLI\bestiary\elemental/chwinga-cm.md)
 *Source: Candlekeep Mysteries p. 212*  
@@ -33,50 +35,55 @@ Chwingas that live in the desert can bestow the following additional supernatura
 "ac": !!int "15"
 "hp": !!int "5"
 "hit_dice": "2d4"
+"modifier": !!int "5"
 "stats":
-- !!int "1"
-- !!int "20"
-- !!int "10"
-- !!int "14"
-- !!int "16"
-- !!int "16"
+  - !!int "1"
+  - !!int "20"
+  - !!int "10"
+  - !!int "14"
+  - !!int "16"
+  - !!int "16"
 "speed": "20 ft., climb 20 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "7"
-  "Acrobatics": !!int "7"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "senses": "blindsight 60 ft., passive Perception 17"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The chwinga's innate spellcasting ability is Wisdom. It can innately cast\
-    \ the following spells, requiring no material or verbal components:\n\nAt will:\
-    \ [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-    \ [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [resistance](/3-Mechanics/CLI/spells/resistance-xphb.md)"
-  "name": "Innate Spellcasting"
-- "desc": "The chwinga doesn't require air, food, or drink. When it dies, it turns\
-    \ into a handful of flower petals, a cloud of pollen, a stone statuette resembling\
-    \ its former self, a tiny sphere of smooth stone, or a puddle of fresh water (your\
-    \ choice)."
-  "name": "Unusual Nature"
-- "desc": "When the chwinga is subjected to an effect that allows it to make a Dexterity\
-    \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-    \ on the saving throw, and only half damage if it fails."
-  "name": "Evasion"
+  - "desc": "The chwinga's innate spellcasting ability is Wisdom. It can innately\
+      \ cast the following spells, requiring no material or verbal components:\n\n\
+      At will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md),\
+      \ [resistance](/3-Mechanics/CLI/spells/resistance-xphb.md)"
+    "name": "Innate Spellcasting"
+  - "desc": "The chwinga doesn't require air, food, or drink. When it dies, it turns\
+      \ into a handful of flower petals, a cloud of pollen, a stone statuette resembling\
+      \ its former self, a tiny sphere of smooth stone, or a puddle of fresh water\
+      \ (your choice)."
+    "name": "Unusual Nature"
+  - "desc": "When the chwinga is subjected to an effect that allows it to make a Dexterity\
+      \ saving throw to take only half damage, it instead takes no damage if it succeeds\
+      \ on the saving throw, and only half damage if it fails."
+    "name": "Evasion"
 "actions":
-- "desc": "The chwinga targets a humanoid it can see within 5 feet of it. The target\
-    \ gains a supernatural charm of the DM's choice. See \"chapter 7\" of the Dungeon\
-    \ Masters Guide for more information on supernatural charms."
-  "name": "Magical Gift (1/Day)"
-- "desc": "The chwinga magically takes shelter inside a rock, a living plant, or a\
-    \ natural source of fresh water in its space. The chwinga can't be targeted by\
-    \ any attack, spell, or other effect while inside this shelter, and the shelter\
-    \ doesn't impair the chwinga's blindsight. The chwinga can use its action to emerge\
-    \ from a shelter. If its shelter is destroyed, the chwinga is forced out and appears\
-    \ in the shelter's space, but is otherwise unharmed."
-  "name": "Natural Shelter"
+  - "desc": "The chwinga targets a humanoid it can see within 5 feet of it. The target\
+      \ gains a supernatural charm of the DM's choice. See \"chapter 7\" of the Dungeon\
+      \ Masters Guide for more information on supernatural charms."
+    "name": "Magical Gift (1/Day)"
+  - "desc": "The chwinga magically takes shelter inside a rock, a living plant, or\
+      \ a natural source of fresh water in its space. The chwinga can't be targeted\
+      \ by any attack, spell, or other effect while inside this shelter, and the shelter\
+      \ doesn't impair the chwinga's blindsight. The chwinga can use its action to\
+      \ emerge from a shelter. If its shelter is destroyed, the chwinga is forced\
+      \ out and appears in the shelter's space, but is otherwise unharmed."
+    "name": "Natural Shelter"
 "source":
-- "CM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/chwinga-cm.webp"
 ```
 ^statblock

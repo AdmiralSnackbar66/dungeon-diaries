@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Flumph"]
+statblock-link: "#^statblock"
+aliases:
+- Flumph
 ---
 # [Flumph](3-Mechanics\CLI\bestiary\aberration/flumph-xmm.md)
 *Source: Monster Manual (2024) p. 122*  
@@ -70,49 +72,53 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 "ac": !!int "12"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "6"
-- !!int "15"
-- !!int "10"
-- !!int "14"
-- !!int "14"
-- !!int "11"
+  - !!int "6"
+  - !!int "15"
+  - !!int "10"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Religion": !!int "4"
-  "History": !!int "4"
-  "Arcana": !!int "4"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+4"
+  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+    "desc": "+4"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+4"
 "damage_vulnerabilities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Undercommon but can't speak; telepathy 60 ft."
 "cr": "1/8"
 "traits":
-- "desc": "The flumph perceives the content of any telepathic communication within\
-    \ 60 feet of it."
-  "name": "Advanced Telepathy"
-- "desc": "If the flumph receives the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition, roll a die. On an odd number, it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
-    \ saving throw, ending the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition on a success."
-  "name": "Prone Deficiency"
-- "desc": "The flumph's thoughts can't be read by any means, and magic can't detect\
-    \ its location or observe it remotely."
-  "name": "Telepathic Shroud"
+  - "desc": "The flumph perceives the content of any telepathic communication within\
+      \ 60 feet of it."
+    "name": "Advanced Telepathy"
+  - "desc": "If the flumph receives the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition, roll a die. On an odd number, it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
+      \ saving throw, ending the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition on a success."
+    "name": "Prone Deficiency"
+  - "desc": "The flumph's thoughts can't be read by any means, and magic can't detect\
+      \ its location or observe it remotely."
+    "name": "Telepathic Shroud"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 feet. Hit: 4 (1d4 + 2) Acid damage."
-  "name": "Tentacle"
-- "desc": "Dexterity Saving Throw: DC 10, one creature the flumph can see within\
-    \ 15 feet. Failure: The target is coated in a foul-smelling liquid, exudes a\
-    \ stench for 1d4 hours, and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ condition while the stench lasts. Other creatures have the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ condition while in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the coated target. The target can remove the stench on itself\
-    \ if it bathes during a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
-    \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
-  "name": "Stench Spray (1/Day)"
+  - "desc": "Melee Attack Roll: +4, reach 5 feet. Hit: 4 (1d4 + 2) Acid damage."
+    "name": "Tentacle"
+  - "desc": "Dexterity Saving Throw: DC 10, one creature the flumph can see within\
+      \ 15 feet. Failure: The target is coated in a foul-smelling liquid, exudes\
+      \ a stench for d4 hours, and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition while the stench lasts. Other creatures have the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition while in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the coated target. The target can remove the stench on itself\
+      \ if it bathes during a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+      \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
+    "name": "Stench Spray (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/flumph-xmm.webp"
 ```
 ^statblock

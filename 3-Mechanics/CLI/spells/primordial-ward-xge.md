@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Primordial Ward"]
+aliases:
+- Primordial Ward
 ---
 # Primordial Ward
 *6th-level, Abjuration*  

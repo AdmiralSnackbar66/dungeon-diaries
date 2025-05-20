@@ -4,7 +4,8 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
-aliases: ["Heavy Precipitation"]
+aliases:
+- Heavy Precipitation
 ---
 # Heavy Precipitation
 *Environmental Hazard*  

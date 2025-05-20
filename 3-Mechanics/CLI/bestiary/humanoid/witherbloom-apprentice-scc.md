@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/druid
 statblock: inline
-aliases: ["Witherbloom Apprentice"]
+statblock-link: "#^statblock"
+aliases:
+- Witherbloom Apprentice
 ---
 # [Witherbloom Apprentice](3-Mechanics\CLI\bestiary\humanoid/witherbloom-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 221*  
@@ -30,58 +32,62 @@ Witherbloom College studies the magic inherent in the natural cycle of life and 
 "ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "15"
-- !!int "11"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Constitution": !!int "3"
+  - "constitution": "+3"
+  - "wisdom": "+4"
 "skillsaves":
-  "Medicine": !!int "4"
-  "Nature": !!int "5"
-  "Perception": !!int "6"
+  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+    "desc": "+4"
+  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus any two languages"
 "cr": "2"
 "traits":
-- "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
-    \ each: [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The apprentice regains 5 hit points at the start of its turn if it has\
-    \ at least 1 hit point."
-  "name": "Regeneration"
-- "desc": "At the end of a 10-minute ritual, the apprentice can touch one willing\
-    \ creature (including itself) and bestow upon it a small talisman imbued with\
-    \ magic. Upon receiving the talisman, the creature gains 10 temporary hit points,\
-    \ and it can add 1d6 to its initiative rolls while it wears the talisman. These\
-    \ benefits last for 1 hour or until the apprentice conducts another ritual to\
-    \ bestow another talisman. When the benefits expire, the talisman crumbles to\
-    \ dust."
-  "name": "Verdant Talisman"
+  - "desc": "The apprentice regains 5 hit points at the start of its turn if it has\
+      \ at least 1 hit point."
+    "name": "Regeneration"
+  - "desc": "At the end of a 10-minute ritual, the apprentice can touch one willing\
+      \ creature (including itself) and bestow upon it a small talisman imbued with\
+      \ magic. Upon receiving the talisman, the creature gains 10 temporary hit points,\
+      \ and it can add d6 to its initiative rolls while it wears the talisman. These\
+      \ benefits last for 1 hour or until the apprentice conducts another ritual to\
+      \ bestow another talisman. When the benefits expire, the talisman crumbles to\
+      \ dust."
+    "name": "Verdant Talisman"
 "actions":
-- "desc": "Melee Spell Attack: +4 to hit, reach 15 ft., one target. Hit: 7 (1d10\
-    \ + 2) piercing damage plus 9 (2d8) poison damage. If the target is a Large or\
-    \ smaller creature, the apprentice can pull it up to 10 feet closer to itself."
-  "name": "Briar Vine"
+  - "desc": "Melee Spell Attack: +4 to hit, reach 15 ft., one target. Hit: 7 (1d10\
+      \ + 2) piercing damage plus 9 (2d8) poison damage. If the target is a Large\
+      \ or smaller creature, the apprentice can pull it up to 10 feet closer to itself."
+    "name": "Briar Vine"
+  - "desc": "The apprentice casts one of the following spells, requiring no material\
+      \ components and using Wisdom as the spellcasting ability:\n\nAt will: [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n1/day\
+      \ each: [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "When the apprentice sees a creature within 30 feet of itself drop to 0\
-    \ hit points, the apprentice channels the expended life essence and targets another\
-    \ creature it can see within 30 feet of itself. The target must succeed on a DC\
-    \ 12 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this\
-    \ way, the target takes 3 (1d6) poison damage at the start of each of its turns.\
-    \ The target can repeat the save at the end of each of its turns, ending the effect\
-    \ on itself on a success."
-  "name": "Wither Burst"
+  - "desc": "When the apprentice sees a creature within 30 feet of itself drop to\
+      \ 0 hit points, the apprentice channels the expended life essence and targets\
+      \ another creature it can see within 30 feet of itself. The target must succeed\
+      \ on a DC 12 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in\
+      \ this way, the target takes 3 (d6) poison damage at the start of each of its\
+      \ turns. The target can repeat the save at the end of each of its turns, ending\
+      \ the effect on itself on a success."
+    "name": "Wither Burst"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/witherbloom-apprentice-scc.webp"
 ```
 ^statblock

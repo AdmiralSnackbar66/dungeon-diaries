@@ -14,7 +14,8 @@ classes:
 - Cleric
 - Paladin
 - Sorcerer (Divine Soul)
-aliases: ["Dispel Evil and Good"]
+aliases:
+- Dispel Evil and Good
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  
@@ -37,6 +38,6 @@ As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you target one creature 
 
 ## Summary
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

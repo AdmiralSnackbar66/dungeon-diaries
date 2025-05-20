@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Blue Slaad"]
+statblock-link: "#^statblock"
+aliases:
+- Blue Slaad
 ---
 # [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  
@@ -47,45 +49,48 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "ac": !!int "15"
 "hp": !!int "133"
 "hit_dice": "14d10 + 56"
+"modifier": !!int "2"
 "stats":
-- !!int "20"
-- !!int "15"
-- !!int "18"
-- !!int "7"
-- !!int "7"
-- !!int "9"
+  - !!int "20"
+  - !!int "15"
+  - !!int "18"
+  - !!int "7"
+  - !!int "7"
+  - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  "Perception": !!int "1"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Slaad; telepathy 60 ft."
 "cr": "7"
 "traits":
-- "desc": "The slaad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The slaad regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Regeneration"
+  - "desc": "The slaad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The slaad regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Regeneration"
 "actions":
-- "desc": "The slaad makes three Mutating Claw attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
-    \ plus 3 (1d6) Poison damage. If the target is a Humanoid not cursed by a slaad,\
-    \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
-    \ Failure: The target is cursed. The cursed target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-    \ and its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
-    \ decreases by 10 (3d6) after every 24 hours and doesn't return to normal after\
-    \ finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). If\
-    \ the curse reduces the target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ maximum to 0, the curse ends, and instead of dying, the target instantly transforms\
-    \ into a [Red Slaad](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) or,\
-    \ if it can cast spells of level 3 or higher, a [Green Slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md).\
-    \ Only a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell can reverse this transformation."
-  "name": "Mutating Claw"
+  - "desc": "The slaad makes three Mutating Claw attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
+      \ plus 3 (d6) Poison damage. If the target is a Humanoid not cursed by a slaad,\
+      \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
+      \ Failure: The target is cursed. The cursed target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ and its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ decreases by 10 (3d6) after every 24 hours and doesn't return to normal after\
+      \ finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).\
+      \ If the curse reduces the target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum to 0, the curse ends, and instead of dying, the target instantly transforms\
+      \ into a [Red Slaad](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md)\
+      \ or, if it can cast spells of level 3 or higher, a [Green Slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md).\
+      \ Only a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell can reverse this\
+      \ transformation."
+    "name": "Mutating Claw"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/blue-slaad-xmm.webp"
 ```
 ^statblock

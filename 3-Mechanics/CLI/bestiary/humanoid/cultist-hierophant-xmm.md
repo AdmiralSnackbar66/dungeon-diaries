@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Cultist Hierophant"]
+statblock-link: "#^statblock"
+aliases:
+- Cultist Hierophant
 ---
 # [Cultist Hierophant](3-Mechanics\CLI\bestiary\humanoid/cultist-hierophant-xmm.md)
 *Source: Monster Manual (2024) p. 85*  
@@ -81,41 +83,45 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "16"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
+"modifier": !!int "8"
 "stats":
-- !!int "14"
-- !!int "18"
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "20"
+  - !!int "14"
+  - !!int "18"
+  - !!int "18"
+  - !!int "13"
+  - !!int "16"
+  - !!int "20"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Wisdom": !!int "7"
+  - "wisdom": "+7"
+  - "charisma": "+9"
 "skillsaves":
-  "Religion": !!int "5"
-  "Perception": !!int "7"
-  "Persuasion": !!int "9"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+9"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+5"
 "senses": "passive Perception 17"
 "languages": "Celestial, Common"
 "cr": "10"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Charisma as the spellcasting\
-    \ ability (spell save DC 17):\n\nAt will: [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day each: [Jallarzi's Storm of Radiance](/3-Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb.md)\
-    \ (level 7 version), [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The cultist makes three attacks, using Pact Blade or Radiant Ray in any\
-    \ combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
-    \ plus 18 (4d8) Radiant damage."
-  "name": "Pact Blade"
-- "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 31 (4d12 + 5) Radiant damage."
-  "name": "Radiant Ray"
+  - "desc": "The cultist makes three attacks, using Pact Blade or Radiant Ray in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
+      \ plus 18 (4d8) Radiant damage."
+    "name": "Pact Blade"
+  - "desc": "Ranged Attack Roll: +9, range 120 ft. Hit: 31 (4d12 + 5) Radiant\
+      \ damage."
+    "name": "Radiant Ray"
+  - "desc": "The cultist casts one of the following spells, using Charisma as the\
+      \ spellcasting ability (spell save DC 17):\n\nAt will: [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n1/day each: [Jallarzi's Storm of Radiance](/3-Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb.md)\
+      \ (level 7 version), [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-hierophant-xmm.webp"
 ```
 ^statblock

@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Berserker Axe"
 - "Berserker Battleaxe"
@@ -55,4 +56,4 @@ While berserk, you regard the creature nearest to you that you can see or hear a
 - **Weight**: 6.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

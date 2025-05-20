@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/transmutation
-aliases: ["Transmutation Spells"]
+aliases:
+- Transmutation Spells
 ---
 # Transmutation Spells
 
@@ -110,6 +111,7 @@ aliases: ["Transmutation Spells"]
 - [Investiture of Stone](/3-Mechanics/CLI/spells/investiture-of-stone-xge.md "XGE")
 - [Investiture of Wind](/3-Mechanics/CLI/spells/investiture-of-wind-xge.md "XGE")
 - [Move Earth](/3-Mechanics/CLI/spells/move-earth-xphb.md "XPHB")
+- [Tasha's Otherworldly Guise](/3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md "TCE")
 - [Tenser's Transformation](/3-Mechanics/CLI/spells/tensers-transformation-xge.md "XGE")
 - [Wind Walk](/3-Mechanics/CLI/spells/wind-walk-xphb.md "XPHB")
 

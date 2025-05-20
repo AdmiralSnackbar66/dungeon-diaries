@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Frost Brand"
 - "Frost Brand Glaive"
@@ -21,7 +22,7 @@ aliases:
 ![](/3-Mechanics/CLI/items/img/frost-brand.webp#right)
 
 
-When you hit with an attack roll using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) Cold damage. In addition, while you hold the weapon, you have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.
+When you hit with an attack roll using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) Cold damage. In addition, while you hold the weapon, you have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.
 
 In freezing temperatures, the weapon sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 10 feet.
 
@@ -74,4 +75,4 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

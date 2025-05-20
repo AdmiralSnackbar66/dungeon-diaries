@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Mangonel"]
+aliases:
+- Mangonel
 ---
 # Mangonel
 %%-- Embedded content starts on the next line. --%%

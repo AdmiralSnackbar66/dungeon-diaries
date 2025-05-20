@@ -4,7 +4,8 @@ cssclasses: json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
-aliases: ["Charm of Darkvision"]
+aliases:
+- Charm of Darkvision
 ---
 # Charm of Darkvision
 

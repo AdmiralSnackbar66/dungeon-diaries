@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/wild-magic
-aliases: ["Wild Magic Sorcery"]
+aliases:
+- Wild Magic Sorcery
 ---
 # Wild Magic Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
@@ -66,7 +67,7 @@ If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest
 
 ### Bend Luck (Level 6)
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `dice:d20|noform|noparens|avg` (`d20`) for a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) and spend 1 Sorcery Point to roll `dice:1d4|noform|noparens|avg` (`1d4`) and apply the number rolled as a bonus or penalty (your choice) to the `dice:d20|noform|noparens|avg` (`d20`) roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `dice:d20|noform|noparens|avg` (`d20`) for a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) and spend 1 Sorcery Point to roll `dice:1d4|noform|noparens|avg` (`d4`) and apply the number rolled as a bonus or penalty (your choice) to the `dice:d20|noform|noparens|avg` (`d20`) roll.
 
 ### Controlled Chaos (Level 14)
 

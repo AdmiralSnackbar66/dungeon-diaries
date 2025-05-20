@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Ankylosaurus"]
+statblock-link: "#^statblock"
+aliases:
+- Ankylosaurus
 ---
 # [Ankylosaurus](3-Mechanics\CLI\bestiary\beast/ankylosaurus-xmm.md)
-*Source: Monster Manual (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,28 +28,29 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "15"
 "hp": !!int "68"
 "hit_dice": "8d12 + 16"
+"modifier": !!int "0"
 "stats":
-- !!int "19"
-- !!int "11"
-- !!int "15"
-- !!int "2"
-- !!int "12"
-- !!int "5"
+  - !!int "19"
+  - !!int "11"
+  - !!int "15"
+  - !!int "2"
+  - !!int "12"
+  - !!int "5"
 "speed": "30 ft."
 "saves":
-  "Strength": !!int "6"
+  - "strength": "+6"
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "3"
 "actions":
-- "desc": "The ankylosaurus makes two Tail attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage.\
-    \ If the target is a Huge or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Tail"
+  - "desc": "The ankylosaurus makes two Tail attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning\
+      \ damage. If the target is a Huge or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Tail"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/ankylosaurus-xmm.webp"
 ```
 ^statblock

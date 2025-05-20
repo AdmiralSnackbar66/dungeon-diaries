@@ -12,7 +12,8 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["Tasha's Bubbling Cauldron"]
+aliases:
+- Tasha's Bubbling Cauldron
 ---
 # Tasha's Bubbling Cauldron
 *6th-level, Conjuration*  

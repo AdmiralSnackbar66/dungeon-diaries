@@ -12,7 +12,8 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["Soul Cage"]
+aliases:
+- Soul Cage
 ---
 # Soul Cage
 *6th-level, Necromancy*  

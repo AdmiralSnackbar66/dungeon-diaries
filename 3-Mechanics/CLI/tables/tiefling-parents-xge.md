@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Tiefling Parents"]
+aliases:
+- Tiefling Parents
 ---
 # Tiefling Parents
 *Source: Xanathar's Guide to Everything p. 62* 

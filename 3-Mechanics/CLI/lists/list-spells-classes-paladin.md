@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/paladin
-aliases: ["Paladin Spells"]
+aliases:
+- Paladin Spells
 ---
 # Paladin Spells
 
@@ -31,14 +32,14 @@ aliases: ["Paladin Spells"]
 
 - [Aid](/3-Mechanics/CLI/spells/aid-xphb.md "XPHB")
 - [Find Steed](/3-Mechanics/CLI/spells/find-steed-xphb.md "XPHB")
-- [Gentle Repose](/3-Mechanics/CLI/spells/gentle-repose-xphb.md "XPHB")
+- [Gentle Repose](/3-Mechanics/CLI/spells/gentle-repose-xphb.md "XPHB") (\*)
 - [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB")
 - [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB")
 - [Magic Weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB")
-- [Prayer of Healing](/3-Mechanics/CLI/spells/prayer-of-healing-xphb.md "XPHB")
+- [Prayer of Healing](/3-Mechanics/CLI/spells/prayer-of-healing-xphb.md "XPHB") (\*)
 - [Protection from Poison](/3-Mechanics/CLI/spells/protection-from-poison-xphb.md "XPHB")
 - [Shining Smite](/3-Mechanics/CLI/spells/shining-smite-xphb.md "XPHB")
-- [Warding Bond](/3-Mechanics/CLI/spells/warding-bond-xphb.md "XPHB")
+- [Warding Bond](/3-Mechanics/CLI/spells/warding-bond-xphb.md "XPHB") (\*)
 - [Zone of Truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB")
 
 ## 3rd Level
@@ -53,6 +54,7 @@ aliases: ["Paladin Spells"]
 - [Magic Circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md "XPHB")
 - [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md "XPHB")
 - [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md "XPHB")
+- [Spirit Shroud](/3-Mechanics/CLI/spells/spirit-shroud-tce.md "TCE") (\*)
 
 ## 4th Level
 
@@ -74,4 +76,4 @@ aliases: ["Paladin Spells"]
 - [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB")
 - [Holy Weapon](/3-Mechanics/CLI/spells/holy-weapon-xge.md "XGE")
 - [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md "XPHB")
-- [Summon Celestial](/3-Mechanics/CLI/spells/summon-celestial-xphb.md "XPHB")
+- [Summon Celestial](/3-Mechanics/CLI/spells/summon-celestial-xphb.md "XPHB") (\*)

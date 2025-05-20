@@ -16,4 +16,4 @@ This small packet contains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) pinches 
 
 As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can sprinkle a pinch of the dust on an Elemental within 5 feet of yourself that is composed mostly of water (such as a [Water Elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) or a [Water Weird](/3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md)). Such a creature exposed to a pinch of the dust makes a DC 13 Constitution saving throw, taking `dice:10d6|noform|noparens|avg` (`10d6`) Necrotic damage on a failed save or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

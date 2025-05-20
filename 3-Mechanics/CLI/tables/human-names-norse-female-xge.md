@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Norse, Female"]
+aliases:
+- Human Names – Norse, Female
 ---
 # Human Names – Norse, Female
 *Source: Xanathar's Guide to Everything p. 181* 

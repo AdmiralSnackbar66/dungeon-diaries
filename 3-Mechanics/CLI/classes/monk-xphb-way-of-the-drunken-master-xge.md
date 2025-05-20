@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/monk/drunken-master
-aliases: ["Way of the Drunken Master"]
+aliases:
+- Way of the Drunken Master
 ---
 # Way of the Drunken Master
 *[Monk](./monk-xphb.md): Monk Subclass*  

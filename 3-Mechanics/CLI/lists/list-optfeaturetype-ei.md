@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
-aliases: ["Eldritch Invocation"]
+aliases:
+- Eldritch Invocation
 ---
 # Eldritch Invocation
 *Source: Player's Handbook, Tasha's Cauldron of Everything, Player's Handbook (2024), Xanathar's Guide to Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
@@ -15,6 +16,7 @@ aliases: ["Eldritch Invocation"]
 - [Ascendant Step](/3-Mechanics/CLI/optional-features/ascendant-step-xphb.md)
 - [Ascendant Step](/3-Mechanics/CLI/optional-features/ascendant-step-xphb.md)
 - [Aspect of the Moon](/3-Mechanics/CLI/optional-features/aspect-of-the-moon-xge.md)
+- [Bond of the Talisman](/3-Mechanics/CLI/optional-features/bond-of-the-talisman-tce.md)
 - [Cloak of Flies](/3-Mechanics/CLI/optional-features/cloak-of-flies-xge.md)
 - [Devil's Sight](/3-Mechanics/CLI/optional-features/devils-sight-xphb.md)
 - [Devil's Sight](/3-Mechanics/CLI/optional-features/devils-sight-xphb.md)
@@ -25,6 +27,7 @@ aliases: ["Eldritch Invocation"]
 - [Eldritch Smite](/3-Mechanics/CLI/optional-features/eldritch-smite-xphb.md)
 - [Eldritch Spear](/3-Mechanics/CLI/optional-features/eldritch-spear-xphb.md)
 - [Eldritch Spear](/3-Mechanics/CLI/optional-features/eldritch-spear-xphb.md)
+- [Far Scribe](/3-Mechanics/CLI/optional-features/far-scribe-tce.md)
 - [Fiendish Vigor](/3-Mechanics/CLI/optional-features/fiendish-vigor-xphb.md)
 - [Fiendish Vigor](/3-Mechanics/CLI/optional-features/fiendish-vigor-xphb.md)
 - [Gaze of Two Minds](/3-Mechanics/CLI/optional-features/gaze-of-two-minds-xphb.md)
@@ -57,6 +60,8 @@ aliases: ["Eldritch Invocation"]
 - [Pact of the Blade](/3-Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md)
 - [Pact of the Chain](/3-Mechanics/CLI/optional-features/pact-of-the-chain-xphb.md)
 - [Pact of the Tome](/3-Mechanics/CLI/optional-features/pact-of-the-tome-xphb.md)
+- [Protection of the Talisman](/3-Mechanics/CLI/optional-features/protection-of-the-talisman-tce.md)
+- [Rebuke of the Talisman](/3-Mechanics/CLI/optional-features/rebuke-of-the-talisman-tce.md)
 - [Relentless Hex](/3-Mechanics/CLI/optional-features/relentless-hex-xge.md)
 - [Repelling Blast](/3-Mechanics/CLI/optional-features/repelling-blast-xphb.md)
 - [Repelling Blast](/3-Mechanics/CLI/optional-features/repelling-blast-xphb.md)
@@ -65,6 +70,7 @@ aliases: ["Eldritch Invocation"]
 - [Thirsting Blade](/3-Mechanics/CLI/optional-features/thirsting-blade-xphb.md)
 - [Tomb of Levistus](/3-Mechanics/CLI/optional-features/tomb-of-levistus-xge.md)
 - [Trickster's Escape](/3-Mechanics/CLI/optional-features/tricksters-escape-xge.md)
+- [Undying Servitude](/3-Mechanics/CLI/optional-features/undying-servitude-tce.md)
 - [Visions of Distant Realms](/3-Mechanics/CLI/optional-features/visions-of-distant-realms-xphb.md)
 - [Visions of Distant Realms](/3-Mechanics/CLI/optional-features/visions-of-distant-realms-xphb.md)
 - [Whispers of the Grave](/3-Mechanics/CLI/optional-features/whispers-of-the-grave-xphb.md)

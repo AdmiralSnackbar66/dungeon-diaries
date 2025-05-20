@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Archpriest"]
+statblock-link: "#^statblock"
+aliases:
+- Archpriest
 ---
 # [Archpriest](3-Mechanics\CLI\bestiary\humanoid/archpriest-xmm.md)
 *Source: Monster Manual (2024) p. 248*  
@@ -57,55 +59,58 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 "ac": !!int "16"
 "hp": !!int "240"
 "hit_dice": "32d8 + 96"
+"modifier": !!int "5"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "17"
-- !!int "14"
-- !!int "21"
-- !!int "14"
+  - !!int "16"
+  - !!int "12"
+  - !!int "17"
+  - !!int "14"
+  - !!int "21"
+  - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "9"
-  "Intelligence": !!int "6"
-  "Strength": !!int "7"
-  "Constitution": !!int "7"
+  - "strength": "+7"
+  - "constitution": "+7"
+  - "intelligence": "+6"
+  - "wisdom": "+9"
 "skillsaves":
-  "Medicine": !!int "9"
-  "Religion": !!int "10"
-  "Insight": !!int "9"
-  "Perception": !!int "9"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+9"
+  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+    "desc": "+9"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+9"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+10"
 "senses": "passive Perception 19"
 "languages": "Common plus two other languages"
 "cr": "12"
-"traits":
-- "desc": "The archpriest casts one of the following spells, requiring no Material\
-    \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
-    \nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day each: [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md)\
-    \ (level 6 version), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-    \ [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md), [Zone of Truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Dispel\
-    \ Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
-    \ or [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n3/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
-    \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)"
-  "name": "Divine Aid (3/Day)"
 "actions":
-- "desc": "The archpriest makes three Radiant Burst attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +9, reach 5 ft. or range 60 ft. Hit: 27\
-    \ (4d10 + 5) Radiant damage."
-  "name": "Radiant Burst"
-- "desc": "Wisdom Saving Throw: DC 17, each enemy in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the archpriest. Failure: 21 (6d6) Radiant damage, and the\
-    \ target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until\
-    \ the end of the archpriest's next turn. Success: Half damage only."
-  "name": "Holy Word (Recharge 4-6)"
+  - "desc": "The archpriest makes three Radiant Burst attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +9, reach 5 ft. or range 60 ft. Hit:\
+      \ 27 (4d10 + 5) Radiant damage."
+    "name": "Radiant Burst"
+  - "desc": "Wisdom Saving Throw: DC 17, each enemy in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the archpriest. Failure: 21 (6d6) Radiant damage, and the\
+      \ target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition\
+      \ until the end of the archpriest's next turn. Success: Half damage only."
+    "name": "Holy Word (Recharge 4-6)"
+  - "desc": "The archpriest casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
+      \nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n1/day each: [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md)\
+      \ (level 6 version), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md), [Zone of Truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Dispel\
+      \ Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
+      \ or [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Divine Aid (3/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/archpriest-xmm.webp"
 ```
 ^statblock

@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Goat"]
+statblock-link: "#^statblock"
+aliases:
+- Goat
 ---
 # [Goat](3-Mechanics\CLI\bestiary\beast/goat-xmm.md)
-*Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -28,29 +30,31 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "10"
 "hp": !!int "4"
 "hit_dice": "1d8"
+"modifier": !!int "0"
 "stats":
-- !!int "11"
-- !!int "10"
-- !!int "11"
-- !!int "2"
-- !!int "10"
-- !!int "5"
+  - !!int "11"
+  - !!int "10"
+  - !!int "11"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
 "speed": "40 ft., climb 30 ft."
 "saves":
-  "Strength": !!int "2"
+  - "strength": "+2"
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage, or 2\
-    \ (1d4) Bludgeoning damage if the goat moved 20+ feet straight toward the target\
-    \ immediately before the hit."
-  "name": "Ram"
+  - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage, or\
+      \ 2 (d4) Bludgeoning damage if the goat moved 20+ feet straight toward the target\
+      \ immediately before the hit."
+    "name": "Ram"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/goat-xmm.webp"
 ```
 ^statblock

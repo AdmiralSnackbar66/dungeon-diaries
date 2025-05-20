@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Elemental Spirit (Water)"]
+statblock-link: "#^statblock"
+aliases:
+- Elemental Spirit (Water)
 ---
 # [Elemental Spirit (Water)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-water-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
@@ -18,13 +20,14 @@ aliases: ["Elemental Spirit (Water)"]
 "type": "elemental"
 "alignment": "Neutral"
 "ac_class": "11 + the spell's level"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "17"
-- !!int "4"
-- !!int "10"
-- !!int "16"
+  - !!int "18"
+  - !!int "15"
+  - !!int "17"
+  - !!int "4"
+  - !!int "10"
+  - !!int "16"
 "speed": "40 ft., swim 40 ft."
 "damage_resistances": "acid"
 "damage_immunities": "poison"
@@ -34,17 +37,17 @@ aliases: ["Elemental Spirit (Water)"]
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":
-- "desc": "The spirit can move through a space as narrow as 1 inch wide without it\
-    \ counting as Difficult Terrain."
-  "name": "Amorphous Form"
+  - "desc": "The spirit can move through a space as narrow as 1 inch wide without\
+      \ it counting as Difficult Terrain."
+    "name": "Amorphous Form"
 "actions":
-- "desc": "The spirit makes a number of Slam attacks equal to half this spell's level\
-    \ (round down)."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: YourSpellAttack Bonus equals your spell attack modifier,\
-    \ reach 5 ft.. Hit: 1d10 + 4 + the spell's level Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\
+      \ level (round down)."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
+      \ ft.. Hit: 1d10 + 4 + the spell's level Bludgeoning damage."
+    "name": "Slam"
 "source":
-- "XPHB"
+  - "XPHB"
 ```
 ^statblock

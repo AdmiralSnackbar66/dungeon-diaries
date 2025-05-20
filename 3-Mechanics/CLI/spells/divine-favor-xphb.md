@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Paladin
-aliases: ["Divine Favor"]
+aliases:
+- Divine Favor
 ---
 # Divine Favor
 *1st-level, Transmutation*  
@@ -19,8 +20,8 @@ aliases: ["Divine Favor"]
 - **Components:** V, S
 - **Duration:** 1 minute
 
-Until the spell ends, your attacks with weapons deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) Radiant damage on a hit.
+Until the spell ends, your attacks with weapons deal an extra `dice:1d4|noform|noparens|avg` (`d4`) Radiant damage on a hit.
 
 **Classes**: [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

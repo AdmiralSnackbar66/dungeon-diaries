@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Bandit Captain"]
+statblock-link: "#^statblock"
+aliases:
+- Bandit Captain
 ---
 # [Bandit Captain](3-Mechanics\CLI\bestiary\humanoid/bandit-captain-xmm.md)
-*Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bandit captains command gangs of scoundrels and conduct straightforward heists. Others serve as guards and muscle for more influential criminals.
 
@@ -52,39 +54,42 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "ac": !!int "15"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
+"modifier": !!int "3"
 "stats":
-- !!int "15"
-- !!int "16"
-- !!int "14"
-- !!int "14"
-- !!int "11"
-- !!int "14"
+  - !!int "15"
+  - !!int "16"
+  - !!int "14"
+  - !!int "14"
+  - !!int "11"
+  - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "2"
-  "Strength": !!int "4"
+  - "strength": "+4"
+  - "dexterity": "+5"
+  - "wisdom": "+2"
 "skillsaves":
-  "Athletics": !!int "4"
-  "Deception": !!int "4"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+4"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, Thieves' cant"
 "cr": "2"
 "actions":
-- "desc": "The bandit makes two attacks, using Scimitar and Pistol in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage."
-  "name": "Scimitar"
-- "desc": "Ranged Attack Roll: +5, range 30/90 ft. Hit: 8 (1d10 + 3) Piercing\
-    \ damage."
-  "name": "Pistol"
+  - "desc": "The bandit makes two attacks, using Scimitar and Pistol in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage."
+    "name": "Scimitar"
+  - "desc": "Ranged Attack Roll: +5, range 30/90 ft. Hit: 8 (1d10 + 3) Piercing\
+      \ damage."
+    "name": "Pistol"
 "reactions":
-- "desc": "Trigger: The bandit is hit by a melee attack roll while holding a weapon.\
-    \ _Response:_ The bandit adds 2 to its AC against that attack, possibly causing\
-    \ it to miss."
-  "name": "Parry"
+  - "desc": "Trigger: The bandit is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The bandit adds 2 to its AC against that attack, possibly causing\
+      \ it to miss."
+    "name": "Parry"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain-xmm.webp"
 ```
 ^statblock

@@ -14,7 +14,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Weird"]
+aliases:
+- Weird
 ---
 # Weird
 *9th-level, Illusion*  
@@ -29,6 +30,6 @@ You try to create illusory terrors in others' minds. Each creature of your choic
 
 A [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `dice:5d10|noform|noparens|avg` (`5d10`) Psychic damage. On a successful save, the spell ends on that target.
 
-**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

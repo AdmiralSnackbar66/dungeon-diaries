@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e84b0be370d044d0",
+        "id": "9671f440c5edcc31",
         "type": "tabs",
         "children": [
           {
-            "id": "63e185fdbfed68da",
+            "id": "e53b36d99ed815b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rook"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0cdd6dd43d93456f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d504ed44297a2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+                "file": "ttrpgs/ttrpgs.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Professor Mavinda Sharpbeak"
+              "title": "ttrpgs"
             }
           }
         ]
@@ -275,49 +255,15 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "aa10c91f21cdd7aa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "183fb36d862b1db2",
-        "type": "window",
-        "children": [
-          {
-            "id": "c7a33f42b05adb46",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "46959cc3e3413af5",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "z_Assets/CogworkArchivist.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "CogworkArchivist"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "63e185fdbfed68da",
+  "active": "e53b36d99ed815b4",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
+    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",
     "z_Assets/CogworkArchivist.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",
     "ttrpgs/Non Player Characters/Rook.md",
     "ttrpgs/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
     "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
@@ -351,8 +297,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/047-03-023-tilana.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/046-03-022-shuvadri.webp",
     "z_templates/session-gm.md",
-    "ttrpgs/Campaigns/Strixhaven/003_null.md",
-    "ttrpgs/Campaigns/Strixhaven/No games found.md",
     "public/dnd/Player-Characters/Dalaila-Eversnow.html",
     "[content/dnd/Player Characters",
     "[content/dnd",

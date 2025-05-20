@@ -5,17 +5,18 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Shooting Stars"
 ---
 # Ring of Shooting Stars
-*Very rare (requires attunement)*  
+*Ring, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)
 
 
 You can cast [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md) or [Light](/3-Mechanics/CLI/spells/light-xphb.md) from the ring.
 
-The ring has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn. You can expend its charges to use the properties below.
+The ring has 6 charges and regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn. You can expend its charges to use the properties below.
 
 ## Faerie Fire
 
@@ -41,4 +42,4 @@ As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you ca
 
 You can expend 1 to 3 charges as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `dice:5d4|noform|noparens|avg` (`5d4`) Radiant damage on a failed save or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -35,4 +35,4 @@ Four sizes of Carpet of Flying exist. The DM chooses the size of a given carpet 
 - [Carpet of Flying, 5 ft. × 7 ft.](/3-Mechanics/CLI/items/carpet-of-flying-5-ft-7-ft-xdmg.md)
 - [Carpet of Flying, 6 ft. × 9 ft.](/3-Mechanics/CLI/items/carpet-of-flying-6-ft-9-ft-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 242*
+*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

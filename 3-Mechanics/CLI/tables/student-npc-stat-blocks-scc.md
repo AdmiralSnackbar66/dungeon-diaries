@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Student NPC Stat Blocks"]
+aliases:
+- Student NPC Stat Blocks
 ---
 # Student NPC Stat Blocks
 *Source: Strixhaven: A Curriculum of Chaos p. 50* 

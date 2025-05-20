@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/monk
-aliases: ["Monk Spells"]
+aliases:
+- Monk Spells
 ---
 # Monk Spells
 

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/wizard/war
-aliases: ["War Magic"]
+aliases:
+- War Magic
 ---
 # War Magic
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  

@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Sphinx of Wonder"]
+statblock-link: "#^statblock"
+aliases:
+- Sphinx of Wonder
 ---
 # [Sphinx of Wonder](3-Mechanics\CLI\bestiary\celestial/sphinx-of-wonder-xmm.md)
-*Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 A sphinx of wonder is brightly feathered and the size of a lion cub. One comes into being every time a unique idea is conceived on the Material Plane. Each sphinx of wonder is fascinated by a particular type of story or field of study, and it learns all it can about that topic. It bears a unique sigil on its forehead that suggests the type of knowledge that fascinates it. Sometimes, a sphinx of wonder forms a bond with a mortal scholar and aids them in their research.
 
@@ -51,37 +53,41 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "ac": !!int "13"
 "hp": !!int "24"
 "hit_dice": "7d4 + 7"
+"modifier": !!int "3"
 "stats":
-- !!int "6"
-- !!int "17"
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "11"
+  - !!int "6"
+  - !!int "17"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Religion": !!int "4"
-  "Arcana": !!int "4"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+4"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "damage_resistances": "necrotic, psychic, radiant"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
-- "desc": "The sphinx has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The sphinx has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage\
-    \ plus 7 (2d6) Radiant damage."
-  "name": "Rend"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage\
+      \ plus 7 (2d6) Radiant damage."
+    "name": "Rend"
 "reactions":
-- "desc": "Trigger: The sphinx or another creature within 30 feet makes an ability\
-    \ check or a saving throw. _Response:_ The sphinx adds 2 to the roll."
-  "name": "Burst of Ingenuity (2/Day)"
+  - "desc": "Trigger: The sphinx or another creature within 30 feet makes an ability\
+      \ check or a saving throw. _Response:_ The sphinx adds 2 to the roll."
+    "name": "Burst of Ingenuity (2/Day)"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-wonder-xmm.webp"
 ```
 ^statblock

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc-hfmt
-aliases: ["Hunt for Mage Tower"]
+aliases:
+- Hunt for Mage Tower
 ---
 # Hunt for Mage Tower
 *Source: Strixhaven: Hunt for Mage Tower, p. 97* 

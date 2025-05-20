@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/necromancy
 classes:
 - Warlock
-aliases: ["Shadow of Moil"]
+aliases:
+- Shadow of Moil
 ---
 # Shadow of Moil
 *4th-level, Necromancy*  

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Random Magic Items - Arcana"]
+aliases:
+- Random Magic Items - Arcana
 ---
 # Random Magic Items - Arcana
 *Source: Dungeon Master's Guide (2024) p. 326* 

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Halfling Names – Male"]
+aliases:
+- Halfling Names – Male
 ---
 # Halfling Names – Male
 *Source: Xanathar's Guide to Everything p. 179* 

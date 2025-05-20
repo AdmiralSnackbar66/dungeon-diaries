@@ -17,4 +17,4 @@ aliases:
 
 Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See "[Malnutrition](/3-Mechanics/CLI/traps-hazards/malnutrition-xphb.md)" for the risks of not eating.
 
-*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/life
 - ttrpg-cli/subclass/cleric/life
-aliases: ["Life Domain"]
+aliases:
+- Life Domain
 ---
 # Life Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 

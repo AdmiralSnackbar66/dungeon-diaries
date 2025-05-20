@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Seahorse"]
+statblock-link: "#^statblock"
+aliases:
+- Seahorse
 ---
 # [Seahorse](3-Mechanics\CLI\bestiary\beast/seahorse-xmm.md)
-*Source: Monster Manual (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -25,29 +27,32 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "1"
 "stats":
-- !!int "1"
-- !!int "12"
-- !!int "8"
-- !!int "1"
-- !!int "10"
-- !!int "2"
+  - !!int "1"
+  - !!int "12"
+  - !!int "8"
+  - !!int "1"
+  - !!int "10"
+  - !!int "2"
 "speed": "5 ft., swim 20 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The seahorse can breathe only underwater."
-  "name": "Water Breathing"
+  - "desc": "The seahorse can breathe only underwater."
+    "name": "Water Breathing"
 "actions":
-- "desc": "While underwater, the seahorse moves up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
-    \ without provoking Opportunity Attacks."
-  "name": "Bubble Dash"
+  - "desc": "While underwater, the seahorse moves up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
+      \ without provoking Opportunity Attacks."
+    "name": "Bubble Dash"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/seahorse-xmm.webp"
 ```
 ^statblock

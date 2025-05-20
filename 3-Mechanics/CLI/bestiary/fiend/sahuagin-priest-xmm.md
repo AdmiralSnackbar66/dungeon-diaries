@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Sahuagin Priest"]
+statblock-link: "#^statblock"
+aliases:
+- Sahuagin Priest
 ---
 # [Sahuagin Priest](3-Mechanics\CLI\bestiary\fiend/sahuagin-priest-xmm.md)
 *Source: Monster Manual (2024) p. 265*  
@@ -40,49 +42,53 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "ac": !!int "12"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
+"modifier": !!int "0"
 "stats":
-- !!int "13"
-- !!int "11"
-- !!int "12"
-- !!int "12"
-- !!int "14"
-- !!int "13"
+  - !!int "13"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  "Religion": !!int "3"
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+3"
 "damage_resistances": "acid, cold"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-- "desc": "The sahuagin casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n2/day each:\
-    \ [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The sahuagin casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md) or [Healing\
-    \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), using the same spellcasting\
-    \ ability as Spellcasting.\n\n2/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md)"
-  "name": "Fiendish Aid (2/Day)"
-- "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Blood Frenzy"
-- "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
-    \ once every 4 hours to avoid suffocating outside water."
-  "name": "Limited Amphibiousness"
-- "desc": "The sahuagin can magically control sharks within 120 feet of itself, using\
-    \ a special telepathy."
-  "name": "Shark Telepathy"
+  - "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Blood Frenzy"
+  - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
+      \ once every 4 hours to avoid suffocating outside water."
+    "name": "Limited Amphibiousness"
+  - "desc": "The sahuagin can magically control sharks within 120 feet of itself,\
+      \ using a special telepathy."
+    "name": "Shark Telepathy"
 "actions":
-- "desc": "The sahuagin makes two Spectral Jaws attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 120 ft. Hit:\
-    \ 11 (2d8 + 2) Force damage."
-  "name": "Spectral Jaws"
+  - "desc": "The sahuagin makes two Spectral Jaws attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +4, reach 5 ft. or range 120 ft. Hit:\
+      \ 11 (2d8 + 2) Force damage."
+    "name": "Spectral Jaws"
+  - "desc": "The sahuagin casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
+      \nAt will: [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
+      2/day each: [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The sahuagin casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md) or\
+      \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), using the same\
+      \ spellcasting ability as Spellcasting.\n"
+    "name": "Fiendish Aid (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
 ```
 ^statblock

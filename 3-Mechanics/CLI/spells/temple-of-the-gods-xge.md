@@ -12,7 +12,8 @@ classes:
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
-aliases: ["Temple of the Gods"]
+aliases:
+- Temple of the Gods
 ---
 # Temple of the Gods
 *7th-level, Conjuration*  
@@ -39,6 +40,6 @@ The temple is made from opaque magical force that extends into the Ethereal Plan
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Xanathar's Guide to Everything p. 167*

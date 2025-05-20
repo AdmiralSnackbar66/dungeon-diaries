@@ -19,4 +19,4 @@ aliases:
 - **Cost**: 5 cp
 - **Weight**: 0.25 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

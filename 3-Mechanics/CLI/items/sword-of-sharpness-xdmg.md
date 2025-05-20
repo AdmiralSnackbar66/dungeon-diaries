@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Sword of Sharpness"
 - "Glaive of Sharpness"
@@ -56,4 +57,4 @@ When you attack a creature with this weapon and roll a 20 on the `dice:d20|nofor
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Winter Wolf"]
+statblock-link: "#^statblock"
+aliases:
+- Winter Wolf
 ---
 # [Winter Wolf](3-Mechanics\CLI\bestiary\monstrosity/winter-wolf-xmm.md)
-*Source: Monster Manual (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Winter Wolf
 
@@ -39,37 +41,40 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 "ac": !!int "13"
 "hp": !!int "75"
 "hit_dice": "10d10 + 20"
+"modifier": !!int "1"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "14"
-- !!int "7"
-- !!int "12"
-- !!int "8"
+  - !!int "18"
+  - !!int "13"
+  - !!int "14"
+  - !!int "7"
+  - !!int "12"
+  - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "damage_immunities": "cold"
 "senses": "passive Perception 15"
 "languages": "Common, Giant"
 "cr": "3"
 "traits":
-- "desc": "The wolf has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the wolf's allies is\
-    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The wolf has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the wolf's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Bite"
-- "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: 18 (4d8) Cold damage. Success: Half damage."
-  "name": "Cold Breath (Recharge 5-6)"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Bite"
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 18 (4d8) Cold damage. Success: Half damage."
+    "name": "Cold Breath (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/winter-wolf-xmm.webp"
 ```
 ^statblock

@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Animated Flying Sword"]
+statblock-link: "#^statblock"
+aliases:
+- Animated Flying Sword
 ---
 # [Animated Flying Sword](3-Mechanics\CLI\bestiary\construct/animated-flying-sword-xmm.md)
-*Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Animated flying swords move as if wielded by unseen warriors. Whether an animated blade is newly forged or a constellation of broken fragments, the object behaves the same. Other weapons from the "Player's Handbook" can also be animated and use game statistics similar to those here.
 
@@ -56,16 +58,17 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "ac": !!int "17"
 "hp": !!int "14"
 "hit_dice": "4d6"
+"modifier": !!int "4"
 "stats":
-- !!int "12"
-- !!int "15"
-- !!int "11"
-- !!int "1"
-- !!int "5"
-- !!int "1"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
+  - !!int "1"
+  - !!int "5"
+  - !!int "1"
 "speed": "5 ft., fly 50 ft. (hover)"
 "saves":
-  "Dexterity": !!int "4"
+  - "dexterity": "+4"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
   \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -75,10 +78,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage."
-  "name": "Slash"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage."
+    "name": "Slash"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/animated-flying-sword-xmm.webp"
 ```
 ^statblock

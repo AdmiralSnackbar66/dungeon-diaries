@@ -18,4 +18,4 @@ aliases:
 
 While holding this Shield, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects, and spell attack rolls have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) against you.
 
-*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Minotaur of Baphomet"]
+statblock-link: "#^statblock"
+aliases:
+- Minotaur of Baphomet
 ---
 # [Minotaur of Baphomet](3-Mechanics\CLI\bestiary\monstrosity/minotaur-of-baphomet-xmm.md)
-*Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Minotaur of Baphomet
 
@@ -44,32 +46,35 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 "ac": !!int "14"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
+"modifier": !!int "0"
 "stats":
-- !!int "18"
-- !!int "11"
-- !!int "16"
-- !!int "6"
-- !!int "16"
-- !!int "9"
+  - !!int "18"
+  - !!int "11"
+  - !!int "16"
+  - !!int "6"
+  - !!int "16"
+  - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "7"
-  "Survival": !!int "7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+    "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "3"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage\
-    \ plus 10 (3d6) Necrotic damage."
-  "name": "Abyssal Glaive"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage.\
-    \ If the target is a Large or smaller creature and the minotaur moved 10+ feet\
-    \ straight toward it immediately before the hit, the target takes an extra 10\
-    \ (3d6) Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Gore (Recharge 5-6)"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 10 (1d12 + 4) Slashing damage\
+      \ plus 10 (3d6) Necrotic damage."
+    "name": "Abyssal Glaive"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage.\
+      \ If the target is a Large or smaller creature and the minotaur moved 10+ feet\
+      \ straight toward it immediately before the hit, the target takes an extra 10\
+      \ (3d6) Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Gore (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
 ```
 ^statblock

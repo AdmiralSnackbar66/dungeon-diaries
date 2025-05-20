@@ -18,4 +18,4 @@ aliases:
 - **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
 - **Cost**: 1 sp
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

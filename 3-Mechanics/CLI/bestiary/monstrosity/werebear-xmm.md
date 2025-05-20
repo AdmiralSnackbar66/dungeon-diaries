@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Werebear"]
+statblock-link: "#^statblock"
+aliases:
+- Werebear
 ---
 # [Werebear](3-Mechanics\CLI\bestiary\monstrosity/werebear-xmm.md)
-*Source: Monster Manual (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Werebear
 
@@ -32,43 +34,45 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
 "ac": !!int "15"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
+"modifier": !!int "3"
 "stats":
-- !!int "19"
-- !!int "10"
-- !!int "17"
-- !!int "11"
-- !!int "12"
-- !!int "12"
+  - !!int "19"
+  - !!int "10"
+  - !!int "17"
+  - !!int "11"
+  - !!int "12"
+  - !!int "12"
 "speed": "30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)"
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Common (can't speak in bear form)"
 "cr": "5"
 "actions":
-- "desc": "The werebear makes two attacks, using Handaxe or Rend in any combination.\
-    \ It can replace one attack with a Bite attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
-    \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
-    \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
-    \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-    \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
-    \ Success: The target is immune to this werebear's curse for 24 hours."
-  "name": "Bite (Bear or Hybrid Form Only)"
-- "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\
-    \ 14 (3d6 + 4) Slashing damage."
-  "name": "Handaxe (Humanoid or Hybrid Form Only)"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage."
-  "name": "Rend (Bear or Hybrid Form Only)"
+  - "desc": "The werebear makes two attacks, using Handaxe or Rend in any combination.\
+      \ It can replace one attack with a Bite attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
+      \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
+      \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
+      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ Success: The target is immune to this werebear's curse for 24 hours."
+    "name": "Bite (Bear or Hybrid Form Only)"
+  - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\
+      \ 14 (3d6 + 4) Slashing damage."
+    "name": "Handaxe (Humanoid or Hybrid Form Only)"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage."
+    "name": "Rend (Bear or Hybrid Form Only)"
 "bonus_actions":
-- "desc": "The werebear shape-shifts into a Large bear-humanoid hybrid form or a Large\
-    \ bear, or it returns to its true humanoid form. Its game statistics, other than\
-    \ its size, are the same in each form. Any equipment it is wearing or carrying\
-    \ isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The werebear shape-shifts into a Large bear-humanoid hybrid form or a\
+      \ Large bear, or it returns to its true humanoid form. Its game statistics,\
+      \ other than its size, are the same in each form. Any equipment it is wearing\
+      \ or carrying isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/werebear-xmm.webp"
 ```
 ^statblock

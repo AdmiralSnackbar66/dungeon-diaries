@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/aberrant
-aliases: ["Aberrant Sorcery"]
+aliases:
+- Aberrant Sorcery
 ---
 # Aberrant Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  

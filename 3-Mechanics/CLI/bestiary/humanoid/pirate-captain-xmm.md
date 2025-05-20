@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Pirate Captain"]
+statblock-link: "#^statblock"
+aliases:
+- Pirate Captain
 ---
 # [Pirate Captain](3-Mechanics\CLI\bestiary\humanoid/pirate-captain-xmm.md)
-*Source: Monster Manual (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Pirate captains command crews of pirates, dictating their destinations and targets. Captains cultivate fearsome and theatrical reputations, painting themselves as larger-than-life characters to terrorize their foes, ensure the obedience of their crews, and attract followers to their banner. Many have colorful nicknames inspired by signature traits and deeds.
 
@@ -54,48 +56,51 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "ac": !!int "17"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
+"modifier": !!int "7"
 "stats":
-- !!int "10"
-- !!int "18"
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "17"
+  - !!int "10"
+  - !!int "18"
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "17"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "5"
-  "Strength": !!int "3"
+  - "strength": "+3"
+  - "dexterity": "+7"
+  - "wisdom": "+5"
+  - "charisma": "+6"
 "skillsaves":
-  "Perception": !!int "5"
-  "Acrobatics": !!int "7"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "6"
 "actions":
-- "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage,\
-    \ and the pirate has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on the next attack roll it makes before the end of this turn."
-  "name": "Rapier"
-- "desc": "Ranged Attack Roll: +7, range 30/90 ft. Hit: 15 (2d10 + 4) Piercing\
-    \ damage."
-  "name": "Pistol"
+  - "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage,\
+      \ and the pirate has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on the next attack roll it makes before the end of this turn."
+    "name": "Rapier"
+  - "desc": "Ranged Attack Roll: +7, range 30/90 ft. Hit: 15 (2d10 + 4) Piercing\
+      \ damage."
+    "name": "Pistol"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 14, one creature the pirate can see within 30\
-    \ feet. Failure: The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-    \ condition until the start of the pirate's next turn."
-  "name": "Captain's Charm"
+  - "desc": "Wisdom Saving Throw: DC 14, one creature the pirate can see within\
+      \ 30 feet. Failure: The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ condition until the start of the pirate's next turn."
+    "name": "Captain's Charm"
 "reactions":
-- "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
-    \ _Response:_ The pirate adds 3 to its AC against that attack, possibly causing\
-    \ it to miss. On a miss, the pirate makes one Rapier attack against the triggering\
-    \ creature if within range."
-  "name": "Riposte"
+  - "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The pirate adds 3 to its AC against that attack, possibly causing\
+      \ it to miss. On a miss, the pirate makes one Rapier attack against the triggering\
+      \ creature if within range."
+    "name": "Riposte"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-xmm.webp"
 ```
 ^statblock

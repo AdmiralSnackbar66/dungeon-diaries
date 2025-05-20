@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/stars
-aliases: ["Circle of the Stars"]
+aliases:
+- Circle of the Stars
 ---
 # Circle of the Stars
 *[Druid](./druid-xphb.md): Druid Subclass*  
@@ -82,11 +83,11 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 ### Archer (Level 3)
 
-A constellation of an archer appears on you. When you activate this form and as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of yourself. On a hit, the attack deals Radiant damage equal to `dice:1d8|noform|noparens|avg` (`1d8`) plus your Wisdom modifier.
+A constellation of an archer appears on you. When you activate this form and as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow that targets one creature within 60 feet of yourself. On a hit, the attack deals Radiant damage equal to `dice:1d8|noform|noparens|avg` (`d8`) plus your Wisdom modifier.
 
 ### Chalice (Level 3)
 
-A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature, you or another creature within 30 feet of you can regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `dice:1d8|noform|noparens|avg` (`1d8`) plus your Wisdom modifier.
+A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature, you or another creature within 30 feet of you can regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `dice:1d8|noform|noparens|avg` (`d8`) plus your Wisdom modifier.
 
 ### Dragon (Level 3)
 
@@ -96,14 +97,14 @@ A constellation of a wise dragon appears on you. When you make an Intelligence o
 
 Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can consult your Star Map for omens and roll a die. Until you finish your next [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you gain access to a special [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) based on whether you rolled an even or an odd number on the die:
 
-- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll `dice:1d6|noform|noparens|avg` (`1d6`) and add the number rolled to the total.  
-- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll `dice:1d6|noform|noparens|avg` (`1d6`) and subtract the number rolled from the total.  
+- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll `dice:1d6|noform|noparens|avg` (`d6`) and add the number rolled to the total.  
+- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll `dice:1d6|noform|noparens|avg` (`d6`) and subtract the number rolled from the total.  
 
 You can use this [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Twinkling Constellations (Level 10)
 
-The constellations of your Starry Form improve. The `dice:1d8|noform|noparens|avg` (`1d8`) of the Archer and the Chalice becomes `dice:2d8|noform|noparens|avg` (`2d8`), and while the Dragon is active, you have a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 20 feet and can hover.
+The constellations of your Starry Form improve. The `dice:1d8|noform|noparens|avg` (`d8`) of the Archer and the Chalice becomes `dice:2d8|noform|noparens|avg` (`2d8`), and while the Dragon is active, you have a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 20 feet and can hover.
 
 Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 

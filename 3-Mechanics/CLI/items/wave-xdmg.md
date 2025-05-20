@@ -32,7 +32,7 @@ While holding Wave, you gain the following benefits:
 
 ## Aquatic Command
 
-Wave has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [Dominate Beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md) (save DC 20) from it on a Beast that has a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md).
+Wave has 3 charges and regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn. While you carry it, you can expend 1 charge to cast [Dominate Beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md) (save DC 20) from it on a Beast that has a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md).
 
 ## Globe of Invulnerability
 

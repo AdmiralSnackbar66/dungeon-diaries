@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Bandit Crime Lord"]
+statblock-link: "#^statblock"
+aliases:
+- Bandit Crime Lord
 ---
 # [Bandit Crime Lord](3-Mechanics\CLI\bestiary\humanoid/bandit-crime-lord-xmm.md)
 *Source: Monster Manual (2024) p. 28*  
@@ -52,47 +54,51 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 "ac": !!int "17"
 "hp": !!int "169"
 "hit_dice": "26d8 + 52"
+"modifier": !!int "9"
 "stats":
-- !!int "10"
-- !!int "20"
-- !!int "14"
-- !!int "18"
-- !!int "14"
-- !!int "15"
+  - !!int "10"
+  - !!int "20"
+  - !!int "14"
+  - !!int "18"
+  - !!int "14"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "9"
-  "Constitution": !!int "6"
+  - "dexterity": "+9"
+  - "constitution": "+6"
 "skillsaves":
-  "Stealth": !!int "13"
-  "Perception": !!int "10"
-  "Acrobatics": !!int "9"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+9"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+10"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+13"
 "senses": "passive Perception 20"
 "languages": "Common, Thieves' cant"
 "cr": "11"
 "traits":
-- "desc": "If the bandit is subjected to an effect that allows it to make a Dexterity\
-    \ saving throw to take only half damage, the bandit instead takes no damage if\
-    \ it succeeds on the save and only half damage if it fails. It can't use this\
-    \ trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Evasion"
+  - "desc": "If the bandit is subjected to an effect that allows it to make a Dexterity\
+      \ saving throw to take only half damage, the bandit instead takes no damage\
+      \ if it succeeds on the save and only half damage if it fails. It can't use\
+      \ this trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Evasion"
 "actions":
-- "desc": "The bandit makes three attacks, using Scimitar or Pistol in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
-    \ plus 14 (4d6) Poison damage."
-  "name": "Scimitar"
-- "desc": "Ranged Attack Roll: +9, range 30/90 ft. Hit: 10 (1d10 + 5) Piercing\
-    \ damage plus 14 (4d6) Poison damage."
-  "name": "Pistol"
+  - "desc": "The bandit makes three attacks, using Scimitar or Pistol in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
+      \ plus 14 (4d6) Poison damage."
+    "name": "Scimitar"
+  - "desc": "Ranged Attack Roll: +9, range 30/90 ft. Hit: 10 (1d10 + 5) Piercing\
+      \ damage plus 14 (4d6) Poison damage."
+    "name": "Pistol"
 "bonus_actions":
-- "desc": "The bandit gives itself [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on the next attack roll it makes during the current turn. If that attack hits,\
-    \ the target takes an extra 28 (8d6) Poison damage."
-  "name": "Deadly Aim"
+  - "desc": "The bandit gives itself [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on the next attack roll it makes during the current turn. If that attack hits,\
+      \ the target takes an extra 28 (8d6) Poison damage."
+    "name": "Deadly Aim"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-crime-lord-xmm.webp"
 ```
 ^statblock

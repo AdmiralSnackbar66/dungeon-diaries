@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Pub"]
+aliases:
+- Pub
 ---
 # Pub
 *Level 13 Bastion facility*  

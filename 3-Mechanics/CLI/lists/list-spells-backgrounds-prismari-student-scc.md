@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/background/prismari-student
-aliases: ["Spells for Prismari Student"]
+aliases:
+- Spells for Prismari Student
 ---
 # Spells for Prismari Student
 

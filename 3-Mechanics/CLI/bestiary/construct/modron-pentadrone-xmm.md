@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Modron Pentadrone"]
+statblock-link: "#^statblock"
+aliases:
+- Modron Pentadrone
 ---
 # [Modron Pentadrone](3-Mechanics\CLI\bestiary\construct/modron-pentadrone-xmm.md)
 *Source: Monster Manual (2024) p. 218*  
@@ -64,38 +66,41 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "ac": !!int "16"
 "hp": !!int "32"
 "hit_dice": "5d10 + 5"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Modron"
 "cr": "2"
 "traits":
-- "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-    \ it was wearing or carrying."
-  "name": "Disintegration"
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
 "actions":
-- "desc": "The modron makes five Slam attacks or five Electrical Discharge attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Force damage."
-  "name": "Slam"
-- "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 5 (1d6 + 2) Lightning damage."
-  "name": "Electrical Discharge"
-- "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-    \ condition and repeats the save at the end of each of its turns, ending the effect\
-    \ on itself on a success. After 1 minute, it succeeds automatically."
-  "name": "Paralysis Gas (Recharge 5-6)"
+  - "desc": "The modron makes five Slam attacks or five Electrical Discharge attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Force damage."
+    "name": "Slam"
+  - "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 5 (1d6 + 2) Lightning\
+      \ damage."
+    "name": "Electrical Discharge"
+  - "desc": "Constitution Saving Throws: DC 11, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ condition and repeats the save at the end of each of its turns, ending the\
+      \ effect on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Paralysis Gas (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/modron-pentadrone-xmm.webp"
 ```
 ^statblock

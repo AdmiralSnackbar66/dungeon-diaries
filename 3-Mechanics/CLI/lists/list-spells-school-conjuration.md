@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/conjuration
-aliases: ["Conjuration Spells"]
+aliases:
+- Conjuration Spells
 ---
 # Conjuration Spells
 
@@ -13,6 +14,7 @@ aliases: ["Conjuration Spells"]
 - [Infestation](/3-Mechanics/CLI/spells/infestation-xge.md "XGE")
 - [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB")
 - [Produce Flame](/3-Mechanics/CLI/spells/produce-flame-xphb.md "XPHB")
+- [Sword Burst](/3-Mechanics/CLI/spells/sword-burst-tce.md "TCE")
 
 ## 1st Level
 
@@ -52,6 +54,7 @@ aliases: ["Conjuration Spells"]
 - [Stinking Cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB")
 - [Summon Fey](/3-Mechanics/CLI/spells/summon-fey-xphb.md "XPHB")
 - [Summon Lesser Demons](/3-Mechanics/CLI/spells/summon-lesser-demons-xge.md "XGE")
+- [Summon Shadowspawn](/3-Mechanics/CLI/spells/summon-shadowspawn-tce.md "TCE")
 - [Thunder Step](/3-Mechanics/CLI/spells/thunder-step-xge.md "XGE")
 - [Tidal Wave](/3-Mechanics/CLI/spells/tidal-wave-xge.md "XGE")
 
@@ -105,6 +108,7 @@ aliases: ["Conjuration Spells"]
 ## 7th Level
 
 - [Conjure Celestial](/3-Mechanics/CLI/spells/conjure-celestial-xphb.md "XPHB")
+- [Dream of the Blue Veil](/3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md "TCE")
 - [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md "XPHB")
 - [Mordenkainen's Magnificent Mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md "XPHB")
 - [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md "XPHB")
@@ -121,6 +125,7 @@ aliases: ["Conjuration Spells"]
 
 ## 9th Level
 
+- [Blade of Disaster](/3-Mechanics/CLI/spells/blade-of-disaster-tce.md "TCE")
 - [Gate](/3-Mechanics/CLI/spells/gate-xphb.md "XPHB")
 - [Storm of Vengeance](/3-Mechanics/CLI/spells/storm-of-vengeance-xphb.md "XPHB")
 - [Wish](/3-Mechanics/CLI/spells/wish-xphb.md "XPHB")

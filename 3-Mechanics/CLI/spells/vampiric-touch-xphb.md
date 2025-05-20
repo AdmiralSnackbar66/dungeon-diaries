@@ -23,7 +23,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Vampiric Touch"]
+aliases:
+- Vampiric Touch
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  
@@ -38,8 +39,8 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 Until the spell ends, you can make the attack again on each of your turns as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, targeting the same creature or a different one.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each spell slot level above 3.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

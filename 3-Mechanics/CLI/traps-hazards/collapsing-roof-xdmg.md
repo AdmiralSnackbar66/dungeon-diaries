@@ -4,7 +4,8 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Collapsing Roof"]
+aliases:
+- Collapsing Roof
 ---
 # Collapsing Roof
 *Generic Hazard*  

@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
+- ttrpg-cli/item/wondrous/wand
 aliases: 
 - "Wand of the War Mage"
 ---
 # Wand of the War Mage
-*(requires attunement by a spellcaster)*  
+*Wand (requires attunement by a spellcaster)*  
 ![](/3-Mechanics/CLI/items/img/wand-of-the-war-mage.webp#right)
 
 - **Weight**: 1.0 lbs.

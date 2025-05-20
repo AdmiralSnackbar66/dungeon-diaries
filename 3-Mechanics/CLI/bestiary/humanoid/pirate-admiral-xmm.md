@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Pirate Admiral"]
+statblock-link: "#^statblock"
+aliases:
+- Pirate Admiral
 ---
 # [Pirate Admiral](3-Mechanics\CLI\bestiary\humanoid/pirate-admiral-xmm.md)
 *Source: Monster Manual (2024) p. 242*  
@@ -54,52 +56,56 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "ac": !!int "20"
 "hp": !!int "182"
 "hit_dice": "28d8 + 56"
+"modifier": !!int "10"
 "stats":
-- !!int "14"
-- !!int "22"
-- !!int "14"
-- !!int "12"
-- !!int "14"
-- !!int "19"
+  - !!int "14"
+  - !!int "22"
+  - !!int "14"
+  - !!int "12"
+  - !!int "14"
+  - !!int "19"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "10"
-  "Wisdom": !!int "6"
-  "Strength": !!int "6"
+  - "strength": "+6"
+  - "dexterity": "+10"
+  - "wisdom": "+6"
+  - "charisma": "+8"
 "skillsaves":
-  "Athletics": !!int "6"
-  "Perception": !!int "6"
-  "Acrobatics": !!int "10"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+10"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
 "cr": "12"
 "actions":
-- "desc": "The pirate makes three attacks, using Scimitar or Pistol in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Slashing damage\
-    \ plus 7 (2d6) Poison damage, and the target suffers one of the following effects\
-    \ of the pirate's choice:\n\n- Awestruck. The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-    \ condition until the start of the pirate's next turn.  \n- Poison. The target\
-    \ has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition until\
-    \ the start of the pirate's next turn.  "
-  "name": "Scimitar"
-- "desc": "Ranged Attack Roll: +10, range 30/90 ft. Hit: 28 (4d10 + 6) Piercing\
-    \ damage."
-  "name": "Pistol"
+  - "desc": "The pirate makes three attacks, using Scimitar or Pistol in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 16 (3d6 + 6) Slashing damage\
+      \ plus 7 (2d6) Poison damage, and the target suffers one of the following effects\
+      \ of the pirate's choice:\n\n- Awestruck. The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ condition until the start of the pirate's next turn.  \n- Poison. The\
+      \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ until the start of the pirate's next turn.  "
+    "name": "Scimitar"
+  - "desc": "Ranged Attack Roll: +10, range 30/90 ft. Hit: 28 (4d10 + 6) Piercing\
+      \ damage."
+    "name": "Pistol"
 "bonus_actions":
-- "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-    \ Until the start of the pirate's next turn, the targets have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on attack rolls and saving throws."
-  "name": "Rally (1/Day)"
+  - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
+      \ Until the start of the pirate's next turn, the targets have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls and saving throws."
+    "name": "Rally (1/Day)"
 "reactions":
-- "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
-    \ _Response:_ The pirate adds 4 to its AC against melee attack rolls (including\
-    \ the triggering attack) until the start of its next turn, possibly causing the\
-    \ attacks to miss."
-  "name": "Defensive Stance"
+  - "desc": "Trigger: The pirate is hit by a melee attack roll while holding a weapon.\
+      \ _Response:_ The pirate adds 4 to its AC against melee attack rolls (including\
+      \ the triggering attack) until the start of its next turn, possibly causing\
+      \ the attacks to miss."
+    "name": "Defensive Stance"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-admiral-xmm.webp"
 ```
 ^statblock

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/bard/whispers
-aliases: ["College of Whispers"]
+aliases:
+- College of Whispers
 ---
 # College of Whispers
 *[Bard](./bard-xphb.md): Bard Subclass*  

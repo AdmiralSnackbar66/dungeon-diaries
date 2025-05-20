@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Myconid Spore Servant"]
+statblock-link: "#^statblock"
+aliases:
+- Myconid Spore Servant
 ---
 # [Myconid Spore Servant](3-Mechanics\CLI\bestiary\plant/myconid-spore-servant-xmm.md)
 *Source: Monster Manual (2024) p. 223*  
@@ -32,13 +34,14 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "ac": !!int "13"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "16"
-- !!int "2"
-- !!int "6"
-- !!int "1"
+  - !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "2"
+  - !!int "6"
+  - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
@@ -48,11 +51,11 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "languages": "telepathy 30 ft."
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
-    \ plus 2 (1d4) Poison damage."
-  "name": "Slam"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
+      \ plus 2 (d4) Poison damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/myconid-spore-servant-xmm.webp"
 ```
 ^statblock

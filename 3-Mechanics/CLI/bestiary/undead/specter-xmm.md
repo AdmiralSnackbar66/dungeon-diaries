@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Specter"]
+statblock-link: "#^statblock"
+aliases:
+- Specter
 ---
 # [Specter](3-Mechanics\CLI\bestiary\undead/specter-xmm.md)
-*Source: Monster Manual (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Specter
 
@@ -49,13 +51,14 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "ac": !!int "12"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "2"
 "stats":
-- !!int "1"
-- !!int "14"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "11"
+  - !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
 "speed": "30 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
@@ -69,20 +72,20 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The specter can move through other creatures and objects as if they were\
-    \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
-    \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
-  "name": "Incorporeal Movement"
-- "desc": "While in sunlight, the specter has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The specter can move through other creatures and objects as if they were\
+      \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ It takes 5 (d10) Force damage if it ends its turn inside an object."
+    "name": "Incorporeal Movement"
+  - "desc": "While in sunlight, the specter has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage. If\
-    \ the target is a creature, its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the damage taken."
-  "name": "Life Drain"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d6) Necrotic damage.\
+      \ If the target is a creature, its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the damage taken."
+    "name": "Life Drain"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/specter-xmm.webp"
 ```
 ^statblock

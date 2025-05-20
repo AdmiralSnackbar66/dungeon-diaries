@@ -4,10 +4,11 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/human
-aliases: ["Human"]
+aliases:
+- Human
 ---
 # Human
-*Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/races/img/human.webp#right)
 
 - **Ability Scores**: None

@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Ogre Zombie"]
+statblock-link: "#^statblock"
+aliases:
+- Ogre Zombie
 ---
 # [Ogre Zombie](3-Mechanics\CLI\bestiary\undead/ogre-zombie-xmm.md)
-*Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 346. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ogre zombies serve as tireless labor and undying weapons of war. These massive zombies possess the size and strength to break through barriers that repel smaller zombies.
 
@@ -42,16 +44,17 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "ac": !!int "8"
 "hp": !!int "85"
 "hit_dice": "9d10 + 36"
+"modifier": !!int "-2"
 "stats":
-- !!int "19"
-- !!int "6"
-- !!int "18"
-- !!int "3"
-- !!int "6"
-- !!int "5"
+  - !!int "19"
+  - !!int "6"
+  - !!int "18"
+  - !!int "3"
+  - !!int "6"
+  - !!int "5"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "0"
+  - "wisdom": "+0"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
   \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -59,17 +62,18 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "languages": "understands Common and Giant but can't speak"
 "cr": "2"
 "traits":
-- "desc": "If damage reduces the zombie to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-    \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-    \ damage is Radiant or from a [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
-    \ On a successful save, the zombie drops to 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ instead."
-  "name": "Undead Fortitude"
+  - "desc": "If damage reduces the zombie to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
+      \ damage is Radiant or from a [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
+      \ On a successful save, the zombie drops to 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ instead."
+    "name": "Undead Fortitude"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
+      \ damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/ogre-zombie-xmm.webp"
 ```
 ^statblock

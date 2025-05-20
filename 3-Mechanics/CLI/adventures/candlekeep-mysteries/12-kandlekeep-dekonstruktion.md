@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Kandlekeep Dekonstruktion"]
+aliases:
+- Kandlekeep Dekonstruktion
 ---
 # Kandlekeep Dekonstruktion
 *Source: Candlekeep Mysteries, p. 124* 

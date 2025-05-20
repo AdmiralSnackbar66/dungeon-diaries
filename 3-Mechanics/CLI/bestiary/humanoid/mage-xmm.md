@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Mage"]
+statblock-link: "#^statblock"
+aliases:
+- Mage
 ---
 # [Mage](3-Mechanics\CLI\bestiary\humanoid/mage-xmm.md)
-*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets.
 
@@ -57,49 +59,54 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 "ac": !!int "15"
 "hp": !!int "81"
 "hit_dice": "18d8"
+"modifier": !!int "2"
 "stats":
-- !!int "9"
-- !!int "14"
-- !!int "11"
-- !!int "17"
-- !!int "12"
-- !!int "11"
+  - !!int "9"
+  - !!int "14"
+  - !!int "11"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "6"
+  - "intelligence": "+6"
+  - "wisdom": "+4"
 "skillsaves":
-  "Perception": !!int "4"
-  "History": !!int "6"
-  "Arcana": !!int "6"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common and any three languages"
 "cr": "6"
-"traits":
-- "desc": "The mage casts one of the following spells, using Intelligence as the spellcasting\
-    \ ability (spell save DC 14):\n\nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-    \ [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-    \ (included in AC), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
-    \ [Fly](/3-Mechanics/CLI/spells/fly-xphb.md)\n\n2/day each: [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\
-    \ (level 4 version), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The mage casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n3/day: [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md)"
-  "name": "Misty Step (3/Day)"
-- "desc": "The mage casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
-    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
-    \ trigger, using the same spellcasting ability as Spellcasting.\n\n3/day:\
-    \ [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md), [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
-  "name": "Protective Magic (3/Day)"
 "actions":
-- "desc": "The mage makes three Arcane Burst attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit:\
-    \ 16 (3d8 + 3) Force damage."
-  "name": "Arcane Burst"
+  - "desc": "The mage makes three Arcane Burst attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit:\
+      \ 16 (3d8 + 3) Force damage."
+    "name": "Arcane Burst"
+  - "desc": "The mage casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 14):\n\nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n2/day\
+      \ each: [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) (level 4 version),\
+      \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\n\n1/day each:\
+      \ [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [Fly](/3-Mechanics/CLI/spells/fly-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The mage casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Misty Step (3/Day)"
+"reactions":
+  - "desc": "The mage casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
+      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, using the same spellcasting ability as Spellcasting.\n"
+    "name": "Protective Magic (3/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage-xmm.webp"
 ```
 ^statblock

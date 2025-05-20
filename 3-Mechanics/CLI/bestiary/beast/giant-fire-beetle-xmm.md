@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Fire Beetle"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Fire Beetle
 ---
 # [Giant Fire Beetle](3-Mechanics\CLI\bestiary\beast/giant-fire-beetle-xmm.md)
-*Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -25,28 +27,29 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "4"
 "hit_dice": "1d6 + 1"
+"modifier": !!int "0"
 "stats":
-- !!int "8"
-- !!int "10"
-- !!int "12"
-- !!int "1"
-- !!int "7"
-- !!int "3"
+  - !!int "8"
+  - !!int "10"
+  - !!int "12"
+  - !!int "1"
+  - !!int "7"
+  - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "fire"
 "senses": "blindsight 30 ft., passive Perception 8"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The beetle sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-    \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ for an additional 10 feet."
-  "name": "Illumination"
+  - "desc": "The beetle sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ for an additional 10 feet."
+    "name": "Illumination"
 "actions":
-- "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-fire-beetle-xmm.webp"
 ```
 ^statblock

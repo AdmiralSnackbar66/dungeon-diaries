@@ -11,14 +11,17 @@ tags:
 - ttrpg-cli/spell/subclass/archfey-patron
 - ttrpg-cli/spell/subclass/gloom-stalker
 - ttrpg-cli/spell/subclass/illusionist
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Ranger (Gloom Stalker)
 - Sorcerer
 - Warlock (Archfey Patron)
+- Warlock (The Genie)
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Seeming"]
+aliases:
+- Seeming
 ---
 # Seeming
 *5th-level, Illusion*  
@@ -37,6 +40,6 @@ The changes wrought by this spell fail to hold up to physical inspection. For ex
 
 A creature that takes the [Study](/3-Mechanics/CLI/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Ranger (Gloom Stalker)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Ranger (Gloom Stalker)](/3-Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

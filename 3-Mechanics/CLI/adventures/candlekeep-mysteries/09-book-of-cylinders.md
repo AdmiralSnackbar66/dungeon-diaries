@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Book of Cylinders"]
+aliases:
+- Book of Cylinders
 ---
 # Book of Cylinders
 *Source: Candlekeep Mysteries, p. 91* 
@@ -260,7 +261,7 @@ This suit of magic armor is made from shimmering scales. While wearing it, you c
 
 *Weapon (longsword), rare*
 
-This single-edged magic sword is made from the scrimshawed fang of a giant serpent. Its hilt changes shape to adjust to the grasp of any creature that picks it up. The weapon deals an extra `dice:1d10|noform|noparens|avg` (`1d10`) poison damage to any target it hits.
+This single-edged magic sword is made from the scrimshawed fang of a giant serpent. Its hilt changes shape to adjust to the grasp of any creature that picks it up. The weapon deals an extra `dice:1d10|noform|noparens|avg` (`d10`) poison damage to any target it hits.
 
 ## Aftermath
 

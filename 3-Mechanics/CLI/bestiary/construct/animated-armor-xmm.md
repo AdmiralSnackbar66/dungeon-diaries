@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Animated Armor"]
+statblock-link: "#^statblock"
+aliases:
+- Animated Armor
 ---
 # [Animated Armor](3-Mechanics\CLI\bestiary\construct/animated-armor-xmm.md)
-*Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
 
@@ -56,13 +58,14 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "ac": !!int "18"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "11"
-- !!int "13"
-- !!int "1"
-- !!int "3"
-- !!int "1"
+  - !!int "14"
+  - !!int "11"
+  - !!int "13"
+  - !!int "1"
+  - !!int "3"
+  - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
@@ -73,12 +76,12 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "languages": ""
 "cr": "1"
 "actions":
-- "desc": "The armor makes two Slam attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "The armor makes two Slam attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/animated-armor-xmm.webp"
 ```
 ^statblock

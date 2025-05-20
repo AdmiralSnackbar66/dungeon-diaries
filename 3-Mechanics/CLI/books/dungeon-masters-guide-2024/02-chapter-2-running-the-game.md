@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 2: Running the Game"]
+aliases:
+- Chapter 2: Running the Game
 ---
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 
@@ -731,7 +732,7 @@ The Encounter Distance column in the "Travel Terrain" table gives the range at w
 
 Characters without water and [Rations](/3-Mechanics/CLI/items/rations-xphb.md) can stave off [dehydration](/3-Mechanics/CLI/traps-hazards/dehydration-xphb.md) and [malnutrition](/3-Mechanics/CLI/traps-hazards/malnutrition-xphb.md) by gathering food and water as they travel. A foraging character makes a Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check once per journey stage (or once per day if a stage is shorter than a day). The DC is determined by the abundance of food and water in the region, as shown in the Foraging DC column of the "Travel Terrain" table. If multiple characters forage, each character makes a separate check.
 
-A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|noparens|avg` (`1d6`) and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
+A foraging character finds nothing on a failed check. On a successful check, roll `dice:1d6|noform|noparens|avg` (`d6`) and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
 > [!note] Do Players Need to Track Rations?
 > 
@@ -764,7 +765,7 @@ In addition to the chance of a delay (adding a few hours, a day, or a couple of 
 
 - **Combat Encounter.** The characters encounter one or more Hostile creatures. For example, marching through a burning forest instead of circling around it might prompt an encounter with raging fire elementals.  
 - **Damage.** The characters take damage. For example, a character who tumbles over a waterfall might take Bludgeoning damage. See ""Improvising Damage"" in this chapter for guidelines on determining how much damage is appropriate.  
-- **Exhaustion.** The obstacle fatigues the characters, causing them to gain [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) levels. For example, marching through a blizzard instead of taking shelter might cause each character to gain `dice:1d4|noform|noparens|avg` (`1d4`) [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) levels.  
+- **Exhaustion.** The obstacle fatigues the characters, causing them to gain [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) levels. For example, marching through a blizzard instead of taking shelter might cause each character to gain `dice:1d4|noform|noparens|avg` (`d4`) [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) levels.  
 - **Another Condition.** The obstacle imposes another condition on the characters. For example, wading through a fetid swamp rather than skirting around it might impose the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition, which lasts until removed by magic.  
 
 #### Searches

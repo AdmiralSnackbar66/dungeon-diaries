@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
@@ -10,13 +11,17 @@ tags:
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/forge-domain
 - ttrpg-cli/spell/subclass/illusionist
+- ttrpg-cli/spell/subclass/the-genie
 classes:
+- Artificer
 - Bard
 - Cleric (Forge Domain)
 - Sorcerer
+- Warlock (The Genie)
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Creation"]
+aliases:
+- Creation
 ---
 # Creation
 *5th-level, Illusion*  
@@ -44,6 +49,6 @@ The spell's duration depends on the object's material, as shown in the Materials
 
 **Using a Higher-Level Spell Slot.** The Cube increases by 5 feet for each spell slot level above 5.
 
-**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

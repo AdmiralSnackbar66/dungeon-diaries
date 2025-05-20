@@ -22,10 +22,10 @@ aliases:
 
 This staff can be wielded as a magic Quarterstaff that grants a +3 bonus to attack rolls and damage rolls made with it.
 
-The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 charges. For each charge you expend, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) Force damage.
+The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 charges. For each charge you expend, the target takes an extra `dice:1d6|noform|noparens|avg` (`d6`) Force damage.
 
 ## Regaining Charges
 
 The staff regains `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) expended charges daily at dawn. If you expend the last charge, roll `dice:1d20|noform|noparens|avg` (`d20`). On a 1, the staff becomes a nonmagical Quarterstaff.
 
-*Source: Dungeon Master's Guide (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

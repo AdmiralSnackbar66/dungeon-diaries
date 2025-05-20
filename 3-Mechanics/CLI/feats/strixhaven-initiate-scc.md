@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/scc
 - ttrpg-cli/feat
-aliases: ["Strixhaven Initiate"]
+aliases:
+- Strixhaven Initiate
 ---
 # Strixhaven Initiate
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  

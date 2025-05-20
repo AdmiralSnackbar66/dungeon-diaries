@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Brewing Potions of Healing; Potion of Healing Creation"]
+aliases:
+- Brewing Potions of Healing; Potion of Healing Creation
 ---
 # Brewing Potions of Healing; Potion of Healing Creation
 *Source: Xanathar's Guide to Everything p. 130* 

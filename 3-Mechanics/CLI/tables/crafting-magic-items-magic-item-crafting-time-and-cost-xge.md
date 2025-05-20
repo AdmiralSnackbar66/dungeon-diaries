@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Crafting Magic Items; Magic Item Crafting Time and Cost"]
+aliases:
+- Crafting Magic Items; Magic Item Crafting Time and Cost
 ---
 # Crafting Magic Items; Magic Item Crafting Time and Cost
 *Source: Xanathar's Guide to Everything p. 128* 

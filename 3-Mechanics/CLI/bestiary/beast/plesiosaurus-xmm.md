@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Plesiosaurus"]
+statblock-link: "#^statblock"
+aliases:
+- Plesiosaurus
 ---
 # [Plesiosaurus](3-Mechanics\CLI\bestiary\beast/plesiosaurus-xmm.md)
-*Source: Monster Manual (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,28 +29,31 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "2"
-- !!int "12"
-- !!int "5"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "2"
+  - !!int "12"
+  - !!int "5"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The plesiosaurus can hold its breath for 1 hour."
-  "name": "Hold Breath"
+  - "desc": "The plesiosaurus can hold its breath for 1 hour."
+    "name": "Hold Breath"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/plesiosaurus-xmm.webp"
 ```
 ^statblock

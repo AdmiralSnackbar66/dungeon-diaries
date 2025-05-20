@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Aberrant Cultist"]
+statblock-link: "#^statblock"
+aliases:
+- Aberrant Cultist
 ---
 # [Aberrant Cultist](3-Mechanics\CLI\bestiary\humanoid/aberrant-cultist-xmm.md)
 *Source: Monster Manual (2024) p. 86*  
@@ -81,50 +83,54 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "14"
 "hp": !!int "137"
 "hit_dice": "25d8 + 25"
+"modifier": !!int "7"
 "stats":
-- !!int "10"
-- !!int "19"
-- !!int "12"
-- !!int "16"
-- !!int "18"
-- !!int "15"
+  - !!int "10"
+  - !!int "19"
+  - !!int "12"
+  - !!int "16"
+  - !!int "18"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "6"
+  - "intelligence": "+6"
+  - "wisdom": "+7"
 "skillsaves":
-  "Religion": !!int "6"
-  "Perception": !!int "7"
-  "Arcana": !!int "6"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+6"
 "senses": "darkvision 90 ft., passive Perception 17"
 "languages": "Common, Deep Speech; telepathy 30 ft."
 "cr": "8"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 15):\n\nAt will: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The cultist casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
-    \ in response to that spell's trigger, using the same spellcasting ability as\
-    \ Spellcasting.\n\n2/day: [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)"
-  "name": "Counterspell (2/Day)"
 "actions":
-- "desc": "The cultist makes two Tentacle Lash attacks. It can replace any attack\
-    \ with a use of Mind Rot."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Slashing damage\
-    \ plus 14 (4d6) Psychic damage. If the target is a Large or smaller creature,\
-    \ it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-    \ DC 14) from one of two tentacles, and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ condition until the grapple ends."
-  "name": "Tentacle Lash"
-- "desc": "Wisdom Saving Throw: DC 15, one creature the cultist can see within 90\
-    \ feet. Failure: 27 (6d8) Psychic damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ condition until the start of the cultist's next turn. Success: Half damage\
-    \ only."
-  "name": "Mind Rot"
+  - "desc": "The cultist makes two Tentacle Lash attacks. It can replace any attack\
+      \ with a use of Mind Rot."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Slashing damage\
+      \ plus 14 (4d6) Psychic damage. If the target is a Large or smaller creature,\
+      \ it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 14) from one of two tentacles, and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Tentacle Lash"
+  - "desc": "Wisdom Saving Throw: DC 15, one creature the cultist can see within\
+      \ 90 feet. Failure: 27 (6d8) Psychic damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the start of the cultist's next turn. Success: Half damage\
+      \ only."
+    "name": "Mind Rot"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 15):\n\nAt will: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The cultist casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
+      \ in response to that spell's trigger, using the same spellcasting ability as\
+      \ Spellcasting.\n"
+    "name": "Counterspell (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/aberrant-cultist-xmm.webp"
 ```
 ^statblock

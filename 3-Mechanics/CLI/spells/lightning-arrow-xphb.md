@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
-aliases: ["Lightning Arrow"]
+aliases:
+- Lightning Arrow
 ---
 # Lightning Arrow
 *3rd-level, Transmutation*  
@@ -23,7 +24,7 @@ As your attack hits or misses the target, the weapon or ammunition you're using 
 
 The weapon or ammunition then returns to its normal form.
 
-**Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by `dice:1d8|noform|noparens|avg|text(d8)` for each spell slot level above 3.
 
 **Classes**: [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 

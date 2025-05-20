@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monster Conversions; Stat Block Conversions"]
+aliases:
+- Monster Conversions; Stat Block Conversions
 ---
 # Monster Conversions; Stat Block Conversions
 *Source: Monster Manual (2024) p. 374* 

@@ -26,4 +26,4 @@ On your turn, you can mentally command the snake (no action required) if it is w
 
 As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can command the snake to revert to staff form in its current space, and you can't use the staff's property again for 1 hour. If the snake is reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), it regains all of them.
 
-*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -8,13 +8,16 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/necromancy
+- ttrpg-cli/spell/subclass/circle-of-spores
 - ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Cleric
 - Druid
+- Druid (Circle of Spores)
 - Sorcerer (Divine Soul)
-aliases: ["Contagion"]
+aliases:
+- Contagion
 ---
 # Contagion
 *5th-level, Necromancy*  
@@ -31,6 +34,6 @@ The target must repeat the saving throw at the end of each of its turns until it
 
 Whenever the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) target receives an effect that would end the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition, the target must succeed on a Constitution saving throw, or the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition doesn't end on it.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of Spores)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

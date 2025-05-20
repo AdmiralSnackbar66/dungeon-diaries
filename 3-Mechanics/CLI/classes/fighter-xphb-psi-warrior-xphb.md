@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/psi-warrior
-aliases: ["Psi Warrior"]
+aliases:
+- Psi Warrior
 ---
 # Psi Warrior
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  

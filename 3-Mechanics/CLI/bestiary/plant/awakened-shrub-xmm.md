@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Awakened Shrub"]
+statblock-link: "#^statblock"
+aliases:
+- Awakened Shrub
 ---
 # [Awakened Shrub](3-Mechanics\CLI\bestiary\plant/awakened-shrub-xmm.md)
-*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
 
@@ -37,13 +39,14 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 "ac": !!int "9"
 "hp": !!int "10"
 "hit_dice": "3d6"
+"modifier": !!int "-1"
 "stats":
-- !!int "3"
-- !!int "8"
-- !!int "11"
-- !!int "10"
-- !!int "10"
-- !!int "6"
+  - !!int "3"
+  - !!int "8"
+  - !!int "11"
+  - !!int "10"
+  - !!int "10"
+  - !!int "6"
 "speed": "20 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "piercing"
@@ -51,10 +54,10 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 "languages": "Common plus one other language"
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 Slashing damage."
-  "name": "Rake"
+  - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 Slashing damage."
+    "name": "Rake"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/awakened-shrub-xmm.webp"
 ```
 ^statblock

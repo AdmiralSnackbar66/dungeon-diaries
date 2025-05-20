@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration/gith
 statblock: inline
-aliases: ["Githzerai Zerth"]
+statblock-link: "#^statblock"
+aliases:
+- Githzerai Zerth
 ---
 # [Githzerai Zerth](3-Mechanics\CLI\bestiary\aberration/githzerai-zerth-xmm.md)
 *Source: Monster Manual (2024) p. 137*  
@@ -61,52 +63,55 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "ac": !!int "17"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
+"modifier": !!int "7"
 "stats":
-- !!int "13"
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "17"
-- !!int "12"
+  - !!int "13"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "17"
+  - !!int "12"
 "speed": "40 ft."
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "6"
-  "Strength": !!int "4"
+  - "strength": "+4"
+  - "dexterity": "+7"
+  - "intelligence": "+6"
+  - "wisdom": "+6"
 "skillsaves":
-  "Insight": !!int "6"
-  "Perception": !!int "6"
-  "Arcana": !!int "6"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common, Gith"
 "cr": "6"
-"traits":
-- "desc": "The githzerai casts one of the following spells, requiring no spell components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-    \n1/day each: [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
-    \ (level 6 version), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-    \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The githzerai casts [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), requiring\
-    \ no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n2/day: [Jump](/3-Mechanics/CLI/spells/jump-xphb.md)"
-  "name": "Psi-Powered Leap (2/Day)"
-- "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
-    \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\n2/day: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
-  "name": "Psionic Defense (2/Day)"
 "actions":
-- "desc": "The githzerai makes two Psi Strike attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning damage\
-    \ plus 13 (3d8) Psychic damage."
-  "name": "Psi Strike"
+  - "desc": "The githzerai makes two Psi Strike attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Bludgeoning\
+      \ damage plus 13 (3d8) Psychic damage."
+    "name": "Psi Strike"
+  - "desc": "The githzerai casts one of the following spells, requiring no spell components\
+      \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
+      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
+      \n1/day each: [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
+      \ (level 6 version), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The githzerai casts [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), requiring\
+      \ no spell components and using the same spellcasting ability as Spellcasting.\n"
+    "name": "Psi-Powered Leap (2/Day)"
+"reactions":
+  - "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Psionic Defense (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-zerth-xmm.webp"
 ```
 ^statblock

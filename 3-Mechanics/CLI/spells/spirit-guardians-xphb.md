@@ -17,7 +17,8 @@ classes:
 - Cleric
 - Cleric (War Domain)
 - Sorcerer (Divine Soul)
-aliases: ["Spirit Guardians"]
+aliases:
+- Spirit Guardians
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  
@@ -32,8 +33,8 @@ Protective spirits flit around you in a 15-foot Emanation for the duration. If y
 
 When you cast this spell, you can designate creatures to be unaffected by it. Any other creature's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is halved in the Emanation, and whenever the Emanation enters a creature's space and whenever a creature enters the Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature takes `dice:3d8|noform|noparens|avg` (`3d8`) Radiant damage (if you are good or neutral) or `dice:3d8|noform|noparens|avg` (`3d8`) Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each spell slot level above 3.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

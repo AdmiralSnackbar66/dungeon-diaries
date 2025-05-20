@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Death Knight"]
+statblock-link: "#^statblock"
+aliases:
+- Death Knight
 ---
 # [Death Knight](3-Mechanics\CLI\bestiary\undead/death-knight-xmm.md)
 *Source: Monster Manual (2024) p. 92*  
@@ -32,17 +34,18 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
 "ac": !!int "20"
 "hp": !!int "199"
 "hit_dice": "21d8 + 105"
+"modifier": !!int "12"
 "stats":
-- !!int "20"
-- !!int "11"
-- !!int "20"
-- !!int "12"
-- !!int "16"
-- !!int "18"
+  - !!int "20"
+  - !!int "11"
+  - !!int "20"
+  - !!int "12"
+  - !!int "16"
+  - !!int "18"
 "speed": "30 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "9"
+  - "dexterity": "+6"
+  - "wisdom": "+9"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
   \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -50,57 +53,59 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
 "languages": "Abyssal, Common"
 "cr": "17"
 "traits":
-- "desc": "The death knight casts one of the following spells, requiring no Material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
-    \nAt will: [Command](/3-Mechanics/CLI/spells/command-xphb.md), [Phantom Steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md)\n\
-    \n2/day each: [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md)\
-    \ (Necrotic), [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "If the death knight fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day)"
-- "desc": "The death knight has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "Undead creatures of the death knight's choice (excluding itself) in a 60-foot\
-    \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from it have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on attack rolls and saving throws. It can't use this trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Marshal Undead"
-- "desc": "If the death knight is destroyed before it atones for its evil, it gains\
-    \ a new body in 1d10 days, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
-    \ The new body appears in a location significant to the death knight."
-  "name": "Undead Restoration"
+  - "desc": "If the death knight fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day)"
+  - "desc": "The death knight has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "Undead creatures of the death knight's choice (excluding itself) in a\
+      \ 60-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from it have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls and saving throws. It can't use this trait if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Marshal Undead"
+  - "desc": "If the death knight is destroyed before it atones for its evil, it gains\
+      \ a new body in d10 days, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ The new body appears in a location significant to the death knight."
+    "name": "Undead Restoration"
 "actions":
-- "desc": "The death knight makes three Dread Blade attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +11, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
-    \ plus 13 (3d8) Necrotic damage."
-  "name": "Dread Blade"
-- "desc": "Dexterity Saving Throw: DC 18, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
-    \ centered on a point the death knight can see within 120 feet. Failure: 35\
-    \ (10d6) Fire damage plus 35 (10d6) Necrotic damage. Success: Half damage."
-  "name": "Hellfire Orb (Recharge 5-6)"
+  - "desc": "The death knight makes three Dread Blade attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +11, reach 5 ft. Hit: 12 (2d6 + 5) Slashing damage\
+      \ plus 13 (3d8) Necrotic damage."
+    "name": "Dread Blade"
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on a point the death knight can see within 120 feet. Failure: 35\
+      \ (10d6) Fire damage plus 35 (10d6) Necrotic damage. Success: Half damage."
+    "name": "Hellfire Orb (Recharge 5-6)"
+  - "desc": "The death knight casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
+      \nAt will: [Command](/3-Mechanics/CLI/spells/command-xphb.md), [Phantom\
+      \ Steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md)\n\n2/day each: [Destructive\
+      \ Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md) (Necrotic), [Dispel\
+      \ Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "Trigger: The death knight is hit by a melee attack roll while holding a\
-    \ weapon. _Response:_ The death knight adds 6 to its AC against that attack, possibly\
-    \ causing it to miss."
-  "name": "Parry"
+  - "desc": "Trigger: The death knight is hit by a melee attack roll while holding\
+      \ a weapon. _Response:_ The death knight adds 6 to its AC against that attack,\
+      \ possibly causing it to miss."
+    "name": "Parry"
 "legendary_actions":
-- "desc": "The death knight uses Spellcasting to cast [Command](/3-Mechanics/CLI/spells/command-xphb.md).\
-    \ The death knight can't take this action again until the start of its next turn."
-  "name": "Dread Authority"
-- "desc": "Constitution Saving Throw: DC 18, one creature the death knight can see\
-    \ within 120 feet. Failure: 17 (5d6) Necrotic damage, and the target's [Hit\
-    \ Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum decreases\
-    \ by an amount equal to the damage taken. Failure or Success: The death knight\
-    \ can't take this action again until the start of its next turn."
-  "name": "Fell Word"
-- "desc": "The death knight moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
-    \ and it makes one Dread Blade attack."
-  "name": "Lunge"
+  - "desc": "The death knight uses Spellcasting to cast [Command](/3-Mechanics/CLI/spells/command-xphb.md).\
+      \ The death knight can't take this action again until the start of its next\
+      \ turn."
+    "name": "Dread Authority"
+  - "desc": "Constitution Saving Throw: DC 18, one creature the death knight can\
+      \ see within 120 feet. Failure: 17 (5d6) Necrotic damage, and the target's\
+      \ [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum decreases\
+      \ by an amount equal to the damage taken. Failure or Success: The death knight\
+      \ can't take this action again until the start of its next turn."
+    "name": "Fell Word"
+  - "desc": "The death knight moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+      \ and it makes one Dread Blade attack."
+    "name": "Lunge"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/death-knight-xmm.webp"
 ```
 ^statblock

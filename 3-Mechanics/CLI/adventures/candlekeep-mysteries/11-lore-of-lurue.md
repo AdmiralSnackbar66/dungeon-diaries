@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Lore of Lurue"]
+aliases:
+- Lore of Lurue
 ---
 # Lore of Lurue
 *Source: Candlekeep Mysteries, p. 114* 
@@ -114,7 +115,7 @@ The journey with the satyrs should take at least 2 hours and as long as 6 hours,
 | 8–9 | Two hungry [wereboars](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) barge out of the underbrush and attack the party. |
 | 10–13 | A nearby tree bleeds gold sap. A successful DC 16 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) or Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check reveals that the sap has healing properties. (The satyrs know about these properties.) Anyone who consumes the sap regains `dice:2d4+2\|noform\|noparens\|avg` (`2d4 + 2`) hit points. The tree has enough sap for four doses. |
 | 14–16 | Three human [berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) pass nearby while on a hunt, pursuing a family of deer. If the characters make their presence known, the berserkers attack them instead. |
-| 17–20 | Four injured [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) come upon the party but keep their distance. Each has `dice:1d8\|noform\|noparens\|avg` (`1d8`) hit points remaining. If approached, they instinctively snarl but then quickly whimper in pain. Their blood-matted fur is evidence of a recent attack on the wolves (they were wounded by hunters but escaped). If a character makes a successful DC 14 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check, the wolves become calm and allow the characters to treat their wounds. If they are given aid, the wolves trail behind the party and assist in fights if needed. |
+| 17–20 | Four injured [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) come upon the party but keep their distance. Each has `dice:1d8\|noform\|noparens\|avg` (`d8`) hit points remaining. If approached, they instinctively snarl but then quickly whimper in pain. Their blood-matted fur is evidence of a recent attack on the wolves (they were wounded by hunters but escaped). If a character makes a successful DC 14 Wisdom ([Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)) check, the wolves become calm and allow the characters to treat their wounds. If they are given aid, the wolves trail behind the party and assist in fights if needed. |
 ^demiplane-encounters
 
 ## Into the Wood

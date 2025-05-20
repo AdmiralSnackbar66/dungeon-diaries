@@ -14,7 +14,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Maddening Darkness"]
+aliases:
+- Maddening Darkness
 ---
 # Maddening Darkness
 *8th-level, Evocation*  
@@ -29,6 +30,6 @@ Magical darkness spreads from a point you choose within range to fill a 60-foot-
 
 Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom saving throw, taking `dice:8d8|noform|noparens|avg` (`8d8`) psychic damage on a failed save, or half as much damage on a successful one.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 160*

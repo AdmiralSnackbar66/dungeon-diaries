@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Death Tyrant"]
+aliases:
+- Death Tyrant
 ---
 # Death Tyrant
 
@@ -27,4 +28,4 @@ A region containing a death tyrant's lair is warped by the creature's unnatural 
 - Creatures within 1 mile of the tyrant's lair sometimes feel as if they're being watched even when they aren't.  
 - When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant's lair, roll a `dice:d20|noform|noparens|avg` (`d20`) for that creature. On a roll of 10 or lower, the creature is subjected to one random eye ray of the tyrant.  
 
-If the death tyrant dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the death tyrant dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.

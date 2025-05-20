@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Storm of Vengeance"]
+aliases:
+- Storm of Vengeance
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  
@@ -39,10 +40,10 @@ Hailstones rain down. Each creature under the cloud takes `dice:2d6|noform|nopar
 
 ## Turns 5-10
 
-Gusts and freezing rain assail the area under the cloud. Each creature there takes `dice:1d6|noform|noparens|avg` (`1d6`) Cold damage. Until the spell ends, the area is [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) and [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md), ranged attacks with weapons are impossible there, and strong wind blows through the area.
+Gusts and freezing rain assail the area under the cloud. Each creature there takes `dice:1d6|noform|noparens|avg` (`d6`) Cold damage. Until the spell ends, the area is [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) and [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md), ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ## Summary
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

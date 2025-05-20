@@ -4,7 +4,8 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Sailor"]
+aliases:
+- Sailor
 ---
 # Sailor
 *Source: Player's Handbook (2024) p. 184*  

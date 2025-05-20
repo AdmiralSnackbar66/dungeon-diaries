@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Clone"]
+aliases:
+- Clone
 ---
 # Clone
 *8th-level, Necromancy*  
@@ -27,4 +28,4 @@ If the original creature dies after the clone finishes forming, the creature's s
 
 **Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

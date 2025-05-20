@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Secondary Tables; Arcane Matters"]
+aliases:
+- Secondary Tables; Arcane Matters
 ---
 # Secondary Tables; Arcane Matters
 *Source: Xanathar's Guide to Everything p. 70* 

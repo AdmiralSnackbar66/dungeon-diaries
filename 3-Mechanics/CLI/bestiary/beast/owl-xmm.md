@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Owl"]
+statblock-link: "#^statblock"
+aliases:
+- Owl
 ---
 # [Owl](3-Mechanics\CLI\bestiary\beast/owl-xmm.md)
-*Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,30 +29,33 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "11"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "1"
 "stats":
-- !!int "3"
-- !!int "13"
-- !!int "8"
-- !!int "2"
-- !!int "12"
-- !!int "7"
+  - !!int "3"
+  - !!int "13"
+  - !!int "8"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
 "speed": "5 ft., fly 60 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's\
-    \ reach."
-  "name": "Flyby"
+  - "desc": "The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's\
+      \ reach."
+    "name": "Flyby"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slashing damage."
-  "name": "Talons"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slashing damage."
+    "name": "Talons"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/owl-xmm.webp"
 ```
 ^statblock

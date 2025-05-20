@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Lizardfolk Sovereign"]
+statblock-link: "#^statblock"
+aliases:
+- Lizardfolk Sovereign
 ---
 # [Lizardfolk Sovereign](3-Mechanics\CLI\bestiary\elemental/lizardfolk-sovereign-xmm.md)
 *Source: Monster Manual (2024) p. 197*  
@@ -33,43 +35,46 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 "ac": !!int "15"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "12"
-- !!int "15"
-- !!int "11"
-- !!int "11"
-- !!int "15"
+  - !!int "17"
+  - !!int "12"
+  - !!int "15"
+  - !!int "11"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft., burrow 20 ft., swim 30 ft."
 "saves":
-  "Wisdom": !!int "2"
-  "Constitution": !!int "4"
+  - "constitution": "+4"
+  - "wisdom": "+2"
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
 "cr": "4"
 "actions":
-- "desc": "The lizardfolk makes one Bite attack and one Earthen Maul attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage.\
-    \ If the target is a creature that isn't a Construct or an Undead, the lizardfolk\
-    \ gains [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-    \ equal to the damage dealt."
-  "name": "Bite"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.\
-    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Earthen Maul"
+  - "desc": "The lizardfolk makes one Bite attack and one Earthen Maul attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage.\
+      \ If the target is a creature that isn't a Construct or an Undead, the lizardfolk\
+      \ gains [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ equal to the damage dealt."
+    "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
+      \ damage. If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Earthen Maul"
 "bonus_actions":
-- "desc": "The lizardfolk moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ or [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) straight\
-    \ toward an enemy it can see."
-  "name": "Charge"
+  - "desc": "The lizardfolk moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ or [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) straight\
+      \ toward an enemy it can see."
+    "name": "Charge"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-sovereign-xmm.webp"
 ```
 ^statblock

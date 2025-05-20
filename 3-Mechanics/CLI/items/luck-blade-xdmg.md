@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Luck Blade"
 - "Luck Glaive"
@@ -31,7 +32,7 @@ If the weapon is on your person, you can call on its luck (no action required) t
 
 ## Wish
 
-The weapon has `dice:1d3|noform|noparens|avg` (`1d3`) charges. While holding it, you can expend 1 charge and cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
+The weapon has `dice:1d3|noform|noparens|avg` (`d3`) charges. While holding it, you can expend 1 charge and cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
 - [Luck Glaive](#Luck%20Glaive)
@@ -87,4 +88,4 @@ The weapon has `dice:1d3|noform|noparens|avg` (`1d3`) charges. While holding it,
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

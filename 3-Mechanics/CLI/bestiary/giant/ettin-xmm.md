@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Ettin"]
+statblock-link: "#^statblock"
+aliases:
+- Ettin
 ---
 # [Ettin](3-Mechanics\CLI\bestiary\giant/ettin-xmm.md)
-*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Ettin
 
@@ -59,16 +61,18 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 "ac": !!int "12"
 "hp": !!int "85"
 "hit_dice": "10d10 + 30"
+"modifier": !!int "-1"
 "stats":
-- !!int "21"
-- !!int "8"
-- !!int "17"
-- !!int "6"
-- !!int "10"
-- !!int "8"
+  - !!int "21"
+  - !!int "8"
+  - !!int "17"
+  - !!int "6"
+  - !!int "10"
+  - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
   \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
   \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
@@ -76,18 +80,18 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 "languages": "Giant"
 "cr": "4"
 "actions":
-- "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Battleaxe"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
-    \ and the target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on the next attack roll it makes before the end of its next turn."
-  "name": "Morningstar"
+  - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Battleaxe"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
+      \ and the target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on the next attack roll it makes before the end of its next turn."
+    "name": "Morningstar"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/giant/token/ettin-xmm.webp"
 ```
 ^statblock

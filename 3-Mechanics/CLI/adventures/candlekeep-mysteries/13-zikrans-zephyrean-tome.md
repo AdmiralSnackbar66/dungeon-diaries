@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Zikran's Zephyrean Tome"]
+aliases:
+- Zikran's Zephyrean Tome
 ---
 # Zikran's Zephyrean Tome
 *Source: Candlekeep Mysteries, p. 137* 
@@ -313,7 +314,7 @@ The wardrobes contain clothes fit for a female cloud giant of noble status. In o
 
 #### C7. Zikran's Basement Workshop
 
-The characters can access the basement from the entrance hall (area C2). If they try to do so, one of [Zikran](/3-Mechanics/CLI/bestiary/npc/zikran-cm.md)'s magical safeguards triggers, releasing two [water elementals](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) and six [ice mephits](/3-Mechanics/CLI/bestiary/elemental/ice-mephit-xmm.md). They appear in unoccupied spaces on the staircase and try to prevent intruders from reaching the basement. If Gazre-Azam is present, he can invoke his rank as a noble genie as soon as the elementals and mephits appear. When he does so, `dice:1d6|noform|noparens|avg` (`1d6`) of the mephits vanish as if affected by a [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) spell.
+The characters can access the basement from the entrance hall (area C2). If they try to do so, one of [Zikran](/3-Mechanics/CLI/bestiary/npc/zikran-cm.md)'s magical safeguards triggers, releasing two [water elementals](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) and six [ice mephits](/3-Mechanics/CLI/bestiary/elemental/ice-mephit-xmm.md). They appear in unoccupied spaces on the staircase and try to prevent intruders from reaching the basement. If Gazre-Azam is present, he can invoke his rank as a noble genie as soon as the elementals and mephits appear. When he does so, `dice:1d6|noform|noparens|avg` (`d6`) of the mephits vanish as if affected by a [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) spell.
 
 Once the characters have defeated these creatures, they can enter the basement.
 

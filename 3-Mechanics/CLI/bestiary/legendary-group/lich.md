@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Lich"]
+aliases:
+- Lich
 ---
 # Lich
 

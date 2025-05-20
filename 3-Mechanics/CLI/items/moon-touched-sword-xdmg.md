@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Moon-Touched Sword"
 - "Moon-Touched Double-Bladed Scimitar"

@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/rogue/thief
-aliases: ["Thief"]
+aliases:
+- Thief
 ---
 # Thief
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
-*Source: Player's Handbook (2024) p. 137. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 137. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -92,7 +93,7 @@ You can attune to up to four magic items at once.
 
 #### Charges
 
-Whenever you use a magic item property that expends charges, roll `dice:1d6|noform|noparens|avg` (`1d6`). On a roll of 6, you use the property without expending the charges.
+Whenever you use a magic item property that expends charges, roll `dice:1d6|noform|noparens|avg` (`d6`). On a roll of 6, you use the property without expending the charges.
 
 #### Scrolls
 

@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Raven"]
+statblock-link: "#^statblock"
+aliases:
+- Raven
 ---
 # [Raven](3-Mechanics\CLI\bestiary\beast/raven-xmm.md)
-*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,30 +29,32 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "2"
 "hit_dice": "1d4"
+"modifier": !!int "2"
 "stats":
-- !!int "2"
-- !!int "14"
-- !!int "10"
-- !!int "5"
-- !!int "13"
-- !!int "6"
+  - !!int "2"
+  - !!int "14"
+  - !!int "10"
+  - !!int "5"
+  - !!int "13"
+  - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The raven can mimic simple sounds it has heard, such as a whisper or chitter.\
-    \ A hearer can discern the sounds are imitations with a successful DC 10 Wisdom\
-    \ ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
-  "name": "Mimicry"
+  - "desc": "The raven can mimic simple sounds it has heard, such as a whisper or\
+      \ chitter. A hearer can discern the sounds are imitations with a successful\
+      \ DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+    "name": "Mimicry"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage."
-  "name": "Beak"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage."
+    "name": "Beak"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/raven-xmm.webp"
 ```
 ^statblock

@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Troglodyte"]
+statblock-link: "#^statblock"
+aliases:
+- Troglodyte
 ---
 # [Troglodyte](3-Mechanics\CLI\bestiary\monstrosity/troglodyte-xmm.md)
 *Source: Monster Manual (2024) p. 309*  
@@ -37,34 +39,36 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 "ac": !!int "11"
 "hp": !!int "13"
 "hit_dice": "2d8 + 4"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "6"
-- !!int "10"
-- !!int "6"
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "6"
+  - !!int "10"
+  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
-- "desc": "Constitution Saving Throw: DC 12, any creature (other than a troglodyte)\
-    \ that starts its turn in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the troglodyte. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ condition until the start of its next turn. Success: The target is immune\
-    \ to the Stench of all troglodytes for 1 hour."
-  "name": "Stench"
-- "desc": "While in sunlight, the troglodyte has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "Constitution Saving Throw: DC 12, any creature (other than a troglodyte)\
+      \ that starts its turn in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the troglodyte. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the start of its next turn. Success: The target is immune\
+      \ to the Stench of all troglodytes for 1 hour."
+    "name": "Stench"
+  - "desc": "While in sunlight, the troglodyte has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage."
-  "name": "Rend"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage."
+    "name": "Rend"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/troglodyte-xmm.webp"
 ```
 ^statblock

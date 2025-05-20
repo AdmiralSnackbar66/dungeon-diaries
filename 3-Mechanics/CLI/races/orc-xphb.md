@@ -4,10 +4,11 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/orc
-aliases: ["Orc"]
+aliases:
+- Orc
 ---
 # Orc
-*Source: Player's Handbook (2024) p. 195*  
+*Source: Player's Handbook (2024) p. 195. Available in the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/races/img/orc.webp#right)
 
 - **Ability Scores**: None

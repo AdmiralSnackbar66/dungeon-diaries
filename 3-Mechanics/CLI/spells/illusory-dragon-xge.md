@@ -12,7 +12,8 @@ classes:
 - Bard
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Illusory Dragon"]
+aliases:
+- Illusory Dragon
 ---
 # Illusory Dragon
 *8th-level, Illusion*  
@@ -31,6 +32,6 @@ As a bonus action on your turn, you can move the illusion up to 60 feet. At any 
 
 The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath.
 
-**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

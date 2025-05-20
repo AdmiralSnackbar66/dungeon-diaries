@@ -16,10 +16,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/dragon
 statblock: inline
-aliases: ["Kobold Warrior"]
+statblock-link: "#^statblock"
+aliases:
+- Kobold Warrior
 ---
 # [Kobold Warrior](3-Mechanics\CLI\bestiary\dragon/kobold-warrior-xmm.md)
-*Source: Monster Manual (2024) p. 185. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 185. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Kobold warriors use hit-and-run tactics to raid their enemies and defend their homes. To avoid danger, they frequently employ haphazard traps.
 
@@ -42,32 +44,33 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 "ac": !!int "14"
 "hp": !!int "7"
 "hit_dice": "3d6 - 3"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "15"
-- !!int "9"
-- !!int "8"
-- !!int "7"
-- !!int "8"
+  - !!int "7"
+  - !!int "15"
+  - !!int "9"
+  - !!int "8"
+  - !!int "7"
+  - !!int "8"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
-- "desc": "The kobold has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the kobold's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
-- "desc": "While in sunlight, the kobold has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The kobold has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the kobold's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
+  - "desc": "While in sunlight, the kobold has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 4 (1d4 + 2) Piercing damage."
-  "name": "Dagger"
+  - "desc": "Melee  or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit:\
+      \ 4 (1d4 + 2) Piercing damage."
+    "name": "Dagger"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/kobold-warrior-xmm.webp"
 ```
 ^statblock

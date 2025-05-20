@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Boon of Energy Resistance"]
+aliases:
+- Boon of Energy Resistance
 ---
 # Boon of Energy Resistance
 *Source: Player's Handbook (2024) p. 210*  

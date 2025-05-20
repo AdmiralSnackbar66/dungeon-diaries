@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Tying Knots"]
+aliases:
+- Tying Knots
 ---
 # Tying Knots
 *Source: Xanathar's Guide to Everything p. 78* 

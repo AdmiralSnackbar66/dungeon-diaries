@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Wererat"]
+statblock-link: "#^statblock"
+aliases:
+- Wererat
 ---
 # [Wererat](3-Mechanics\CLI\bestiary\monstrosity/wererat-xmm.md)
-*Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Wererat
 
@@ -31,44 +33,47 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
 "ac": !!int "13"
 "hp": !!int "60"
 "hit_dice": "11d8 + 11"
+"modifier": !!int "3"
 "stats":
-- !!int "10"
-- !!int "16"
-- !!int "12"
-- !!int "11"
-- !!int "10"
-- !!int "8"
+  - !!int "10"
+  - !!int "16"
+  - !!int "12"
+  - !!int "11"
+  - !!int "10"
+  - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common (can't speak in rat form)"
 "cr": "2"
 "actions":
-- "desc": "The wererat makes two attacks, using Scratch or Hand Crossbow in any combination.\
-    \ It can replace one attack with a Bite attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
-    \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
-    \ Saving Throw: DC 11. Failure: The target is cursed. If the cursed target\
-    \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-    \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
-    \ Success: The target is immune to this wererat's curse for 24 hours."
-  "name": "Bite (Rat or Hybrid Form Only)"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage."
-  "name": "Scratch"
-- "desc": "Ranged Attack Roll: +5, range 30/120 ft. Hit: 6 (1d6 + 3) Piercing\
-    \ damage."
-  "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
+  - "desc": "The wererat makes two attacks, using Scratch or Hand Crossbow in any\
+      \ combination. It can replace one attack with a Bite attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
+      \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
+      \ Saving Throw: DC 11. Failure: The target is cursed. If the cursed target\
+      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ Success: The target is immune to this wererat's curse for 24 hours."
+    "name": "Bite (Rat or Hybrid Form Only)"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage."
+    "name": "Scratch"
+  - "desc": "Ranged Attack Roll: +5, range 30/120 ft. Hit: 6 (1d6 + 3) Piercing\
+      \ damage."
+    "name": "Hand Crossbow (Humanoid or Hybrid Form Only)"
 "bonus_actions":
-- "desc": "The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small rat,\
-    \ or it returns to its true humanoid form. Its game statistics, other than its\
-    \ size, are the same in each form. Any equipment it is wearing or carrying isn't\
-    \ transformed."
-  "name": "Shape-Shift"
+  - "desc": "The wererat shape-shifts into a Medium rat-humanoid hybrid or a Small\
+      \ rat, or it returns to its true humanoid form. Its game statistics, other than\
+      \ its size, are the same in each form. Any equipment it is wearing or carrying\
+      \ isn't transformed."
+    "name": "Shape-Shift"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wererat-xmm.webp"
 ```
 ^statblock

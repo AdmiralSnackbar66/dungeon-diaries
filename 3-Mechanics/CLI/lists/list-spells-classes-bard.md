@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/bard
-aliases: ["Bard Spells"]
+aliases:
+- Bard Spells
 ---
 # Bard Spells
 
@@ -28,8 +29,8 @@ aliases: ["Bard Spells"]
 - [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB")
 - [Bane](/3-Mechanics/CLI/spells/bane-xphb.md "XPHB")
 - [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md "XPHB")
-- [Color Spray](/3-Mechanics/CLI/spells/color-spray-xphb.md "XPHB")
-- [Command](/3-Mechanics/CLI/spells/command-xphb.md "XPHB")
+- [Color Spray](/3-Mechanics/CLI/spells/color-spray-xphb.md "XPHB") (\*)
+- [Command](/3-Mechanics/CLI/spells/command-xphb.md "XPHB") (\*)
 - [Comprehend Languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB")
 - [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB")
 - [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")
@@ -53,7 +54,7 @@ aliases: ["Bard Spells"]
 
 ## 2nd Level
 
-- [Aid](/3-Mechanics/CLI/spells/aid-xphb.md "XPHB")
+- [Aid](/3-Mechanics/CLI/spells/aid-xphb.md "XPHB") (\*)
 - [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md "XPHB")
 - [Blindness/Deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB")
 - [Borrowed Knowledge](/3-Mechanics/CLI/spells/borrowed-knowledge-scc.md "SCC")
@@ -62,7 +63,7 @@ aliases: ["Bard Spells"]
 - [Crown of Madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md "XPHB")
 - [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
 - [Enhance Ability](/3-Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB")
-- [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB")
+- [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") (\*)
 - [Enthrall](/3-Mechanics/CLI/spells/enthrall-xphb.md "XPHB")
 - [Heat Metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md "XPHB")
 - [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
@@ -73,7 +74,7 @@ aliases: ["Bard Spells"]
 - [Locate Animals or Plants](/3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md "XPHB")
 - [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB")
 - [Magic Mouth](/3-Mechanics/CLI/spells/magic-mouth-xphb.md "XPHB")
-- [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB")
+- [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") (\*)
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB")
 - [Pyrotechnics](/3-Mechanics/CLI/spells/pyrotechnics-xge.md "XGE")
 - [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
@@ -95,13 +96,14 @@ aliases: ["Bard Spells"]
 - [Feign Death](/3-Mechanics/CLI/spells/feign-death-xphb.md "XPHB")
 - [Glyph of Warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md "XPHB")
 - [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB")
+- [Intellect Fortress](/3-Mechanics/CLI/spells/intellect-fortress-tce.md "TCE") (\*)
 - [Leomund's Tiny Hut](/3-Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md "XPHB")
 - [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md "XPHB")
-- [Mass Healing Word](/3-Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB")
+- [Mass Healing Word](/3-Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB") (\*)
 - [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md "XPHB")
 - [Plant Growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md "XPHB")
 - [Sending](/3-Mechanics/CLI/spells/sending-xphb.md "XPHB")
-- [Slow](/3-Mechanics/CLI/spells/slow-xphb.md "XPHB")
+- [Slow](/3-Mechanics/CLI/spells/slow-xphb.md "XPHB") (\*)
 - [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")
 - [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md "XPHB")
 - [Stinking Cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md "XPHB")
@@ -118,7 +120,7 @@ aliases: ["Bard Spells"]
 - [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md "XPHB")
 - [Hallucinatory Terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md "XPHB")
 - [Locate Creature](/3-Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
-- [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB")
+- [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB") (\*)
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
 
 ## 5th Level
@@ -136,7 +138,7 @@ aliases: ["Bard Spells"]
 - [Modify Memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md "XPHB")
 - [Planar Binding](/3-Mechanics/CLI/spells/planar-binding-xphb.md "XPHB")
 - [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md "XPHB")
-- [Rary's Telepathic Bond](/3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB")
+- [Rary's Telepathic Bond](/3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB") (\*)
 - [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md "XPHB")
 - [Seeming](/3-Mechanics/CLI/spells/seeming-xphb.md "XPHB")
 - [Skill Empowerment](/3-Mechanics/CLI/spells/skill-empowerment-xge.md "XGE")
@@ -149,7 +151,7 @@ aliases: ["Bard Spells"]
 - [Eyebite](/3-Mechanics/CLI/spells/eyebite-xphb.md "XPHB")
 - [Find the Path](/3-Mechanics/CLI/spells/find-the-path-xphb.md "XPHB")
 - [Guards and Wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md "XPHB")
-- [Heroes' Feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md "XPHB")
+- [Heroes' Feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md "XPHB") (\*)
 - [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md "XPHB")
 - [Otto's Irresistible Dance](/3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md "XPHB")
 - [Programmed Illusion](/3-Mechanics/CLI/spells/programmed-illusion-xphb.md "XPHB")
@@ -157,13 +159,14 @@ aliases: ["Bard Spells"]
 
 ## 7th Level
 
+- [Dream of the Blue Veil](/3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md "TCE") (\*)
 - [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md "XPHB")
 - [Forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md "XPHB")
 - [Mirage Arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md "XPHB")
 - [Mordenkainen's Magnificent Mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md "XPHB")
 - [Mordenkainen's Sword](/3-Mechanics/CLI/spells/mordenkainens-sword-xphb.md "XPHB")
 - [Power Word Fortify](/3-Mechanics/CLI/spells/power-word-fortify-xphb.md "XPHB")
-- [Prismatic Spray](/3-Mechanics/CLI/spells/prismatic-spray-xphb.md "XPHB")
+- [Prismatic Spray](/3-Mechanics/CLI/spells/prismatic-spray-xphb.md "XPHB") (\*)
 - [Project Image](/3-Mechanics/CLI/spells/project-image-xphb.md "XPHB")
 - [Regenerate](/3-Mechanics/CLI/spells/regenerate-xphb.md "XPHB")
 - [Resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md "XPHB")
@@ -172,7 +175,7 @@ aliases: ["Bard Spells"]
 
 ## 8th Level
 
-- [Antipathy/Sympathy](/3-Mechanics/CLI/spells/antipathy-sympathy-xphb.md "XPHB")
+- [Antipathy/Sympathy](/3-Mechanics/CLI/spells/antipathy-sympathy-xphb.md "XPHB") (\*)
 - [Befuddlement](/3-Mechanics/CLI/spells/befuddlement-xphb.md "XPHB")
 - [Dominate Monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md "XPHB")
 - [Glibness](/3-Mechanics/CLI/spells/glibness-xphb.md "XPHB")
@@ -185,6 +188,6 @@ aliases: ["Bard Spells"]
 - [Mass Polymorph](/3-Mechanics/CLI/spells/mass-polymorph-xge.md "XGE")
 - [Power Word Heal](/3-Mechanics/CLI/spells/power-word-heal-xphb.md "XPHB")
 - [Power Word Kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md "XPHB")
-- [Prismatic Wall](/3-Mechanics/CLI/spells/prismatic-wall-xphb.md "XPHB")
+- [Prismatic Wall](/3-Mechanics/CLI/spells/prismatic-wall-xphb.md "XPHB") (\*)
 - [Psychic Scream](/3-Mechanics/CLI/spells/psychic-scream-xge.md "XGE")
 - [True Polymorph](/3-Mechanics/CLI/spells/true-polymorph-xphb.md "XPHB")

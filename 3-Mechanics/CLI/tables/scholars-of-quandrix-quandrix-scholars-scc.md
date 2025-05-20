@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Scholars of Quandrix; Quandrix Scholars"]
+aliases:
+- Scholars of Quandrix; Quandrix Scholars
 ---
 # Scholars of Quandrix; Quandrix Scholars
 *Source: Strixhaven: A Curriculum of Chaos p. 19* 

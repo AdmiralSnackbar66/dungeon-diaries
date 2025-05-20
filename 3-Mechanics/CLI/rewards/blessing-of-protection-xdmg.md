@@ -4,7 +4,8 @@ cssclasses: json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/blessing
-aliases: ["Blessing of Protection"]
+aliases:
+- Blessing of Protection
 ---
 # Blessing of Protection
 

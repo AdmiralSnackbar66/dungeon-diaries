@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/fighter/arcane-archer
-aliases: ["Arcane Archer"]
+aliases:
+- Arcane Archer
 ---
 # Arcane Archer
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
@@ -69,7 +70,7 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 
 If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Intelligence modifier</span>
+<span class='abilityDc'>**Arcane Shot save DC**: Intelligence + Proficiency Bonus</span>
 
 ### Magic Arrow (Level 7)
 

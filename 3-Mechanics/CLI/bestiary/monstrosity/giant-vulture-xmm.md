@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Giant Vulture"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Vulture
 ---
 # [Giant Vulture](3-Mechanics\CLI\bestiary\monstrosity/giant-vulture-xmm.md)
-*Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,33 +29,35 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "10"
 "hp": !!int "25"
 "hit_dice": "3d10 + 9"
+"modifier": !!int "0"
 "stats":
-- !!int "15"
-- !!int "10"
-- !!int "16"
-- !!int "6"
-- !!int "12"
-- !!int "7"
+  - !!int "15"
+  - !!int "10"
+  - !!int "16"
+  - !!int "6"
+  - !!int "12"
+  - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
 "damage_resistances": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The vulture has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the vulture's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The vulture has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the vulture's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage,\
-    \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-    \ until the end of its next turn."
-  "name": "Gouge"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage,\
+      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the end of its next turn."
+    "name": "Gouge"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/giant-vulture-xmm.webp"
 ```
 ^statblock

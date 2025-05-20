@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/artillerist
 - ttrpg-cli/spell/subclass/celestial-patron
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/evoker
@@ -18,6 +19,7 @@ tags:
 - ttrpg-cli/spell/subclass/forge-domain
 - ttrpg-cli/spell/subclass/light-domain
 classes:
+- Artificer (Artillerist)
 - Bard
 - Cleric (Forge Domain)
 - Cleric (Light Domain)
@@ -29,7 +31,8 @@ classes:
 - Warlock (Fiend Patron)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Wall of Fire"]
+aliases:
+- Wall of Fire
 ---
 # Wall of Fire
 *4th-level, Evocation*  
@@ -46,8 +49,8 @@ When the wall appears, each creature in its area makes a Dexterity saving throw,
 
 One side of the wall, selected by you when you cast this spell, deals `dice:5d8|noform|noparens|avg` (`5d8`) Fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each spell slot level above 4.
 
-**Classes**: [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Artificer (Artillerist)](/3-Mechanics/CLI/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

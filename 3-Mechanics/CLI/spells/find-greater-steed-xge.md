@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Paladin
-aliases: ["Find Greater Steed"]
+aliases:
+- Find Greater Steed
 ---
 # Find Greater Steed
 *4th-level, Conjuration*  

@@ -4,14 +4,15 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Spiked Pit"]
+aliases:
+- Spiked Pit
 ---
 # Spiked Pit
 *Generic Hazard*  
 
 A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
 
-A creature that falls into the pit lands at the bottom and takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Bludgeoning damage from the fall plus `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Piercing damage from the spikes.
+A creature that falls into the pit lands at the bottom and takes `dice:1d6|noform|noparens|avg|text(3)` (`d6`) Bludgeoning damage from the fall plus `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) Piercing damage from the spikes.
 
 ## Detect and Disarm
 

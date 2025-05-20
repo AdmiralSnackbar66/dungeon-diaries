@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Hippogriff"]
+statblock-link: "#^statblock"
+aliases:
+- Hippogriff
 ---
 # [Hippogriff](3-Mechanics\CLI\bestiary\monstrosity/hippogriff-xmm.md)
-*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hippogriff
 
@@ -48,30 +50,32 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 "ac": !!int "11"
 "hp": !!int "26"
 "hit_dice": "4d10 + 4"
+"modifier": !!int "1"
 "stats":
-- !!int "17"
-- !!int "13"
-- !!int "13"
-- !!int "2"
-- !!int "12"
-- !!int "8"
+  - !!int "17"
+  - !!int "13"
+  - !!int "13"
+  - !!int "2"
+  - !!int "12"
+  - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1"
 "traits":
-- "desc": "The hippogriff doesn't provoke an Opportunity Attack when it flies out\
-    \ of an enemy's reach."
-  "name": "Flyby"
+  - "desc": "The hippogriff doesn't provoke an Opportunity Attack when it flies out\
+      \ of an enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "The hippogriff makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
-  "name": "Rend"
+  - "desc": "The hippogriff makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
+    "name": "Rend"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock

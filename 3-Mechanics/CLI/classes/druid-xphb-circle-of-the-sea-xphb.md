@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/druid/sea
-aliases: ["Circle of the Sea"]
+aliases:
+- Circle of the Sea
 ---
 # Circle of the Sea
 *[Druid](./druid-xphb.md): Druid Subclass*  

@@ -26,4 +26,4 @@ These ivory statuettes of goats are always created in sets of three. Each goat l
 - **Goat of Traveling.** This figurine can become a Large goat with the same statistics as a [Riding Horse](/3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md). It has 24 charges, and each hour or portion thereof it spends in goat form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all expended charges.  
 - **Goat of Travail.** This figurine can become a [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.  
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

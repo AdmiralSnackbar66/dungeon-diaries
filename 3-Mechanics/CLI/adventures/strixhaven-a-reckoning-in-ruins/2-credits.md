@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc-arir
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Strixhaven: A Reckoning in Ruins* 

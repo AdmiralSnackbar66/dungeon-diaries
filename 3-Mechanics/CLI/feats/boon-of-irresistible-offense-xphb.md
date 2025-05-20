@@ -4,10 +4,11 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Boon of Irresistible Offense"]
+aliases:
+- Boon of Irresistible Offense
 ---
 # Boon of Irresistible Offense
-*Source: Player's Handbook (2024) p. 211. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 211. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 **Prerequisite**: 19th
 **Ability Score Increase**: Increase your Strength or Dexterity by 1, to a maximum of 30.
 You gain the following benefits.

@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Dominate Monster"]
+aliases:
+- Dominate Monster
 ---
 # Dominate Monster
 *8th-level, Enchantment*  
@@ -35,4 +36,4 @@ You can command the target to take a [Reaction](/3-Mechanics/CLI/variant-rules/r
 
 **Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/optional-feature/as
-aliases: ["Grasping Arrow"]
+aliases:
+- Grasping Arrow
 ---
 # Grasping Arrow
 *Source: Xanathar's Guide to Everything p. 29*  

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Activity: Crafting an Item"]
+aliases:
+- Downtime Activity: Crafting an Item
 ---
 # Downtime Activity: Crafting an Item
 *Source: Xanathar's Guide to Everything p. 128* 

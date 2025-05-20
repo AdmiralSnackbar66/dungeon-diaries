@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Incubus"]
+statblock-link: "#^statblock"
+aliases:
+- Incubus
 ---
 # [Incubus](3-Mechanics\CLI\bestiary\fiend/incubus-xmm.md)
-*Source: Monster Manual (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Incubus
 
@@ -52,52 +54,59 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 "ac": !!int "15"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "8"
-- !!int "17"
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "20"
+  - !!int "8"
+  - !!int "17"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  "Deception": !!int "9"
-  "Stealth": !!int "7"
-  "Insight": !!int "5"
-  "Perception": !!int "5"
-  "Persuasion": !!int "9"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+9"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+9"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-- "desc": "The incubus casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md)\n\
-    \n1/day each: [Dream](/3-Mechanics/CLI/spells/dream-xphb.md), [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "When the incubus finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
-    \ it can shape-shift into a [Succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md),\
-    \ using that stat block instead of this one. Any equipment it's wearing or carrying\
-    \ isn't transformed."
-  "name": "Succubus Form"
+  - "desc": "When the incubus finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ it can shape-shift into a [Succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md),\
+      \ using that stat block instead of this one. Any equipment it's wearing or carrying\
+      \ isn't transformed."
+    "name": "Succubus Form"
 "actions":
-- "desc": "The incubus makes two Restless Touch attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 15 (3d6 + 5) Psychic damage,\
-    \ and the target is cursed for 24 hours or until the incubus dies. Until the curse\
-    \ ends, the target gains no benefit from finishing Short Rests."
-  "name": "Restless Touch"
+  - "desc": "The incubus makes two Restless Touch attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 15 (3d6 + 5) Psychic damage,\
+      \ and the target is cursed for 24 hours or until the incubus dies. Until the\
+      \ curse ends, the target gains no benefit from finishing Short Rests."
+    "name": "Restless Touch"
+  - "desc": "The incubus casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
+      \nAt will: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md)\n\n1/day each:\
+      \ [Dream](/3-Mechanics/CLI/spells/dream-xphb.md), [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 15, one creature the incubus can see within 60\
-    \ feet. Failure: If the target has 20 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ or fewer, it has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-    \ condition for 1 hour, until it takes damage, or until a creature within 5 feet\
-    \ of it takes an action to wake it. Otherwise, the target takes 18 (4d8) Psychic\
-    \ damage."
-  "name": "Nightmare (Recharge 6)"
+  - "desc": "Wisdom Saving Throw: DC 15, one creature the incubus can see within\
+      \ 60 feet. Failure: If the target has 20 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or fewer, it has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ condition for 1 hour, until it takes damage, or until a creature within 5\
+      \ feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8)\
+      \ Psychic damage."
+    "name": "Nightmare (Recharge 6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/incubus-xmm.webp"
 ```
 ^statblock

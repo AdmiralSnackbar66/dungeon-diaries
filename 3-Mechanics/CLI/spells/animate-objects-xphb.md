@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
@@ -10,11 +11,13 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/forge-domain
 classes:
+- Artificer
 - Bard
 - Cleric (Forge Domain)
 - Sorcerer
 - Wizard
-aliases: ["Animate Objects"]
+aliases:
+- Animate Objects
 ---
 # Animate Objects
 *5th-level, Transmutation*  
@@ -31,8 +34,8 @@ Each target animates, sprouts legs, and becomes a Construct that uses the [Anima
 
 Until the spell ends, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the [Dodge](/3-Mechanics/CLI/actions.md#Dodge) action and moves only to avoid harm. When the creature drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), it reverts to its object form, and any remaining damage carries over to that form.
 
-**Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) (Medium or smaller), `dice:1d6|noform|noparens|avg` (`1d6`) (Large), or `dice:1d12|noform|noparens|avg` (`1d12`) (Huge) for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The creature's Slam damage increases by `dice:1d4|noform|noparens|avg` (`d4`) (Medium or smaller), `dice:1d6|noform|noparens|avg` (`d6`) (Large), or `dice:1d12|noform|noparens|avg` (`d12`) (Huge) for each spell slot level above 5.
 
-**Classes**: [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Cleric (Forge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

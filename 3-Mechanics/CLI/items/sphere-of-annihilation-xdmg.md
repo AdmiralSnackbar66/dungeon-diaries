@@ -35,4 +35,4 @@ If the sphere comes into contact with a planar portal (such as that created by t
 | 86-00 | A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence. |
 ^1-result
 
-*Source: Dungeon Master's Guide (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

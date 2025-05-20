@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/phb
-aliases: ["Metamagic"]
+aliases:
+- Metamagic
 ---
 # Metamagic
 *Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 

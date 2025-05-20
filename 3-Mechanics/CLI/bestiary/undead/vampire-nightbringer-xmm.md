@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Vampire Nightbringer"]
+statblock-link: "#^statblock"
+aliases:
+- Vampire Nightbringer
 ---
 # [Vampire Nightbringer](3-Mechanics\CLI\bestiary\undead/vampire-nightbringer-xmm.md)
 *Source: Monster Manual (2024) p. 316*  
@@ -58,20 +60,23 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "ac": !!int "16"
 "hp": !!int "142"
 "hit_dice": "19d8 + 57"
+"modifier": !!int "4"
 "stats":
-- !!int "16"
-- !!int "18"
-- !!int "16"
-- !!int "13"
-- !!int "14"
-- !!int "15"
+  - !!int "16"
+  - !!int "18"
+  - !!int "16"
+  - !!int "13"
+  - !!int "14"
+  - !!int "15"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "5"
+  - "dexterity": "+7"
+  - "wisdom": "+5"
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "damage_immunities": "cold, necrotic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
   \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
@@ -79,29 +84,29 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "languages": "Common plus one other language"
 "cr": "8"
 "traits":
-- "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-    \ While in sunlight, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on attack rolls and ability checks."
-  "name": "Sunlight Hypersensitivity"
+  - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
+      \ While in sunlight, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on attack rolls and ability checks."
+    "name": "Sunlight Hypersensitivity"
 "actions":
-- "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\
-    \ plus 10 (3d6) Necrotic damage. The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ maximum decreases by an amount equal to the Necrotic damage taken, and the vampire\
-    \ regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal\
-    \ to that amount."
-  "name": "Bite"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage\
-    \ plus 14 (4d6) Cold damage."
-  "name": "Shadow Strike"
+  - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Piercing damage\
+      \ plus 10 (3d6) Necrotic damage. The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
+      \ vampire regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ equal to that amount."
+    "name": "Bite"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d6 + 4) Slashing damage\
+      \ plus 14 (4d6) Cold damage."
+    "name": "Shadow Strike"
 "bonus_actions":
-- "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the vampire\
-    \ takes the Hide action."
-  "name": "Shadow Stealth"
+  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the vampire\
+      \ takes the Hide action."
+    "name": "Shadow Stealth"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-nightbringer-xmm.webp"
 ```
 ^statblock

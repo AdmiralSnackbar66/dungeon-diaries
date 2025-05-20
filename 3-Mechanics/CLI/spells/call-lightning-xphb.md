@@ -12,7 +12,8 @@ classes:
 - Bard
 - Bard (College of Lore)
 - Druid
-aliases: ["Call Lightning"]
+aliases:
+- Call Lightning
 ---
 # Call Lightning
 *3rd-level, Conjuration*  
@@ -29,10 +30,10 @@ When you cast the spell, choose a point you can see under the cloud. A lightning
 
 Until the spell ends, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to call down lightning in that way again, targeting the same point or a different one.
 
-If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by `dice:1d10|noform|noparens|avg` (`1d10`).
+If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by `dice:1d10|noform|noparens|avg` (`d10`).
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(d10)` for each spell slot level above 3.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Standalone Adventures; Adventure Levels"]
+aliases:
+- Standalone Adventures; Adventure Levels
 ---
 # Standalone Adventures; Adventure Levels
 *Source: Strixhaven: A Curriculum of Chaos p. 41* 

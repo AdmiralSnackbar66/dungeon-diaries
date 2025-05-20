@@ -14,7 +14,8 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Control Winds"]
+aliases:
+- Control Winds
 ---
 # Control Winds
 *5th-level, Transmutation*  

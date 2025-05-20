@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/aberration/shapechanger
 statblock: inline
-aliases: ["Gingwatzim"]
+statblock-link: "#^statblock"
+aliases:
+- Gingwatzim
 ---
 # [Gingwatzim](3-Mechanics\CLI\bestiary\aberration/gingwatzim-cm.md)
 *Source: Candlekeep Mysteries p. 27*  
@@ -25,13 +27,14 @@ A gingwatzim can assume two other forms that are determined by its creator at th
 "ac": !!int "12"
 "hp": !!int "39"
 "hit_dice": "6d6 + 18"
+"modifier": !!int "2"
 "stats":
-- !!int "3"
-- !!int "15"
-- !!int "16"
-- !!int "4"
-- !!int "11"
-- !!int "6"
+  - !!int "3"
+  - !!int "15"
+  - !!int "16"
+  - !!int "4"
+  - !!int "11"
+  - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover) in its true form only"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -39,30 +42,31 @@ A gingwatzim can assume two other forms that are determined by its creator at th
 "languages": "telepathy 60 ft."
 "cr": "2"
 "traits":
-- "desc": "The gingwatzim has two alternate forms, both of which are chosen by its\
-    \ creator when the gingwatzim comes into being. One form is an exact duplicate\
-    \ of a Tiny nonmagical object (such as a book, dagger, or gemstone) that its creator\
-    \ is carrying or wearing when the gingwatzim is conjured. The other form can be\
-    \ any Tiny beast. Once these alternate forms are chosen, they can't be changed."
-  "name": "Alternate Forms"
+  - "desc": "The gingwatzim has two alternate forms, both of which are chosen by its\
+      \ creator when the gingwatzim comes into being. One form is an exact duplicate\
+      \ of a Tiny nonmagical object (such as a book, dagger, or gemstone) that its\
+      \ creator is carrying or wearing when the gingwatzim is conjured. The other\
+      \ form can be any Tiny beast. Once these alternate forms are chosen, they can't\
+      \ be changed."
+    "name": "Alternate Forms"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 16\
-    \ (4d6 + 2) necrotic damage, and the target must succeed on a DC 12 Constitution\
-    \ saving throw or gain 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
-    \ When the target finishes a short or long rest, the target loses every level\
-    \ of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) gained from this\
-    \ attack."
-  "name": "Energy Drain (True Form Only)"
-- "desc": "The gingwatzim changes from its true form—a 3-foot-diameter sphere of luminous\
-    \ ectoplasm—into one of its two alternate forms, or from one of those forms back\
-    \ into its true form. In object form, it can't move or make attacks but otherwise\
-    \ retains its statistics, and it is indistinguishable from the thing it is imitating.\
-    \ In beast form, it retains its hit points but otherwise uses the stat block of\
-    \ the beast it is imitating. When it dies, the gingwatzim reverts to its true\
-    \ form and then vanishes."
-  "name": "Change Shape"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 16\
+      \ (4d6 + 2) necrotic damage, and the target must succeed on a DC 12 Constitution\
+      \ saving throw or gain 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
+      \ When the target finishes a short or long rest, the target loses every level\
+      \ of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) gained from this\
+      \ attack."
+    "name": "Energy Drain (True Form Only)"
+  - "desc": "The gingwatzim changes from its true form—a 3-foot-diameter sphere of\
+      \ luminous ectoplasm—into one of its two alternate forms, or from one of those\
+      \ forms back into its true form. In object form, it can't move or make attacks\
+      \ but otherwise retains its statistics, and it is indistinguishable from the\
+      \ thing it is imitating. In beast form, it retains its hit points but otherwise\
+      \ uses the stat block of the beast it is imitating. When it dies, the gingwatzim\
+      \ reverts to its true form and then vanishes."
+    "name": "Change Shape"
 "source":
-- "CM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/gingwatzim-cm.webp"
 ```
 ^statblock

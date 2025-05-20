@@ -14,7 +14,8 @@ tags:
 classes:
 - Bard (College of Lore)
 - Druid
-aliases: ["Shillelagh"]
+aliases:
+- Shillelagh
 ---
 # Shillelagh
 *cantrip, Transmutation*  
@@ -31,6 +32,6 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 **Cantrip Upgrade.** The damage die changes when you reach levels 5 (`dice:d10|noform|noparens|avg` (`d10`)), 11 (`dice:d12|noform|noparens|avg` (`d12`)), and 17 (`dice:2d6|noform|noparens|avg` (`2d6`)).
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

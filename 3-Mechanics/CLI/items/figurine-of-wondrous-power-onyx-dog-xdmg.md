@@ -22,4 +22,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 This onyx statuette of a dog can become a [Mastiff](/3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has [Blindsight](/3-Mechanics/CLI/senses.md#Blindsight) with a range of 60 feet. Once it has been used, it can't be used again until 7 days have passed.
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

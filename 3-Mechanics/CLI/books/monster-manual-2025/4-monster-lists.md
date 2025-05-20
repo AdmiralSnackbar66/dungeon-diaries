@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monster Lists"]
+aliases:
+- Monster Lists
 ---
 # Monster Lists
 *Source: Monster Manual (2025), p. 374* 
@@ -620,7 +621,7 @@ The following lists present stat blocks that share descriptive tags or that are 
 -     - [Blob of Annihilation](/3-Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md)    
         - [Colossus](/3-Mechanics/CLI/bestiary/construct/colossus-xmm.md)    
         - [Elemental Cataclysm](/3-Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm.md)    
-        - Empyreans (all) ([Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md), [Empyrean Iota](/3-Mechanics/CLI/bestiary//empyrean-iota-xmm.md))    
+        - Empyreans (all) ([Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md), [Empyrean Iota](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md))    
         - [Kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md)    
         - [Tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md)    
 -     - [Arcanaloth](/3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md)    
@@ -774,7 +775,7 @@ The following list organizes the monster stat blocks in this book by [Challenge 
         - [Death Dog](/3-Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md)    
         - [Dire Wolf](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)    
         - [Dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md)    
-        - [Empyrean Iota](/3-Mechanics/CLI/bestiary//empyrean-iota-xmm.md)    
+        - [Empyrean Iota](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md)    
         - [Faerie Dragon Youth](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md)    
         - [Ghoul](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)    
         - [Giant Eagle](/3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md)    
@@ -1129,7 +1130,7 @@ The following list organizes the monster stat blocks in this book by [Challenge 
 -     - [Ancient Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md)    
         - [Ancient Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md)    
         - [Blob of Annihilation](/3-Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md)    
-        - [Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md)    
+        - [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md)    
         - [Kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md)    
 -     - [Ancient Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)    
         - [Ancient Red Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md)    

@@ -13,6 +13,8 @@ tags:
 - ttrpg-cli/spell/subclass/circle-of-the-land
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/the-fathomless
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Bard (College of Lore)
@@ -21,8 +23,11 @@ classes:
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
+- Warlock (The Fathomless)
+- Warlock (The Genie)
 - Wizard
-aliases: ["Sleet Storm"]
+aliases:
+- Sleet Storm
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  
@@ -37,6 +42,6 @@ Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder cen
 
 Ground in the Cylinder is [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition and lose [Concentration](/3-Mechanics/CLI/conditions.md#Concentration).
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](/3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

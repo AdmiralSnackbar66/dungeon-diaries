@@ -20,7 +20,7 @@ aliases:
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
 
-You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `dice:1d10|noform|noparens|avg` (`1d10`) Necrotic damage, and the target regains `dice:1d10|noform|noparens|avg` (`1d10`) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If this Necrotic damage reduces you to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), Blackrazor devours your soul (see "Devour Soul" below).
+You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `dice:1d10|noform|noparens|avg` (`d10`) Necrotic damage, and the target regains `dice:1d10|noform|noparens|avg` (`d10`) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If this Necrotic damage reduces you to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), Blackrazor devours your soul (see "Devour Soul" below).
 
 While you hold this weapon, you have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions, and you have [Blindsight](/3-Mechanics/CLI/senses.md#Blindsight) with a range of 30 feet.
 

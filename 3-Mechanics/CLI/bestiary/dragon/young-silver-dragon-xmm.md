@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Young Silver Dragon"]
+statblock-link: "#^statblock"
+aliases:
+- Young Silver Dragon
 ---
 # [Young Silver Dragon](3-Mechanics\CLI\bestiary\dragon/young-silver-dragon-xmm.md)
-*Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
 
@@ -42,43 +44,47 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
 "ac": !!int "18"
 "hp": !!int "168"
 "hit_dice": "16d10 + 80"
+"modifier": !!int "4"
 "stats":
-- !!int "23"
-- !!int "10"
-- !!int "21"
-- !!int "14"
-- !!int "11"
-- !!int "19"
+  - !!int "23"
+  - !!int "10"
+  - !!int "21"
+  - !!int "14"
+  - !!int "11"
+  - !!int "19"
 "speed": "40 ft., fly 80 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
+  - "dexterity": "+4"
+  - "wisdom": "+4"
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "8"
-  "History": !!int "6"
+  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+8"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "9"
 "actions":
-- "desc": "The dragon makes three Rend attacks. It can replace one attack with a use\
-    \ of Paralyzing Breath."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
-  "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: 49 (11d8) Cold damage. Success: Half damage."
-  "name": "Cold Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ 1st Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
-    \ The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition,\
-    \ and it repeats the save at the end of each of its turns, ending the effect on\
-    \ itself on a success. After 1 minute, it succeeds automatically."
-  "name": "Paralyzing Breath"
+  - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
+      \ use of Paralyzing Breath."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
+    "name": "Rend"
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 49 (11d8) Cold damage. Success: Half damage."
+    "name": "Cold Breath (Recharge 5-6)"
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ 1st Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
+      \ The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition,\
+      \ and it repeats the save at the end of each of its turns, ending the effect\
+      \ on itself on a success. After 1 minute, it succeeds automatically."
+    "name": "Paralyzing Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon-xmm.webp"
 ```
 ^statblock

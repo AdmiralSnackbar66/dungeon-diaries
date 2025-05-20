@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Add a design to a leather item (DC 10)  
 - **Craft.** [Sling](/3-Mechanics/CLI/items/sling-xphb.md), [Whip](/3-Mechanics/CLI/items/whip-xphb.md), [Hide Armor](/3-Mechanics/CLI/items/hide-armor-xphb.md), [Leather Armor](/3-Mechanics/CLI/items/leather-armor-xphb.md), [Studded Leather Armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md), [Backpack](/3-Mechanics/CLI/items/backpack-xphb.md), [Crossbow Bolt Case](/3-Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](/3-Mechanics/CLI/items/map-or-scroll-case-xphb.md), [Parchment](/3-Mechanics/CLI/items/parchment-xphb.md), [Pouch](/3-Mechanics/CLI/items/pouch-xphb.md), [Quiver](/3-Mechanics/CLI/items/quiver-xphb.md), [Waterskin](/3-Mechanics/CLI/items/waterskin-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

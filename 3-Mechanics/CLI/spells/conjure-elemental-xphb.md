@@ -13,7 +13,8 @@ classes:
 - Bard
 - Druid
 - Wizard
-aliases: ["Conjure Elemental"]
+aliases:
+- Conjure Elemental
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  
@@ -28,8 +29,8 @@ You conjure a Large, intangible spirit from the Elemental Planes that appears in
 
 Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature [Restrained](/3-Mechanics/CLI/conditions.md#Restrained). On failed save, the target takes `dice:8d8|noform|noparens|avg` (`8d8`) damage of the spirit's type, and the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition until the spell ends. At the start of each of its turns, the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) target repeats the save. On a failed save, the target takes `dice:4d8|noform|noparens|avg` (`4d8`) damage of the spirit's type. On a successful save, the target isn't [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the spirit.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each spell slot level above 5.
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

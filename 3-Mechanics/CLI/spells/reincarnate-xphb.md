@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Reincarnate"]
+aliases:
+- Reincarnate
 ---
 # Reincarnate
 *5th-level, Necromancy*  
@@ -21,7 +22,7 @@ aliases: ["Reincarnate"]
 - **Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll `dice:1d10|noform|noparens|avg` (`1d10`) and consult the table below to determine the body's species, or the DM chooses another playable species.
+You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll `dice:1d10|noform|noparens|avg` (`d10`) and consult the table below to determine the body's species, or the DM chooses another playable species.
 
 `dice: [](reincarnate-xphb.md#^1-species)`
 
@@ -43,4 +44,4 @@ The reincarnated creature makes any choices that a species' description offers, 
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

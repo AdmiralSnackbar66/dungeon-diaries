@@ -17,9 +17,11 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/oath-of-redemption
+- ttrpg-cli/spell/subclass/twilight-domain
 classes:
 - Bard
 - Bard (College of Lore)
+- Cleric (Twilight Domain)
 - Druid (Circle of the Land)
 - Fighter (Eldritch Knight)
 - Paladin (Oath of Redemption)
@@ -27,7 +29,8 @@ classes:
 - Sorcerer
 - Warlock (Archfey Patron)
 - Wizard
-aliases: ["Sleep"]
+aliases:
+- Sleep
 ---
 # Sleep
 *1st-level, Enchantment*  
@@ -42,6 +45,6 @@ Each creature of your choice in a 5-foot-radius Sphere centered on a point withi
 
 Creatures that don't sleep, such as elves, or that have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) condition automatically succeed on saves against this spell.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (Twilight Domain)](/3-Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["The Curious Tale of Wisteria Vale"]
+aliases:
+- The Curious Tale of Wisteria Vale
 ---
 # The Curious Tale of Wisteria Vale
 *Source: Candlekeep Mysteries, p. 147* 

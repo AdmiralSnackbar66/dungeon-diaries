@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-aliases: ["Manes"]
+statblock-link: "#^statblock"
+aliases:
+- Manes
 ---
 # [Manes](3-Mechanics\CLI\bestiary\fiend/manes-xmm.md)
 *Source: Monster Manual (2024) p. 201*  
@@ -34,13 +36,14 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "ac": !!int "9"
 "hp": !!int "9"
 "hit_dice": "2d6 + 2"
+"modifier": !!int "-1"
 "stats":
-- !!int "10"
-- !!int "9"
-- !!int "13"
-- !!int "3"
-- !!int "8"
-- !!int "4"
+  - !!int "10"
+  - !!int "9"
+  - !!int "13"
+  - !!int "3"
+  - !!int "8"
+  - !!int "4"
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
@@ -50,10 +53,10 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "languages": "understands Abyssal but can't speak"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Slashing damage."
-  "name": "Claw"
+  - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Slashing damage."
+    "name": "Claw"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/manes-xmm.webp"
 ```
 ^statblock

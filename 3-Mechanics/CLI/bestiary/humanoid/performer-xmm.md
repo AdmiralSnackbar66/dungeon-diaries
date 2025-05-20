@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Performer"]
+statblock-link: "#^statblock"
+aliases:
+- Performer
 ---
 # [Performer](3-Mechanics\CLI\bestiary\humanoid/performer-xmm.md)
 *Source: Monster Manual (2024) p. 236*  
@@ -99,33 +101,37 @@ Wrestler
 "ac": !!int "13"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
+"modifier": !!int "3"
 "stats":
-- !!int "12"
-- !!int "16"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-- !!int "16"
+  - !!int "12"
+  - !!int "16"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Dexterity": !!int "5"
+  - "dexterity": "+5"
+  - "charisma": "+5"
 "skillsaves":
-  "Athletics": !!int "3"
-  "Performance": !!int "7"
-  "Acrobatics": !!int "5"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+5"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+3"
+  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+    "desc": "+7"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "1/2"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage."
-  "name": "Shortsword"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage."
+    "name": "Shortsword"
 "reactions":
-- "desc": "Trigger: The performer is hit by an attack roll. _Response:_ The performer\
-    \ halves the damage (round down) it takes from that attack."
-  "name": "Uncanny Dodge"
+  - "desc": "Trigger: The performer is hit by an attack roll. _Response:_ The performer\
+      \ halves the damage (round down) it takes from that attack."
+    "name": "Uncanny Dodge"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/performer-xmm.webp"
 ```
 ^statblock

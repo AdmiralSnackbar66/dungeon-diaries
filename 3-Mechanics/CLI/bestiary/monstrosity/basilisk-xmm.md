@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Basilisk"]
+statblock-link: "#^statblock"
+aliases:
+- Basilisk
 ---
 # [Basilisk](3-Mechanics\CLI\bestiary\monstrosity/basilisk-xmm.md)
-*Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Basilisk
 
@@ -53,32 +55,34 @@ The remains of [Petrified](/3-Mechanics/CLI/conditions.md#Petrified) creatures l
 "ac": !!int "15"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
+"modifier": !!int "-1"
 "stats":
-- !!int "16"
-- !!int "8"
-- !!int "15"
-- !!int "2"
-- !!int "8"
-- !!int "7"
+  - !!int "16"
+  - !!int "8"
+  - !!int "15"
+  - !!int "2"
+  - !!int "8"
+  - !!int "7"
 "speed": "20 ft."
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "3"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage\
+      \ plus 7 (2d6) Poison damage."
+    "name": "Bite"
 "bonus_actions":
-- "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ If the basilisk sees its reflection within the [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md),\
-    \ the basilisk must make this save. 1st Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ condition and repeats the save at the end of its next turn if it is still [Restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-    \ ending the effect on itself on a success. 2nd Failure: The target has the\
-    \ [Petrified](/3-Mechanics/CLI/conditions.md#Petrified) condition instead of the\
-    \ [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition."
-  "name": "Petrifying Gaze (Recharge 4-6)"
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ If the basilisk sees its reflection within the [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md),\
+      \ the basilisk must make this save. 1st Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition and repeats the save at the end of its next turn if it is still\
+      \ [Restrained](/3-Mechanics/CLI/conditions.md#Restrained), ending the effect\
+      \ on itself on a success. 2nd Failure: The target has the [Petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
+      \ condition instead of the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition."
+    "name": "Petrifying Gaze (Recharge 4-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/basilisk-xmm.webp"
 ```
 ^statblock

@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Kuo-toa Whip"]
+statblock-link: "#^statblock"
+aliases:
+- Kuo-toa Whip
 ---
 # [Kuo-toa Whip](3-Mechanics\CLI\bestiary\aberration/kuo-toa-whip-xmm.md)
 *Source: Monster Manual (2024) p. 190*  
@@ -86,39 +88,43 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "ac": !!int "11"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "14"
-- !!int "11"
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "3"
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+3"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 16"
 "languages": "Undercommon"
 "cr": "1"
 "traits":
-- "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
-    \ using Wisdom as the spellcasting ability.\n\n2/day: [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)"
-  "name": "Shield of Faith (2/Day)"
-- "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The kuo-toa can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer\
-    \ Staff attacks."
-  "name": "Pincer Staff"
-- "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 9 (3d4 + 2) Acid damage."
-  "name": "Conjure Slimy Glob"
+  - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Piercing damage.\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 12). Until the grapple ends, the kuo-toa can't make Pincer\
+      \ Staff attacks."
+    "name": "Pincer Staff"
+  - "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 9 (3d4 + 2) Acid damage."
+    "name": "Conjure Slimy Glob"
+"bonus_actions":
+  - "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
+      \ using Wisdom as the spellcasting ability.\n"
+    "name": "Shield of Faith (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-whip-xmm.webp"
 ```
 ^statblock

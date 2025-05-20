@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Spirit Naga"]
+statblock-link: "#^statblock"
+aliases:
+- Spirit Naga
 ---
 # [Spirit Naga](3-Mechanics\CLI\bestiary\fiend/spirit-naga-xmm.md)
-*Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Spirit Naga
 
@@ -48,49 +50,50 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 "ac": !!int "17"
 "hp": !!int "135"
 "hit_dice": "18d10 + 36"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "17"
-- !!int "14"
-- !!int "16"
-- !!int "15"
-- !!int "16"
+  - !!int "18"
+  - !!int "17"
+  - !!int "14"
+  - !!int "16"
+  - !!int "15"
+  - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "6"
-  "Dexterity": !!int "6"
-  "Wisdom": !!int "5"
-  "Constitution": !!int "5"
+  - "dexterity": "+6"
+  - "constitution": "+5"
+  - "wisdom": "+5"
+  - "charisma": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
-- "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 14):\n\nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-    \ [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md)\n\n2/day\
-    \ each: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\
-    \ (level 3 version), [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
-    \ (level 4 version)"
-  "name": "Spellcasting"
-- "desc": "If it dies, the naga returns to life in 1d6 days and regains all its [Hit\
-    \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Only a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
-    \ spell can prevent this trait from functioning."
-  "name": "Fiendish Restoration"
+  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [Hit\
+      \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Only a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
+      \ spell can prevent this trait from functioning."
+    "name": "Fiendish Restoration"
 "actions":
-- "desc": "The naga makes three attacks, using Bite or Necrotic Ray in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Piercing damage\
-    \ plus 14 (4d6) Poison damage."
-  "name": "Bite"
-- "desc": "Ranged Attack Roll: +6, range 60 ft. Hit: 21 (6d6) Necrotic damage."
-  "name": "Necrotic Ray"
+  - "desc": "The naga makes three attacks, using Bite or Necrotic Ray in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Piercing damage\
+      \ plus 14 (4d6) Poison damage."
+    "name": "Bite"
+  - "desc": "Ranged Attack Roll: +6, range 60 ft. Hit: 21 (6d6) Necrotic damage."
+    "name": "Necrotic Ray"
+  - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 14):\n\nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md)\n\n2/day\
+      \ each: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\
+      \ (level 3 version), [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+      \ (level 4 version)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/spirit-naga-xmm.webp"
 ```
 ^statblock

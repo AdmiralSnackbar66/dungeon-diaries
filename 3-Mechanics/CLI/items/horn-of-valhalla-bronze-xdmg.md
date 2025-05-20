@@ -18,4 +18,4 @@ A bronze horn summons 4 [Berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserke
 
 If you blow the horn without meeting its requirement, the summoned [Berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) attack you. If you meet the requirement, they are [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
 
-*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

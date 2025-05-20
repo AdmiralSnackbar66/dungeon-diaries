@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/monk/sun-soul
-aliases: ["Way of the Sun Soul"]
+aliases:
+- Way of the Sun Soul
 ---
 # Way of the Sun Soul
 *[Monk](./monk-xphb.md): Monk Subclass*  

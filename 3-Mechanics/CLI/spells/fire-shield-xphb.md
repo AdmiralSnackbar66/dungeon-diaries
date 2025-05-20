@@ -10,21 +10,30 @@ tags:
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/armorer
+- ttrpg-cli/spell/subclass/battle-smith
+- ttrpg-cli/spell/subclass/circle-of-wildfire
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/evoker
 - ttrpg-cli/spell/subclass/fiend-patron
+- ttrpg-cli/spell/subclass/the-genie
 - ttrpg-cli/spell/subclass/war-domain
 classes:
+- Artificer (Armorer)
+- Artificer (Battle Smith)
 - Bard
 - Cleric (War Domain)
 - Druid
+- Druid (Circle of Wildfire)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (Fiend Patron)
+- Warlock (The Genie)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Fire Shield"]
+aliases:
+- Fire Shield
 ---
 # Fire Shield
 *4th-level, Evocation*  
@@ -41,6 +50,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes `dice:2d8|noform|noparens|avg` (`2d8`) Fire damage from a warm shield or `dice:2d8|noform|noparens|avg` (`2d8`) Cold damage from a chill shield.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Artificer (Battle Smith)](/3-Mechanics/CLI/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Druid (Circle of Wildfire)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE;class=XPHB"); [Warlock (Fiend Patron)](/3-Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Artificer (Armorer)](/3-Mechanics/CLI/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,7 +4,8 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/smpl
-aliases: ["Fiery Blast Trap"]
+aliases:
+- Fiery Blast Trap
 ---
 # Fiery Blast Trap
 *Generic Hazard*  

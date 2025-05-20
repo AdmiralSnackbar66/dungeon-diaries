@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/barbarian/ancestral-guardian
-aliases: ["Path of the Ancestral Guardian"]
+aliases:
+- Path of the Ancestral Guardian
 ---
 # Path of the Ancestral Guardian
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  

@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Larva"]
+statblock-link: "#^statblock"
+aliases:
+- Larva
 ---
 # [Larva](3-Mechanics\CLI\bestiary\fiend/larva-xmm.md)
 *Source: Monster Manual (2024) p. 193*  
@@ -35,22 +37,23 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "ac": !!int "9"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "-1"
 "stats":
-- !!int "9"
-- !!int "9"
-- !!int "10"
-- !!int "6"
-- !!int "10"
-- !!int "2"
+  - !!int "9"
+  - !!int "9"
+  - !!int "10"
+  - !!int "6"
+  - !!int "10"
+  - !!int "2"
 "speed": "20 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Necrotic damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Necrotic damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/larva-xmm.webp"
 ```
 ^statblock

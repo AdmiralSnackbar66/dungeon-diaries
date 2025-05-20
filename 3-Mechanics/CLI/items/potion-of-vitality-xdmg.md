@@ -18,4 +18,4 @@ When you drink this potion, it removes any [Exhaustion](/3-Mechanics/CLI/conditi
 
 This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 
-*Source: Dungeon Master's Guide (2024) p. 289*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["A Deep and Creeping Darkness"]
+aliases:
+- A Deep and Creeping Darkness
 ---
 # A Deep and Creeping Darkness
 *Source: Candlekeep Mysteries, p. 48* 
@@ -142,7 +143,7 @@ When the characters enter Vermeillon, read the following boxed text to the playe
 
 ### Lurking Danger
 
-A nest of meenlocks lives in the mine outside the village. Though most of the creatures returned to the Feywild once the village was empty, six [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) (see the end of the adventure for their stat block) remained to prey on lost travelers. When the characters arrive in the village, these meenlocks become aware of their presence and stalk them from a distance, staying hidden in the shadows.
+A nest of meenlocks lives in the mine outside the village. Though most of the creatures returned to the Feywild once the village was empty, six [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) (see the end of the adventure for their stat block) remained to prey on lost travelers. When the characters arrive in the village, these meenlocks become aware of their presence and stalk them from a distance, staying hidden in the shadows.
 
 The meenlocks of Vermeillon include three that spawned after the disaster in the mine, two that were once villagers, and one that was a traveling merchant who thought he'd found a shortcut through the peaks. The three original meenlocks stay within the nest, while the other three venture into the village to torment the characters, either individually or as a group. You can change the number of meenlocks in in the village, depending on the number of characters and their abilities.
 
@@ -157,7 +158,7 @@ As the party makes its way through the village, the meenlocks try to remain unse
 
 > [!note] Running the Meenlocks
 > 
-> The [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) haunting Vermeillon avoid bright light. They prefer to stay in their nest until nightfall, though they sometimes hunt on overcast days.
+> The [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) haunting Vermeillon avoid bright light. They prefer to stay in their nest until nightfall, though they sometimes hunt on overcast days.
 > 
 > The meenlocks avoid combat with a well-armed group of foes. If the characters don't split up on their own, the meenlocks try to divide the party using their ability to create hallucinations. Their aim is to isolate and paralyze one character, then drag that character back to their nest to be tortured and transformed into a meenlock. If given the opportunity, meenlocks psychically torment their prey for hours or days, breaking down their mental and emotional state to make the eventual transformation easier.
 > 
@@ -262,7 +263,7 @@ Upon closer inspection, the party finds the remains of a horse in the tall grass
 
 > [!note] Tragic Transformation
 > 
-> Mayor Lei Duvezin was taken in the night and transformed into a meenlock. The [meenlock](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) that was once Mayor Duvezin now lurks around the mayor's mansion, drawn there by lingering memories, and it takes any opportunity to attack characters in the house.
+> Mayor Lei Duvezin was taken in the night and transformed into a meenlock. The [meenlock](/3-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) that was once Mayor Duvezin now lurks around the mayor's mansion, drawn there by lingering memories, and it takes any opportunity to attack characters in the house.
 > 
 > The meenlock shed its clothing and other trappings of its former life once the transformation was complete, but it still wears the mayor's ring of office: an ornate platinum signet ring embossed with a snowdrop blossom (75 gp). The characters can recover the ring upon the meenlock's death or notice it during combat with a successful DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. The ring offers a hint to the fate of the mayor, and also serves as a potential plot hook if the characters decide to track down the mayor's children to return the item and give them closure on their mother's fate.
 ^tragic-transformation
@@ -368,7 +369,7 @@ Since the village's business was conducted on the first floor of the mansion, th
 
 Several open books lie on the table, with notes scribbled on bits of paper stuck between their pages. The topics include the effects of physical and emotional trauma, nightmares, and mysterious disappearances. Seemingly out of place in comparison to the other topics, a book about the Feywild and its sundry creatures holds a single note, written in a shaky hand. It reads: *Could this be the answer?*
 
- The note marks a page with an entry on meenlocks, which includes the following information:
+The note marks a page with an entry on meenlocks, which includes the following information:
 
 - Meenlocks are corrupted fey creatures that spontaneously manifest in response to fear in places where the border with the Feywild is thin.  
 - Meenlocks create more of their kind by transforming humanoids through a process of psychic torment that takes hours or days.  
@@ -471,7 +472,7 @@ Whenever a creature that isn't a meenlock enters the alcove or starts its turn t
 
 ##### Development
 
-A character who wanders into this cave alone and is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the mossy tentacles might have to deal with one or more [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) that creep into the room, hoping to take advantage of the character's unfortunate predicament.
+A character who wanders into this cave alone and is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the mossy tentacles might have to deal with one or more [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) that creep into the room, hoping to take advantage of the character's unfortunate predicament.
 
 #### M7. Mossy Maze
 
@@ -495,7 +496,7 @@ This is another ideal ambush location for the meenlocks or, if you want to shake
 > New scents greet you here: the musty funk of decaying fabric and old furs, and the smell of rot lingering in the stagnant air. Thick pillars of moss-covered stone support the twenty-foot-high ceiling, and waist-high stone slabs dot the cavern.
 ^171
 
-The meenlocks bring their victims here to be tormented and transformed. The stone slabs are coated with blood and filth—the result of mortals being laid out for days of torture. Any party members taken by the meenlocks are here, [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) on one of the slabs if they haven't already been transformed (see the "Telepathic Torment" sidebar at the end of the adventure). Any remaining [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) attack when the party reaches the center of this room.
+The meenlocks bring their victims here to be tormented and transformed. The stone slabs are coated with blood and filth—the result of mortals being laid out for days of torture. Any party members taken by the meenlocks are here, [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) on one of the slabs if they haven't already been transformed (see the "Telepathic Torment" sidebar at the end of the adventure). Any remaining [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) attack when the party reaches the center of this room.
 
 ##### Dynamite Trap
 

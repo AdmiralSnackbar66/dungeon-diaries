@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 3: Character Classes"]
+aliases:
+- Chapter 3: Character Classes
 ---
 # Chapter 3: Character Classes
 *Source: Player's Handbook (2024), p. 49* 

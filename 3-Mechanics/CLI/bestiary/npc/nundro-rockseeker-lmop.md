@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
-aliases: ["Nundro Rockseeker"]
+statblock-link: "#^statblock"
+aliases:
+- Nundro Rockseeker
 ---
 # [Nundro Rockseeker](3-Mechanics\CLI\bestiary\npc/nundro-rockseeker-lmop.md)
 *Source: Lost Mine of Phandelver p. 50*  
@@ -21,27 +23,28 @@ aliases: ["Nundro Rockseeker"]
 "ac": !!int "10"
 "hp": !!int "4"
 "hit_dice": "1d8"
+"modifier": !!int "0"
 "stats":
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
-- !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft."
 "damage_resistances": "poison"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "0"
 "traits":
-- "desc": "Nundro"
-  "name": "Dwarven Resilience"
+  - "desc": "Nundro"
+    "name": "Dwarven Resilience"
 "actions":
-- "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ bludgeoning damage."
-  "name": "Club"
+  - "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ bludgeoning damage."
+    "name": "Club"
 "source":
-- "LMoP"
+  - "LMoP"
 "image": "/3-Mechanics/CLI/bestiary/npc/token/nundro-rockseeker-lmop.webp"
 ```
 ^statblock

@@ -14,7 +14,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Evoker)
-aliases: ["Jallarzi's Storm of Radiance"]
+aliases:
+- Jallarzi's Storm of Radiance
 ---
 # Jallarzi's Storm of Radiance
 *5th-level, Evocation*  
@@ -29,8 +30,8 @@ You unleash a storm of flashing light and raging thunder in a 10-foot-radius, 40
 
 When the storm appears, each creature in it makes a Constitution saving throw, taking `dice:2d10|noform|noparens|avg` (`2d10`) Radiant damage and `dice:2d10|noform|noparens|avg` (`2d10`) Thunder damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 
-**Using a Higher-Level Spell Slot.** The Radiant and Thunder damage increase by `dice:1d10|noform|noparens|avg|text(1d10)` for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The Radiant and Thunder damage increase by `dice:1d10|noform|noparens|avg|text(d10)` for each spell slot level above 5.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 289*

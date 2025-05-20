@@ -16,7 +16,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Investiture of Stone"]
+aliases:
+- Investiture of Stone
 ---
 # Investiture of Stone
 *6th-level, Transmutation*  

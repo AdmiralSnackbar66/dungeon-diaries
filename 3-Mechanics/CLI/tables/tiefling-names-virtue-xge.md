@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Tiefling Names – Virtue"]
+aliases:
+- Tiefling Names – Virtue
 ---
 # Tiefling Names – Virtue
 *Source: Xanathar's Guide to Everything p. 180* 

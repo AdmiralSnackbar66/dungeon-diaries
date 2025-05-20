@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Centaur Trooper"]
+statblock-link: "#^statblock"
+aliases:
+- Centaur Trooper
 ---
 # [Centaur Trooper](3-Mechanics\CLI\bestiary\fey/centaur-trooper-xmm.md)
-*Source: Monster Manual (2024) p. 67. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 67. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creatures.
 
@@ -35,38 +37,41 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 "ac": !!int "16"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "14"
-- !!int "14"
-- !!int "9"
-- !!int "13"
-- !!int "11"
+  - !!int "18"
+  - !!int "14"
+  - !!int "14"
+  - !!int "9"
+  - !!int "13"
+  - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  "Athletics": !!int "6"
-  "Perception": !!int "3"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"
 "actions":
-- "desc": "The centaur makes two attacks, using Pike or Longbow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Piercing damage."
-  "name": "Pike"
-- "desc": "Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing\
-    \ damage."
-  "name": "Longbow"
+  - "desc": "The centaur makes two attacks, using Pike or Longbow in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Piercing damage."
+    "name": "Pike"
+  - "desc": "Ranged Attack Roll: +4, range 150/600 ft. Hit: 6 (1d8 + 2) Piercing\
+      \ damage."
+    "name": "Longbow"
 "bonus_actions":
-- "desc": "The centaur moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ without provoking Opportunity Attacks and can move through the spaces of Medium\
-    \ or smaller creatures. Each creature whose space the centaur enters is targeted\
-    \ once by the following effect. Strength Saving Throw: DC 14. Failure: 7 (1d6\
-    \ + 4) Bludgeoning damage, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Trampling Charge (Recharge 5-6)"
+  - "desc": "The centaur moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ without provoking Opportunity Attacks and can move through the spaces of Medium\
+      \ or smaller creatures. Each creature whose space the centaur enters is targeted\
+      \ once by the following effect. Strength Saving Throw: DC 14. Failure: 7\
+      \ (1d6 + 4) Bludgeoning damage, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Trampling Charge (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/centaur-trooper-xmm.webp"
 ```
 ^statblock

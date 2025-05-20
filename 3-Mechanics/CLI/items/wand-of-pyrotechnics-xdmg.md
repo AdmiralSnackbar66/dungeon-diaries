@@ -4,11 +4,12 @@ cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
+- ttrpg-cli/item/wondrous/wand
 aliases: 
 - "Wand of Pyrotechnics"
 ---
 # Wand of Pyrotechnics
-*Common*  
+*Wand, common*  
 
 
 - **Weight**: 1.0 lbs.

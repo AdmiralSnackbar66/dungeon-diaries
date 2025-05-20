@@ -12,10 +12,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Lizard"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Lizard
 ---
 # [Giant Lizard](3-Mechanics\CLI\bestiary\beast/giant-lizard-xmm.md)
-*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -29,28 +31,29 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "15"
-- !!int "12"
-- !!int "13"
-- !!int "2"
-- !!int "10"
-- !!int "5"
+  - !!int "15"
+  - !!int "12"
+  - !!int "13"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
 "speed": "40 ft., climb 40 ft."
 "saves":
-  "Dexterity": !!int "3"
+  - "dexterity": "+3"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The lizard can climb difficult surfaces, including along ceilings, without\
-    \ needing to make an ability check."
-  "name": "Spider Climb"
+  - "desc": "The lizard can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-lizard-xmm.webp"
 ```
 ^statblock

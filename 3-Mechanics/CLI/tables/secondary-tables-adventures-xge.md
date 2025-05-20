@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Secondary Tables; Adventures"]
+aliases:
+- Secondary Tables; Adventures
 ---
 # Secondary Tables; Adventures
 *Source: Xanathar's Guide to Everything p. 70* 
@@ -14,7 +15,7 @@ aliases: ["Secondary Tables; Adventures"]
 
 | dice: d100 | Outcome |
 |------------|---------|
-| 1-10 | You nearly died. You have nasty scars on your body, and you are missing an ear, `dice:1d3\|noform\|noparens\|avg` (`1d3`) fingers, or `dice:1d4\|noform\|noparens\|avg` (`1d4`) toes. |
+| 1-10 | You nearly died. You have nasty scars on your body, and you are missing an ear, `dice:1d3\|noform\|noparens\|avg` (`d3`) fingers, or `dice:1d4\|noform\|noparens\|avg` (`d4`) toes. |
 | 11-20 | You suffered a grievous injury. Although the wound healed, it still pains you from time to time. |
 | 21-30 | You were wounded, but in time you fully recovered. |
 | 31-40 | You contracted a disease while exploring a filthy warren. You recovered from the disease, but you have a persistent cough, pockmarks on your skin, or prematurely gray hair. |

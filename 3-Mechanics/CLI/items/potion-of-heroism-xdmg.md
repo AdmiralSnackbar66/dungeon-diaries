@@ -18,4 +18,4 @@ When you drink this potion, you gain 10 [Temporary Hit Points](/3-Mechanics/CLI/
 
 This potion's blue liquid bubbles and steams as if boiling.
 
-*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

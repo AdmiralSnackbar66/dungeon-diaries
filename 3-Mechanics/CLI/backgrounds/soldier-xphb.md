@@ -4,10 +4,11 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Soldier"]
+aliases:
+- Soldier
 ---
 # Soldier
-*Source: Player's Handbook (2024) p. 185*  
+*Source: Player's Handbook (2024) p. 185. Available in the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/backgrounds/img/soldier.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Constitution  

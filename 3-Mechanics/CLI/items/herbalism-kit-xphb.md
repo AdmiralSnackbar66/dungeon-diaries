@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Identify a plant (DC 10)  
 - **Craft.** [Antitoxin](/3-Mechanics/CLI/items/antitoxin-xphb.md), [Candle](/3-Mechanics/CLI/items/candle-xphb.md), [Healer's Kit](/3-Mechanics/CLI/items/healers-kit-xphb.md), [Potion of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

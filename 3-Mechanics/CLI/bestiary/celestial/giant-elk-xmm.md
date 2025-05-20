@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Giant Elk"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Elk
 ---
 # [Giant Elk](3-Mechanics\CLI\bestiary\celestial/giant-elk-xmm.md)
-*Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,32 +29,34 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "14"
 "hp": !!int "42"
 "hit_dice": "5d12 + 10"
+"modifier": !!int "6"
 "stats":
-- !!int "19"
-- !!int "18"
-- !!int "14"
-- !!int "7"
-- !!int "14"
-- !!int "10"
+  - !!int "19"
+  - !!int "18"
+  - !!int "14"
+  - !!int "7"
+  - !!int "14"
+  - !!int "10"
 "speed": "60 ft."
 "saves":
-  "Dexterity": !!int "6"
-  "Strength": !!int "6"
+  - "strength": "+6"
+  - "dexterity": "+6"
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "damage_resistances": "necrotic, radiant"
 "senses": "darkvision 90 ft., passive Perception 14"
 "languages": "Celestial; understands Common, Elvish, and Sylvan but can't speak them"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage\
-    \ plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature and\
-    \ the elk moved 20+ feet straight toward it immediately before the hit, the target\
-    \ takes an extra 5 (2d4) Bludgeoning damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Ram"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning\
+      \ damage plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature\
+      \ and the elk moved 20+ feet straight toward it immediately before the hit,\
+      \ the target takes an extra 5 (2d4) Bludgeoning damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Ram"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-elk-xmm.webp"
 ```
 ^statblock

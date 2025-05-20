@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
-aliases: ["Cordon of Arrows"]
+aliases:
+- Cordon of Arrows
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

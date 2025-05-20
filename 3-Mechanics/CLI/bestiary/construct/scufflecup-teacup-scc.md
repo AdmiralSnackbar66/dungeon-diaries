@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Scufflecup Teacup"]
+statblock-link: "#^statblock"
+aliases:
+- Scufflecup Teacup
 ---
 # [Scufflecup Teacup](3-Mechanics\CLI\bestiary\construct/scufflecup-teacup-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 159*  
@@ -22,13 +24,14 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
 "ac": !!int "12"
 "hp": !!int "5"
 "hit_dice": "2d4"
+"modifier": !!int "2"
 "stats":
-- !!int "4"
-- !!int "14"
-- !!int "10"
-- !!int "3"
-- !!int "3"
-- !!int "1"
+  - !!int "4"
+  - !!int "14"
+  - !!int "10"
+  - !!int "3"
+  - !!int "3"
+  - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -37,11 +40,11 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d3\
-    \ + 2) bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d3\
+      \ + 2) bludgeoning damage."
+    "name": "Slam"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/scufflecup-teacup-scc.webp"
 ```
 ^statblock

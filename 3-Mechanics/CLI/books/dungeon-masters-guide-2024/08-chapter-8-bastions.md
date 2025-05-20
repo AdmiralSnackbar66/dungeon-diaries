@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 8: Bastions"]
+aliases:
+- Chapter 8: Bastions
 ---
 # Chapter 8: Bastions
 *Source: Dungeon Master's Guide (2024), p. 334* 
@@ -323,7 +324,7 @@ A group of `dice:2d4|noform|noparens|avg` (`2d4`) refugees fleeing from a monste
 
 #### Request for Aid
 
-Your Bastion is called on to help a local leader. Perhaps there's a search on for a missing person, or brigands are plaguing the area. If you help, you must dispatch one or more Bastion Defenders. Roll `dice:1d6|noform|noparens|avg` (`1d6`) for each Bastion Defender you send. If the total is 10 or higher, the problem is solved and you earn a reward of `1d6 × 100` GP. If the total is less than 10, the problem is still solved, but the reward is halved and one of your Bastion Defenders is killed. Remove that Bastion Defender from your Bastion's roster.
+Your Bastion is called on to help a local leader. Perhaps there's a search on for a missing person, or brigands are plaguing the area. If you help, you must dispatch one or more Bastion Defenders. Roll `dice:1d6|noform|noparens|avg` (`d6`) for each Bastion Defender you send. If the total is 10 or higher, the problem is solved and you earn a reward of `1d6 × 100` GP. If the total is less than 10, the problem is still solved, but the reward is halved and one of your Bastion Defenders is killed. Remove that Bastion Defender from your Bastion's roster.
 
 #### Treasure
 

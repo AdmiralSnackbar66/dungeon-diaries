@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Describe Appearance and Personality; Charisma"]
+aliases:
+- Describe Appearance and Personality; Charisma
 ---
 # Describe Appearance and Personality; Charisma
 *Source: Player's Handbook (2024) p. 38* 

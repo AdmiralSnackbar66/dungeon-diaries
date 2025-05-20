@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Credits"]
+aliases:
+- Credits
 ---
 # Credits
 *Source: Player's Handbook (2024), p. 2* 

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/bard/swords
-aliases: ["College of Swords"]
+aliases:
+- College of Swords
 ---
 # College of Swords
 *[Bard](./bard-xphb.md): Bard Subclass*  

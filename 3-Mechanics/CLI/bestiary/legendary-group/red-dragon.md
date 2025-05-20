@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Red Dragon"]
+aliases:
+- Red Dragon
 ---
 # Red Dragon
 
@@ -33,7 +34,7 @@ The region containing a legendary red dragon's lair is warped by the dragon's ma
 - Water sources within 1 mile of the lair are supernaturally warm and tainted by sulfur.  
 - Rocky fissures within 1 mile of the dragon's lair form portals to the Elemental Plane of Fire, allowing creatures of elemental fire into the world to dwell nearby.  
 
-If the dragon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the dragon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
 
 ### Additional Regional Effects
 

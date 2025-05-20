@@ -41,4 +41,4 @@ Alternatively, when you light the candle for the first time, you can cast [Gate]
 | 96-00 | "Ysgard" |
 ^1-outer-plane
 
-*Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

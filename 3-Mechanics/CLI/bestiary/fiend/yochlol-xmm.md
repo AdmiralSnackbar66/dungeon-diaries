@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-aliases: ["Yochlol"]
+statblock-link: "#^statblock"
+aliases:
+- Yochlol
 ---
 # [Yochlol](3-Mechanics\CLI\bestiary\fiend/yochlol-xmm.md)
 *Source: Monster Manual (2024) p. 341*  
@@ -36,22 +38,25 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
 "ac": !!int "15"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
+"modifier": !!int "8"
 "stats":
-- !!int "15"
-- !!int "19"
-- !!int "18"
-- !!int "13"
-- !!int "15"
-- !!int "17"
+  - !!int "15"
+  - !!int "19"
+  - !!int "18"
+  - !!int "13"
+  - !!int "15"
+  - !!int "17"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "5"
+  - "dexterity": "+8"
+  - "intelligence": "+5"
+  - "wisdom": "+6"
+  - "charisma": "+7"
 "skillsaves":
-  "Deception": !!int "11"
-  "Insight": !!int "6"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+11"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+6"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -59,48 +64,48 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "10"
 "traits":
-- "desc": "The yochlol casts one of the following spells, requiring no Material components\
-    \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Gaseous\
-    \ Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md) (self only), [Web](/3-Mechanics/CLI/spells/web-xphb.md)\n\
-    \n1/day: [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "If the yochlol dies outside the Abyss, its body dissolves, and it gains\
-    \ a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ in the Abyss."
-  "name": "Demonic Restoration"
-- "desc": "The yochlol has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The yochlol can climb difficult surfaces, including along ceilings, without\
-    \ needing to make an ability check."
-  "name": "Spider Climb"
-- "desc": "The yochlol ignores movement restrictions caused by webs."
-  "name": "Web Walker"
+  - "desc": "If the yochlol dies outside the Abyss, its body dissolves, and it gains\
+      \ a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in the Abyss."
+    "name": "Demonic Restoration"
+  - "desc": "The yochlol has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The yochlol can climb difficult surfaces, including along ceilings, without\
+      \ needing to make an ability check."
+    "name": "Spider Climb"
+  - "desc": "The yochlol ignores movement restrictions caused by webs."
+    "name": "Web Walker"
 "actions":
-- "desc": "The yochlol makes two Caustic Lash attacks, and it can use Spellcasting\
-    \ to cast [Web](/3-Mechanics/CLI/spells/web-xphb.md) or [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)\
-    \ if available."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +8, reach 10 ft. or range 120 ft. Hit:\
-    \ 25 (6d6 + 4) Acid damage."
-  "name": "Caustic Lash"
+  - "desc": "The yochlol makes two Caustic Lash attacks, and it can use Spellcasting\
+      \ to cast [Web](/3-Mechanics/CLI/spells/web-xphb.md) or [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)\
+      \ if available."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +8, reach 10 ft. or range 120 ft. Hit:\
+      \ 25 (6d6 + 4) Acid damage."
+    "name": "Caustic Lash"
+  - "desc": "The yochlol casts one of the following spells, requiring no Material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
+      \nAt will: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md) (self only),\
+      \ [Web](/3-Mechanics/CLI/spells/web-xphb.md)\n\n1/day: [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The yochlol shape-shifts into a Medium Humanoid or a Medium spider or back\
-    \ into its true form. Its game statistics are the same in each form. Any equipment\
-    \ it is wearing or carrying isn't transformed."
-  "name": "Shape-Shift"
+  - "desc": "The yochlol shape-shifts into a Medium Humanoid or a Medium spider or\
+      \ back into its true form. Its game statistics are the same in each form. Any\
+      \ equipment it is wearing or carrying isn't transformed."
+    "name": "Shape-Shift"
 "reactions":
-- "desc": "Trigger: The yochlol is hit by an attack roll. _Response:_ The yochlol\
-    \ halves the attack's damage to itself (round down), and it teleports to an unoccupied\
-    \ space it can see within 30 feet of itself. Constitution Saving Throw: DC 15,\
-    \ each creature within 5 feet of the yochlol's destination space. Failure: The\
-    \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-    \ until the end of its next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-    \ it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
-  "name": "Toxic Escape"
+  - "desc": "Trigger: The yochlol is hit by an attack roll. _Response:_ The yochlol\
+      \ halves the attack's damage to itself (round down), and it teleports to an\
+      \ unoccupied space it can see within 30 feet of itself. Constitution Saving\
+      \ Throw: DC 15, each creature within 5 feet of the yochlol's destination space.\
+      \ Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the end of its next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+      \ it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+    "name": "Toxic Escape"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/yochlol-xmm.webp"
 ```
 ^statblock

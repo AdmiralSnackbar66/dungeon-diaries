@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/evocation
 classes:
 - Paladin
-aliases: ["Thunderous Smite"]
+aliases:
+- Thunderous Smite
 ---
 # Thunderous Smite
 *1st-level, Evocation*  
@@ -21,7 +22,7 @@ aliases: ["Thunderous Smite"]
 
 Your strike rings with thunder that is audible within 300 feet of you, and the target takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each spell slot level above 1.
 
 **Classes**: [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 

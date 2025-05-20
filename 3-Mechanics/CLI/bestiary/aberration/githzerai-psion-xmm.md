@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration/gith
 statblock: inline
-aliases: ["Githzerai Psion"]
+statblock-link: "#^statblock"
+aliases:
+- Githzerai Psion
 ---
 # [Githzerai Psion](3-Mechanics\CLI\bestiary\aberration/githzerai-psion-xmm.md)
 *Source: Monster Manual (2024) p. 137*  
@@ -61,50 +63,53 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "ac": !!int "18"
 "hp": !!int "169"
 "hit_dice": "26d8 + 52"
+"modifier": !!int "8"
 "stats":
-- !!int "12"
-- !!int "18"
-- !!int "15"
-- !!int "19"
-- !!int "18"
-- !!int "14"
+  - !!int "12"
+  - !!int "18"
+  - !!int "15"
+  - !!int "19"
+  - !!int "18"
+  - !!int "14"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
-  "Dexterity": !!int "8"
-  "Wisdom": !!int "8"
-  "Intelligence": !!int "8"
-  "Strength": !!int "5"
+  - "strength": "+5"
+  - "dexterity": "+8"
+  - "intelligence": "+8"
+  - "wisdom": "+8"
 "skillsaves":
-  "Insight": !!int "8"
-  "Perception": !!int "8"
-  "Arcana": !!int "8"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+8"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+8"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Common, Gith"
 "cr": "12"
-"traits":
-- "desc": "The githzerai casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\nAt\
-    \ will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is\
-    \ Invisible)\n\n1/day each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-    \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
-    \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\nAt will: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
-  "name": "Psionic Defense"
 "actions":
-- "desc": "The githzerai makes three Psychic Warp attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit:\
-    \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of (A)\
-    \ the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until the start\
-    \ of the githzerai's next turn or (B) the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition, provided the target is a Large or smaller creature."
-  "name": "Psychic Warp"
+  - "desc": "The githzerai makes three Psychic Warp attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit:\
+      \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of\
+      \ (A) the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until\
+      \ the start of the githzerai's next turn or (B) the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition, provided the target is a Large or smaller creature."
+    "name": "Psychic Warp"
+  - "desc": "The githzerai casts one of the following spells, requiring no spell components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
+      At will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
+      \ is Invisible)\n\n1/day each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Psionic Defense"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-psion-xmm.webp"
 ```
 ^statblock

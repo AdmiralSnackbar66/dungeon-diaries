@@ -17,6 +17,7 @@ tags:
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/horizon-walker
 - ttrpg-cli/spell/subclass/monster-slayer
+- ttrpg-cli/spell/subclass/oath-of-the-watchers
 - ttrpg-cli/spell/subclass/oath-of-vengeance
 classes:
 - Bard
@@ -24,6 +25,7 @@ classes:
 - Fighter (Eldritch Knight)
 - Paladin
 - Paladin (Oath of Vengeance)
+- Paladin (Oath of the Watchers)
 - Ranger (Horizon Walker)
 - Ranger (Monster Slayer)
 - Rogue (Arcane Trickster)
@@ -32,7 +34,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Banishment"]
+aliases:
+- Banishment
 ---
 # Banishment
 *4th-level, Abjuration*  
@@ -49,6 +52,6 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Horizon Walker)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Monster Slayer)](/3-Mechanics/CLI/lists/list-spells-classes-ranger-xphb-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of the Watchers)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Monster Slayer)](/3-Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Ranger (Horizon Walker)](/3-Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Fomorian"]
+statblock-link: "#^statblock"
+aliases:
+- Fomorian
 ---
 # [Fomorian](3-Mechanics\CLI\bestiary\giant/fomorian-xmm.md)
 *Source: Monster Manual (2024) p. 123*  
@@ -47,32 +49,36 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 "ac": !!int "14"
 "hp": !!int "172"
 "hit_dice": "15d12 + 75"
+"modifier": !!int "0"
 "stats":
-- !!int "23"
-- !!int "10"
-- !!int "20"
-- !!int "9"
-- !!int "14"
-- !!int "6"
+  - !!int "23"
+  - !!int "10"
+  - !!int "20"
+  - !!int "9"
+  - !!int "14"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "8"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+8"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
-- "desc": "The fomorian makes two Stone Club attacks. It can replace one attack with\
-    \ a use of Warping Hex if available."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 24 (4d8 + 6) Bludgeoning damage."
-  "name": "Stone Club"
-- "desc": "Wisdom Saving Throw: DC 16, one creature the fomorian can see within\
-    \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
-    \ level. Success: Half damage only."
-  "name": "Warping Hex (Recharge 4-6)"
+  - "desc": "The fomorian makes two Stone Club attacks. It can replace one attack\
+      \ with a use of Warping Hex if available."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +9, reach 15 ft. Hit: 24 (4d8 + 6) Bludgeoning\
+      \ damage."
+    "name": "Stone Club"
+  - "desc": "Wisdom Saving Throw: DC 16, one creature the fomorian can see within\
+      \ 120 feet. Failure: 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
+      \ level. Success: Half damage only."
+    "name": "Warping Hex (Recharge 4-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian-xmm.webp"
 ```
 ^statblock

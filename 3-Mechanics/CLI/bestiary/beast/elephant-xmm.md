@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Elephant"]
+statblock-link: "#^statblock"
+aliases:
+- Elephant
 ---
 # [Elephant](3-Mechanics\CLI\bestiary\beast/elephant-xmm.md)
-*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -25,33 +27,34 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "76"
 "hit_dice": "8d12 + 24"
+"modifier": !!int "-1"
 "stats":
-- !!int "22"
-- !!int "9"
-- !!int "17"
-- !!int "3"
-- !!int "11"
-- !!int "6"
+  - !!int "22"
+  - !!int "9"
+  - !!int "17"
+  - !!int "3"
+  - !!int "11"
+  - !!int "6"
 "speed": "40 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "4"
 "actions":
-- "desc": "The elephant makes two Gore attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage.\
-    \ If the target is a Huge or smaller creature and the elephant moved 20+ feet\
-    \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Gore"
+  - "desc": "The elephant makes two Gore attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage.\
+      \ If the target is a Huge or smaller creature and the elephant moved 20+ feet\
+      \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Gore"
 "bonus_actions":
-- "desc": "Dexterity Saving Throw: DC 16, one creature within 5 feet that has the\
-    \ [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. Failure: 17 (2d10\
-    \ + 6) Bludgeoning damage. Success: Half damage."
-  "name": "Trample"
+  - "desc": "Dexterity Saving Throw: DC 16, one creature within 5 feet that has\
+      \ the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. Failure: 17\
+      \ (2d10 + 6) Bludgeoning damage. Success: Half damage."
+    "name": "Trample"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/elephant-xmm.webp"
 ```
 ^statblock

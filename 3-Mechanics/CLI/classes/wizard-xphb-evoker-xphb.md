@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/evoker
-aliases: ["Evoker"]
+aliases:
+- Evoker
 ---
 # Evoker
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -74,4 +75,4 @@ You can increase the power of your spells. When you cast a Wizard spell with a s
 
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `dice:2d12|noform|noparens|avg` (`2d12`) Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md).
 
-Each time you use this feature again before finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `dice:1d12|noform|noparens|avg` (`1d12`).
+Each time you use this feature again before finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `dice:1d12|noform|noparens|avg` (`d12`).

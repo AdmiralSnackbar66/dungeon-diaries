@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Druid"]
+statblock-link: "#^statblock"
+aliases:
+- Druid
 ---
 # [Druid](3-Mechanics\CLI\bestiary\humanoid/druid-xmm.md)
-*Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Druid
 
@@ -44,39 +46,43 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 "ac": !!int "13"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "12"
-- !!int "13"
-- !!int "12"
-- !!int "16"
-- !!int "11"
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "16"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "5"
-  "Nature": !!int "3"
-  "Perception": !!int "5"
+  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+    "desc": "+5"
+  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+    "desc": "+3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common, Druidic, Sylvan"
 "cr": "2"
-"traits":
-- "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 13):\n\nAt will: [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-    \ [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n\
-    1/day each: [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
-    \ [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md), [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md)\n\
-    \n2/day each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
-    \ plus 2 (1d4) Poison damage."
-  "name": "Vine Staff"
-- "desc": "Ranged Attack Roll: +5, range 90 ft. Hit: 10 (3d6) Radiant damage."
-  "name": "Verdant Wisp"
+  - "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any\
+      \ combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
+      \ plus 2 (d4) Poison damage."
+    "name": "Vine Staff"
+  - "desc": "Ranged Attack Roll: +5, range 90 ft. Hit: 10 (3d6) Radiant damage."
+    "name": "Verdant Wisp"
+  - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 13):\n\nAt will: [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\
+      \n2/day each: [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n1/day each: [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md), [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/druid-xmm.webp"
 ```
 ^statblock

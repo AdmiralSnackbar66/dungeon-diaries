@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Improvised Weapons"]
+aliases:
+- Improvised Weapons
 ---
 # Improvised Weapons
-*Source: Player's Handbook (2024) p. 369* 
+*Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
@@ -16,7 +17,7 @@ Don't add your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xp
 
 ## Damage
 
-On a hit, the weapon deals `dice:1d4|noform|noparens|avg` (`1d4`) damage of a type the DM thinks is appropriate for the object.
+On a hit, the weapon deals `dice:1d4|noform|noparens|avg` (`d4`) damage of a type the DM thinks is appropriate for the object.
 
 ## Range
 

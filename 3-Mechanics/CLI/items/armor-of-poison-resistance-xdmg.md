@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Armor of Poison Resistance"
 - "Breastplate of Poison Resistance"
@@ -115,4 +116,4 @@ You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to pois
 - **Weight**: 13.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

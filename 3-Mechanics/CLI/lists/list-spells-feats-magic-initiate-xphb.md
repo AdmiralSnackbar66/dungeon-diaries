@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/magic-initiate
-aliases: ["Spells for Magic Initiate"]
+aliases:
+- Spells for Magic Initiate
 ---
 # Spells for Magic Initiate
 
@@ -11,6 +12,7 @@ aliases: ["Spells for Magic Initiate"]
 
 - [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") 
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md "XPHB") 
+- [Booming Blade](/3-Mechanics/CLI/spells/booming-blade-tce.md "TCE") 
 - [Chill Touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md "XPHB") 
 - [Control Flames](/3-Mechanics/CLI/spells/control-flames-xge.md "XGE") 
 - [Create Bonfire](/3-Mechanics/CLI/spells/create-bonfire-xge.md "XGE") 
@@ -20,10 +22,12 @@ aliases: ["Spells for Magic Initiate"]
 - [Fire Bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") 
 - [Friends](/3-Mechanics/CLI/spells/friends-xphb.md "XPHB") 
 - [Frostbite](/3-Mechanics/CLI/spells/frostbite-xge.md "XGE") 
+- [Green-Flame Blade](/3-Mechanics/CLI/spells/green-flame-blade-tce.md "TCE") 
 - [Guidance](/3-Mechanics/CLI/spells/guidance-xphb.md "XPHB") 
 - [Gust](/3-Mechanics/CLI/spells/gust-xge.md "XGE") 
 - [Infestation](/3-Mechanics/CLI/spells/infestation-xge.md "XGE") 
 - [Light](/3-Mechanics/CLI/spells/light-xphb.md "XPHB") 
+- [Lightning Lure](/3-Mechanics/CLI/spells/lightning-lure-tce.md "TCE") 
 - [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") 
 - [Magic Stone](/3-Mechanics/CLI/spells/magic-stone-xge.md "XGE") 
 - [Mending](/3-Mechanics/CLI/spells/mending-xphb.md "XPHB") 
@@ -43,6 +47,7 @@ aliases: ["Spells for Magic Initiate"]
 - [Shocking Grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") 
 - [Spare the Dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md "XPHB") 
 - [Starry Wisp](/3-Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") 
+- [Sword Burst](/3-Mechanics/CLI/spells/sword-burst-tce.md "TCE") 
 - [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") 
 - [Thorn Whip](/3-Mechanics/CLI/spells/thorn-whip-xphb.md "XPHB") 
 - [Thunderclap](/3-Mechanics/CLI/spells/thunderclap-xphb.md "XPHB") 
@@ -104,6 +109,7 @@ aliases: ["Spells for Magic Initiate"]
 - [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") 
 - [Snare](/3-Mechanics/CLI/spells/snare-xge.md "XGE") 
 - [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") 
+- [Tasha's Caustic Brew](/3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md "TCE") 
 - [Tasha's Hideous Laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") 
 - [Tenser's Floating Disk](/3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md "XPHB") 
 - [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") 

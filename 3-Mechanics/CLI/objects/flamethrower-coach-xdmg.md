@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/object/size/large
 - ttrpg-cli/object/type/siege-weapon
-aliases: ["Flamethrower Coach"]
+aliases:
+- Flamethrower Coach
 ---
 # Flamethrower Coach
 %%-- Embedded content starts on the next line. --%%

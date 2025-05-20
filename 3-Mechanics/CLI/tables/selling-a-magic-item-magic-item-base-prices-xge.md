@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Selling a Magic Item; Magic Item Base Prices"]
+aliases:
+- Selling a Magic Item; Magic Item Base Prices
 ---
 # Selling a Magic Item; Magic Item Base Prices
 *Source: Xanathar's Guide to Everything p. 133* 

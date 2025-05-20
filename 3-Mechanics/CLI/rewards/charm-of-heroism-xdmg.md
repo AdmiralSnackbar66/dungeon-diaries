@@ -4,7 +4,8 @@ cssclasses: json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
-aliases: ["Charm of Heroism"]
+aliases:
+- Charm of Heroism
 ---
 # Charm of Heroism
 

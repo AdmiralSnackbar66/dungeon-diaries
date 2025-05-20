@@ -5,6 +5,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/background/prismari-student
 - ttrpg-cli/spell/background/quandrix-student
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
@@ -19,6 +20,7 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-glory
 - ttrpg-cli/spell/subclass/war-domain
 classes:
+- Artificer
 - Bard
 - Cleric
 - Cleric (War Domain)
@@ -29,7 +31,8 @@ classes:
 - Ranger
 - Sorcerer (Clockwork Sorcery)
 - Sorcerer (Divine Soul)
-aliases: ["Freedom of Movement"]
+aliases:
+- Freedom of Movement
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  
@@ -46,6 +49,6 @@ In addition, the target can spend 5 feet of movement to automatically escape fro
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

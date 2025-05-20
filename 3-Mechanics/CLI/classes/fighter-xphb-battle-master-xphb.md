@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/fighter/battle-master
-aliases: ["Battle Master"]
+aliases:
+- Battle Master
 ---
 # Battle Master
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
@@ -56,7 +57,7 @@ Your experience on the battlefield has refined your fighting techniques. You lea
 
 #### Maneuvers
 
-You learn three maneuvers of your choice from the "[Maneuvers Options](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md)" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+You learn three maneuvers of your choice from the "Maneuvers Options^[Optional features from [Maneuver, Battle Master](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
@@ -90,7 +91,7 @@ Your Superiority Die becomes a `dice:d10|noform|noparens|avg` (`d10`).
 
 ### Relentless (Level 15)
 
-Once per turn, when you use a maneuver, you can roll `dice:1d8|noform|noparens|avg` (`1d8`) and use the number rolled instead of expending a Superiority Die.
+Once per turn, when you use a maneuver, you can roll `dice:1d8|noform|noparens|avg` (`d8`) and use the number rolled instead of expending a Superiority Die.
 
 ### Ultimate Combat Superiority (Level 18)
 

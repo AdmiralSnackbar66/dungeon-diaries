@@ -4,14 +4,15 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Poisoned Darts"]
+aliases:
+- Poisoned Darts
 ---
 # Poisoned Darts
 *Generic Hazard*  
 
 When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs, or skillfully hidden amid bas-reliefs, murals, or frescoes.
 
-Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by `dice:1d3|noform|noparens|avg` (`1d3`) darts, taking `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) Poison damage per dart.
+Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by `dice:1d3|noform|noparens|avg` (`d3`) darts, taking `dice:1d6|noform|noparens|avg|text(3)` (`d6`) Poison damage per dart.
 
 ## Detect and Disarm
 

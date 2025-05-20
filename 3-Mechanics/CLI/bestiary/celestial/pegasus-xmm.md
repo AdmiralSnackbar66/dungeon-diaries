@@ -12,10 +12,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Pegasus"]
+statblock-link: "#^statblock"
+aliases:
+- Pegasus
 ---
 # [Pegasus](3-Mechanics\CLI\bestiary\celestial/pegasus-xmm.md)
-*Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Pegasus
 
@@ -53,30 +55,32 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 "ac": !!int "12"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
+"modifier": !!int "2"
 "stats":
-- !!int "18"
-- !!int "15"
-- !!int "16"
-- !!int "10"
-- !!int "15"
-- !!int "13"
+  - !!int "18"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "15"
+  - !!int "13"
 "speed": "60 ft., fly 90 ft."
 "saves":
-  "Charisma": !!int "3"
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "5"
+  - "dexterity": "+4"
+  - "constitution": "+5"
+  - "wisdom": "+4"
+  - "charisma": "+3"
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
-    \ plus 5 (2d4) Radiant damage."
-  "name": "Hooves"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage\
+      \ plus 5 (2d4) Radiant damage."
+    "name": "Hooves"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/celestial/token/pegasus-xmm.webp"
 ```
 ^statblock

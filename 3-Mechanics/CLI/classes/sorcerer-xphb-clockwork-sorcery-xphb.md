@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/sorcerer/clockwork
-aliases: ["Clockwork Sorcery"]
+aliases:
+- Clockwork Sorcery
 ---
 # Clockwork Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  

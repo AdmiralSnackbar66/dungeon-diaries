@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Alkazaar's Appendix"]
+aliases:
+- Alkazaar's Appendix
 ---
 # Alkazaar's Appendix
 *Source: Candlekeep Mysteries, p. 198* 
@@ -142,7 +143,7 @@ The sapphire is inside the golem's chest, hidden behind an 8-inch-diameter stone
 The disk can be removed to reveal the glowing sapphire only when the golem receives a command to use its power from someone whose commands it obeys (see "Getting the Golem's Attention" below). Otherwise, the sapphire remains hidden. The gemstone is 6 inches in diameter and has the following properties:
 
 - It is indestructible until the golem completes its mission.  
-- The sapphire has 3 charges. As an action, the golem can expend 1 charge to cast [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (as a 9th-level spell) from the sapphire using Constitution as its spellcasting ability. The sapphire ceases to glow if all its charges are expended, but it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn and glows again once it has 1 or more charges.  
+- The sapphire has 3 charges. As an action, the golem can expend 1 charge to cast [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (as a 9th-level spell) from the sapphire using Constitution as its spellcasting ability. The sapphire ceases to glow if all its charges are expended, but it regains `dice:1d3|noform|noparens|avg` (`d3`) expended charges daily at dawn and glows again once it has 1 or more charges.  
 - The golem attacks anyone who tries to remove the sapphire, which is worth 25,000 gp.  
 
 #### Getting the Golem's Attention

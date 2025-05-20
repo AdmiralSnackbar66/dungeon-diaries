@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Maze"]
+aliases:
+- Maze
 ---
 # Maze
 *8th-level, Conjuration*  
@@ -29,4 +30,4 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 **Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

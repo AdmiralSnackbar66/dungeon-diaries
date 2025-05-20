@@ -4,10 +4,11 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Acolyte"]
+aliases:
+- Acolyte
 ---
 # Acolyte
-*Source: Player's Handbook (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/backgrounds/img/acolyte.webp#right)
 
 - **Ability Scores.** Intelligence, Wisdom, Charisma  

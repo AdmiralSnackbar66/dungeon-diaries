@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/monk/open-hand
-aliases: ["Warrior of the Open Hand"]
+aliases:
+- Warrior of the Open Hand
 ---
 # Warrior of the Open Hand
 *[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 

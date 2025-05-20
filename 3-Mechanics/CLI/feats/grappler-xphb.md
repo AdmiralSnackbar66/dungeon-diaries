@@ -4,10 +4,11 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Grappler"]
+aliases:
+- Grappler
 ---
 # Grappler
-*Source: Player's Handbook (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 **Prerequisite**: 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
 **Ability Score Increase**: Increase your Strength or Dexterity by 1, to a maximum of 20.
 You gain the following benefits.

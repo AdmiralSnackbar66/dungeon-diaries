@@ -14,7 +14,8 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Sorcerer
-aliases: ["Flame Blade"]
+aliases:
+- Flame Blade
 ---
 # Flame Blade
 *2nd-level, Evocation*  
@@ -31,8 +32,8 @@ As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can make a melee spe
 
 The flaming blade sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 10 feet.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each spell slot level above 2.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

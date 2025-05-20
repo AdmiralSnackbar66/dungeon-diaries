@@ -44,4 +44,4 @@ In addition, the robe has `dice:4d4|noform|noparens|avg` (`4d4`) other patches. 
 | 97-00 | [Portable Ram](/3-Mechanics/CLI/items/portable-ram-xphb.md) |
 ^1-patch
 
-*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

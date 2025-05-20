@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Laboratory"]
+aliases:
+- Laboratory
 ---
 # Laboratory
 *Level 9 Bastion facility*  

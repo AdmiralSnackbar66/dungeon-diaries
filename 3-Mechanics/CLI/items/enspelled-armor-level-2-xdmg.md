@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Enspelled Armor (Level 2)"
 - "Enspelled (Level 2) Breastplate"
@@ -28,7 +29,7 @@ aliases:
 
 
 
-Bound into this armor is a level 2 spell. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell.
+Bound into this armor is a level 2 spell. The spell is determined when the armor is created and must belong to the Abjuration or Illusion school of magic. The armor has 6 charges and regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn. While wearing the armor, you can expend 1 charge to cast its spell.
 
 The spell's saving throw DC is 13, and its attack bonus is `dice:1d20+5|noform|noparens|text(+5)`.
 

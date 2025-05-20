@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Giant Slayer"
 - "Giant Slayer Antimatter Rifle"
@@ -491,4 +492,4 @@ When you hit a Giant with this weapon, the Giant takes an extra `dice:2d6|noform
 - **Weight**: 3.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

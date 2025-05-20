@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/druid
-aliases: ["Druid Spells"]
+aliases:
+- Druid Spells
 ---
 # Druid Spells
 
@@ -51,7 +52,7 @@ aliases: ["Druid Spells"]
 - [Ice Knife](/3-Mechanics/CLI/spells/ice-knife-xphb.md "XPHB")
 - [Jump](/3-Mechanics/CLI/spells/jump-xphb.md "XPHB")
 - [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md "XPHB")
-- [Protection from Evil and Good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB")
+- [Protection from Evil and Good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") (\*)
 - [Purify Food and Drink](/3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md "XPHB")
 - [Snare](/3-Mechanics/CLI/spells/snare-xge.md "XGE")
 - [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")
@@ -61,15 +62,15 @@ aliases: ["Druid Spells"]
 
 - [Aid](/3-Mechanics/CLI/spells/aid-xphb.md "XPHB")
 - [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md "XPHB")
-- [Augury](/3-Mechanics/CLI/spells/augury-xphb.md "XPHB")
+- [Augury](/3-Mechanics/CLI/spells/augury-xphb.md "XPHB") (\*)
 - [Barkskin](/3-Mechanics/CLI/spells/barkskin-xphb.md "XPHB")
 - [Beast Sense](/3-Mechanics/CLI/spells/beast-sense-xphb.md "XPHB")
-- [Continual Flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md "XPHB")
+- [Continual Flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md "XPHB") (\*)
 - [Darkvision](/3-Mechanics/CLI/spells/darkvision-xphb.md "XPHB")
 - [Dust Devil](/3-Mechanics/CLI/spells/dust-devil-xge.md "XGE")
 - [Earthbind](/3-Mechanics/CLI/spells/earthbind-xge.md "XGE")
 - [Enhance Ability](/3-Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB")
-- [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB")
+- [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") (\*)
 - [Find Traps](/3-Mechanics/CLI/spells/find-traps-xphb.md "XPHB")
 - [Flame Blade](/3-Mechanics/CLI/spells/flame-blade-xphb.md "XPHB")
 - [Flaming Sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB")
@@ -85,28 +86,28 @@ aliases: ["Druid Spells"]
 - [Protection from Poison](/3-Mechanics/CLI/spells/protection-from-poison-xphb.md "XPHB")
 - [Skywrite](/3-Mechanics/CLI/spells/skywrite-xge.md "XGE")
 - [Spike Growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md "XPHB")
-- [Summon Beast](/3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB")
+- [Summon Beast](/3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB") (\*)
 - [Warding Wind](/3-Mechanics/CLI/spells/warding-wind-xge.md "XGE")
 - [Wither and Bloom](/3-Mechanics/CLI/spells/wither-and-bloom-scc.md "SCC")
 
 ## 3rd Level
 
-- [Aura of Vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB")
+- [Aura of Vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB") (\*)
 - [Call Lightning](/3-Mechanics/CLI/spells/call-lightning-xphb.md "XPHB")
 - [Conjure Animals](/3-Mechanics/CLI/spells/conjure-animals-xphb.md "XPHB")
 - [Daylight](/3-Mechanics/CLI/spells/daylight-xphb.md "XPHB")
 - [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")
-- [Elemental Weapon](/3-Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB")
+- [Elemental Weapon](/3-Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB") (\*)
 - [Erupting Earth](/3-Mechanics/CLI/spells/erupting-earth-xge.md "XGE")
 - [Feign Death](/3-Mechanics/CLI/spells/feign-death-xphb.md "XPHB")
 - [Flame Arrows](/3-Mechanics/CLI/spells/flame-arrows-xge.md "XGE")
 - [Meld into Stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md "XPHB")
 - [Plant Growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md "XPHB")
 - [Protection from Energy](/3-Mechanics/CLI/spells/protection-from-energy-xphb.md "XPHB")
-- [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md "XPHB")
+- [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md "XPHB") (\*)
 - [Sleet Storm](/3-Mechanics/CLI/spells/sleet-storm-xphb.md "XPHB")
 - [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md "XPHB")
-- [Summon Fey](/3-Mechanics/CLI/spells/summon-fey-xphb.md "XPHB")
+- [Summon Fey](/3-Mechanics/CLI/spells/summon-fey-xphb.md "XPHB") (\*)
 - [Tidal Wave](/3-Mechanics/CLI/spells/tidal-wave-xge.md "XGE")
 - [Wall of Water](/3-Mechanics/CLI/spells/wall-of-water-xge.md "XGE")
 - [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB")
@@ -121,10 +122,10 @@ aliases: ["Druid Spells"]
 - [Conjure Minor Elementals](/3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md "XPHB")
 - [Conjure Woodland Beings](/3-Mechanics/CLI/spells/conjure-woodland-beings-xphb.md "XPHB")
 - [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md "XPHB")
-- [Divination](/3-Mechanics/CLI/spells/divination-xphb.md "XPHB")
+- [Divination](/3-Mechanics/CLI/spells/divination-xphb.md "XPHB") (\*)
 - [Dominate Beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md "XPHB")
 - [Elemental Bane](/3-Mechanics/CLI/spells/elemental-bane-xge.md "XGE")
-- [Fire Shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md "XPHB")
+- [Fire Shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") (\*)
 - [Fount of Moonlight](/3-Mechanics/CLI/spells/fount-of-moonlight-xphb.md "XPHB")
 - [Freedom of Movement](/3-Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB")
 - [Giant Insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md "XPHB")
@@ -136,7 +137,7 @@ aliases: ["Druid Spells"]
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
 - [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md "XPHB")
 - [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")
-- [Summon Elemental](/3-Mechanics/CLI/spells/summon-elemental-xphb.md "XPHB")
+- [Summon Elemental](/3-Mechanics/CLI/spells/summon-elemental-xphb.md "XPHB") (\*)
 - [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB")
 - [Watery Sphere](/3-Mechanics/CLI/spells/watery-sphere-xge.md "XGE")
 
@@ -145,7 +146,7 @@ aliases: ["Druid Spells"]
 - [Antilife Shell](/3-Mechanics/CLI/spells/antilife-shell-xphb.md "XPHB")
 - [Awaken](/3-Mechanics/CLI/spells/awaken-xphb.md "XPHB")
 - [Commune with Nature](/3-Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB")
-- [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB")
+- [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB") (\*)
 - [Conjure Elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB")
 - [Contagion](/3-Mechanics/CLI/spells/contagion-xphb.md "XPHB")
 - [Control Winds](/3-Mechanics/CLI/spells/control-winds-xge.md "XGE")
@@ -169,7 +170,7 @@ aliases: ["Druid Spells"]
 - [Conjure Fey](/3-Mechanics/CLI/spells/conjure-fey-xphb.md "XPHB")
 - [Druid Grove](/3-Mechanics/CLI/spells/druid-grove-xge.md "XGE")
 - [Find the Path](/3-Mechanics/CLI/spells/find-the-path-xphb.md "XPHB")
-- [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md "XPHB")
+- [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md "XPHB") (\*)
 - [Heal](/3-Mechanics/CLI/spells/heal-xphb.md "XPHB")
 - [Heroes' Feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md "XPHB")
 - [Investiture of Flame](/3-Mechanics/CLI/spells/investiture-of-flame-xge.md "XGE")
@@ -190,7 +191,7 @@ aliases: ["Druid Spells"]
 - [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md "XPHB")
 - [Regenerate](/3-Mechanics/CLI/spells/regenerate-xphb.md "XPHB")
 - [Reverse Gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md "XPHB")
-- [Symbol](/3-Mechanics/CLI/spells/symbol-xphb.md "XPHB")
+- [Symbol](/3-Mechanics/CLI/spells/symbol-xphb.md "XPHB") (\*)
 - [Whirlwind](/3-Mechanics/CLI/spells/whirlwind-xge.md "XGE")
 
 ## 8th Level
@@ -200,7 +201,7 @@ aliases: ["Druid Spells"]
 - [Befuddlement](/3-Mechanics/CLI/spells/befuddlement-xphb.md "XPHB")
 - [Control Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md "XPHB")
 - [Earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md "XPHB")
-- [Incendiary Cloud](/3-Mechanics/CLI/spells/incendiary-cloud-xphb.md "XPHB")
+- [Incendiary Cloud](/3-Mechanics/CLI/spells/incendiary-cloud-xphb.md "XPHB") (\*)
 - [Sunburst](/3-Mechanics/CLI/spells/sunburst-xphb.md "XPHB")
 - [Tsunami](/3-Mechanics/CLI/spells/tsunami-xphb.md "XPHB")
 

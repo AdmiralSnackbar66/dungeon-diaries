@@ -15,9 +15,11 @@ tags:
 - ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/order-domain
 classes:
 - Bard
 - Cleric
+- Cleric (Order Domain)
 - Druid
 - Fighter (Eldritch Knight)
 - Paladin
@@ -26,7 +28,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Diviner)
-aliases: ["Locate Creature"]
+aliases:
+- Locate Creature
 ---
 # Locate Creature
 *4th-level, Divination*  
@@ -43,6 +46,6 @@ The spell can locate a specific creature known to you or the nearest creature of
 
 This spell can't locate a creature if any thickness of lead blocks a direct path between you and the creature.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Cleric (Order Domain)](/3-Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

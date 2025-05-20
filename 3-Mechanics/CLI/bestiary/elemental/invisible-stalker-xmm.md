@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Invisible Stalker"]
+statblock-link: "#^statblock"
+aliases:
+- Invisible Stalker
 ---
 # [Invisible Stalker](3-Mechanics\CLI\bestiary\elemental/invisible-stalker-xmm.md)
-*Source: Monster Manual (2024) p. 180. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 180. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Invisible Stalker
 
@@ -51,17 +53,20 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 "ac": !!int "14"
 "hp": !!int "97"
 "hit_dice": "13d10 + 26"
+"modifier": !!int "7"
 "stats":
-- !!int "16"
-- !!int "19"
-- !!int "14"
-- !!int "10"
-- !!int "15"
-- !!int "11"
+  - !!int "16"
+  - !!int "19"
+  - !!int "14"
+  - !!int "10"
+  - !!int "15"
+  - !!int "11"
 "speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  "Stealth": !!int "10"
-  "Perception": !!int "8"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+8"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "poison"
 "condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -73,26 +78,27 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 "languages": "Common, Primordial (Auran)"
 "cr": "6"
 "traits":
-- "desc": "The stalker can enter an enemy's space and stop there. It can move through\
-    \ a space as narrow as 1 inch without expending extra movement to do so."
-  "name": "Air Form"
-- "desc": "The stalker has the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-    \ condition."
-  "name": "Invisibility"
+  - "desc": "The stalker can enter an enemy's space and stop there. It can move through\
+      \ a space as narrow as 1 inch without expending extra movement to do so."
+    "name": "Air Form"
+  - "desc": "The stalker has the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+      \ condition."
+    "name": "Invisibility"
 "actions":
-- "desc": "The stalker makes three Wind Swipe attacks. It can replace one attack with\
-    \ a use of Vortex."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Force damage."
-  "name": "Wind Swipe"
-- "desc": "Constitution Saving Throw: DC 14, one Large or smaller creature in the\
-    \ stalker's space. Failure: 7 (1d8 + 3) Thunder damage, and the target has the\
-    \ [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape DC 13).\
-    \ Until the grapple ends, the target can't cast spells with a Verbal component\
-    \ and takes 7 (2d6) Thunder damage at the start of each of the stalker's turns."
-  "name": "Vortex"
+  - "desc": "The stalker makes three Wind Swipe attacks. It can replace one attack\
+      \ with a use of Vortex."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Force damage."
+    "name": "Wind Swipe"
+  - "desc": "Constitution Saving Throw: DC 14, one Large or smaller creature in\
+      \ the stalker's space. Failure: 7 (1d8 + 3) Thunder damage, and the target\
+      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 13). Until the grapple ends, the target can't cast spells with a Verbal\
+      \ component and takes 7 (2d6) Thunder damage at the start of each of the stalker's\
+      \ turns."
+    "name": "Vortex"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/invisible-stalker-xmm.webp"
 ```
 ^statblock

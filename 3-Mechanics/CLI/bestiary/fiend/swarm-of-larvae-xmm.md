@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Swarm of Larvae"]
+statblock-link: "#^statblock"
+aliases:
+- Swarm of Larvae
 ---
 # [Swarm of Larvae](3-Mechanics\CLI\bestiary\fiend/swarm-of-larvae-xmm.md)
 *Source: Monster Manual (2024) p. 193*  
@@ -35,13 +37,14 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "ac": !!int "13"
 "hp": !!int "22"
 "hit_dice": "3d10 + 6"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "11"
-- !!int "14"
-- !!int "6"
-- !!int "12"
-- !!int "2"
+  - !!int "14"
+  - !!int "11"
+  - !!int "14"
+  - !!int "6"
+  - !!int "12"
+  - !!int "2"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -52,17 +55,17 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "languages": "understands all but can't speak"
 "cr": "1"
 "traits":
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through an opening large enough for a Medium creature. The swarm can't\
-    \ regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain\
-    \ [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through an opening large enough for a Medium creature. The\
+      \ swarm can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Necrotic damage,\
-    \ or 7 (2d4 + 2) Necrotic damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
-  "name": "Bites"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Necrotic damage,\
+      \ or 7 (2d4 + 2) Necrotic damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+    "name": "Bites"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-larvae-xmm.webp"
 ```
 ^statblock

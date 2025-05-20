@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/great-old-one
-aliases: ["Great Old One Patron"]
+aliases:
+- Great Old One Patron
 ---
 # Great Old One Patron
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  

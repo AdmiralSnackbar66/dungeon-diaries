@@ -18,7 +18,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
-aliases: ["Astral Projection"]
+aliases:
+- Astral Projection
 ---
 # Astral Projection
 *9th-level, Necromancy*  
@@ -39,6 +40,6 @@ Any damage or other effects that apply to an astral form have no effect on the t
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Monk](/3-Mechanics/CLI/lists/list-spells-classes-monk.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Monk](/3-Mechanics/CLI/lists/list-spells-classes-monk.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

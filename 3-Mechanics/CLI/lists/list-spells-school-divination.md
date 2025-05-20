@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/divination
-aliases: ["Divination Spells"]
+aliases:
+- Divination Spells
 ---
 # Divination Spells
 

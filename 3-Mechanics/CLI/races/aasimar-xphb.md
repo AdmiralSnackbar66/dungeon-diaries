@@ -4,7 +4,8 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/aasimar
-aliases: ["Aasimar"]
+aliases:
+- Aasimar
 ---
 # Aasimar
 *Source: Player's Handbook (2024) p. 186*  

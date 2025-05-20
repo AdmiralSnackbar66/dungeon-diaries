@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["The Price of Beauty"]
+aliases:
+- The Price of Beauty
 ---
 # The Price of Beauty
 *Source: Candlekeep Mysteries, p. 75* 
@@ -333,7 +334,7 @@ Any character who wants to can join in one of the [hag's](/3-Mechanics/CLI/besti
 
 ##### Tug-of-War
 
-To complete this activity, a character must stay on their feet in a tug-of-war against the awakened tree. Have the character make DC 16 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) checks until a check either fails by 5 or more or succeeds. In the former case, the character falls [prone](/3-Mechanics/CLI/conditions.md#Prone) and takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage from being pulled to the ground by the tree. In the latter case, the character wins the tug-of-war. In either case, the contest ends.
+To complete this activity, a character must stay on their feet in a tug-of-war against the awakened tree. Have the character make DC 16 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) checks until a check either fails by 5 or more or succeeds. In the former case, the character falls [prone](/3-Mechanics/CLI/conditions.md#Prone) and takes `dice:1d6|noform|noparens|avg|text(3)` (`d6`) bludgeoning damage from being pulled to the ground by the tree. In the latter case, the character wins the tug-of-war. In either case, the contest ends.
 
 - **Chain Skipping.** To complete this activity, a character must succeed on three DC 13 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) checks, representing their attempt to stay on their feet while they try to jump over a heavy metal chain being spun by Vile Sazha and the awakened tree. If a check fails, the character is knocked off balance, and the DC for the next check becomes 15. If a check fails by 5 or more, the character is also struck by the chain and takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.  
 

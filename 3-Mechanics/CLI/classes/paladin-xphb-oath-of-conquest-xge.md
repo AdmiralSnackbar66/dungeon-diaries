@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/paladin/conquest
-aliases: ["Oath of Conquest"]
+aliases:
+- Oath of Conquest
 ---
 # Oath of Conquest
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  

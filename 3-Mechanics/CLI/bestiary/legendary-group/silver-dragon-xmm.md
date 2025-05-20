@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
 - ttrpg-cli/monster/legendary-group
-aliases: ["Silver Dragon"]
+aliases:
+- Silver Dragon
 ---
 # Silver Dragon
 

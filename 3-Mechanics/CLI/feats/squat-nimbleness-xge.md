@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/feat
-aliases: ["Squat Nimbleness"]
+aliases:
+- Squat Nimbleness
 ---
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  

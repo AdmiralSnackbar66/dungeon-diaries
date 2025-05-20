@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Enspelled Weapon (Level 4)"
 - "Enspelled (Level 4) Antimatter Rifle"
@@ -73,7 +74,7 @@ aliases:
 
 
 
-Bound into this weapon is a level 4 spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.
+Bound into this weapon is a level 4 spell. The spell is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.
 
 The spell's saving throw DC is 15, and its attack bonus is `dice:1d20+7|noform|noparens|text(+7)`.
 

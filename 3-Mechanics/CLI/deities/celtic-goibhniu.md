@@ -7,7 +7,8 @@ tags:
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/life
-aliases: ["Goibhniu"]
+aliases: 
+- Goibhniu
 ---
 # Goibhniu
 *Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/background/quandrix-student
-aliases: ["Spells for Quandrix Student"]
+aliases:
+- Spells for Quandrix Student
 ---
 # Spells for Quandrix Student
 

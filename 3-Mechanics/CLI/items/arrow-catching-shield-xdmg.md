@@ -20,4 +20,4 @@ You gain a +2 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-
 
 Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to become the target of the attack instead.
 
-*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,7 +9,8 @@ tags:
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Paladin
-aliases: ["Compelled Duel"]
+aliases:
+- Compelled Duel
 ---
 # Compelled Duel
 *1st-level, Enchantment*  

@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Wasp"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Wasp
 ---
 # [Giant Wasp](3-Mechanics\CLI\bestiary\beast/giant-wasp-xmm.md)
-*Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,27 +29,28 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "22"
 "hit_dice": "5d8"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "10"
-- !!int "1"
-- !!int "10"
-- !!int "3"
+  - !!int "10"
+  - !!int "14"
+  - !!int "10"
+  - !!int "1"
+  - !!int "10"
+  - !!int "3"
 "speed": "10 ft., fly 50 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
-- "desc": "The wasp doesn't provoke an Opportunity Attack when it flies out of an\
-    \ enemy's reach."
-  "name": "Flyby"
+  - "desc": "The wasp doesn't provoke an Opportunity Attack when it flies out of an\
+      \ enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
-    \ plus 5 (2d4) Poison damage."
-  "name": "Sting"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
+      \ plus 5 (2d4) Poison damage."
+    "name": "Sting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-wasp-xmm.webp"
 ```
 ^statblock

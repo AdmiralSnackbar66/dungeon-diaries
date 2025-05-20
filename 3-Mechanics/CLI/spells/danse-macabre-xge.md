@@ -12,7 +12,8 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["Danse Macabre"]
+aliases:
+- Danse Macabre
 ---
 # Danse Macabre
 *5th-level, Necromancy*  

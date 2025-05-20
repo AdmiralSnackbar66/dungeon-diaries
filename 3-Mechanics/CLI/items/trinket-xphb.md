@@ -126,4 +126,4 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 ![](/3-Mechanics/CLI/items/img/trinkets-2.webp#center)
 
 
-*Source: Player's Handbook (2024) p. 47*
+*Source: Player's Handbook (2024) p. 47. Available in the Free Rules (2024)*

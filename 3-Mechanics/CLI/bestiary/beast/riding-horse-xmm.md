@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Riding Horse"]
+statblock-link: "#^statblock"
+aliases:
+- Riding Horse
 ---
 # [Riding Horse](3-Mechanics\CLI\bestiary\beast/riding-horse-xmm.md)
-*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,23 +28,24 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "11"
 "hp": !!int "13"
 "hit_dice": "2d10 + 2"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "13"
-- !!int "12"
-- !!int "2"
-- !!int "11"
-- !!int "7"
+  - !!int "16"
+  - !!int "13"
+  - !!int "12"
+  - !!int "2"
+  - !!int "11"
+  - !!int "7"
 "speed": "60 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage."
-  "name": "Hooves"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage."
+    "name": "Hooves"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/riding-horse-xmm.webp"
 ```
 ^statblock

@@ -4,7 +4,8 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Quandrix Student"]
+aliases:
+- Quandrix Student
 ---
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  

@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Otto's Irresistible Dance"]
+aliases:
+- Otto's Irresistible Dance
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  
@@ -27,4 +28,4 @@ On a failed save, the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Ch
 
 **Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Irresistible Dance")*
+*Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Irresistible Dance") and the Free Rules (2024)*

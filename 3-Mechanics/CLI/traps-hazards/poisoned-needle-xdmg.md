@@ -4,12 +4,13 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/trp
-aliases: ["Poisoned Needle"]
+aliases:
+- Poisoned Needle
 ---
 # Poisoned Needle
 *Generic Hazard*  
 
-A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) Poison damage and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour. On a successful save, the creature takes half as much damage only.
+A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes `dice:1d10|noform|noparens|avg|text(5)` (`d10`) Poison damage and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour. On a successful save, the creature takes half as much damage only.
 
 ## Avoid
 

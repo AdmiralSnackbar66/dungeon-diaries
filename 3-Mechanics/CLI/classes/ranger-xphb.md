@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/ranger
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Ranger"]
+aliases:
+- Ranger
 ---
 # Ranger
-*Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -105,9 +106,9 @@ The number of times you can cast the spell without a spell slot increases when y
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the <span title="Player's Handbook (2024)">mastery properties</span> of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](/3-Mechanics/CLI/items/longbow-xphb.md) and [Shortswords](/3-Mechanics/CLI/items/shortsword-xphb.md).
+Your training with weapons allows you to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](/3-Mechanics/CLI/items/longbow-xphb.md) and [Shortswords](/3-Mechanics/CLI/items/shortsword-xphb.md).
 
-Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the <span title="Player's Handbook (2024)">mastery properties</span> of [Scimitars](/3-Mechanics/CLI/items/scimitar-xphb.md) and [Longswords](/3-Mechanics/CLI/items/longsword-xphb.md).
+Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](/3-Mechanics/CLI/items/scimitar-xphb.md) and [Longswords](/3-Mechanics/CLI/items/longsword-xphb.md).
 
 ### Deft Explorer (Level 2)
 
@@ -159,7 +160,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 #### Temporary Hit Points
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can give yourself a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to `dice:1d8|noform|noparens|avg` (`1d8`) plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can give yourself a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to `dice:1d8|noform|noparens|avg` (`d8`) plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 #### Decrease Exhaustion
 

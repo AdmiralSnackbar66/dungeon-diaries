@@ -10,7 +10,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Aarakocra Skirmisher"]
+statblock-link: "#^statblock"
+aliases:
+- Aarakocra Skirmisher
 ---
 # [Aarakocra Skirmisher](3-Mechanics\CLI\bestiary\elemental/aarakocra-skirmisher-xmm.md)
 *Source: Monster Manual (2024) p. 10*  
@@ -34,31 +36,33 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
 "ac": !!int "12"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "12"
-- !!int "11"
-- !!int "12"
-- !!int "11"
+  - !!int "10"
+  - !!int "14"
+  - !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Aarakocra, Primordial (Auran)"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage,\
-    \ or 9 (3d4 + 2) Slashing damage if the aarakocra moved 30+ feet straight toward\
-    \ the target immediately before the hit."
-  "name": "Talons"
-- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 5 (1d6 + 2) Piercing damage plus 2 (1d4) Thunder damage. Hit or Miss: The\
-    \ javelin magically returns to the aarakocra's hand immediately after a ranged\
-    \ attack."
-  "name": "Wind Javelin"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage,\
+      \ or 9 (3d4 + 2) Slashing damage if the aarakocra moved 30+ feet straight toward\
+      \ the target immediately before the hit."
+    "name": "Talons"
+  - "desc": "Melee  or Ranged Attack Roll: +4, reach 5 ft. or range 30/120 ft. Hit:\
+      \ 5 (1d6 + 2) Piercing damage plus 2 (d4) Thunder damage. Hit or Miss: The\
+      \ javelin magically returns to the aarakocra's hand immediately after a ranged\
+      \ attack."
+    "name": "Wind Javelin"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp"
 ```
 ^statblock

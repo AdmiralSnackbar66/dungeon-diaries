@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Prismatic Spray"]
+aliases:
+- Prismatic Spray
 ---
 # Prismatic Spray
 *7th-level, Evocation*  
@@ -25,7 +26,7 @@ aliases: ["Prismatic Spray"]
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll `dice:1d8|noform|noparens|avg` (`1d8`) to determine which color ray affects it, consulting the Prismatic Rays table.
+Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll `dice:1d8|noform|noparens|avg` (`d8`) to determine which color ray affects it, consulting the Prismatic Rays table.
 
 **Prismatic Rays**
 
@@ -43,6 +44,6 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 | 8 | **Special.** The target is struck by two rays. Roll twice, rerolling any 8. |
 ^prismatic-rays
 
-**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -23,4 +23,4 @@ When the box becomes a vessel, its weight becomes that of a normal vessel its si
 
 Statistics for the [Rowboat](/3-Mechanics/CLI/items/rowboat-xphb.md) and [Keelboat](/3-Mechanics/CLI/items/keelboat-xphb.md) appear in the "Player's Handbook". If either vessel is reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), the Folding Boat is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/barbarian/wild-heart
-aliases: ["Path of the Wild Heart"]
+aliases:
+- Path of the Wild Heart
 ---
 # Path of the Wild Heart
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  

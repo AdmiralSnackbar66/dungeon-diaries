@@ -18,7 +18,8 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Fighter (Arcane Archer)
-aliases: ["Druidcraft"]
+aliases:
+- Druidcraft
 ---
 # Druidcraft
 *cantrip, Transmutation*  
@@ -49,6 +50,6 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Fighter (Arcane Archer)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

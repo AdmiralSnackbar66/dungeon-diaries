@@ -4,7 +4,8 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Prismari Student"]
+aliases:
+- Prismari Student
 ---
 # Prismari Student
 *Source: Strixhaven: A Curriculum of Chaos p. 32*  

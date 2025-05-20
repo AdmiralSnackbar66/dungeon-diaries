@@ -17,4 +17,4 @@ aliases:
 
 A Diplomat's Pack contains the following items: [Chest](/3-Mechanics/CLI/items/chest-xphb.md), [Fine Clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), [Ink](/3-Mechanics/CLI/items/ink-xphb.md), 5 [Ink Pens](/3-Mechanics/CLI/items/ink-pen-xphb.md), [Lamp](/3-Mechanics/CLI/items/lamp-xphb.md), 2 [Map or Scroll Cases](/3-Mechanics/CLI/items/map-or-scroll-case-xphb.md), 4 flasks of [Oil](/3-Mechanics/CLI/items/oil-xphb.md), 5 sheets of [Paper](/3-Mechanics/CLI/items/paper-xphb.md), 5 sheets of [Parchment](/3-Mechanics/CLI/items/parchment-xphb.md), [Perfume](/3-Mechanics/CLI/items/perfume-xphb.md), and [Tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md).
 
-*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

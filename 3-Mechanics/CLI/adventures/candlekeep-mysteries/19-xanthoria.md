@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Xanthoria"]
+aliases:
+- Xanthoria
 ---
 # Xanthoria
 *Source: Candlekeep Mysteries, p. 213* 
@@ -36,7 +37,7 @@ Xanthoria was a powerful druid who transformed herself into a [lichen lich](/3-M
 
 Xanthoria's research into lichdom and her creation of a living phylactery led to the emergence of the plague spreading across the Sword Coast. Any beast or humanoid that comes within 10 feet of a creature infected by the saprophytic plague must succeed on a DC 20 Constitution saving throw or become infected as well. On a successful save, a creature is immune to the plague for 24 hours, and any creature that is immune to disease succeeds on the save automatically.
 
-After a failed save, a creature experiences the first symptoms—body aches, nausea, slurred speech, and uncontrollable drooling—`dice:1d4|noform|noparens|avg` (`1d4`) hours later and gains 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion). Every 24 hours thereafter, the creature automatically gains another level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion). Any creature killed by the saprophytic plague transforms into a lifeless magenta ooze.
+After a failed save, a creature experiences the first symptoms—body aches, nausea, slurred speech, and uncontrollable drooling—`dice:1d4|noform|noparens|avg` (`d4`) hours later and gains 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion). Every 24 hours thereafter, the creature automatically gains another level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion). Any creature killed by the saprophytic plague transforms into a lifeless magenta ooze.
 
 A creature infected by the saprophytic plague for at least 24 hours behaves like a zombie and seems barely aware of its surroundings, as fungal growths sprout from its head, body, and limbs. It feels an overriding urge to be around groups of uninfected creatures so that it can spread the contagion. This is the time when infected humanoids begin speaking the word "Xanthoria" over and over, with no understanding of what the word means. This behavior is the result of a mycelial network of spores that forms a tenuous connection between Xanthoria and humanoids that become infected by the plague.
 
@@ -416,7 +417,7 @@ Armed with the information about Xanthoria's phylactery, the characters must con
 
 Convincing Thunderwing to give up her life should be handled through roleplaying rather than ability checks, although you can require the characters to succeed on a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) group check if the scene proves difficult to roleplay. If Thunderwing is convinced to sacrifice herself, she lets out a deep sigh before flying about and kissing each character on the forehead—even the ones she doesn't like. Finally, she approaches the character with whom she has made the strongest connection, lies down in their open hands, and shivers slightly before expiring. Thunderwing can't be brought back to life by any means.
 
-If the adventurers fail to convince Thunderwing to give up her life, she turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and leaves the cave complex, taking refuge in the surrounding forest. Xanthoria re-forms `dice:1d10|noform|noparens|avg` (`1d10`) days later, appearing next to Thunderwing. The rejuvenated lichen lich then relocates to another lair to resume her research as the plague continues to ravage Faerûn.
+If the adventurers fail to convince Thunderwing to give up her life, she turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and leaves the cave complex, taking refuge in the surrounding forest. Xanthoria re-forms `dice:1d10|noform|noparens|avg` (`d10`) days later, appearing next to Thunderwing. The rejuvenated lichen lich then relocates to another lair to resume her research as the plague continues to ravage Faerûn.
 
 If the characters return to Candlekeep, they find Zelyth eager to hear the tale of their harrowing experience. If the characters inform Zelyth that Xanthoria has been destroyed, Zelyth thanks them for putting an end to Xanthoria's madness and granting her the final rest that she deserves.
 

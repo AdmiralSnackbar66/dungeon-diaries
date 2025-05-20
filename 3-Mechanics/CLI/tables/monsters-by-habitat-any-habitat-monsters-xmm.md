@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["Monsters by Habitat; Any Habitat Monsters"]
+aliases:
+- Monsters by Habitat; Any Habitat Monsters
 ---
 # Monsters by Habitat; Any Habitat Monsters
 *Source: Monster Manual (2024) p. 375* 
@@ -16,7 +17,7 @@ aliases: ["Monsters by Habitat; Any Habitat Monsters"]
 | 1/8 | [Bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md), [Cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md), [Guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), [Noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md), [Warrior Infantry](/3-Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) |
 | 1/4 | [Priest Acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
 | 1/2 | [Performer](/3-Mechanics/CLI/bestiary/humanoid/performer-xmm.md), [Scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), [Tough](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
-| 1 | [Empyrean Iota](/3-Mechanics/CLI/bestiary//empyrean-iota-xmm.md), [Imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md), [Pirate](/3-Mechanics/CLI/bestiary/humanoid/pirate-xmm.md), [Spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) |
+| 1 | [Empyrean Iota](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md), [Imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md), [Pirate](/3-Mechanics/CLI/bestiary/humanoid/pirate-xmm.md), [Spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) |
 | 2 | [Bandit Captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md), [Berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md), [Cultist Fanatic](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md), [Druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md), [Mage Apprentice](/3-Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm.md), [Priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) |
 | 3 | [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md), [Scout Captain](/3-Mechanics/CLI/bestiary/humanoid/scout-captain-xmm.md), [Swarm of Crawling Claws](/3-Mechanics/CLI/bestiary/undead/swarm-of-crawling-claws-xmm.md), [Warrior Veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
 | 4 | [Banshee](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md), [Guard Captain](/3-Mechanics/CLI/bestiary/humanoid/guard-captain-xmm.md), [Helmed Horror](/3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md), [Tough Boss](/3-Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md) |
@@ -31,6 +32,6 @@ aliases: ["Monsters by Habitat; Any Habitat Monsters"]
 | 17 | [Death Knight](/3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md), [Dracolich](/3-Mechanics/CLI/bestiary/undead/dracolich-xmm.md) |
 | 18 | [Demilich](/3-Mechanics/CLI/bestiary/undead/demilich-xmm.md) |
 | 21 | [Arch-hag](/3-Mechanics/CLI/bestiary/fey/arch-hag-xmm.md), [Lich](/3-Mechanics/CLI/bestiary/undead/lich-xmm.md) |
-| 23 | [Blob of Annihilation](/3-Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md), [Empyrean](/3-Mechanics/CLI/bestiary//empyrean-xmm.md) |
+| 23 | [Blob of Annihilation](/3-Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md), [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) |
 | 25 | [Colossus](/3-Mechanics/CLI/bestiary/construct/colossus-xmm.md) |
 ^any-habitat-monsters

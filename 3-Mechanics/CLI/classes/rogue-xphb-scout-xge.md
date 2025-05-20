@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/rogue/scout
-aliases: ["Scout"]
+aliases:
+- Scout
 ---
 # Scout
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  

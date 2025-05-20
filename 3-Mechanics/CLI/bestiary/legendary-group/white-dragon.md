@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
-aliases: ["White Dragon"]
+aliases:
+- White Dragon
 ---
 # White Dragon
 
@@ -34,7 +35,7 @@ The region containing a legendary white dragon's lair is warped by the dragon's 
 - Icy walls block off areas in the dragon's lair. Each wall is 6 inches thick, and a 10-foot section has AC 5, 15 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.  
 - If the dragon wishes to move through a wall, it can do so without slowing down. The portion of the wall the dragon moves through is destroyed, however.  
 
-If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the dragon dies, the fog and precipitation fade within 1 day. The ice walls melt over the course of `dice:1d10|noform|noparens|avg` (`d10`) days.
 
 ### Additional Regional Effects
 

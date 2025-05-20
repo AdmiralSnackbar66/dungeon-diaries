@@ -17,4 +17,4 @@ aliases:
 
 As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. It takes 10 minutes to recover the Ball Bearings.
 
-*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

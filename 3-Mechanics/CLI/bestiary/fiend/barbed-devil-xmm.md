@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Barbed Devil"]
+statblock-link: "#^statblock"
+aliases:
+- Barbed Devil
 ---
 # [Barbed Devil](3-Mechanics\CLI\bestiary\fiend/barbed-devil-xmm.md)
-*Source: Monster Manual (2024) p. 30. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 30. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Barbed Devil
 
@@ -36,23 +38,27 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
 "ac": !!int "15"
 "hp": !!int "110"
 "hit_dice": "13d8 + 52"
+"modifier": !!int "3"
 "stats":
-- !!int "16"
-- !!int "17"
-- !!int "18"
-- !!int "12"
-- !!int "14"
-- !!int "14"
+  - !!int "16"
+  - !!int "17"
+  - !!int "18"
+  - !!int "12"
+  - !!int "14"
+  - !!int "14"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Charisma": !!int "5"
-  "Wisdom": !!int "5"
-  "Strength": !!int "6"
-  "Constitution": !!int "7"
+  - "strength": "+6"
+  - "constitution": "+7"
+  - "wisdom": "+5"
+  - "charisma": "+5"
 "skillsaves":
-  "Deception": !!int "5"
-  "Insight": !!int "5"
-  "Perception": !!int "8"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+8"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -61,32 +67,32 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
 "languages": "Infernal; telepathy 120 ft."
 "cr": "5"
 "traits":
-- "desc": "At the start of each of its turns, the devil deals 5 (1d10) Piercing damage\
-    \ to any creature it is grappling or any creature grappling it."
-  "name": "Barbed Hide"
-- "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Nine Hells."
-  "name": "Diabolical Restoration"
-- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "At the start of each of its turns, the devil deals 5 (d10) Piercing damage\
+      \ to any creature it is grappling or any creature grappling it."
+    "name": "Barbed Hide"
+  - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Nine Hells."
+    "name": "Diabolical Restoration"
+  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes one Claws attack and one Tail attack, or it makes two Hurl\
-    \ Flame attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
-    \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 13) from both claws."
-  "name": "Claws"
-- "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 14 (2d10 + 3) Slashing damage."
-  "name": "Tail"
-- "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 17 (5d6) Fire damage. If\
-    \ the target is a flammable object that isn't being worn or carried, it starts\
-    \ [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
-  "name": "Hurl Flame"
+  - "desc": "The devil makes one Claws attack and one Tail attack, or it makes two\
+      \ Hurl Flame attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
+      \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 13) from both claws."
+    "name": "Claws"
+  - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 14 (2d10 + 3) Slashing damage."
+    "name": "Tail"
+  - "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 17 (5d6) Fire damage.\
+      \ If the target is a flammable object that isn't being worn or carried, it starts\
+      \ [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
+    "name": "Hurl Flame"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/barbed-devil-xmm.webp"
 ```
 ^statblock

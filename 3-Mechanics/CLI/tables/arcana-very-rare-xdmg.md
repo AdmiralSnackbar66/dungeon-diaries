@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Arcana - Very Rare"]
+aliases:
+- Arcana - Very Rare
 ---
 # Arcana - Very Rare
 *Source: Dungeon Master's Guide (2024) p. 326* 

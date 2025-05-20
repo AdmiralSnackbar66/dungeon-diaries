@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc-arir
-aliases: ["A Reckoning in Ruins"]
+aliases:
+- A Reckoning in Ruins
 ---
 # A Reckoning in Ruins
 *Source: Strixhaven: A Reckoning in Ruins, p. 157* 
@@ -556,7 +557,7 @@ Harmless samples of flesh are stored here in jars. However, [Murgaxor](/3-Mechan
 
 ###### Box of Helping Hands
 
-This unmarked, 2-foot-by-3-foot metal box has a simple latch keeping it closed. The box contains a dozen [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md). If the lid is opened, the crawling claws quickly skitter out. A character who immediately tries to close the lid can make a DC 15 Dexterity check; if the check succeeds, `dice:1d6|noform|noparens|avg` (`1d6`) crawling claws escape before the lid shuts; the others are trapped in the box, unable to escape until it is opened again.
+This unmarked, 2-foot-by-3-foot metal box has a simple latch keeping it closed. The box contains a dozen [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md). If the lid is opened, the crawling claws quickly skitter out. A character who immediately tries to close the lid can make a DC 15 Dexterity check; if the check succeeds, `dice:1d6|noform|noparens|avg` (`d6`) crawling claws escape before the lid shuts; the others are trapped in the box, unable to escape until it is opened again.
 
 On their first turn in combat, crawling claws that escaped from the box scurry about the cave, knocking over jars of chemical supplies and creating a chemical mixture that fills the cave with noxious gas for 1 minute. When a creature enters the gas-filled cave for the first time on a turn or starts its turn there, that creature must make a DC 13 Constitution saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) poison damage on a failed save, or half as much damage on a successful one. Creatures that don't need to breathe are immune to the gas, as are the crawling claws. A [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) spell or similar magic disperses the gas.
 
@@ -718,7 +719,7 @@ Two hundred years of preparation have led [Murgaxor](/3-Mechanics/CLI/bestiary/n
 
 #### Regional Effects
 
-[Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s ritual wreaks havoc on the equilibrium of life and death, creating the following regional effects in the Ruins of Caerdoon and the fortress, which is detailed in a later section. These effects end `dice:1d6|noform|noparens|avg` (`1d6`) days after the ritual ends or is interrupted:
+[Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s ritual wreaks havoc on the equilibrium of life and death, creating the following regional effects in the Ruins of Caerdoon and the fortress, which is detailed in a later section. These effects end `dice:1d6|noform|noparens|avg` (`d6`) days after the ritual ends or is interrupted:
 
 - **Clinging to Life.** Death saving throws are made with advantage.  
 - **Grievous Wounds.** Any creature that scores a critical hit rolls one additional damage die to determine damage.  
@@ -999,7 +1000,7 @@ On initiative count 20 (losing initiative ties), [Murgaxor](/3-Mechanics/CLI/bes
 
 - **Clay Behemoth.** A [clay golem](/3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md) erupts from the floor in an unoccupied space within 15 feet of the ritual circle. The golem obeys [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s commands, takes its turns on initiative count 10 (losing initiative ties), fights until destroyed, and reverts to a mound of inanimate clay after 1 hour.  
 - **Earthen Fist.** A Medium fist made of packed earth rises from the floor in an unoccupied space that [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) can see within 30 feet of him. The fist then attacks one creature of his choice that is within 5 feet of the fist. The fist has a +11 bonus to hit, and on a hit, the target takes `dice:3d8|noform|noparens|avg|text(13)` (`3d8`) bludgeoning damage and is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 15). The fist disappears if the attack roll misses or if the grapple ends. When the fist disappears, this lair action recharges, allowing [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) to use it again.  
-- **Necrotic Burst.** Tendrils of necrotic energy erupt from the ritual circle and lash out at any number of creatures [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) can see within 15 feet of the circle. Each target must succeed on a DC 15 Dexterity saving throw, or it takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) necrotic damage and can't regain hit points until the start of its next turn.  
+- **Necrotic Burst.** Tendrils of necrotic energy erupt from the ritual circle and lash out at any number of creatures [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) can see within 15 feet of the circle. Each target must succeed on a DC 15 Dexterity saving throw, or it takes `dice:1d10|noform|noparens|avg|text(5)` (`d10`) necrotic damage and can't regain hit points until the start of its next turn.  
 - **Summon Mephits.** [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md) summons four [mud mephits](/3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md) that appear in unoccupied spaces within 15 feet of the ritual circle. The mephits obey [Murgaxor](/3-Mechanics/CLI/bestiary/npc/murgaxor-scc.md)'s commands, take their turns on initiative count 15 (losing initiative ties), and fight until destroyed.  
 
 #### Stopping the Ritual

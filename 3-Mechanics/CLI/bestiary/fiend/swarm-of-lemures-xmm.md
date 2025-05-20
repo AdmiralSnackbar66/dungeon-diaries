@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Swarm of Lemures"]
+statblock-link: "#^statblock"
+aliases:
+- Swarm of Lemures
 ---
 # [Swarm of Lemures](3-Mechanics\CLI\bestiary\fiend/swarm-of-lemures-xmm.md)
 *Source: Monster Manual (2024) p. 194*  
@@ -34,13 +36,14 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "ac": !!int "12"
 "hp": !!int "45"
 "hit_dice": "6d10 + 12"
+"modifier": !!int "-2"
 "stats":
-- !!int "14"
-- !!int "7"
-- !!int "14"
-- !!int "1"
-- !!int "12"
-- !!int "3"
+  - !!int "14"
+  - !!int "7"
+  - !!int "14"
+  - !!int "1"
+  - !!int "12"
+  - !!int "3"
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
@@ -54,23 +57,23 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-- "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)\
-    \ spell or its remains are sprinkled with Holy Water."
-  "name": "Hellish Restoration"
-- "desc": "The swarm can occupy another creature's space and vice versa, and the swarm\
-    \ can move through an opening large enough for a Medium creature. The swarm can't\
-    \ regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or gain\
-    \ [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
-  "name": "Swarm"
+  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in d10 days unless it is killed by a creature under the effects of a [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)\
+      \ spell or its remains are sprinkled with Holy Water."
+    "name": "Hellish Restoration"
+  - "desc": "The swarm can occupy another creature's space and vice versa, and the\
+      \ swarm can move through an opening large enough for a Medium creature. The\
+      \ swarm can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+    "name": "Swarm"
 "actions":
-- "desc": "The swarm makes two Vile Slime attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Poison damage,\
-    \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
-  "name": "Vile Slime"
+  - "desc": "The swarm makes two Vile Slime attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Poison damage,\
+      \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+    "name": "Vile Slime"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-lemures-xmm.webp"
 ```
 ^statblock

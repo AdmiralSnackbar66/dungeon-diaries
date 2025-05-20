@@ -25,4 +25,4 @@ The first time the bottle is opened, the DM rolls on the following table to dete
 | 10 | The [efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) understands your languages and can cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic. |
 ^1-effect
 
-*Source: Dungeon Master's Guide (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

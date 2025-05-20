@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/feat
-aliases: ["Drow High Magic"]
+aliases:
+- Drow High Magic
 ---
 # Drow High Magic
 *Source: Xanathar's Guide to Everything p. 74*  

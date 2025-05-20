@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Bearded Devil"]
+statblock-link: "#^statblock"
+aliases:
+- Bearded Devil
 ---
 # [Bearded Devil](3-Mechanics\CLI\bestiary\fiend/bearded-devil-xmm.md)
-*Source: Monster Manual (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Bearded Devil
 
@@ -36,18 +38,19 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
 "ac": !!int "13"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "15"
-- !!int "15"
-- !!int "9"
-- !!int "11"
-- !!int "14"
+  - !!int "16"
+  - !!int "15"
+  - !!int "15"
+  - !!int "9"
+  - !!int "11"
+  - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Strength": !!int "5"
-  "Constitution": !!int "4"
+  - "strength": "+5"
+  - "constitution": "+4"
+  - "charisma": "+4"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
@@ -57,30 +60,30 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
 "languages": "Infernal; telepathy 120 ft."
 "cr": "3"
 "traits":
-- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes one Beard attack and one Infernal Glaive attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
-    \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-    \ until the start of the devil's next turn. Until this poison ends, the target\
-    \ can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Beard"
-- "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage.\
-    \ If the target is a creature and doesn't already have an infernal wound, it is\
-    \ subjected to the following effect. Constitution Saving Throw: DC 12. Failure:\
-    \ The target receives an infernal wound. While wounded, the target loses 5 (1d10)\
-    \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) at the start\
-    \ of each of its turns. The wound closes after 1 minute, after a spell restores\
-    \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) to the target,\
-    \ or after the target or a creature within 5 feet of it takes an action to stanch\
-    \ the wound, doing so by succeeding on a DC 12 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine))\
-    \ check."
-  "name": "Infernal Glaive"
+  - "desc": "The devil makes one Beard attack and one Infernal Glaive attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
+      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the start of the devil's next turn. Until this poison ends,\
+      \ the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Beard"
+  - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 8 (1d10 + 3) Slashing damage.\
+      \ If the target is a creature and doesn't already have an infernal wound, it\
+      \ is subjected to the following effect. Constitution Saving Throw: DC 12.\
+      \ Failure: The target receives an infernal wound. While wounded, the target\
+      \ loses 5 (d10) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns. The wound closes after 1 minute, after\
+      \ a spell restores [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ to the target, or after the target or a creature within 5 feet of it takes\
+      \ an action to stanch the wound, doing so by succeeding on a DC 12 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine))\
+      \ check."
+    "name": "Infernal Glaive"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/bearded-devil-xmm.webp"
 ```
 ^statblock

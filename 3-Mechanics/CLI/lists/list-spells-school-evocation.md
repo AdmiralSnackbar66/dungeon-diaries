@@ -3,17 +3,21 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/evocation
-aliases: ["Evocation Spells"]
+aliases:
+- Evocation Spells
 ---
 # Evocation Spells
 
 ## Cantrip
 
 - [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md "XPHB")
+- [Booming Blade](/3-Mechanics/CLI/spells/booming-blade-tce.md "TCE")
 - [Eldritch Blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md "XPHB")
 - [Fire Bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB")
 - [Frostbite](/3-Mechanics/CLI/spells/frostbite-xge.md "XGE")
+- [Green-Flame Blade](/3-Mechanics/CLI/spells/green-flame-blade-tce.md "TCE")
 - [Light](/3-Mechanics/CLI/spells/light-xphb.md "XPHB")
+- [Lightning Lure](/3-Mechanics/CLI/spells/lightning-lure-tce.md "TCE")
 - [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB")
 - [Sacred Flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md "XPHB")
 - [Shocking Grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB")
@@ -34,6 +38,7 @@ aliases: ["Evocation Spells"]
 - [Hellish Rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md "XPHB")
 - [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md "XPHB")
 - [Searing Smite](/3-Mechanics/CLI/spells/searing-smite-xphb.md "XPHB")
+- [Tasha's Caustic Brew](/3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md "TCE")
 - [Thunderous Smite](/3-Mechanics/CLI/spells/thunderous-smite-xphb.md "XPHB")
 - [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB")
 - [Witch Bolt](/3-Mechanics/CLI/spells/witch-bolt-xphb.md "XPHB")

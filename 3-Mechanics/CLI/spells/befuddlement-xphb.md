@@ -14,7 +14,8 @@ classes:
 - Druid
 - Warlock
 - Wizard
-aliases: ["Befuddlement"]
+aliases:
+- Befuddlement
 ---
 # Befuddlement
 *8th-level, Enchantment*  
@@ -33,4 +34,4 @@ On a successful save, the target takes half as much damage only.
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

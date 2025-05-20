@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Rat"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Rat
 ---
 # [Giant Rat](3-Mechanics\CLI\bestiary\beast/giant-rat-xmm.md)
-*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -28,32 +30,34 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "3"
 "stats":
-- !!int "7"
-- !!int "16"
-- !!int "11"
-- !!int "2"
-- !!int "10"
-- !!int "4"
+  - !!int "7"
+  - !!int "16"
+  - !!int "11"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": !!int "5"
+  - "dexterity": "+5"
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The rat has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the rat's allies is\
-    \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The rat has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the rat's allies is\
+      \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-rat-xmm.webp"
 ```
 ^statblock

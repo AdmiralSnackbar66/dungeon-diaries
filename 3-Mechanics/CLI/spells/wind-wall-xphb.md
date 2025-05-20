@@ -8,13 +8,18 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/evocation
+- ttrpg-cli/spell/subclass/artillerist
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/the-genie
 classes:
+- Artificer (Artillerist)
 - Bard
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Wind Wall"]
+- Warlock (The Genie)
+aliases:
+- Wind Wall
 ---
 # Wind Wall
 *3rd-level, Evocation*  
@@ -31,6 +36,6 @@ When the wall appears, each creature in its area makes a Strength saving throw, 
 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in [gaseous form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md) can't pass through it.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Artificer (Artillerist)](/3-Mechanics/CLI/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

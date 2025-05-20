@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Fractal Mascot"]
+statblock-link: "#^statblock"
+aliases:
+- Fractal Mascot
 ---
 # [Fractal Mascot](3-Mechanics\CLI\bestiary\construct/fractal-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  
@@ -24,13 +26,14 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
 "ac": !!int "12"
 "hp": !!int "27"
 "hit_dice": "6d6 + 6"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "14"
-- !!int "13"
-- !!int "7"
-- !!int "10"
-- !!int "5"
+  - !!int "12"
+  - !!int "14"
+  - !!int "13"
+  - !!int "7"
+  - !!int "10"
+  - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -38,24 +41,26 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
 "traits":
-- "desc": "The fractal can move through creatures and objects as if they were difficult\
-    \ terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
-  "name": "Relative Density"
+  - "desc": "The fractal can move through creatures and objects as if they were difficult\
+      \ terrain. It takes 5 (d10) force damage if it ends its turn inside an object."
+    "name": "Relative Density"
 "actions":
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
-    \ + 1) force damage, or 6 (2d4 + 1) force damage if the fractal is Medium or bigger."
-  "name": "Quantum Strike"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
+      \ + 1) force damage, or 6 (2d4 + 1) force damage if the fractal is Medium or\
+      \ bigger."
+    "name": "Quantum Strike"
 "bonus_actions":
-- "desc": "The fractal's size increases by one category. While the fractal is Medium\
-    \ or bigger, it makes Strength checks and Strength saving throws with advantage.\
-    \ The fractal can become no larger than Huge via this bonus action."
-  "name": "Augment"
-- "desc": "The fractal's size decreases by one category. While the fractal is Tiny,\
-    \ it makes attack rolls, Dexterity checks, and Dexterity saving throws with advantage.\
-    \ The fractal can become no smaller than 1 foot in height via this bonus action."
-  "name": "Diminish"
+  - "desc": "The fractal's size increases by one category. While the fractal is Medium\
+      \ or bigger, it makes Strength checks and Strength saving throws with advantage.\
+      \ The fractal can become no larger than Huge via this bonus action."
+    "name": "Augment"
+  - "desc": "The fractal's size decreases by one category. While the fractal is Tiny,\
+      \ it makes attack rolls, Dexterity checks, and Dexterity saving throws with\
+      \ advantage. The fractal can become no smaller than 1 foot in height via this\
+      \ bonus action."
+    "name": "Diminish"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/fractal-mascot-scc.webp"
 ```
 ^statblock

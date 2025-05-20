@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Secondary Tables; Boons"]
+aliases:
+- Secondary Tables; Boons
 ---
 # Secondary Tables; Boons
 *Source: Xanathar's Guide to Everything p. 70* 

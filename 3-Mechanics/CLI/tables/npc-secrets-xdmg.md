@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["NPC Secrets"]
+aliases:
+- NPC Secrets
 ---
 # NPC Secrets
 *Source: Dungeon Master's Guide (2024) p. 86* 

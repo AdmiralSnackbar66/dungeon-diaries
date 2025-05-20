@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Mesoamerican, Female"]
+aliases:
+- Human Names – Mesoamerican, Female
 ---
 # Human Names – Mesoamerican, Female
 *Source: Xanathar's Guide to Everything p. 181* 

@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Maelstrom"]
+aliases:
+- Maelstrom
 ---
 # Maelstrom
 *5th-level, Evocation*  

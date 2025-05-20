@@ -59,4 +59,4 @@ Any physical interaction with the illusory creature reveals it to be false, beca
 | 97-00 | The card drawer |
 ^deck-of-illusions
 
-*Source: Dungeon Master's Guide (2024) p. 249*
+*Source: Dungeon Master's Guide (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

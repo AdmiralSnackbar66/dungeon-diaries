@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Armaments - Common"]
+aliases:
+- Armaments - Common
 ---
 # Armaments - Common
 *Source: Dungeon Master's Guide (2024) p. 328* 

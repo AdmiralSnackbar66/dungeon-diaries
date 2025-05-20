@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Bone Devil"]
+statblock-link: "#^statblock"
+aliases:
+- Bone Devil
 ---
 # [Bone Devil](3-Mechanics\CLI\bestiary\fiend/bone-devil-xmm.md)
-*Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Bone Devil
 
@@ -52,22 +54,25 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 "ac": !!int "16"
 "hp": !!int "161"
 "hit_dice": "17d10 + 68"
+"modifier": !!int "7"
 "stats":
-- !!int "18"
-- !!int "16"
-- !!int "18"
-- !!int "13"
-- !!int "14"
-- !!int "16"
+  - !!int "18"
+  - !!int "16"
+  - !!int "18"
+  - !!int "13"
+  - !!int "14"
+  - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
-  "Charisma": !!int "7"
-  "Wisdom": !!int "6"
-  "Intelligence": !!int "5"
-  "Strength": !!int "8"
+  - "strength": "+8"
+  - "intelligence": "+5"
+  - "wisdom": "+6"
+  - "charisma": "+7"
 "skillsaves":
-  "Deception": !!int "7"
-  "Insight": !!int "6"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+7"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+6"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -76,25 +81,25 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"
 "traits":
-- "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Nine Hells."
-  "name": "Diabolical Restoration"
-- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Nine Hells."
+    "name": "Diabolical Restoration"
+  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes two Claw attacks and one Infernal Sting attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing damage."
-  "name": "Claw"
-- "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing damage\
-    \ plus 18 (4d8) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ condition until the start of the devil's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-    \ the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Infernal Sting"
+  - "desc": "The devil makes two Claw attacks and one Infernal Sting attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing damage."
+    "name": "Claw"
+  - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing damage\
+      \ plus 18 (4d8) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the start of the devil's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+      \ the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Infernal Sting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
 ```
 ^statblock

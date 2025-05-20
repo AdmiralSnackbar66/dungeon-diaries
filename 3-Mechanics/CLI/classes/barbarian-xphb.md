@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/barbarian
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Barbarian"]
+aliases:
+- Barbarian
 ---
 # Barbarian
-*Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -110,9 +111,9 @@ While you aren't wearing any armor, your base [Armor Class](/3-Mechanics/CLI/var
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the <span title="Player's Handbook (2024)">mastery properties</span> of two kinds of Simple or Martial Melee weapons of your choice, such as [Greataxes](/3-Mechanics/CLI/items/greataxe-xphb.md) and [Handaxes](/3-Mechanics/CLI/items/handaxe-xphb.md). Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of Simple or Martial Melee weapons of your choice, such as [Greataxes](/3-Mechanics/CLI/items/greataxe-xphb.md) and [Handaxes](/3-Mechanics/CLI/items/handaxe-xphb.md). Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Barbarian levels, you gain the ability to use the <span title="Player's Handbook (2024)">mastery properties</span> of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
+When you reach certain Barbarian levels, you gain the ability to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 
 ### Danger Sense (Level 2)
 
@@ -162,7 +163,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Brutal Strike (Level 9)
 
-If you use Reckless Attack, you can forgo any [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md). If the chosen attack roll hits, the target takes an extra `dice:1d10|noform|noparens|avg` (`1d10`) damage of the same type dealt by the weapon or [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+If you use Reckless Attack, you can forgo any [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md). If the chosen attack roll hits, the target takes an extra `dice:1d10|noform|noparens|avg` (`d10`) damage of the same type dealt by the weapon or [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 #### Forceful Blow
 

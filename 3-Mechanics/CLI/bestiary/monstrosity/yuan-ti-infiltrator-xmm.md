@@ -11,7 +11,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Yuan-ti Infiltrator"]
+statblock-link: "#^statblock"
+aliases:
+- Yuan-ti Infiltrator
 ---
 # [Yuan-ti Infiltrator](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-infiltrator-xmm.md)
 *Source: Monster Manual (2024) p. 342*  
@@ -58,41 +60,45 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 "ac": !!int "11"
 "hp": !!int "40"
 "hit_dice": "9d8"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "11"
-- !!int "13"
-- !!int "14"
-- !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
+  - !!int "13"
+  - !!int "14"
+  - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
-- "desc": "The yuan-ti casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 12):\n\nAt will:\
-    \ [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes\
-    \ only)\n\n2/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The yuan-ti makes two Scimitar attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
-  "name": "Scimitar"
-- "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 9 (2d6 + 2) Poison damage."
-  "name": "Poison Ray"
+  - "desc": "The yuan-ti makes two Scimitar attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
+    "name": "Scimitar"
+  - "desc": "Ranged Attack Roll: +4, range 120 ft. Hit: 9 (2d6 + 2) Poison damage."
+    "name": "Poison Ray"
+  - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
+      \nAt will: [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n2/day: [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
 ```
 ^statblock

@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Grell"]
+statblock-link: "#^statblock"
+aliases:
+- Grell
 ---
 # [Grell](3-Mechanics\CLI\bestiary\aberration/grell-xmm.md)
 *Source: Monster Manual (2024) p. 157*  
@@ -53,41 +55,44 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 "ac": !!int "12"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
+"modifier": !!int "6"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "11"
-- !!int "9"
+  - !!int "15"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "11"
+  - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "damage_immunities": "lightning"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "Deep Speech"
 "cr": "3"
 "traits":
-- "desc": "The grell needn't spend extra movement to move a creature it is grappling."
-  "name": "Abduct"
+  - "desc": "The grell needn't spend extra movement to move a creature it is grappling."
+    "name": "Abduct"
 "actions":
-- "desc": "The grell makes one Beak attack and one Paralyzing Tentacles attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Piercing damage."
-  "name": "Beak"
-- "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 7 (1d10 + 2) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
-    \ to the following effect. Constitution Saving Throw: DC 11. Failure: The\
-    \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-    \ and repeats the save at the end of each of its turns, ending the effect on itself\
-    \ on a success. After 1 minute, it succeeds automatically. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-    \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
-  "name": "Paralyzing Tentacles"
+  - "desc": "The grell makes one Beak attack and one Paralyzing Tentacles attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 7 (1d10 + 2) Piercing damage.\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
+      \ to the following effect. Constitution Saving Throw: DC 11. Failure: The\
+      \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ and repeats the save at the end of each of its turns, ending the effect on\
+      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+      \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+    "name": "Paralyzing Tentacles"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp"
 ```
 ^statblock

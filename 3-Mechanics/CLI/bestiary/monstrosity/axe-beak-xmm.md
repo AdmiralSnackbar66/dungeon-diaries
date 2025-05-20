@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Axe Beak"]
+statblock-link: "#^statblock"
+aliases:
+- Axe Beak
 ---
 # [Axe Beak](3-Mechanics\CLI\bestiary\monstrosity/axe-beak-xmm.md)
-*Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
 
@@ -41,22 +43,23 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 "ac": !!int "11"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "14"
-- !!int "12"
-- !!int "12"
-- !!int "2"
-- !!int "10"
-- !!int "5"
+  - !!int "14"
+  - !!int "12"
+  - !!int "12"
+  - !!int "2"
+  - !!int "10"
+  - !!int "5"
 "speed": "50 ft."
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage."
-  "name": "Beak"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage."
+    "name": "Beak"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/axe-beak-xmm.webp"
 ```
 ^statblock

@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/light
 - ttrpg-cli/subclass/cleric/light
-aliases: ["Light Domain"]
+aliases:
+- Light Domain
 ---
 # Light Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  

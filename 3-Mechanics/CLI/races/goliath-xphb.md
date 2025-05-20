@@ -4,10 +4,11 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/goliath
-aliases: ["Goliath"]
+aliases:
+- Goliath
 ---
 # Goliath
-*Source: Player's Handbook (2024) p. 192*  
+*Source: Player's Handbook (2024) p. 192. Available in the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/races/img/goliath.webp#right)
 
 - **Ability Scores**: None
@@ -22,11 +23,11 @@ aliases: ["Goliath"]
 You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md):
 
 - **Cloud's Jaunt (Cloud Giant).** As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you magically teleport up to 30 feet to an unoccupied space you can see.  
-- **Fire's Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `dice:1d10|noform|noparens|avg` (`1d10`) Fire damage to that target.  
-- **Frost's Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `dice:1d6|noform|noparens|avg` (`1d6`) Cold damage to that target and reduce its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) by 10 feet until the start of your next turn.  
+- **Fire's Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `dice:1d10|noform|noparens|avg` (`d10`) Fire damage to that target.  
+- **Frost's Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal `dice:1d6|noform|noparens|avg` (`d6`) Cold damage to that target and reduce its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) by 10 feet until the start of your next turn.  
 - **Hill's Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition.  
-- **Stone's Endurance (Stone Giant).** When you take damage, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll `dice:1d12|noform|noparens|avg` (`1d12`). Add your Constitution modifier to the number rolled and reduce the damage by that total.  
-- **Storm's Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to deal `dice:1d8|noform|noparens|avg` (`1d8`) Thunder damage to that creature.  
+- **Stone's Endurance (Stone Giant).** When you take damage, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to roll `dice:1d12|noform|noparens|avg` (`d12`). Add your Constitution modifier to the number rolled and reduce the damage by that total.  
+- **Storm's Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to deal `dice:1d8|noform|noparens|avg` (`d8`) Thunder damage to that creature.  
 
 ### Large Form
 

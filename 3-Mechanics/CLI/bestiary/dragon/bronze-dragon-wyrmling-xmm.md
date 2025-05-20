@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Bronze Dragon Wyrmling"]
+statblock-link: "#^statblock"
+aliases:
+- Bronze Dragon Wyrmling
 ---
 # [Bronze Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/bronze-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
 
@@ -39,42 +41,45 @@ Bronze dragons usually make their homes near or under the sea.
 "ac": !!int "15"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "17"
-- !!int "10"
-- !!int "15"
-- !!int "12"
-- !!int "11"
-- !!int "15"
+  - !!int "17"
+  - !!int "10"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
+  - !!int "15"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
+  - "dexterity": "+2"
+  - "wisdom": "+2"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+2"
 "damage_immunities": "lightning"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
-- "desc": "The dragon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The dragon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The dragon makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 12, each creature in a 40-foot-long, 5-foot-wide\
-    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
-    \ 16 (3d10) Lightning damage. Success: Half damage."
-  "name": "Lightning Breath (Recharge 5-6)"
-- "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target is pushed up to 30 feet straight away from the dragon\
-    \ and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
-  "name": "Repulsion Breath"
+  - "desc": "The dragon makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 12, each creature in a 40-foot-long, 5-foot-wide\
+      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ 16 (3d10) Lightning damage. Success: Half damage."
+    "name": "Lightning Breath (Recharge 5-6)"
+  - "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target is pushed up to 30 feet straight away from the dragon\
+      \ and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+    "name": "Repulsion Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/bronze-dragon-wyrmling-xmm.webp"
 ```
 ^statblock

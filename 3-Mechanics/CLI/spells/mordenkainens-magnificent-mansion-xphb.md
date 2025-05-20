@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Mordenkainen's Magnificent Mansion"]
+aliases:
+- Mordenkainen's Magnificent Mansion
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  
@@ -33,4 +34,4 @@ When the spell ends, any creatures or objects left inside the extradimensional s
 
 **Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion")*
+*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)*

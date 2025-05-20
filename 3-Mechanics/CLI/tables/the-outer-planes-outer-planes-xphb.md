@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["The Outer Planes; Outer Planes"]
+aliases:
+- The Outer Planes; Outer Planes
 ---
 # The Outer Planes; Outer Planes
 *Source: Player's Handbook (2024) p. 344* 

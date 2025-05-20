@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/optional-feature/ei
-aliases: ["Trickster's Escape"]
+aliases:
+- Trickster's Escape
 ---
 # Trickster's Escape
 *Source: Xanathar's Guide to Everything p. 57*  

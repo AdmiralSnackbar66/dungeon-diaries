@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Discern a gem's value (DC 15)  
 - **Craft.** [Arcane Focus](/3-Mechanics/CLI/items/arcane-focus-xphb.md), [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

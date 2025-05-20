@@ -4,11 +4,12 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/ranger/hunter
-aliases: ["Hunter"]
+aliases:
+- Hunter
 ---
 # Hunter
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
-*Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -56,7 +57,7 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 #### Colossus Slayer
 
-Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage to the target if it's missing any of its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). You can deal this extra damage only once per turn.
+Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `dice:1d8|noform|noparens|avg` (`d8`) damage to the target if it's missing any of its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). You can deal this extra damage only once per turn.
 
 #### Horde Breaker
 

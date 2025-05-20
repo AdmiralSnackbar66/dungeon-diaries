@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Weapon of Warning"
 - "Antimatter Rifle of Warning"

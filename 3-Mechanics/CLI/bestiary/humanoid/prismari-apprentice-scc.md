@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/sorcerer
 statblock: inline
-aliases: ["Prismari Apprentice"]
+statblock-link: "#^statblock"
+aliases:
+- Prismari Apprentice
 ---
 # [Prismari Apprentice](3-Mechanics\CLI\bestiary\humanoid/prismari-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 205*  
@@ -29,46 +31,49 @@ The scholars of Prismari College believe that art is the truest form of spellcra
 "ac": !!int "12"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "13"
-- !!int "12"
-- !!int "13"
-- !!int "15"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
+  - !!int "12"
+  - !!int "13"
+  - !!int "15"
 "speed": "35 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Dexterity": !!int "4"
+  - "dexterity": "+4"
+  - "charisma": "+4"
 "skillsaves":
-  "Athletics": !!int "4"
-  "Performance": !!int "6"
-  "Acrobatics": !!int "4"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+4"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+4"
+  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+    "desc": "+6"
 "senses": "passive Perception 11"
 "languages": "Common plus any two languages"
 "cr": "2"
-"traits":
-- "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-    \nAt will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-    \n1/day each: [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
-    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
-    \ one target. Hit: 10 (3d6) fire or cold damage (the apprentice's choice)."
-  "name": "Elemental Strike"
+  - "desc": "Melee  or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
+      \ one target. Hit: 10 (3d6) fire or cold damage (the apprentice's choice)."
+    "name": "Elemental Strike"
+  - "desc": "The apprentice casts one of the following spells, requiring no material\
+      \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
+      \nAt will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n1/day each: [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The apprentice moves up to its speed, surrounding itself with elemental\
-    \ magic as it moves. Until the end of its turn, the apprentice can move through\
-    \ the space of other creatures. The first time the apprentice enters a creature's\
-    \ space on a turn, that creature must succeed on a DC 12 Dexterity saving throw\
-    \ or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). If the apprentice\
-    \ ends its turn in another creature's space, the apprentice takes 5 (1d10) force\
-    \ damage and is pushed into the nearest unoccupied space."
-  "name": "Surge of Artistry (Recharge 4-6)"
+  - "desc": "The apprentice moves up to its speed, surrounding itself with elemental\
+      \ magic as it moves. Until the end of its turn, the apprentice can move through\
+      \ the space of other creatures. The first time the apprentice enters a creature's\
+      \ space on a turn, that creature must succeed on a DC 12 Dexterity saving throw\
+      \ or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). If the apprentice\
+      \ ends its turn in another creature's space, the apprentice takes 5 (d10) force\
+      \ damage and is pushed into the nearest unoccupied space."
+    "name": "Surge of Artistry (Recharge 4-6)"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/prismari-apprentice-scc.webp"
 ```
 ^statblock

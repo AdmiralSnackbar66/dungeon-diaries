@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Sea Hag"]
+statblock-link: "#^statblock"
+aliases:
+- Sea Hag
 ---
 # [Sea Hag](3-Mechanics\CLI\bestiary\fey/sea-hag-xmm.md)
-*Source: Monster Manual (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Sea Hag
 
@@ -47,50 +49,51 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 "ac": !!int "14"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "13"
-- !!int "16"
-- !!int "12"
-- !!int "12"
-- !!int "13"
+  - !!int "16"
+  - !!int "13"
+  - !!int "16"
+  - !!int "12"
+  - !!int "12"
+  - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Giant, Primordial (Aquan)"
 "cr": "2"
 "traits":
-- "desc": "While within 30 feet of at least two hag allies, the hag can cast one of\
-    \ the following spells, requiring no Material components, using the spell's normal\
-    \ casting time, and using Intelligence as the spellcasting ability (spell save\
-    \ DC 11): [Augury](/3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md),\
-    \ [Identify](/3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md),\
-    \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
-    \ The hag must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
-    \ before using this trait to cast that spell again.\n"
-  "name": "Coven Magic"
-- "desc": "The hag casts [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-    \ using Constitution as the spellcasting ability (spell save DC 13). The spell's\
-    \ duration is 24 hours.\n\nAt will: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md)"
-  "name": "Illusory Appearance"
-- "desc": "The hag can breathe air and water."
-  "name": "Amphibious"
-- "desc": "Wisdom Saving Throw: DC 11, any Beast or Humanoid that starts its turn\
-    \ within 30 feet of the hag and can see the hag's true form. Failure: The target\
-    \ has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until\
-    \ the start of its next turn. Success: The target is immune to this hag's Vile\
-    \ Appearance for 24 hours."
-  "name": "Vile Appearance"
+  - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
+      \ of the following spells, requiring no Material components, using the spell's\
+      \ normal casting time, and using Intelligence as the spellcasting ability (spell\
+      \ save DC 11): [Augury](/3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md),\
+      \ [Identify](/3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
+      \ The hag must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ before using this trait to cast that spell again.\n"
+    "name": "Coven Magic"
+  - "desc": "The hag can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "Wisdom Saving Throw: DC 11, any Beast or Humanoid that starts its turn\
+      \ within 30 feet of the hag and can see the hag's true form. Failure: The\
+      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
+      \ until the start of its next turn. Success: The target is immune to this\
+      \ hag's Vile Appearance for 24 hours."
+    "name": "Vile Appearance"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
-  "name": "Claw"
-- "desc": "Wisdom Saving Throw: DC 11, one [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-    \ creature the hag can see within 30 feet. Failure: If the target has 20 [Hit\
-    \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or fewer, it drops\
-    \ to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Otherwise,\
-    \ the target takes 13 (3d8) Psychic damage."
-  "name": "Death Glare (Recharge 5-6)"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
+    "name": "Claw"
+  - "desc": "Wisdom Saving Throw: DC 11, one [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ creature the hag can see within 30 feet. Failure: If the target has 20 [Hit\
+      \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or fewer, it drops\
+      \ to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Otherwise,\
+      \ the target takes 13 (3d8) Psychic damage."
+    "name": "Death Glare (Recharge 5-6)"
+  - "desc": "The hag casts [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ using Constitution as the spellcasting ability (spell save DC 13). The spell's\
+      \ duration is 24 hours.\n"
+    "name": "Illusory Appearance"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/sea-hag-xmm.webp"
 ```
 ^statblock

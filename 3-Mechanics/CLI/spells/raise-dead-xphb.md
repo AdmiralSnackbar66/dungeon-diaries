@@ -8,15 +8,18 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/necromancy
+- ttrpg-cli/spell/subclass/alchemist
 - ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/grave-domain
 classes:
+- Artificer (Alchemist)
 - Bard
 - Cleric
 - Cleric (Grave Domain)
 - Paladin
 - Sorcerer (Divine Soul)
-aliases: ["Raise Dead"]
+aliases:
+- Raise Dead
 ---
 # Raise Dead
 *5th-level, Necromancy*  
@@ -35,6 +38,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). Every time the target finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), the penalty is reduced by 1 until it becomes 0.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-cleric-xphb-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

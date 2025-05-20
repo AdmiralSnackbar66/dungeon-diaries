@@ -6,7 +6,11 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
-aliases: ["Gond", "The Wonderbringer", "The Inspiration Divine", "The Holy Maker of All Things"]
+aliases: 
+- Gond
+- The Wonderbringer
+- The Inspiration Divine
+- The Holy Maker of All Things
 ---
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 

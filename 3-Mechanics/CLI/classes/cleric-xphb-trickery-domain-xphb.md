@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/subclass/cleric/trickery
-aliases: ["Trickery Domain"]
+aliases:
+- Trickery Domain
 ---
 # Trickery Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  

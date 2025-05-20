@@ -14,7 +14,8 @@ classes:
 - Druid
 - Sorcerer
 - Wizard
-aliases: ["Move Earth"]
+aliases:
+- Move Earth
 ---
 # Move Earth
 *6th-level, Transmutation*  
@@ -35,4 +36,4 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

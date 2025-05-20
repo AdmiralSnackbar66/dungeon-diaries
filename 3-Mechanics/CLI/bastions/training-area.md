@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Training Area"]
+aliases:
+- Training Area
 ---
 # Training Area
 *Level 9 Bastion facility*  
@@ -22,10 +23,10 @@ When a Training Area becomes part of your Bastion, choose one trainer from the "
 
 | Trainer Type | Empower Effect |
 |--------------|----------------|
-| Battle Expert | When you take damage from an attack made with an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) or a weapon, you can take a Reaction to reduce this damage by `dice:1d4\|noform\|noparens\|avg` (`1d4`). |
+| Battle Expert | When you take damage from an attack made with an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) or a weapon, you can take a Reaction to reduce this damage by `dice:1d4\|noform\|noparens\|avg` (`d4`). |
 | Skills Expert | You gain proficiency in one of the following skills of your choice: [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), or [Stealth](/3-Mechanics/CLI/skills.md#Stealth). |
 | Tools Expert | You gain proficiency with one tool of your choice. |
-| Unarmed Combat Expert | When you hit with your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) and deal damage, the attack deals an extra `dice:1d4\|noform\|noparens\|avg` (`1d4`) Bludgeoning damage. |
+| Unarmed Combat Expert | When you hit with your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) and deal damage, the attack deals an extra `dice:1d4\|noform\|noparens\|avg` (`d4`) Bludgeoning damage. |
 | Weapon Expert | Choose a kind of Simple or Martial weapon, such as [Spear](/3-Mechanics/CLI/items/spear-xphb.md) or [Longbow](/3-Mechanics/CLI/items/longbow-xphb.md). If you aren't proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property. |
 ^expert-trainers
 

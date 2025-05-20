@@ -8,15 +8,20 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/battle-smith
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/peace-domain
 classes:
+- Artificer (Battle Smith)
 - Bard
 - Bard (College of Lore)
 - Cleric
+- Cleric (Peace Domain)
 - Paladin
 - Sorcerer (Divine Soul)
-aliases: ["Warding Bond"]
+aliases:
+- Warding Bond
 ---
 # Warding Bond
 *2nd-level, Abjuration*  
@@ -31,6 +36,6 @@ You touch another creature that is willing and create a mystic connection betwee
 
 The spell ends if you drop to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Cleric (Peace Domain)](/3-Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Artificer (Battle Smith)](/3-Mechanics/CLI/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

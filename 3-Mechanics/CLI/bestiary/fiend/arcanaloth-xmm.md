@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/yugoloth
 statblock: inline
-aliases: ["Arcanaloth"]
+statblock-link: "#^statblock"
+aliases:
+- Arcanaloth
 ---
 # [Arcanaloth](3-Mechanics\CLI\bestiary\fiend/arcanaloth-xmm.md)
 *Source: Monster Manual (2024) p. 19*  
@@ -34,24 +36,29 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
 "ac": !!int "18"
 "hp": !!int "175"
 "hit_dice": "27d8 + 54"
+"modifier": !!int "5"
 "stats":
-- !!int "17"
-- !!int "12"
-- !!int "14"
-- !!int "20"
-- !!int "16"
-- !!int "17"
+  - !!int "17"
+  - !!int "12"
+  - !!int "14"
+  - !!int "20"
+  - !!int "16"
+  - !!int "17"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "7"
-  "Intelligence": !!int "9"
-  "Constitution": !!int "6"
+  - "dexterity": "+5"
+  - "constitution": "+6"
+  - "intelligence": "+9"
+  - "wisdom": "+7"
 "skillsaves":
-  "Deception": !!int "7"
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "Arcana": !!int "9"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+9"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+7"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
@@ -59,58 +66,60 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
 "languages": "all; telepathy 120 ft."
 "cr": "12"
 "traits":
-- "desc": "The arcanaloth casts one of the following spells, requiring no Material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 17):\n\nAt will: [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md),\
-    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Identify](/3-Mechanics/CLI/spells/identify-xphb.md),\
-    \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-    \n1/day each: [Contact Other Plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md),\
-    \ [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Dimension\
-    \ Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [Mind Blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The arcanaloth casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
-    \ in response to that spell's trigger, using the same spellcasting ability as\
-    \ Spellcasting.\n\nAt will: [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)"
-  "name": "Counterspell"
-- "desc": "If the arcanaloth dies outside Gehenna, its body dissolves into ichor,\
-    \ and it gains a new body instantly and revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ in Gehenna."
-  "name": "Fiendish Restoration"
-- "desc": "The arcanaloth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The arcanaloth has a magic tome. While holding or carrying the tome, the\
-    \ arcanaloth can use its Banishing Claw action.\n\nThe tome has AC 17; HP 35;\
-    \ and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Necrotic,\
-    \ Poison, and Psychic damage. The tome regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ at the end of every turn, but it turns to dust if reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ or when the arcanaloth dies. If the tome is destroyed, the arcanaloth can create\
-    \ a new one when it finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
-    \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
-  "name": "Soul Tome"
+  - "desc": "If the arcanaloth dies outside Gehenna, its body dissolves into ichor,\
+      \ and it gains a new body instantly and revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in Gehenna."
+    "name": "Fiendish Restoration"
+  - "desc": "The arcanaloth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The arcanaloth has a magic tome. While holding or carrying the tome,\
+      \ the arcanaloth can use its Banishing Claw action.\n\nThe tome has AC 17; HP\
+      \ 35; and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Necrotic,\
+      \ Poison, and Psychic damage. The tome regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ at the end of every turn, but it turns to dust if reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or when the arcanaloth dies. If the tome is destroyed, the arcanaloth can\
+      \ create a new one when it finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+      \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
+    "name": "Soul Tome"
 "actions":
-- "desc": "The arcanaloth makes three Fiendish Burst attacks. It can replace one attack\
-    \ with a Banishing Claw attack."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +9, reach 5 ft. or range 120 ft. Hit:\
-    \ 31 (4d12 + 5) Necrotic damage."
-  "name": "Fiendish Burst"
-- "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (2d4 + 5) Slashing damage\
-    \ plus 19 (3d12) Psychic damage. If the target is a creature, it is subjected\
-    \ to the following effect. Charisma Saving Throw: DC 17. Failure: The target\
-    \ is trapped in a demiplane inside the Soul Tome. While trapped there, the target\
-    \ has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.\
-    \ At the end of each of its turns, the target repeats the save, escaping the tome\
-    \ on a success. When the target escapes, it appears in the space it left or, if\
-    \ that space is occupied, the nearest unoccupied space.\n\nIf the target fails\
-    \ three of these saves while in the demiplane, it becomes bound to the tome and\
-    \ can escape only if the tome is reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Banishing Claw (Requires Soul Tome)"
+  - "desc": "The arcanaloth makes three Fiendish Burst attacks. It can replace one\
+      \ attack with a Banishing Claw attack."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +9, reach 5 ft. or range 120 ft. Hit:\
+      \ 31 (4d12 + 5) Necrotic damage."
+    "name": "Fiendish Burst"
+  - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (2d4 + 5) Slashing damage\
+      \ plus 19 (3d12) Psychic damage. If the target is a creature, it is subjected\
+      \ to the following effect. Charisma Saving Throw: DC 17. Failure: The target\
+      \ is trapped in a demiplane inside the Soul Tome. While trapped there, the target\
+      \ has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.\
+      \ At the end of each of its turns, the target repeats the save, escaping the\
+      \ tome on a success. When the target escapes, it appears in the space it left\
+      \ or, if that space is occupied, the nearest unoccupied space.\n\nIf the target\
+      \ fails three of these saves while in the demiplane, it becomes bound to the\
+      \ tome and can escape only if the tome is reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Banishing Claw (Requires Soul Tome)"
+  - "desc": "The arcanaloth casts one of the following spells, requiring no Material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 17):\n\nAt will: [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md),\
+      \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Identify](/3-Mechanics/CLI/spells/identify-xphb.md),\
+      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n1/day each: [Contact Other Plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md),\
+      \ [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Dimension\
+      \ Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [Mind Blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The arcanaloth teleports up to 30 feet to an unoccupied space it can see."
-  "name": "Teleport"
+  - "desc": "The arcanaloth teleports up to 30 feet to an unoccupied space it can\
+      \ see."
+    "name": "Teleport"
+"reactions":
+  - "desc": "The arcanaloth casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
+      \ in response to that spell's trigger, using the same spellcasting ability as\
+      \ Spellcasting.\n"
+    "name": "Counterspell"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/arcanaloth-xmm.webp"
 ```
 ^statblock

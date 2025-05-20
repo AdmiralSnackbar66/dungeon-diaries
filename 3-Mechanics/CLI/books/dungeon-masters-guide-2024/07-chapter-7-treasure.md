@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 7: Treasure"]
+aliases:
+- Chapter 7: Treasure
 ---
 # Chapter 7: Treasure
 *Source: Dungeon Master's Guide (2024), p. 213* 
@@ -212,7 +213,7 @@ You can use the Magic Item Tracker sheet to track how many magic items the chara
 
 When you decide that a treasure contains magic items, there are two ways to determine the rarity of those items. You can choose an appropriate rarity based on the items you've given out already (using the Magic Item Tracker sheet to keep track), or you can roll on the Magic Item Rarities table.
 
-To use the table, find the level of the characters in the top row. Roll `dice:1d100|noform|noparens|avg` (`1d100`), and read down that column to find your roll. Then read across to the right column to find the rarity of the item.
+To use the table, find the level of the characters in the top row. Roll `dice:1d100|noform|noparens|avg` (`d100`), and read down that column to find your roll. Then read across to the right column to find the rarity of the item.
 
 ![Random Magic Item Rarity; Magic Item Rarities](/3-Mechanics/CLI/tables/random-magic-item-rarity-magic-item-rarities-xdmg.md)
 
@@ -396,7 +397,7 @@ If its bearer refuses to comply with the item's demands, the item can do any of 
 
 - Make it impossible for its bearer to attune to it.  
 - Suppress one or more of its activated properties.  
-- Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition for `dice:1d12|noform|noparens|avg` (`1d12`) hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.  
+- Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition for `dice:1d12|noform|noparens|avg` (`d12`) hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.  
 
 ## Magic Items A-Z
 
@@ -762,7 +763,7 @@ If a magic item description capitalizes a creature's name and presents it in **b
 
 ## Random Magic Items
 
-Use the tables in this section to randomly determine magic items the characters find in your adventures. The tables are sorted first by treasure theme (as described in the "Monster Manual"), and then by item rarity. If an item isn't associated with a theme, roll `dice:1d4|noform|noparens|avg` (`1d4`) to decide which table to roll on next: on a **1**, roll on the "Arcana tables"; on a **2**, "Armaments"; on a **3**, "Implements"; and on a **4**, "Relics".
+Use the tables in this section to randomly determine magic items the characters find in your adventures. The tables are sorted first by treasure theme (as described in the "Monster Manual"), and then by item rarity. If an item isn't associated with a theme, roll `dice:1d4|noform|noparens|avg` (`d4`) to decide which table to roll on next: on a **1**, roll on the "Arcana tables"; on a **2**, "Armaments"; on a **3**, "Implements"; and on a **4**, "Relics".
 
 ### Arcana Tables
 

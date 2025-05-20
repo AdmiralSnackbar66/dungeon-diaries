@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Cultist"]
+statblock-link: "#^statblock"
+aliases:
+- Cultist
 ---
 # [Cultist](3-Mechanics\CLI\bestiary\humanoid/cultist-xmm.md)
-*Source: Monster Manual (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Cultists devote themselves to their faith's leaders and otherworldly masters. While this zeal grants cultists no magical powers, it gives them remarkable resolve in the face of threats. Cultists perform much of a cult's mundane work, which might include evangelism, criminal acts, or serving as sacrifices.
 
@@ -81,28 +83,31 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "12"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "11"
-- !!int "10"
+  - !!int "11"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "11"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "2"
+  - "wisdom": "+2"
 "skillsaves":
-  "Deception": !!int "2"
-  "Religion": !!int "2"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+2"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+2"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1/8"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
-    \ plus 1 Necrotic damage."
-  "name": "Ritual Sickle"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 3 (1d4 + 1) Slashing damage\
+      \ plus 1 Necrotic damage."
+    "name": "Ritual Sickle"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-xmm.webp"
 ```
 ^statblock

@@ -10,7 +10,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Bulette Pup"]
+statblock-link: "#^statblock"
+aliases:
+- Bulette Pup
 ---
 # [Bulette Pup](3-Mechanics\CLI\bestiary\monstrosity/bulette-pup-xmm.md)
 *Source: Monster Manual (2024) p. 63*  
@@ -34,27 +36,29 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 "ac": !!int "16"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
+"modifier": !!int "-1"
 "stats":
-- !!int "16"
-- !!int "8"
-- !!int "17"
-- !!int "2"
-- !!int "10"
-- !!int "4"
+  - !!int "16"
+  - !!int "8"
+  - !!int "17"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": ""
 "cr": "2"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 14 (2d10 + 3) Piercing damage."
+    "name": "Bite"
 "bonus_actions":
-- "desc": "The bulette jumps up to 30 feet by spending 10 feet of movement."
-  "name": "Leap"
+  - "desc": "The bulette jumps up to 30 feet by spending 10 feet of movement."
+    "name": "Leap"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
 ```
 ^statblock

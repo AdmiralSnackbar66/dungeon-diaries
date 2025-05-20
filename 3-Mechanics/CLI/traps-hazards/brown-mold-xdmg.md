@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Brown Mold"]
+aliases:
+- Brown Mold
 ---
 # Brown Mold
 *Generic Hazard*  

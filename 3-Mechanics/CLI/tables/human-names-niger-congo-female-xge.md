@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Niger-Congo, Female"]
+aliases:
+- Human Names – Niger-Congo, Female
 ---
 # Human Names – Niger-Congo, Female
 *Source: Xanathar's Guide to Everything p. 181* 

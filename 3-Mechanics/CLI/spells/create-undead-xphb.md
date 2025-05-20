@@ -16,7 +16,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
-aliases: ["Create Undead"]
+aliases:
+- Create Undead
 ---
 # Create Undead
 *6th-level, Necromancy*  
@@ -35,6 +36,6 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 spell slot, you can animate or reassert control over four [Ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md). If you use a level 8 spell slot, you can animate or reassert control over five [Ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) or two [Ghasts](/3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) or [Wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md). If you use a level 9 spell slot, you can animate or reassert control over six [Ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md), three [Ghasts](/3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) or [Wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md), or two [Mummies](/3-Mechanics/CLI/bestiary/undead/mummy-xmm.md). See the "Monster Manual" for these stat blocks.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

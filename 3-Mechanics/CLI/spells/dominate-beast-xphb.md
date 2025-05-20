@@ -18,7 +18,8 @@ classes:
 - Ranger
 - Sorcerer
 - Warlock (Archfey Patron)
-aliases: ["Dominate Beast"]
+aliases:
+- Dominate Beast
 ---
 # Dominate Beast
 *4th-level, Enchantment*  
@@ -37,6 +38,6 @@ You can command the target to take a [Reaction](/3-Mechanics/CLI/variant-rules/r
 
 **Using a Higher-Level Spell Slot.** Your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

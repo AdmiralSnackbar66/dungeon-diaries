@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate
 - ttrpg-cli/spell/feat/strixhaven-initiate
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/race/yuan-ti-pureblood
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
@@ -17,7 +18,8 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Animal Friendship"]
+aliases:
+- Animal Friendship
 ---
 # Animal Friendship
 *1st-level, Enchantment*  
@@ -32,6 +34,6 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 **Using a Higher-Level Spell Slot.** You can target one additional Beast for each spell slot level above 1.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -19,4 +19,4 @@ You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to throw the be
 
 An enclosed creature can take a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action to push against the sphere's wall, moving the sphere up to half the creature's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md). The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
-*Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

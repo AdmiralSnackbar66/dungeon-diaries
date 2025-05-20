@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Fiend Cultist"]
+statblock-link: "#^statblock"
+aliases:
+- Fiend Cultist
 ---
 # [Fiend Cultist](3-Mechanics\CLI\bestiary\humanoid/fiend-cultist-xmm.md)
 *Source: Monster Manual (2024) p. 87*  
@@ -81,42 +83,46 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "16"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
+"modifier": !!int "5"
 "stats":
-- !!int "19"
-- !!int "15"
-- !!int "16"
-- !!int "12"
-- !!int "18"
-- !!int "10"
+  - !!int "19"
+  - !!int "15"
+  - !!int "16"
+  - !!int "12"
+  - !!int "18"
+  - !!int "10"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "6"
+  - "constitution": "+6"
+  - "wisdom": "+7"
 "skillsaves":
-  "Religion": !!int "4"
-  "Perception": !!int "7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+4"
 "senses": "darkvision 90 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
   \ passive Perception 17"
 "languages": "Abyssal, Common, Infernal"
 "cr": "8"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 15, +7 to hit with spell attacks):\n\nAt will: [Scorching\
-    \ Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) (level 5 version), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n2/day: [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) (level 6 version)"
-  "name": "Spellcasting"
-- "desc": "The cultist casts [Hellish Rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md)\
-    \ in response to that spell's trigger, using the same spellcasting ability as\
-    \ Spellcasting.\n\nAt will: [Hellish Rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md)"
-  "name": "Hellish Rebuke"
 "actions":
-- "desc": "The cultist makes three Pact Axe attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Slashing damage\
-    \ plus 13 (3d8) Fire damage."
-  "name": "Pact Axe"
+  - "desc": "The cultist makes three Pact Axe attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 10 (1d12 + 4) Slashing damage\
+      \ plus 13 (3d8) Fire damage."
+    "name": "Pact Axe"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 15, +7 to hit with spell attacks):\n\nAt will:\
+      \ [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) (level 5 version),\
+      \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n2/day: [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\
+      \ (level 6 version)"
+    "name": "Spellcasting"
+"reactions":
+  - "desc": "The cultist casts [Hellish Rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md)\
+      \ in response to that spell's trigger, using the same spellcasting ability as\
+      \ Spellcasting.\n"
+    "name": "Hellish Rebuke"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/fiend-cultist-xmm.webp"
 ```
 ^statblock

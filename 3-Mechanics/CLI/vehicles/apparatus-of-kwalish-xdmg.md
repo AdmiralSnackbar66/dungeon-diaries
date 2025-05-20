@@ -6,11 +6,12 @@ tags:
 - ttrpg-cli/vehicle/size/large
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/object
-aliases: ["Apparatus of Kwalish"]
+aliases:
+- Apparatus of Kwalish
 ---
 # Apparatus of Kwalish
 %%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*  
+*Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Apparatus of the Crab")*  
 
 ```ad-statblock
 title: Apparatus of Kwalish

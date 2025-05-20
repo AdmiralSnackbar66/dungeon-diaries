@@ -12,7 +12,8 @@ classes:
 - Bard
 - Paladin (Oath of Glory)
 - Wizard
-aliases: ["Yolande's Regal Presence"]
+aliases:
+- Yolande's Regal Presence
 ---
 # Yolande's Regal Presence
 *5th-level, Enchantment*  
@@ -25,6 +26,6 @@ aliases: ["Yolande's Regal Presence"]
 
 You surround yourself with unearthly majesty in a 10-foot Emanation. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. On a failed save, the target takes `dice:4d6|noform|noparens|avg` (`4d6`) Psychic damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition, and you can push it up to 10 feet away. On a successful save, the target takes half as much damage only. A creature makes this save only once per turn.
 
-**Classes**: [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 343*

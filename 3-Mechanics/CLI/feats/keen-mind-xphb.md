@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Keen Mind"]
+aliases:
+- Keen Mind
 ---
 # Keen Mind
 *Source: Player's Handbook (2024) p. 205*  

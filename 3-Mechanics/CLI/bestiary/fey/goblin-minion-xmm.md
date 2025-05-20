@@ -14,10 +14,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
-aliases: ["Goblin Minion"]
+statblock-link: "#^statblock"
+aliases:
+- Goblin Minion
 ---
 # [Goblin Minion](3-Mechanics\CLI\bestiary\fey/goblin-minion-xmm.md)
-*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
 
@@ -48,28 +50,30 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 "ac": !!int "12"
 "hp": !!int "7"
 "hit_dice": "2d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "15"
-- !!int "10"
-- !!int "10"
-- !!int "8"
-- !!int "8"
+  - !!int "8"
+  - !!int "15"
+  - !!int "10"
+  - !!int "10"
+  - !!int "8"
+  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/8"
 "actions":
-- "desc": "Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 4 (1d4 + 2) Piercing damage."
-  "name": "Dagger"
+  - "desc": "Melee  or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit:\
+      \ 4 (1d4 + 2) Piercing damage."
+    "name": "Dagger"
 "bonus_actions":
-- "desc": "The goblin takes the Disengage or Hide action."
-  "name": "Nimble Escape"
+  - "desc": "The goblin takes the Disengage or Hide action."
+    "name": "Nimble Escape"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
 ```
 ^statblock

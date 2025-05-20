@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Animated Broom"]
+statblock-link: "#^statblock"
+aliases:
+- Animated Broom
 ---
 # [Animated Broom](3-Mechanics\CLI\bestiary\construct/animated-broom-xmm.md)
 *Source: Monster Manual (2024) p. 16*  
@@ -56,13 +58,14 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "ac": !!int "15"
 "hp": !!int "14"
 "hit_dice": "4d6"
+"modifier": !!int "5"
 "stats":
-- !!int "10"
-- !!int "17"
-- !!int "10"
-- !!int "1"
-- !!int "5"
-- !!int "1"
+  - !!int "10"
+  - !!int "17"
+  - !!int "10"
+  - !!int "1"
+  - !!int "5"
+  - !!int "1"
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
@@ -73,14 +76,14 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The broom doesn't provoke an Opportunity Attack when it flies out of an\
-    \ enemy's reach."
-  "name": "Flyby"
+  - "desc": "The broom doesn't provoke an Opportunity Attack when it flies out of\
+      \ an enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage."
-  "name": "Slam"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage."
+    "name": "Slam"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/animated-broom-xmm.webp"
 ```
 ^statblock

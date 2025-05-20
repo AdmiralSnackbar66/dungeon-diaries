@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Supplemental Tables; Status"]
+aliases:
+- Supplemental Tables; Status
 ---
 # Supplemental Tables; Status
 *Source: Xanathar's Guide to Everything p. 72* 

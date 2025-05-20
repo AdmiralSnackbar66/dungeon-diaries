@@ -19,10 +19,12 @@ tags:
 - ttrpg-cli/spell/subclass/oath-of-conquest
 - ttrpg-cli/spell/subclass/oath-of-redemption
 - ttrpg-cli/spell/subclass/oath-of-vengeance
+- ttrpg-cli/spell/subclass/order-domain
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
+- Cleric (Order Domain)
 - Druid
 - Druid (Circle of the Land)
 - Fighter (Eldritch Knight)
@@ -34,7 +36,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Warlock
 - Wizard
-aliases: ["Hold Person"]
+aliases:
+- Hold Person
 ---
 # Hold Person
 *2nd-level, Enchantment*  
@@ -49,6 +52,6 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 
 **Using a Higher-Level Spell Slot.** You can target one additional Humanoid for each spell slot level above 2.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Cleric (Order Domain)](/3-Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Paladin (Oath of Redemption)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Paladin (Oath of Vengeance)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

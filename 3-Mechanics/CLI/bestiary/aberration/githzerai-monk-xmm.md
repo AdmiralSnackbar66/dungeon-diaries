@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration/gith
 statblock: inline
-aliases: ["Githzerai Monk"]
+statblock-link: "#^statblock"
+aliases:
+- Githzerai Monk
 ---
 # [Githzerai Monk](3-Mechanics\CLI\bestiary\aberration/githzerai-monk-xmm.md)
 *Source: Monster Manual (2024) p. 136*  
@@ -61,48 +63,50 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "ac": !!int "14"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
+"modifier": !!int "4"
 "stats":
-- !!int "12"
-- !!int "15"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-- !!int "10"
+  - !!int "12"
+  - !!int "15"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+  - !!int "10"
 "speed": "40 ft."
 "saves":
-  "Dexterity": !!int "4"
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "3"
-  "Strength": !!int "3"
+  - "strength": "+3"
+  - "dexterity": "+4"
+  - "intelligence": "+3"
+  - "wisdom": "+4"
 "skillsaves":
-  "Insight": !!int "4"
-  "Perception": !!int "4"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common, Gith"
 "cr": "2"
-"traits":
-- "desc": "The githzerai casts one of the following spells, requiring no spell components\
-    \ and using Wisdom as the spellcasting ability:\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-    \ (the hand is Invisible)\n\n1/day: [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The githzerai casts [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), requiring\
-    \ no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n2/day: [Jump](/3-Mechanics/CLI/spells/jump-xphb.md)"
-  "name": "Psi-Powered Leap (2/Day)"
-- "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-    \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
-    \ trigger, requiring no spell components and using the same spellcasting ability\
-    \ as Spellcasting.\n\n2/day: [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md),\
-    \ [Shield](/3-Mechanics/CLI/spells/shield-xphb.md)"
-  "name": "Psionic Defense (2/Day)"
 "actions":
-- "desc": "The githzerai makes two Psi Strike attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Bludgeoning damage\
-    \ plus 9 (2d8) Psychic damage."
-  "name": "Psi Strike"
+  - "desc": "The githzerai makes two Psi Strike attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Bludgeoning damage\
+      \ plus 9 (2d8) Psychic damage."
+    "name": "Psi Strike"
+  - "desc": "The githzerai casts one of the following spells, requiring no spell components\
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
+      \ (the hand is Invisible)\n\n1/day: [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The githzerai casts [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), requiring\
+      \ no spell components and using the same spellcasting ability as Spellcasting.\n"
+    "name": "Psi-Powered Leap (2/Day)"
+"reactions":
+  - "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
+      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+      \ trigger, requiring no spell components and using the same spellcasting ability\
+      \ as Spellcasting.\n"
+    "name": "Psionic Defense (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-monk-xmm.webp"
 ```
 ^statblock

@@ -17,7 +17,8 @@ classes:
 - Bard (College of Lore)
 - Druid
 - Ranger
-aliases: ["Beast Sense"]
+aliases:
+- Beast Sense
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  
@@ -30,6 +31,6 @@ aliases: ["Beast Sense"]
 
 You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-barbarian-xphb-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 245*

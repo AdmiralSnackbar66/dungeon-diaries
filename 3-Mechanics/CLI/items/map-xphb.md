@@ -16,4 +16,4 @@ aliases:
 
 If you consult an accurate Map, you gain a +5 bonus to Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) checks you make to find your way in the place represented on it.
 
-*Source: Player's Handbook (2024) p. 227*
+*Source: Player's Handbook (2024) p. 227. Available in the Free Rules (2024)*

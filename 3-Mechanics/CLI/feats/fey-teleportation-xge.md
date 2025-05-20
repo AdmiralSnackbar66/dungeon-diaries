@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/feat
-aliases: ["Fey Teleportation"]
+aliases:
+- Fey Teleportation
 ---
 # Fey Teleportation
 *Source: Xanathar's Guide to Everything p. 74*  

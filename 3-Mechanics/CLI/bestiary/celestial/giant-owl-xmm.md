@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Giant Owl"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Owl
 ---
 # [Giant Owl](3-Mechanics\CLI\bestiary\celestial/giant-owl-xmm.md)
-*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,37 +29,40 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
+"modifier": !!int "2"
 "stats":
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "10"
-- !!int "14"
-- !!int "10"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "10"
+  - !!int "14"
+  - !!int "10"
 "speed": "5 ft., fly 60 ft."
 "saves":
-  "Wisdom": !!int "4"
+  - "wisdom": "+4"
 "skillsaves":
-  "Stealth": !!int "6"
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "damage_resistances": "necrotic, radiant"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Celestial; understands Common, Elvish, and Sylvan but can't speak them"
 "cr": "1/4"
 "traits":
-- "desc": "The owl casts one of the following spells, requiring no spell components\
-    \ and using Wisdom as the spellcasting ability:\n\nAt will: [Detect Evil and\
-    \ Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\
-    \n1/day: [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's\
-    \ reach."
-  "name": "Flyby"
+  - "desc": "The owl doesn't provoke an Opportunity Attack when it flies out of an\
+      \ enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
-  "name": "Talons"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
+    "name": "Talons"
+  - "desc": "The owl casts one of the following spells, requiring no spell components\
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [Detect Evil\
+      \ and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\
+      \n1/day: [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-owl-xmm.webp"
 ```
 ^statblock

@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Baboon"]
+statblock-link: "#^statblock"
+aliases:
+- Baboon
 ---
 # [Baboon](3-Mechanics\CLI\bestiary\beast/baboon-xmm.md)
-*Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,28 +28,29 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "3"
 "hit_dice": "1d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "14"
-- !!int "11"
-- !!int "4"
-- !!int "12"
-- !!int "6"
+  - !!int "8"
+  - !!int "14"
+  - !!int "11"
+  - !!int "4"
+  - !!int "12"
+  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The baboon has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the baboon's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The baboon has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the baboon's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/baboon-xmm.webp"
 ```
 ^statblock

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/scc
-aliases: ["Scholars of Prismari; Prismari Scholars"]
+aliases:
+- Scholars of Prismari; Prismari Scholars
 ---
 # Scholars of Prismari; Prismari Scholars
 *Source: Strixhaven: A Curriculum of Chaos p. 16* 

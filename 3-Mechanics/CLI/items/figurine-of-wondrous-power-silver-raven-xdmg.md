@@ -22,4 +22,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 This silver statuette of a raven can become a [Raven](/3-Mechanics/CLI/bestiary/beast/raven-xmm.md) for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md) on it.
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

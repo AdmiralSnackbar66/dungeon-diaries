@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/human
 statblock: inline
-aliases: ["Bak Mei"]
+statblock-link: "#^statblock"
+aliases:
+- Bak Mei
 ---
 # [Bak Mei](3-Mechanics\CLI\bestiary\npc/bak-mei-cm.md)
 *Source: Candlekeep Mysteries p. 168*  
@@ -30,27 +32,33 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
 "ac_class": "Unarmored Defense"
 "hp": !!int "102"
 "hit_dice": "12d8 + 48"
+"modifier": !!int "4"
 "stats":
-- !!int "10"
-- !!int "18"
-- !!int "18"
-- !!int "13"
-- !!int "17"
-- !!int "16"
+  - !!int "10"
+  - !!int "18"
+  - !!int "18"
+  - !!int "13"
+  - !!int "17"
+  - !!int "16"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "8"
-  "Dexterity": !!int "9"
-  "Wisdom": !!int "8"
-  "Intelligence": !!int "6"
-  "Strength": !!int "5"
-  "Constitution": !!int "9"
+  - "strength": "+5"
+  - "dexterity": "+9"
+  - "constitution": "+9"
+  - "intelligence": "+6"
+  - "wisdom": "+8"
+  - "charisma": "+8"
 "skillsaves":
-  "Medicine": !!int "8"
-  "Athletics": !!int "5"
-  "Stealth": !!int "9"
-  "Religion": !!int "6"
-  "Acrobatics": !!int "9"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+9"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+5"
+  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+    "desc": "+8"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+9"
 "damage_resistances": "poison, thunder"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
   \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)"
@@ -58,49 +66,49 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
 "languages": "Auran, Common"
 "cr": "13"
 "traits":
-- "desc": "If Bak Mei fails a saving throw, he can choose to succeed instead."
-  "name": "Legendary Resistance (2/Day)"
-- "desc": "Bak Mei carries a [staff of striking](/3-Mechanics/CLI/items/staff-of-striking-xdmg.md)\
-    \ with 10 charges."
-  "name": "Special Equipment"
-- "desc": "While Bak Mei is wearing no armor and wielding no shield, his AC includes\
-    \ his Wisdom modifier."
-  "name": "Unarmored Defense"
+  - "desc": "If Bak Mei fails a saving throw, he can choose to succeed instead."
+    "name": "Legendary Resistance (2/Day)"
+  - "desc": "Bak Mei carries a [staff of striking](/3-Mechanics/CLI/items/staff-of-striking-xdmg.md)\
+      \ with 10 charges."
+    "name": "Special Equipment"
+  - "desc": "While Bak Mei is wearing no armor and wielding no shield, his AC includes\
+      \ his Wisdom modifier."
+    "name": "Unarmored Defense"
 "actions":
-- "desc": "Bak Mei attacks three times: twice with Thunder Strike and once with his\
-    \ staff of striking."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (2d10\
-    \ + 4) thunder damage, and if the target is a creature, it must succeed on a DC\
-    \ 17 Constitution saving throw or be [deafened](/3-Mechanics/CLI/conditions.md#Deafened)\
-    \ and [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the start of Bak\
-    \ Mei's next turn."
-  "name": "Thunder Strike"
-- "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 3 (1d6)\
-    \ bludgeoning damage, or 4 (1d8) bludgeoning damage when used with two hands,\
-    \ and Bak Mei can expend up to 3 of the staff's charges. For each expended charge,\
-    \ the target takes an extra 1d6 force damage."
-  "name": "Staff of Striking"
-- "desc": "Bak Mei regains 2d8 + 4 hit points, and all levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
-    \ end on him."
-  "name": "Heal Self (Recharges after a Long Rest)"
+  - "desc": "Bak Mei attacks three times: twice with Thunder Strike and once with\
+      \ his staff of striking."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15\
+      \ (2d10 + 4) thunder damage, and if the target is a creature, it must succeed\
+      \ on a DC 17 Constitution saving throw or be [deafened](/3-Mechanics/CLI/conditions.md#Deafened)\
+      \ and [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the start of Bak\
+      \ Mei's next turn."
+    "name": "Thunder Strike"
+  - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 3 (d6)\
+      \ bludgeoning damage, or 4 (d8) bludgeoning damage when used with two hands,\
+      \ and Bak Mei can expend up to 3 of the staff's charges. For each expended charge,\
+      \ the target takes an extra d6 force damage."
+    "name": "Staff of Striking"
+  - "desc": "Bak Mei regains 2d8 + 4 hit points, and all levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
+      \ end on him."
+    "name": "Heal Self (Recharges after a Long Rest)"
 "bonus_actions":
-- "desc": "Bak Mei takes the Disengage or Hide action."
-  "name": "Nimble Escape"
+  - "desc": "Bak Mei takes the Disengage or Hide action."
+    "name": "Nimble Escape"
 "reactions":
-- "desc": "In response to being hit by a ranged weapon attack, Bak Mei deflects the\
-    \ missile. The damage he takes from the attack is reduced by 1d10 + 12. If the\
-    \ damage is reduced to 0, Bak Mei catches the missile if it's small enough to\
-    \ hold in one hand and Bak Mei has a hand free."
-  "name": "Deflect Missile"
+  - "desc": "In response to being hit by a ranged weapon attack, Bak Mei deflects\
+      \ the missile. The damage he takes from the attack is reduced by 1d10 + 12.\
+      \ If the damage is reduced to 0, Bak Mei catches the missile if it's small enough\
+      \ to hold in one hand and Bak Mei has a hand free."
+    "name": "Deflect Missile"
 "legendary_actions":
-- "desc": "Bak Mei moves up to 20 feet. This movement does not provoke opportunity\
-    \ attacks."
-  "name": "Crane Dance"
-- "desc": "Bak Mei uses Thunder Strike."
-  "name": "Thunder Strike (Costs 2 Actions)"
+  - "desc": "Bak Mei moves up to 20 feet. This movement does not provoke opportunity\
+      \ attacks."
+    "name": "Crane Dance"
+  - "desc": "Bak Mei uses Thunder Strike."
+    "name": "Thunder Strike (Costs 2 Actions)"
 "source":
-- "CM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/npc/token/bak-mei-cm.webp"
 ```
 ^statblock

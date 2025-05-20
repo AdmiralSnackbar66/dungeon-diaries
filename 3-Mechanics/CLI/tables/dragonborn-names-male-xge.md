@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Dragonborn Names – Male"]
+aliases:
+- Dragonborn Names – Male
 ---
 # Dragonborn Names – Male
 *Source: Xanathar's Guide to Everything p. 175* 

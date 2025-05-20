@@ -4,7 +4,8 @@ cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Actions"]
+aliases:
+- Actions
 ---
 # Actions
 
@@ -51,21 +52,21 @@ lf you take the Dodge action, you gain the following benefits: until the start o
 You lose these benefits if you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or if your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0.
 
 ## Don or Doff a Shield
-_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
 A [Shield](/3-Mechanics/CLI/items/shield-xphb.md) can be donned or doffed as an action.
 
 ## End Concentration
-_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: Free
 
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. You can end Concentration at any time (no action required).
 
 ## Escape a Grapple
-_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
@@ -111,7 +112,7 @@ This Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check represents
 This action is an optional addition to the game, from the optional/variant rule [Spellcasting](/3-Mechanics/CLI/variant-rules/spellcasting-xge.md).
 
 ## Improvising an Action
-_Source: Player's Handbook (2024) p. 15_
+_Source: Player's Handbook (2024) p. 15. Available in the Free Rules (2024)_
 
 - **Duration**: Varies
 
@@ -214,7 +215,7 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 ^areas-of-knowledge
 
 ## Two-Weapon Fighting
-_Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 bonus
 

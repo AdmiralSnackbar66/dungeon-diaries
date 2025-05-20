@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Modron Tridrone"]
+statblock-link: "#^statblock"
+aliases:
+- Modron Tridrone
 ---
 # [Modron Tridrone](3-Mechanics\CLI\bestiary\construct/modron-tridrone-xmm.md)
 *Source: Monster Manual (2024) p. 217*  
@@ -64,31 +66,32 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "ac": !!int "15"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
+"modifier": !!int "1"
 "stats":
-- !!int "12"
-- !!int "13"
-- !!int "12"
-- !!int "9"
-- !!int "10"
-- !!int "9"
+  - !!int "12"
+  - !!int "13"
+  - !!int "12"
+  - !!int "9"
+  - !!int "10"
+  - !!int "9"
 "speed": "30 ft."
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/2"
 "traits":
-- "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
-    \ it was wearing or carrying."
-  "name": "Disintegration"
+  - "desc": "If the modron dies, it disintegrates into dust, leaving behind anything\
+      \ it was wearing or carrying."
+    "name": "Disintegration"
 "actions":
-- "desc": "The modron makes three Clockwork Spear attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +3, reach 5 ft. or range 120 ft. Hit:\
-    \ 4 (1d6 + 1) Force damage. Hit or Miss: The spear magically returns to the\
-    \ modron's hand immediately after a ranged attack."
-  "name": "Clockwork Spear"
+  - "desc": "The modron makes three Clockwork Spear attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +3, reach 5 ft. or range 120 ft. Hit:\
+      \ 4 (1d6 + 1) Force damage. Hit or Miss: The spear magically returns to the\
+      \ modron's hand immediately after a ranged attack."
+    "name": "Clockwork Spear"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/modron-tridrone-xmm.webp"
 ```
 ^statblock

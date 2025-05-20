@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Slavic, Male"]
+aliases:
+- Human Names – Slavic, Male
 ---
 # Human Names – Slavic, Male
 *Source: Xanathar's Guide to Everything p. 181* 

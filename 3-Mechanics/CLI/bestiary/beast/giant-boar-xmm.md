@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Giant Boar"]
+statblock-link: "#^statblock"
+aliases:
+- Giant Boar
 ---
 # [Giant Boar](3-Mechanics\CLI\bestiary\beast/giant-boar-xmm.md)
-*Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,31 +29,32 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "42"
 "hit_dice": "5d10 + 15"
+"modifier": !!int "0"
 "stats":
-- !!int "17"
-- !!int "10"
-- !!int "16"
-- !!int "2"
-- !!int "7"
-- !!int "5"
+  - !!int "17"
+  - !!int "10"
+  - !!int "16"
+  - !!int "2"
+  - !!int "7"
+  - !!int "5"
 "speed": "40 ft."
 "saves":
-  "Strength": !!int "5"
+  - "strength": "+5"
 "senses": "passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
-- "desc": "The boar has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on melee attack rolls while it is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
-  "name": "Bloodied Fury"
+  - "desc": "The boar has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on melee attack rolls while it is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+    "name": "Bloodied Fury"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
-    \ If the target is a Large or smaller creature and the boar moved 20+ feet straight\
-    \ toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing\
-    \ damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
-  "name": "Gore"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
+      \ If the target is a Large or smaller creature and the boar moved 20+ feet straight\
+      \ toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing\
+      \ damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+    "name": "Gore"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/giant-boar-xmm.webp"
 ```
 ^statblock

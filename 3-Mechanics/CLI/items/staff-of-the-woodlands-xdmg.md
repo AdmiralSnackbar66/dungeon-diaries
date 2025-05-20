@@ -44,6 +44,6 @@ You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to plant one en
 
 ## Regaining Charges
 
-The staff regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn. If you expend the last charge, roll `dice:1d20|noform|noparens|avg` (`d20`). On a 1, the staff loses its properties and becomes a nonmagical Quarterstaff.
+The staff regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn. If you expend the last charge, roll `dice:1d20|noform|noparens|avg` (`d20`). On a 1, the staff loses its properties and becomes a nonmagical Quarterstaff.
 
-*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

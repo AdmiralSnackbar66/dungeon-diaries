@@ -21,4 +21,4 @@ A creature that can touch the bands, including the one [Restrained](/3-Mechanics
 
 Once the bands are used, they can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Iron Bands of Binding")*
+*Source: Dungeon Master's Guide (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Iron Bands of Binding") and the Free Rules (2024)*

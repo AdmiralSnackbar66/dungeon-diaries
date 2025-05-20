@@ -4,7 +4,8 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/smpl
-aliases: ["Crossbow Trap"]
+aliases:
+- Crossbow Trap
 ---
 # Crossbow Trap
 *Generic Hazard*  

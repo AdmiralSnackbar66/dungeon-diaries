@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Chapter 3: DM's Toolbox"]
+aliases:
+- Chapter 3: DM's Toolbox
 ---
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
@@ -122,7 +123,7 @@ A map of a chase can be linear or have many branches, depending on the nature of
 
 ### Chase Complications
 
-Unexpected complications make a chase more exciting. The accompanying Urban Chase Complications table and Wilderness Chase Complications table provide several examples. Each participant in the chase rolls `dice:1d12|noform|noparens|avg` (`1d12`) at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the Initiative order, not the participant who rolled the die.
+Unexpected complications make a chase more exciting. The accompanying Urban Chase Complications table and Wilderness Chase Complications table provide several examples. Each participant in the chase rolls `dice:1d12|noform|noparens|avg` (`d12`) at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the Initiative order, not the participant who rolled the die.
 
 Characters can create their own complications to shake off pursuers or slow their quarry (for example, casting the [Web](/3-Mechanics/CLI/spells/web-xphb.md) spell in a narrow alleyway). Adjudicate these at your discretion.
 
@@ -321,7 +322,7 @@ When creating a new spell, use existing ones as examples. Here are some things t
 
 For any spell that deals damage, use the Spell Damage table to determine approximately how much damage is appropriate given the spell's level. The table assumes the spell deals half as much damage on a successful saving throw or a missed attack. If your spell doesn't deal damage on a successful save, you can increase the damage by 25 percent.
 
-You can use different damage dice than the ones in the table if the average damage is about the same. For example, you could change a cantrip's damage from `dice:1d10|noform|noparens|avg` (`1d10`) (average 5.5) to `dice:2d4|noform|noparens|avg` (`2d4`) (average 5), reducing the maximum damage and making an average result more likely.
+You can use different damage dice than the ones in the table if the average damage is about the same. For example, you could change a cantrip's damage from `dice:1d10|noform|noparens|avg` (`d10`) (average 5.5) to `dice:2d4|noform|noparens|avg` (`2d4`) (average 5), reducing the maximum damage and making an average result more likely.
 
 ![Spell Damage](/3-Mechanics/CLI/tables/spell-damage-xdmg.md)
 
@@ -658,7 +659,7 @@ Exposure to mental stress can cause prolonged effects. Consider the following po
 
 ##### Short-Term Effects
 
-The character has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened), [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), or [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition for `dice:1d10|noform|noparens|avg` (`1d10`) minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [Calm Emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or removed by the [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell.
+The character has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened), [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), or [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition for `dice:1d10|noform|noparens|avg` (`d10`) minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [Calm Emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell or removed by the [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell.
 
 ##### Long-Term Effects
 
@@ -714,7 +715,7 @@ As an action, you can light a Bomb and throw it at a point up to 60 feet away, w
 
 An an action, you can light a Dynamite Stick and throw it at a point up to 60 feet away, where it explodes. Each creature in a 5-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes a DC 12 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) Force damage on a failed save or half as much damage on a successful one.
 
-It takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by `dice:1d6|noform|noparens|avg` (`1d6`) (to a maximum of `dice:10d6|noform|noparens|avg` (`10d6`)) and the effect's radius by 5 feet (to a maximum of 20 feet).
+It takes 1 minute to bind two or more Dynamite Sticks together so they explode at the same time. Each stick after the first increases the damage by `dice:1d6|noform|noparens|avg` (`d6`) (to a maximum of `dice:10d6|noform|noparens|avg` (`10d6`)) and the effect's radius by 5 feet (to a maximum of 20 feet).
 
 It takes 1 minute to rig dynamite with a longer fuse so it explodes after a longer period of time, such as 1 minute or 10 minutes.
 
@@ -936,7 +937,7 @@ Whenever you would otherwise make a number of [D20 Tests](/3-Mechanics/CLI/varia
 
 When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) spell or some other area of effect?
 
-The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by `dice:1d3|noform|noparens|avg` (`1d3`). If they're bunched up, you can increase the number by `dice:1d3|noform|noparens|avg` (`1d3`). Of course, an area can't encompass more creatures than are present in an encounter.
+The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by `dice:1d3|noform|noparens|avg` (`d3`). If they're bunched up, you can increase the number by `dice:1d3|noform|noparens|avg` (`d3`). Of course, an area can't encompass more creatures than are present in an encounter.
 
 Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md) spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) includes only three creatures.
 
@@ -950,7 +951,7 @@ Eight [Zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) surround and att
 
 After seeing the Fighter mauled by zombies, the Bard casts [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md), centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md), and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16−3). Finding 13 in the "Normal" column and reading across to the "Out of 8" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.
 
-Seeing a larger crowd of zombies in the distance, the Wizard casts [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md). The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `dice:1d3|noform|noparens|avg` (`1d3`), rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
+Seeing a larger crowd of zombies in the distance, the Wizard casts [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md). The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds `dice:1d3|noform|noparens|avg` (`d3`), rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is −2, and the Wizard's spell save DC is 16, so the roll needed is 18 (16−[−2]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save.
 
 ## Nonplayer Characters
 
@@ -966,7 +967,7 @@ Flesh out NPCs who play prominent roles in your adventures. You can use the acco
 
 #### Name
 
-You'll need a name for any NPC who plays a prominent role in your campaign. You can pick a given name and a surname from any of the accompanying tables; a name can include options from different tables. If you like, you can roll `dice:1d6|noform|noparens|avg` (`1d6`) to determine which table to choose a name from, then roll `dice:1d12|noform|noparens|avg` (`1d12`) to get a name. You can also alter or combine names, pull from a book of names, or use a name inspired by a movie or book.
+You'll need a name for any NPC who plays a prominent role in your campaign. You can pick a given name and a surname from any of the accompanying tables; a name can include options from different tables. If you like, you can roll `dice:1d6|noform|noparens|avg` (`d6`) to determine which table to choose a name from, then roll `dice:1d12|noform|noparens|avg` (`d12`) to get a name. You can also alter or combine names, pull from a book of names, or use a name inspired by a movie or book.
 
 ![1: Common Names](/3-Mechanics/CLI/tables/1-common-names-xdmg.md)
 
@@ -1052,9 +1053,9 @@ An NPC's loyalty is measured on a numerical scale from 0 to 20. The NPC's maximu
 
 Keep track of an NPC's Loyalty Score in secret so that the players won't know for sure whether an NPC party member is loyal or disloyal.
 
-An NPC's Loyalty Score increases by `dice:1d4|noform|noparens|avg` (`1d4`) if other party members help the NPC achieve a personal goal. Likewise, an NPC's Loyalty Score increases by `dice:1d4|noform|noparens|avg` (`1d4`) if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's Loyalty Score can never be raised above its maximum.
+An NPC's Loyalty Score increases by `dice:1d4|noform|noparens|avg` (`d4`) if other party members help the NPC achieve a personal goal. Likewise, an NPC's Loyalty Score increases by `dice:1d4|noform|noparens|avg` (`d4`) if the NPC is treated particularly well (for example, given a magic weapon as a gift) or rescued by another party member. An NPC's Loyalty Score can never be raised above its maximum.
 
-When other party members act in a manner that runs counter to the NPC's alignment or personality, reduce the NPC's Loyalty Score by `dice:1d4|noform|noparens|avg` (`1d4`). Reduce the NPC's Loyalty Score by `dice:2d4|noform|noparens|avg` (`2d4`) if the NPC is abused, misled, or endangered by other party members for purely selfish reasons. A Loyalty Score can never drop below 0.
+When other party members act in a manner that runs counter to the NPC's alignment or personality, reduce the NPC's Loyalty Score by `dice:1d4|noform|noparens|avg` (`d4`). Reduce the NPC's Loyalty Score by `dice:2d4|noform|noparens|avg` (`2d4`) if the NPC is abused, misled, or endangered by other party members for purely selfish reasons. A Loyalty Score can never drop below 0.
 
 ##### Meaning of Loyalty
 
@@ -1083,7 +1084,7 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 
 ### Harvesting Poison
 
-A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. The effort takes `dice:1d6|noform|noparens|avg` (`1d6`) minutes, after which the character makes a DC 20 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) check using a [Poisoner's Kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md). On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. The effort takes `dice:1d6|noform|noparens|avg` (`d6`) minutes, after which the character makes a DC 20 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) check using a [Poisoner's Kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md). On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
 
 ### Sample Poisons
 

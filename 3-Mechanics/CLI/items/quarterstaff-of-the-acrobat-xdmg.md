@@ -41,4 +41,4 @@ When you are hit by an attack while holding the weapon, you can take a [Reaction
 
 This weapon has [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown) with a normal range of 30 feet and a long range of 120 feet. Immediately after you make a ranged attack with the weapon, it flies back to your hand.
 
-*Source: Dungeon Master's Guide (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Sahuagin Baron"]
+statblock-link: "#^statblock"
+aliases:
+- Sahuagin Baron
 ---
 # [Sahuagin Baron](3-Mechanics\CLI\bestiary\fiend/sahuagin-baron-xmm.md)
 *Source: Monster Manual (2024) p. 265*  
@@ -40,53 +42,55 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "ac": !!int "16"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
+"modifier": !!int "5"
 "stats":
-- !!int "19"
-- !!int "15"
-- !!int "16"
-- !!int "14"
-- !!int "13"
-- !!int "17"
+  - !!int "19"
+  - !!int "15"
+  - !!int "16"
+  - !!int "14"
+  - !!int "13"
+  - !!int "17"
 "speed": "30 ft., swim 50 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Wisdom": !!int "4"
-  "Constitution": !!int "6"
+  - "dexterity": "+5"
+  - "constitution": "+6"
+  - "wisdom": "+4"
 "skillsaves":
-  "Perception": !!int "7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
 "damage_resistances": "acid, cold"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Sahuagin"
 "cr": "5"
 "traits":
-- "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
-  "name": "Blood Frenzy"
-- "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
-    \ once every 4 hours to avoid suffocating outside water."
-  "name": "Limited Amphibiousness"
-- "desc": "The sahuagin can magically control sharks within 120 feet of itself, using\
-    \ a special telepathy."
-  "name": "Shark Telepathy"
+  - "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+    "name": "Blood Frenzy"
+  - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
+      \ once every 4 hours to avoid suffocating outside water."
+    "name": "Limited Amphibiousness"
+  - "desc": "The sahuagin can magically control sharks within 120 feet of itself,\
+      \ using a special telepathy."
+    "name": "Shark Telepathy"
 "actions":
-- "desc": "The sahuagin makes three Trident attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
-    \ 13 (2d8 + 4) Piercing damage."
-  "name": "Trident"
+  - "desc": "The sahuagin makes three Trident attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 20/60 ft. Hit:\
+      \ 13 (2d8 + 4) Piercing damage."
+    "name": "Trident"
 "reactions":
-- "desc": "Trigger: The sahuagin takes Piercing or Slashing damage. _Response—_Constitution\
-    \ Saving Throw: DC 14, each creature of the sahuagin's choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the sahuagin. Failure: 10 (3d6) Acid damage, and the target\
-    \ is cursed until it finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
-    \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). While cursed,\
-    \ the target can't benefit from the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-    \ condition, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
-    \ by 10 feet, and all Fiends within 120 feet of the target can sense its location\
-    \ regardless of interposing obstacles."
-  "name": "Fiendish Blood"
+  - "desc": "Trigger: The sahuagin takes Piercing or Slashing damage. _Response—_Constitution\
+      \ Saving Throw: DC 14, each creature of the sahuagin's choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the sahuagin. Failure: 10 (3d6) Acid damage, and the target\
+      \ is cursed until it finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+      \ or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). While cursed,\
+      \ the target can't benefit from the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+      \ condition, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
+      \ by 10 feet, and all Fiends within 120 feet of the target can sense its location\
+      \ regardless of interposing obstacles."
+    "name": "Fiendish Blood"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-baron-xmm.webp"
 ```
 ^statblock

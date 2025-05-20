@@ -5,6 +5,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Armor of Resistance"
 ---
@@ -44,4 +45,4 @@ You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to one 
 - [Armor of Radiant Resistance](/3-Mechanics/CLI/items/armor-of-radiant-resistance-xdmg.md)
 - [Armor of Thunder Resistance](/3-Mechanics/CLI/items/armor-of-thunder-resistance-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 231*
+*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

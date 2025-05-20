@@ -17,4 +17,4 @@ aliases:
 
 A [Crossbow Bolt Case](/3-Mechanics/CLI/items/crossbow-bolt-case-xphb.md) holds up to 20 Bolts.
 
-*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

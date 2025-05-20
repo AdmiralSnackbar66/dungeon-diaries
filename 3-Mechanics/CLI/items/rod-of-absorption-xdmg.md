@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/rod
 aliases: 
 - "Rod of Absorption"
 ---
 # Rod of Absorption
-*Very rare (requires attunement)*  
+*Rod, very rare (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/rod-of-absorption.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -20,6 +21,6 @@ When you become attuned to the rod, you know how many levels of energy the rod h
 
 If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots, up to a maximum of level 5. You use the stored levels in place of your slots but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a level 3 spell slot.
 
-A newly found rod typically has `dice:1d10|noform|noparens|avg` (`1d10`) levels of spell energy stored in it. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
+A newly found rod typically has `dice:1d10|noform|noparens|avg` (`d10`) levels of spell energy stored in it. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
-*Source: Dungeon Master's Guide (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

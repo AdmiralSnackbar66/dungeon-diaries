@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Kuo-toa Archpriest"]
+statblock-link: "#^statblock"
+aliases:
+- Kuo-toa Archpriest
 ---
 # [Kuo-toa Archpriest](3-Mechanics\CLI\bestiary\aberration/kuo-toa-archpriest-xmm.md)
 *Source: Monster Manual (2024) p. 191*  
@@ -86,45 +88,49 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "ac": !!int "13"
 "hp": !!int "105"
 "hit_dice": "14d8 + 42"
+"modifier": !!int "2"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "16"
-- !!int "13"
-- !!int "16"
-- !!int "14"
+  - !!int "16"
+  - !!int "14"
+  - !!int "16"
+  - !!int "13"
+  - !!int "16"
+  - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Religion": !!int "4"
-  "Perception": !!int "9"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+9"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+4"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
 "languages": "Undercommon"
 "cr": "6"
 "traits":
-- "desc": "The kuo-toa casts one of the following spells, requiring no Material components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-    \n1/day each: [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md),\
-    \ [Divination](/3-Mechanics/CLI/spells/divination-xphb.md), [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md)\
-    \ (level 6 version), [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n2/day: [Shield of\
-    \ Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)"
-  "name": "Shield of Faith (2/Day)"
-- "desc": "The kuo-toa can breathe air and water."
-  "name": "Amphibious"
-- "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "The kuo-toa can breathe air and water."
+    "name": "Amphibious"
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The kuo-toa makes three Strange Scepter attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit:\
-    \ 20 (5d6 + 3) Lightning damage."
-  "name": "Strange Scepter"
+  - "desc": "The kuo-toa makes three Strange Scepter attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +6, reach 5 ft. or range 120 ft. Hit:\
+      \ 20 (5d6 + 3) Lightning damage."
+    "name": "Strange Scepter"
+  - "desc": "The kuo-toa casts one of the following spells, requiring no Material\
+      \ components and using Wisdom as the spellcasting ability (spell save DC 14):\n\
+      \nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day each:\
+      \ [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md), [Divination](/3-Mechanics/CLI/spells/divination-xphb.md),\
+      \ [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) (level 6 version),\
+      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Shield of Faith (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-archpriest-xmm.webp"
 ```
 ^statblock

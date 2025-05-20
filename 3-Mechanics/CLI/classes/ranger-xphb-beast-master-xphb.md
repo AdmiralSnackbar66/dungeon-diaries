@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/ranger/beast-master
-aliases: ["Beast Master"]
+aliases:
+- Beast Master
 ---
 # Beast Master
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  

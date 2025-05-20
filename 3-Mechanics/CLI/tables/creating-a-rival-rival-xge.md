@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Creating a Rival; Rival"]
+aliases:
+- Creating a Rival; Rival
 ---
 # Creating a Rival; Rival
 *Source: Xanathar's Guide to Everything p. 124* 

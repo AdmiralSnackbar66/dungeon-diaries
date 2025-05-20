@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Jackal"]
+statblock-link: "#^statblock"
+aliases:
+- Jackal
 ---
 # [Jackal](3-Mechanics\CLI\bestiary\beast/jackal-xmm.md)
-*Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,25 +28,28 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "3"
 "hit_dice": "1d6"
+"modifier": !!int "2"
 "stats":
-- !!int "8"
-- !!int "15"
-- !!int "11"
-- !!int "3"
-- !!int "12"
-- !!int "6"
+  - !!int "8"
+  - !!int "15"
+  - !!int "11"
+  - !!int "3"
+  - !!int "12"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "darkvision 90 ft., passive Perception 15"
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 - 1) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/jackal-xmm.webp"
 ```
 ^statblock

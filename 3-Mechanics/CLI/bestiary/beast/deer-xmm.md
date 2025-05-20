@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Deer"]
+statblock-link: "#^statblock"
+aliases:
+- Deer
 ---
 # [Deer](3-Mechanics\CLI\bestiary\beast/deer-xmm.md)
-*Source: Monster Manual (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,28 +28,30 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "4"
 "hit_dice": "1d8"
+"modifier": !!int "3"
 "stats":
-- !!int "11"
-- !!int "16"
-- !!int "11"
-- !!int "2"
-- !!int "14"
-- !!int "5"
+  - !!int "11"
+  - !!int "16"
+  - !!int "11"
+  - !!int "2"
+  - !!int "14"
+  - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The deer doesn't provoke an Opportunity Attack when it moves out of an\
-    \ enemy's reach."
-  "name": "Agile"
+  - "desc": "The deer doesn't provoke an Opportunity Attack when it moves out of an\
+      \ enemy's reach."
+    "name": "Agile"
 "actions":
-- "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Bludgeoning damage."
-  "name": "Ram"
+  - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 2 (d4) Bludgeoning damage."
+    "name": "Ram"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/deer-xmm.webp"
 ```
 ^statblock

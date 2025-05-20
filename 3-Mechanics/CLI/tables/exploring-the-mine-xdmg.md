@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Exploring the Mine"]
+aliases:
+- Exploring the Mine
 ---
 # Exploring the Mine
 *Source: Dungeon Master's Guide (2024) p. 123* 

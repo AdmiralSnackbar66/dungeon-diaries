@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Scout Captain"]
+statblock-link: "#^statblock"
+aliases:
+- Scout Captain
 ---
 # [Scout Captain](3-Mechanics\CLI\bestiary\humanoid/scout-captain-xmm.md)
 *Source: Monster Manual (2024) p. 270*  
@@ -32,43 +34,47 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 "ac": !!int "15"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
+"modifier": !!int "5"
 "stats":
-- !!int "11"
-- !!int "16"
-- !!int "12"
-- !!int "14"
-- !!int "15"
-- !!int "11"
+  - !!int "11"
+  - !!int "16"
+  - !!int "12"
+  - !!int "14"
+  - !!int "15"
+  - !!int "11"
 "speed": "30 ft., climb 30 ft."
 "saves":
-  "Dexterity": !!int "5"
-  "Intelligence": !!int "4"
+  - "dexterity": "+5"
+  - "intelligence": "+4"
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "6"
-  "Survival": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
+  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
 "cr": "3"
 "actions":
-- "desc": "The scout makes two attacks, using Shortsword or Longbow in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage,\
-    \ plus 10 (3d6) Piercing damage if the attack was made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
-  "name": "Shortsword"
-- "desc": "Ranged Attack Roll: +5, range 150/600 ft. Hit: 7 (1d8 + 3) Piercing\
-    \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
-  "name": "Longbow"
+  - "desc": "The scout makes two attacks, using Shortsword or Longbow in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage,\
+      \ plus 10 (3d6) Piercing damage if the attack was made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+    "name": "Shortsword"
+  - "desc": "Ranged Attack Roll: +5, range 150/600 ft. Hit: 7 (1d8 + 3) Piercing\
+      \ damage, plus 10 (3d6) Piercing damage if the attack was made with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+    "name": "Longbow"
 "bonus_actions":
-- "desc": "The scout has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on the next attack roll it makes during the current turn."
-  "name": "Aim"
+  - "desc": "The scout has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on the next attack roll it makes during the current turn."
+    "name": "Aim"
 "reactions":
-- "desc": "Trigger: The scout is hit by an attack roll. _Response:_ The scout halves\
-    \ the damage (round down) it takes from that attack."
-  "name": "Uncanny Dodge"
+  - "desc": "Trigger: The scout is hit by an attack roll. _Response:_ The scout halves\
+      \ the damage (round down) it takes from that attack."
+    "name": "Uncanny Dodge"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/scout-captain-xmm.webp"
 ```
 ^statblock

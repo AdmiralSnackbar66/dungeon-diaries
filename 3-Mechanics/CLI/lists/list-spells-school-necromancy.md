@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/necromancy
-aliases: ["Necromancy Spells"]
+aliases:
+- Necromancy Spells
 ---
 # Necromancy Spells
 
@@ -36,6 +37,7 @@ aliases: ["Necromancy Spells"]
 - [Life Transference](/3-Mechanics/CLI/spells/life-transference-xge.md "XGE")
 - [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md "XPHB")
 - [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")
+- [Spirit Shroud](/3-Mechanics/CLI/spells/spirit-shroud-tce.md "TCE")
 - [Summon Undead](/3-Mechanics/CLI/spells/summon-undead-xphb.md "XPHB")
 - [Vampiric Touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB")
 

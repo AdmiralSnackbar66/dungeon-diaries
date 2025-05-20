@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Passive Perception"]
+aliases:
+- Passive Perception
 ---
 # Passive Perception
-*Source: Player's Handbook (2024) p. 372* 
+*Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 Passive Perception is a score that reflects a creature's general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
 

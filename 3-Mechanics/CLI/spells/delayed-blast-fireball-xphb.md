@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Delayed Blast Fireball"]
+aliases:
+- Delayed Blast Fireball
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  
@@ -27,14 +28,14 @@ aliases: ["Delayed Blast Fireball"]
 
 A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
 
-The spell's base damage is `dice:12d6|noform|noparens|avg` (`12d6`), and the damage increases by `dice:1d6|noform|noparens|avg` (`1d6`) whenever your turn ends and the spell hasn't ended.
+The spell's base damage is `dice:12d6|noform|noparens|avg` (`12d6`), and the damage increases by `dice:1d6|noform|noparens|avg` (`d6`) whenever your turn ends and the spell hasn't ended.
 
 If a creature touches the glowing bead before the spell ends, that creature makes a Dexterity saving throw. On a failed save, the spell ends, causing the bead to explode. On a successful save, the creature can throw the bead up to 40 feet. If the thrown bead enters a creature's space or collides with a solid object, the spell ends, and the bead explodes.
 
 When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md).
 
-**Using a Higher-Level Spell Slot.** The base damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 7.
+**Using a Higher-Level Spell Slot.** The base damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each spell slot level above 7.
 
-**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

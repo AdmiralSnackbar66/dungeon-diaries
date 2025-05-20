@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/undead
 statblock: inline
-aliases: ["Flameskull"]
+statblock-link: "#^statblock"
+aliases:
+- Flameskull
 ---
 # [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull-xmm.md)
 *Source: Monster Manual (2024) p. 120*  
@@ -51,17 +53,20 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 "ac": !!int "13"
 "hp": !!int "40"
 "hit_dice": "9d4 + 18"
+"modifier": !!int "3"
 "stats":
-- !!int "1"
-- !!int "17"
-- !!int "14"
-- !!int "16"
-- !!int "10"
-- !!int "11"
+  - !!int "1"
+  - !!int "17"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "11"
 "speed": "5 ft., fly 40 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "2"
-  "Arcana": !!int "5"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
 "condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
   \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
@@ -70,32 +75,32 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 "languages": "Common plus two other languages"
 "cr": "4"
 "traits":
-- "desc": "The flameskull casts one of the following spells, requiring no Somatic\
-    \ or Material components and using Intelligence as the spellcasting ability (spell\
-    \ save DC 13):\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
-    \n1/day: [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\n\n2/day:\
-    \ [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md) (level 2 version)"
-  "name": "Spellcasting"
-- "desc": "The flameskull sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-    \ in a 15-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ for an additional 15 feet."
-  "name": "Illumination"
-- "desc": "The flameskull has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "If the flameskull is destroyed, it regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ in 1 hour unless Holy Water is sprinkled on its remains or the [Dispel Evil\
-    \ and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell is cast\
-    \ on them."
-  "name": "Undead Restoration"
+  - "desc": "The flameskull sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ in a 15-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ for an additional 15 feet."
+    "name": "Illumination"
+  - "desc": "The flameskull has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "If the flameskull is destroyed, it regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in 1 hour unless Holy Water is sprinkled on its remains or the [Dispel Evil\
+      \ and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell is cast\
+      \ on them."
+    "name": "Undead Restoration"
 "actions":
-- "desc": "The flameskull makes two Fire Ray attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 60 ft. Hit: 13\
-    \ (3d6 + 3) Fire damage."
-  "name": "Fire Ray"
+  - "desc": "The flameskull makes two Fire Ray attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 60 ft. Hit:\
+      \ 13 (3d6 + 3) Fire damage."
+    "name": "Fire Ray"
+  - "desc": "The flameskull casts one of the following spells, requiring no Somatic\
+      \ or Material components and using Intelligence as the spellcasting ability\
+      \ (spell save DC 13):\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
+      \n2/day: [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)\
+      \ (level 2 version)\n\n1/day: [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/undead/token/flameskull-xmm.webp"
 ```
 ^statblock

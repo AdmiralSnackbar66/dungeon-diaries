@@ -36,4 +36,4 @@ Once you finish creating the golem, the book is consumed in eldritch flames. The
 - [Manual of Iron Golems](/3-Mechanics/CLI/items/manual-of-iron-golems-xdmg.md)
 - [Manual of Stone Golems](/3-Mechanics/CLI/items/manual-of-stone-golems-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 277*
+*Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

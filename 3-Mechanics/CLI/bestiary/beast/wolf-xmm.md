@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Wolf"]
+statblock-link: "#^statblock"
+aliases:
+- Wolf
 ---
 # [Wolf](3-Mechanics\CLI\bestiary\beast/wolf-xmm.md)
-*Source: Monster Manual (2024) p. 373, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 373, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,34 +29,37 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "12"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "15"
-- !!int "12"
-- !!int "3"
-- !!int "12"
-- !!int "6"
+  - !!int "14"
+  - !!int "15"
+  - !!int "12"
+  - !!int "3"
+  - !!int "12"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "1/4"
 "traits":
-- "desc": "The wolf has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on attack rolls against a creature if at least one of the wolf's allies is within\
-    \ 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The wolf has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls against a creature if at least one of the wolf's allies is\
+      \ within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.\
-    \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.\
+      \ If the target is a Medium or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Bite"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/wolf-xmm.webp"
 ```
 ^statblock

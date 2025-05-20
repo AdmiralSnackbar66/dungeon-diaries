@@ -16,7 +16,8 @@ classes:
 - Paladin
 - Sorcerer (Divine Soul)
 - Warlock (Celestial Patron)
-aliases: ["Summon Celestial"]
+aliases:
+- Summon Celestial
 ---
 # Summon Celestial
 *5th-level, Conjuration*  
@@ -33,6 +34,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-warlock-xphb-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 323*

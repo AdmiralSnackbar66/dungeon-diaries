@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Grick Ancient"]
+statblock-link: "#^statblock"
+aliases:
+- Grick Ancient
 ---
 # [Grick Ancient](3-Mechanics\CLI\bestiary\aberration/grick-ancient-xmm.md)
 *Source: Monster Manual (2024) p. 158*  
@@ -35,34 +37,36 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
 "ac": !!int "18"
 "hp": !!int "135"
 "hit_dice": "18d10 + 36"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "16"
-- !!int "15"
-- !!int "4"
-- !!int "14"
-- !!int "9"
+  - !!int "18"
+  - !!int "16"
+  - !!int "15"
+  - !!int "4"
+  - !!int "14"
+  - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "6"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
 "cr": "7"
 "actions":
-- "desc": "The grick makes one Beak attack, one Slam attack, and one Tentacles attack."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 22 (4d8 + 4) Piercing damage."
-  "name": "Beak"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Slam"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-    \ condition (escape DC 14) from all four tentacles."
-  "name": "Tentacles"
+  - "desc": "The grick makes one Beak attack, one Slam attack, and one Tentacles attack."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 22 (4d8 + 4) Piercing damage."
+    "name": "Beak"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 7 (1d6 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Slam"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 15 (2d10 + 4) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 14) from all four tentacles."
+    "name": "Tentacles"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-ancient-xmm.webp"
 ```
 ^statblock

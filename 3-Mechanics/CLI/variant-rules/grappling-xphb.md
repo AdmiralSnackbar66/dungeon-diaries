@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Grappling"]
+aliases:
+- Grappling
 ---
 # Grappling
-*Source: Player's Handbook (2024) p. 367* 
+*Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 A creature can grapple another creature. Characters typically grapple by using an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). Many [monsters](/3-Mechanics/CLI/variant-rules/monster-xphb.md) have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules.
 

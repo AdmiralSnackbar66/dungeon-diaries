@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/bard
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Bard"]
+aliases:
+- Bard
 ---
 # Bard
-*Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 

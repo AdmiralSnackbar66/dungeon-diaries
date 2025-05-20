@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/rogue/swashbuckler
-aliases: ["Swashbuckler"]
+aliases:
+- Swashbuckler
 ---
 # Swashbuckler
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  

@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/small
 - ttrpg-cli/monster/type/elemental
 statblock: inline
-aliases: ["Magmin"]
+statblock-link: "#^statblock"
+aliases:
+- Magmin
 ---
 # [Magmin](3-Mechanics\CLI\bestiary\elemental/magmin-xmm.md)
-*Source: Monster Manual (2024) p. 200. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 200. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Magmin
 
@@ -33,37 +35,38 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
 "ac": !!int "14"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
+"modifier": !!int "2"
 "stats":
-- !!int "7"
-- !!int "15"
-- !!int "12"
-- !!int "8"
-- !!int "11"
-- !!int "10"
+  - !!int "7"
+  - !!int "15"
+  - !!int "12"
+  - !!int "8"
+  - !!int "11"
+  - !!int "10"
 "speed": "30 ft."
 "damage_immunities": "fire"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ignan)"
 "cr": "1/2"
 "traits":
-- "desc": "The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each\
-    \ creature in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the magmin. Failure: 7 (2d6) Fire damage. Success: Half\
-    \ damage."
-  "name": "Death Burst"
+  - "desc": "The magmin explodes when it dies. Dexterity Saving Throw: DC 11, each\
+      \ creature in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the magmin. Failure: 7 (2d6) Fire damage. Success: Half\
+      \ damage."
+    "name": "Death Burst"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage. If\
-    \ the target is a creature or a flammable object that isn't being worn or carried,\
-    \ it starts [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
-  "name": "Touch"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Fire damage.\
+      \ If the target is a creature or a flammable object that isn't being worn or\
+      \ carried, it starts [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
+    "name": "Touch"
 "bonus_actions":
-- "desc": "The magmin sets itself ablaze or extinguishes its flames. While ablaze,\
-    \ the magmin sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-    \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ for an additional 10 feet."
-  "name": "Ignited Illumination"
+  - "desc": "The magmin sets itself ablaze or extinguishes its flames. While ablaze,\
+      \ the magmin sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ for an additional 10 feet."
+    "name": "Ignited Illumination"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/elemental/token/magmin-xmm.webp"
 ```
 ^statblock

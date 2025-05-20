@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/4th-level
@@ -11,12 +12,14 @@ tags:
 - ttrpg-cli/spell/subclass/clockwork-sorcery
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
+- Artificer
 - Bard
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer (Clockwork Sorcery)
 - Wizard
-aliases: ["Summon Construct"]
+aliases:
+- Summon Construct
 ---
 # Summon Construct
 *4th-level, Conjuration*  
@@ -33,6 +36,6 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 324*

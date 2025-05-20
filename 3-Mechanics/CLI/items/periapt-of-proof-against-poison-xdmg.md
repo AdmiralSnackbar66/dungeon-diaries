@@ -16,4 +16,4 @@ aliases:
 
 This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, you have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition and Poison damage
 
-*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

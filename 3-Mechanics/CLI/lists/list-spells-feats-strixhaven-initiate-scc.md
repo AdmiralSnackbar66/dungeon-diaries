@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/strixhaven-initiate
-aliases: ["Spells for Strixhaven Initiate"]
+aliases:
+- Spells for Strixhaven Initiate
 ---
 # Spells for Strixhaven Initiate
 
@@ -79,6 +80,7 @@ aliases: ["Spells for Strixhaven Initiate"]
 - [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md "XPHB") 
 - [Snare](/3-Mechanics/CLI/spells/snare-xge.md "XGE") 
 - [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") 
+- [Tasha's Caustic Brew](/3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md "TCE") 
 - [Tasha's Hideous Laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") 
 - [Tenser's Floating Disk](/3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md "XPHB") 
 - [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") 

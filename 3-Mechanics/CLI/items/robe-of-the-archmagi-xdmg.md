@@ -29,4 +29,4 @@ You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving
 
 Your spell save DC and spell attack bonus each increase by 2.
 
-*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

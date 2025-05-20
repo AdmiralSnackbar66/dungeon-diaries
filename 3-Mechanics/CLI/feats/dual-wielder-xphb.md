@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Dual Wielder"]
+aliases:
+- Dual Wielder
 ---
 # Dual Wielder
 *Source: Player's Handbook (2024) p. 203*  

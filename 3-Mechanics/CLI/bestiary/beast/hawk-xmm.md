@@ -13,10 +13,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Hawk"]
+statblock-link: "#^statblock"
+aliases:
+- Hawk
 ---
 # [Hawk](3-Mechanics\CLI\bestiary\beast/hawk-xmm.md)
-*Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -30,25 +32,27 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "3"
 "stats":
-- !!int "5"
-- !!int "16"
-- !!int "8"
-- !!int "2"
-- !!int "14"
-- !!int "6"
+  - !!int "5"
+  - !!int "16"
+  - !!int "8"
+  - !!int "2"
+  - !!int "14"
+  - !!int "6"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  "Perception": !!int "6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 1 Slashing damage."
-  "name": "Talons"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 1 Slashing damage."
+    "name": "Talons"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/hawk-xmm.webp"
 ```
 ^statblock

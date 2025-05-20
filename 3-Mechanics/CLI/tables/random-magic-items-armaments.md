@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Random Magic Items - Armaments"]
+aliases:
+- Random Magic Items - Armaments
 ---
 # Random Magic Items - Armaments
 *Source: Dungeon Master's Guide (2024) p. 328* 

@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Deck of Many Things (13 Cards)"]
+aliases:
+- Deck of Many Things (13 Cards)
 ---
 # Deck of Many Things (13 Cards)
-*Source: Dungeon Master's Guide (2024) p. 250*  
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.
 
@@ -59,7 +60,7 @@ You gain the service of a [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm
 
 ### Moon
 ![](/3-Mechanics/CLI/decks/img/deck-of-many-things-11-moon.webp#card)
-You gain the ability to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) `dice:1d3|noform|noparens|avg` (`1d3`) times.
+You gain the ability to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) `dice:1d3|noform|noparens|avg` (`d3`) times.
 
 ### Rogue
 ![](/3-Mechanics/CLI/decks/img/deck-of-many-things-06-rogue.webp#card)

@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration
 statblock: inline
-aliases: ["Grimlock"]
+statblock-link: "#^statblock"
+aliases:
+- Grimlock
 ---
 # [Grimlock](3-Mechanics\CLI\bestiary\aberration/grimlock-xmm.md)
-*Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 160. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Grimlock
 
@@ -51,27 +53,31 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 "ac": !!int "11"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "1"
 "stats":
-- !!int "16"
-- !!int "12"
-- !!int "12"
-- !!int "9"
-- !!int "8"
-- !!int "6"
+  - !!int "16"
+  - !!int "12"
+  - !!int "12"
+  - !!int "9"
+  - !!int "8"
+  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Athletics": !!int "5"
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
+  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "blindsight 30 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
-    \ plus 2 (1d4) Psychic damage."
-  "name": "Bone Cudgel"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage\
+      \ plus 2 (d4) Psychic damage."
+    "name": "Bone Cudgel"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/grimlock-xmm.webp"
 ```
 ^statblock

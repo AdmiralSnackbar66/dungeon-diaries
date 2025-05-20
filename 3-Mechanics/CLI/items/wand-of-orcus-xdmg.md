@@ -7,11 +7,12 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/wand
 aliases: 
 - "Wand of Orcus"
 ---
 # Wand of Orcus
-*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), artifact (requires attunement)*  
+*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), wand, artifact (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/wand-of-orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning

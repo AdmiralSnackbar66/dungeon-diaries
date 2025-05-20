@@ -12,7 +12,8 @@ classes:
 - Bard
 - Sorcerer
 - Wizard
-aliases: ["Mass Polymorph"]
+aliases:
+- Mass Polymorph
 ---
 # Mass Polymorph
 *9th-level, Transmutation*  

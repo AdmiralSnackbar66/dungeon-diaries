@@ -17,4 +17,4 @@ This wooden broom functions like a mundane broom until you stand astride it and 
 
 As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can send the broom to travel alone to a destination within 1 mile of you if you name the location and are familiar with it. The broom comes back to you when you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action and use a command word if the broom is still within 1 mile of you.
 
-*Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

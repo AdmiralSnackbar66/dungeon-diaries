@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Religious Service"]
+aliases:
+- Religious Service
 ---
 # Religious Service
 *Source: Xanathar's Guide to Everything p. 131* 

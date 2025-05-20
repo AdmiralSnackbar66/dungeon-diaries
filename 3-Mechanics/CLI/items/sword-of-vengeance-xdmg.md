@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Sword of Vengeance"
 - "Glaive of Vengeance"

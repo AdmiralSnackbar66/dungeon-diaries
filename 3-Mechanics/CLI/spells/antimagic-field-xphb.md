@@ -16,7 +16,8 @@ classes:
 - Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Antimagic Field"]
+aliases:
+- Antimagic Field
 ---
 # Antimagic Field
 *8th-level, Abjuration*  
@@ -35,6 +36,6 @@ Ongoing spells, except those cast by an Artifact or a deity, are suppressed in t
 
 [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) has no effect on the aura, and the auras created by different [Antimagic Field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md) spells don't nullify each other.
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

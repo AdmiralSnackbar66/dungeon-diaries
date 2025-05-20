@@ -3,25 +3,30 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/warlock
-aliases: ["Warlock Spells"]
+aliases:
+- Warlock Spells
 ---
 # Warlock Spells
 
 ## Cantrip
 
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md "XPHB")
+- [Booming Blade](/3-Mechanics/CLI/spells/booming-blade-tce.md "TCE") (\*)
 - [Chill Touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md "XPHB")
 - [Create Bonfire](/3-Mechanics/CLI/spells/create-bonfire-xge.md "XGE")
 - [Eldritch Blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md "XPHB")
 - [Friends](/3-Mechanics/CLI/spells/friends-xphb.md "XPHB")
 - [Frostbite](/3-Mechanics/CLI/spells/frostbite-xge.md "XGE")
+- [Green-Flame Blade](/3-Mechanics/CLI/spells/green-flame-blade-tce.md "TCE") (\*)
 - [Infestation](/3-Mechanics/CLI/spells/infestation-xge.md "XGE")
+- [Lightning Lure](/3-Mechanics/CLI/spells/lightning-lure-tce.md "TCE") (\*)
 - [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB")
 - [Magic Stone](/3-Mechanics/CLI/spells/magic-stone-xge.md "XGE")
-- [Mind Sliver](/3-Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB")
+- [Mind Sliver](/3-Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB") (\*)
 - [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB")
 - [Poison Spray](/3-Mechanics/CLI/spells/poison-spray-xphb.md "XPHB")
 - [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB")
+- [Sword Burst](/3-Mechanics/CLI/spells/sword-burst-tce.md "TCE") (\*)
 - [Thunderclap](/3-Mechanics/CLI/spells/thunderclap-xphb.md "XPHB")
 - [Toll the Dead](/3-Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB")
 - [True Strike](/3-Mechanics/CLI/spells/true-strike-xphb.md "XPHB")
@@ -74,12 +79,15 @@ aliases: ["Warlock Spells"]
 - [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB")
 - [Hunger of Hadar](/3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md "XPHB")
 - [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB")
+- [Intellect Fortress](/3-Mechanics/CLI/spells/intellect-fortress-tce.md "TCE") (\*)
 - [Magic Circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md "XPHB")
 - [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md "XPHB")
 - [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md "XPHB")
-- [Summon Fey](/3-Mechanics/CLI/spells/summon-fey-xphb.md "XPHB")
+- [Spirit Shroud](/3-Mechanics/CLI/spells/spirit-shroud-tce.md "TCE") (\*)
+- [Summon Fey](/3-Mechanics/CLI/spells/summon-fey-xphb.md "XPHB") (\*)
 - [Summon Lesser Demons](/3-Mechanics/CLI/spells/summon-lesser-demons-xge.md "XGE")
-- [Summon Undead](/3-Mechanics/CLI/spells/summon-undead-xphb.md "XPHB")
+- [Summon Shadowspawn](/3-Mechanics/CLI/spells/summon-shadowspawn-tce.md "TCE") (\*)
+- [Summon Undead](/3-Mechanics/CLI/spells/summon-undead-xphb.md "XPHB") (\*)
 - [Thunder Step](/3-Mechanics/CLI/spells/thunder-step-xge.md "XGE")
 - [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md "XPHB")
 - [Vampiric Touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB")
@@ -94,7 +102,7 @@ aliases: ["Warlock Spells"]
 - [Hallucinatory Terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md "XPHB")
 - [Shadow of Moil](/3-Mechanics/CLI/spells/shadow-of-moil-xge.md "XGE")
 - [Sickening Radiance](/3-Mechanics/CLI/spells/sickening-radiance-xge.md "XGE")
-- [Summon Aberration](/3-Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB")
+- [Summon Aberration](/3-Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB") (\*)
 - [Summon Greater Demon](/3-Mechanics/CLI/spells/summon-greater-demon-xge.md "XGE")
 
 ## 5th Level
@@ -107,12 +115,12 @@ aliases: ["Warlock Spells"]
 - [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB")
 - [Infernal Calling](/3-Mechanics/CLI/spells/infernal-calling-xge.md "XGE")
 - [Jallarzi's Storm of Radiance](/3-Mechanics/CLI/spells/jallarzis-storm-of-radiance-xphb.md "XPHB")
-- [Mislead](/3-Mechanics/CLI/spells/mislead-xphb.md "XPHB")
+- [Mislead](/3-Mechanics/CLI/spells/mislead-xphb.md "XPHB") (\*)
 - [Negative Energy Flood](/3-Mechanics/CLI/spells/negative-energy-flood-xge.md "XGE")
-- [Planar Binding](/3-Mechanics/CLI/spells/planar-binding-xphb.md "XPHB")
+- [Planar Binding](/3-Mechanics/CLI/spells/planar-binding-xphb.md "XPHB") (\*)
 - [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md "XPHB")
 - [Synaptic Static](/3-Mechanics/CLI/spells/synaptic-static-xphb.md "XPHB")
-- [Teleportation Circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB")
+- [Teleportation Circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB") (\*)
 - [Wall of Light](/3-Mechanics/CLI/spells/wall-of-light-xge.md "XGE")
 
 ## 6th Level
@@ -131,13 +139,15 @@ aliases: ["Warlock Spells"]
 - [Mental Prison](/3-Mechanics/CLI/spells/mental-prison-xge.md "XGE")
 - [Scatter](/3-Mechanics/CLI/spells/scatter-xge.md "XGE")
 - [Soul Cage](/3-Mechanics/CLI/spells/soul-cage-xge.md "XGE")
-- [Summon Fiend](/3-Mechanics/CLI/spells/summon-fiend-xphb.md "XPHB")
+- [Summon Fiend](/3-Mechanics/CLI/spells/summon-fiend-xphb.md "XPHB") (\*)
 - [Tasha's Bubbling Cauldron](/3-Mechanics/CLI/spells/tashas-bubbling-cauldron-xphb.md "XPHB")
+- [Tasha's Otherworldly Guise](/3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md "TCE") (\*)
 - [True Seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md "XPHB")
 
 ## 7th Level
 
 - [Crown of Stars](/3-Mechanics/CLI/spells/crown-of-stars-xge.md "XGE")
+- [Dream of the Blue Veil](/3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md "TCE") (\*)
 - [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md "XPHB")
 - [Finger of Death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md "XPHB")
 - [Forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md "XPHB")
@@ -156,10 +166,11 @@ aliases: ["Warlock Spells"]
 ## 9th Level
 
 - [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")
+- [Blade of Disaster](/3-Mechanics/CLI/spells/blade-of-disaster-tce.md "TCE") (\*)
 - [Foresight](/3-Mechanics/CLI/spells/foresight-xphb.md "XPHB")
-- [Gate](/3-Mechanics/CLI/spells/gate-xphb.md "XPHB")
+- [Gate](/3-Mechanics/CLI/spells/gate-xphb.md "XPHB") (\*)
 - [Imprisonment](/3-Mechanics/CLI/spells/imprisonment-xphb.md "XPHB")
 - [Power Word Kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md "XPHB")
 - [Psychic Scream](/3-Mechanics/CLI/spells/psychic-scream-xge.md "XGE")
 - [True Polymorph](/3-Mechanics/CLI/spells/true-polymorph-xphb.md "XPHB")
-- [Weird](/3-Mechanics/CLI/spells/weird-xphb.md "XPHB")
+- [Weird](/3-Mechanics/CLI/spells/weird-xphb.md "XPHB") (\*)

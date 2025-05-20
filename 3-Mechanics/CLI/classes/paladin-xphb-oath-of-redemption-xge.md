@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/paladin/redemption
-aliases: ["Oath of Redemption"]
+aliases:
+- Oath of Redemption
 ---
 # Oath of Redemption
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
@@ -112,7 +113,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `dice:1d6|noform|noparens|avg` (`1d6`) + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `dice:1d6|noform|noparens|avg` (`d6`) + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Emissary of Redemption (Level 20)
 

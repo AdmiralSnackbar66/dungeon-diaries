@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Middle-Class Carousing Complications"]
+aliases:
+- Middle-Class Carousing Complications
 ---
 # Middle-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 

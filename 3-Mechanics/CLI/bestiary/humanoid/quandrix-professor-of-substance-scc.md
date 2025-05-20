@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
 statblock: inline
-aliases: ["Quandrix Professor of Substance"]
+statblock-link: "#^statblock"
+aliases:
+- Quandrix Professor of Substance
 ---
 # [Quandrix Professor of Substance](3-Mechanics\CLI\bestiary\humanoid/quandrix-professor-of-substance-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 209*  
@@ -29,69 +31,73 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 "ac": !!int "12"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
+"modifier": !!int "2"
 "stats":
-- !!int "11"
-- !!int "14"
-- !!int "14"
-- !!int "19"
-- !!int "14"
-- !!int "13"
+  - !!int "11"
+  - !!int "14"
+  - !!int "14"
+  - !!int "19"
+  - !!int "14"
+  - !!int "13"
 "speed": "30 ft."
 "saves":
-  "Charisma": !!int "4"
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "7"
-  "Constitution": !!int "5"
+  - "constitution": "+5"
+  - "intelligence": "+7"
+  - "wisdom": "+5"
+  - "charisma": "+4"
 "skillsaves":
-  "Nature": !!int "7"
-  "Investigation": !!int "10"
-  "Perception": !!int "5"
-  "Arcana": !!int "10"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+10"
+  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+    "desc": "+10"
+  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+    "desc": "+7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
 "damage_resistances": "force"
 "senses": "passive Perception 15"
 "languages": "Common plus any four languages"
 "cr": "7"
-"traits":
-- "desc": "The professor casts one of the following spells, requiring no material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 15):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
-    \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [mending](/3-Mechanics/CLI/spells/mending-xphb.md)\
-    \ (as an action)\n\n1/day each: [creation](/3-Mechanics/CLI/spells/creation-xphb.md)\
-    \ (as an action), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md),\
-    \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The professor makes two Spatial Blade attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: +7 to hit (the target can't benefit from\
-    \ cover less than total cover), reach 5 ft. or range 120 ft., one target. Hit:\
-    \ 13 (2d8 + 4) force damage, or 22 (4d8 + 4) force damage if the professor is\
-    \ Large or larger, and the professor can push the target horizontally up to 10\
-    \ feet away."
-  "name": "Spatial Blade"
+  - "desc": "The professor makes two Spatial Blade attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Spell Attack: +7 to hit (the target can't benefit\
+      \ from cover less than total cover), reach 5 ft. or range 120 ft., one target.\
+      \ Hit: 13 (2d8 + 4) force damage, or 22 (4d8 + 4) force damage if the professor\
+      \ is Large or larger, and the professor can push the target horizontally up\
+      \ to 10 feet away."
+    "name": "Spatial Blade"
+  - "desc": "The professor casts one of the following spells, requiring no material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 15):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [mending](/3-Mechanics/CLI/spells/mending-xphb.md)\
+      \ (as an action)\n\n1/day each: [creation](/3-Mechanics/CLI/spells/creation-xphb.md)\
+      \ (as an action), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md),\
+      \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "The professor magically alters its physical form until it uses this bonus\
-    \ action again, until it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ or dies, or until it dismisses the effect (no action required). Choose one of\
-    \ the following options:"
-  "name": "Dilation (Recharge 5-6)"
-- "desc": "The professor becomes Large if there is sufficient room for it to grow.\
-    \ It has advantage on attack rolls and on ability checks and saving throws that\
-    \ rely on Strength."
-  "name": "Expand"
-- "desc": "The professor becomes Small. Its walking speed increases to 60 feet, attack\
-    \ rolls against it have disadvantage, and it has advantage on ability checks and\
-    \ saving throws that rely on Dexterity."
-  "name": "Contract"
+  - "desc": "The professor magically alters its physical form until it uses this bonus\
+      \ action again, until it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ or dies, or until it dismisses the effect (no action required). Choose one\
+      \ of the following options:"
+    "name": "Dilation (Recharge 5-6)"
+  - "desc": "The professor becomes Large if there is sufficient room for it to grow.\
+      \ It has advantage on attack rolls and on ability checks and saving throws that\
+      \ rely on Strength."
+    "name": "Expand"
+  - "desc": "The professor becomes Small. Its walking speed increases to 60 feet,\
+      \ attack rolls against it have disadvantage, and it has advantage on ability\
+      \ checks and saving throws that rely on Dexterity."
+    "name": "Contract"
 "reactions":
-- "desc": "When the professor is hit by an attack roll, it can increase its AC by\
-    \ 3 against that attack, potentially causing it to miss. The professor can then\
-    \ teleport, along with any equipment it is wearing or carrying, up to 30 feet\
-    \ to an unoccupied space it can see."
-  "name": "Avoidant Translation (2/Day)"
+  - "desc": "When the professor is hit by an attack roll, it can increase its AC by\
+      \ 3 against that attack, potentially causing it to miss. The professor can then\
+      \ teleport, along with any equipment it is wearing or carrying, up to 30 feet\
+      \ to an unoccupied space it can see."
+    "name": "Avoidant Translation (2/Day)"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/quandrix-professor-of-substance-scc.webp"
 ```
 ^statblock

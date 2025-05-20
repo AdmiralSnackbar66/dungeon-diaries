@@ -9,12 +9,15 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/2nd-level
+- ttrpg-cli/spell/race/triton
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/circle-of-the-sea
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/evoker
+- ttrpg-cli/spell/subclass/the-fathomless
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Bard (College of Lore)
@@ -24,9 +27,12 @@ classes:
 - Ranger
 - Rogue (Arcane Trickster)
 - Sorcerer
+- Warlock (The Fathomless)
+- Warlock (The Genie)
 - Wizard
 - Wizard (Evoker)
-aliases: ["Gust of Wind"]
+aliases:
+- Gust of Wind
 ---
 # Gust of Wind
 *2nd-level, Evocation*  
@@ -45,6 +51,6 @@ The gust disperses gas or vapor, and it extinguishes candles and similar unprote
 
 As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your later turns, you can change the direction in which the Line blasts from you.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Druid (Circle of the Sea)](/3-Mechanics/CLI/lists/list-spells-classes-druid-xphb-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](/3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Druid (Circle of the Sea)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

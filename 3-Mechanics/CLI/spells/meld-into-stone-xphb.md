@@ -12,6 +12,7 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/the-genie
 classes:
 - Bard
 - Bard (College of Lore)
@@ -19,7 +20,9 @@ classes:
 - Druid
 - Ranger
 - Sorcerer (Divine Soul)
-aliases: ["Meld into Stone"]
+- Warlock (The Genie)
+aliases:
+- Meld into Stone
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  
@@ -36,6 +39,6 @@ While merged with the stone, you can't see what occurs outside it, and any Wisdo
 
 Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals `dice:6d6|noform|noparens|avg` (`6d6`) Force damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 Force damage to you. If expelled, you move into an unoccupied space closest to where you first entered and have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (The Genie)](/3-Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

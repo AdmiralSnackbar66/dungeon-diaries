@@ -4,10 +4,11 @@ cssclasses: json5e-race
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/race/halfling
-aliases: ["Halfling"]
+aliases:
+- Halfling
 ---
 # Halfling
-*Source: Player's Handbook (2024) p. 193*  
+*Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/races/img/halfling.webp#right)
 
 - **Ability Scores**: None

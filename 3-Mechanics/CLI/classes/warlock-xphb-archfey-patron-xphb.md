@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/warlock/archfey
-aliases: ["Archfey Patron"]
+aliases:
+- Archfey Patron
 ---
 # Archfey Patron
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
@@ -72,7 +73,7 @@ In addition, whenever you cast that spell, you can choose one of the following a
 
 #### Refreshing Step
 
-Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains `dice:1d10|noform|noparens|avg` (`1d10`) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
+Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains `dice:1d10|noform|noparens|avg` (`d10`) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 #### Taunting Step
 

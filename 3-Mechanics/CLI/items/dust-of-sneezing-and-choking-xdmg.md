@@ -18,4 +18,4 @@ As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can throw the du
 
 On a failed save, a creature begins sneezing uncontrollably; it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition and is suffocating. The creature repeats the save at the end of each of its turns, ending the effect on itself on a success. The effect also ends on any creature targeted by a [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell.
 
-*Source: Dungeon Master's Guide (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

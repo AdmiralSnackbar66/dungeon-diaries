@@ -7,7 +7,8 @@ tags:
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/order
-aliases: ["Anubis"]
+aliases: 
+- Anubis
 ---
 # Anubis
 *Source: Player's Handbook p. 299, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

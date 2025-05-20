@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Settlement Tables and Tracker; Tavern Names"]
+aliases:
+- Settlement Tables and Tracker; Tavern Names
 ---
 # Settlement Tables and Tracker; Tavern Names
 *Source: Dungeon Master's Guide (2024) p. 93* 
@@ -36,4 +37,4 @@ aliases: ["Settlement Tables and Tracker; Tavern Names"]
 | 20 | The Witch and | Dragon |
 ^tavern-names
 
-*Roll a separate `dice:d20|noform|noparens|avg` (`d20`) for each part of the tavern's name.
+*Roll a separate `dice:d20\|noform\|noparens\|avg` (`d20`) for each part of the tavern's name.

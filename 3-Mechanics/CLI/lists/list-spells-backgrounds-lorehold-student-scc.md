@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/background/lorehold-student
-aliases: ["Spells for Lorehold Student"]
+aliases:
+- Spells for Lorehold Student
 ---
 # Spells for Lorehold Student
 

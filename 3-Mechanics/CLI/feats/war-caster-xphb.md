@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["War Caster"]
+aliases:
+- War Caster
 ---
 # War Caster
 *Source: Player's Handbook (2024) p. 209*  

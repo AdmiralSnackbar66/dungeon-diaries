@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/construct
 statblock: inline
-aliases: ["Helmed Horror"]
+statblock-link: "#^statblock"
+aliases:
+- Helmed Horror
 ---
 # [Helmed Horror](3-Mechanics\CLI\bestiary\construct/helmed-horror-xmm.md)
 *Source: Monster Manual (2024) p. 166*  
@@ -46,16 +48,18 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "ac": !!int "20"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "13"
-- !!int "16"
-- !!int "10"
-- !!int "10"
-- !!int "10"
+  - !!int "18"
+  - !!int "13"
+  - !!int "16"
+  - !!int "10"
+  - !!int "10"
+  - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
   \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
@@ -66,21 +70,22 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "languages": "understands Common plus one other language but can't speak"
 "cr": "4"
 "traits":
-- "desc": "The helmed horror has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
-- "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
-    \ choices include [Heat Metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md), [Lightning\
-    \ Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md), and [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)."
-  "name": "Spell Immunity"
+  - "desc": "The helmed horror has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
+  - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
+      \ choices include [Heat Metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md),\
+      \ [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md), and [Magic\
+      \ Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)."
+    "name": "Spell Immunity"
 "actions":
-- "desc": "The helmed horror makes two Arcane Sword attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage\
-    \ plus 5 (1d10) Force damage."
-  "name": "Arcane Sword"
+  - "desc": "The helmed horror makes two Arcane Sword attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage\
+      \ plus 5 (d10) Force damage."
+    "name": "Arcane Sword"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/construct/token/helmed-horror-xmm.webp"
 ```
 ^statblock

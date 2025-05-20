@@ -20,4 +20,4 @@ This prism has 50 charges. While you are holding it, you can take a [Magic](/3-M
 
 When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 GP.
 
-*Source: Dungeon Master's Guide (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

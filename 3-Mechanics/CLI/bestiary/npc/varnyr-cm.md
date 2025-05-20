@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/humanoid/elf
 statblock: inline
-aliases: ["Varnyr"]
+statblock-link: "#^statblock"
+aliases:
+- Varnyr
 ---
 # [Varnyr](3-Mechanics\CLI\bestiary\npc/varnyr-cm.md)
 *Source: Candlekeep Mysteries p. 63*  
@@ -24,37 +26,41 @@ Varnyr is a senior scribe who has spent centuries at Candlekeep. She loves the b
 "ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "1"
 "stats":
-- !!int "11"
-- !!int "12"
-- !!int "11"
-- !!int "12"
-- !!int "14"
-- !!int "16"
+  - !!int "11"
+  - !!int "12"
+  - !!int "11"
+  - !!int "12"
+  - !!int "14"
+  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  "Deception": !!int "5"
-  "Insight": !!int "4"
-  "Persuasion": !!int "5"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Elvish"
 "cr": "1/8"
 "traits":
-- "desc": "Varnyr has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-    \ and magic can't put Varnyr to sleep."
-  "name": "Fey Ancestry"
+  - "desc": "Varnyr has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+      \ and magic can't put Varnyr to sleep."
+    "name": "Fey Ancestry"
 "actions":
-- "desc": "Varnyr makes two attacks."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4)\
-    \ bludgeoning damage."
-  "name": "Cane"
+  - "desc": "Varnyr makes two attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (d4)\
+      \ bludgeoning damage."
+    "name": "Cane"
 "reactions":
-- "desc": "Varnyr adds 2 to their AC against one melee attack that would hit it. To\
-    \ do so, Varnyr must see the attacker and be wielding a melee weapon."
-  "name": "Parry"
+  - "desc": "Varnyr adds 2 to their AC against one melee attack that would hit it.\
+      \ To do so, Varnyr must see the attacker and be wielding a melee weapon."
+    "name": "Parry"
 "source":
-- "CM"
+  - "CM"
 "image": "/3-Mechanics/CLI/bestiary/npc/token/varnyr-cm.webp"
 ```
 ^statblock

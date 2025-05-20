@@ -4,7 +4,8 @@ cssclasses: json5e-hazard
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/hazard/env
-aliases: ["Planar Effects"]
+aliases:
+- Planar Effects
 ---
 # Planar Effects
 *Environmental Hazard*  

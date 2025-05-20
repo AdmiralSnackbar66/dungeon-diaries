@@ -12,7 +12,8 @@ classes:
 - Bard
 - Druid
 - Ranger
-aliases: ["Guardian of Nature"]
+aliases:
+- Guardian of Nature
 ---
 # Guardian of Nature
 *4th-level, Transmutation*  
@@ -32,7 +33,7 @@ Bestial fur covers your body, your facial features become feral, and you gain th
 - Your walking speed increases by 10 feet.  
 - You gain [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.  
 - You make Strength-based attack rolls with advantage.  
-- Your melee weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage on a hit.  
+- Your melee weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`d6`) force damage on a hit.  
 
 ## Great Tree
 

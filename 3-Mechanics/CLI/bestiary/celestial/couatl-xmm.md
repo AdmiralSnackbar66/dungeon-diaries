@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/celestial
 statblock: inline
-aliases: ["Couatl"]
+statblock-link: "#^statblock"
+aliases:
+- Couatl
 ---
 # [Couatl](3-Mechanics\CLI\bestiary\celestial/couatl-xmm.md)
-*Source: Monster Manual (2024) p. 82. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 82. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Couatl
 
@@ -37,56 +39,56 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
 "ac": !!int "19"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
+"modifier": !!int "5"
 "stats":
-- !!int "16"
-- !!int "20"
-- !!int "17"
-- !!int "18"
-- !!int "20"
-- !!int "18"
+  - !!int "16"
+  - !!int "20"
+  - !!int "17"
+  - !!int "18"
+  - !!int "20"
+  - !!int "18"
 "speed": "30 ft., fly 90 ft."
 "saves":
-  "Wisdom": !!int "7"
-  "Constitution": !!int "5"
+  - "constitution": "+5"
+  - "wisdom": "+7"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "psychic, radiant"
 "senses": "truesight 120 ft., passive Perception 15"
 "languages": "all; telepathy 120 ft."
 "cr": "4"
 "traits":
-- "desc": "The couatl casts one of the following spells, requiring no spell components\
-    \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-    \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-    \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-    \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
-    \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-    \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-    \ required to maintain the spell)\n\n1/day each: [Create Food and Water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md),\
-    \ [Dream](/3-Mechanics/CLI/spells/dream-xphb.md), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-    \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The couatl casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Lesser\
-    \ Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
-    \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n2/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-    \ [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)"
-  "name": "Divine Aid (2/Day)"
-- "desc": "The couatl's thoughts can't be read by any means, and other creatures can\
-    \ communicate with it telepathically only if it allows them."
-  "name": "Shielded Mind"
+  - "desc": "The couatl's thoughts can't be read by any means, and other creatures\
+      \ can communicate with it telepathically only if it allows them."
+    "name": "Shielded Mind"
 "actions":
-- "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (1d12 + 5) Piercing damage,\
-    \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-    \ until the end of the couatl's next turn."
-  "name": "Bite"
-- "desc": "Strength Saving Throw: DC 15, one Medium or smaller creature the couatl\
-    \ can see within 5 feet. Failure: 8 (1d6 + 5) Bludgeoning damage. The target\
-    \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-    \ DC 13), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-    \ condition until the grapple ends."
-  "name": "Constrict"
+  - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (1d12 + 5) Piercing damage,\
+      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the end of the couatl's next turn."
+    "name": "Bite"
+  - "desc": "Strength Saving Throw: DC 15, one Medium or smaller creature the couatl\
+      \ can see within 5 feet. Failure: 8 (1d6 + 5) Bludgeoning damage. The target\
+      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 13), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ condition until the grapple ends."
+    "name": "Constrict"
+  - "desc": "The couatl casts one of the following spells, requiring no spell components\
+      \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
+      \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
+      \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ required to maintain the spell)\n\n1/day each: [Create Food and Water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md),\
+      \ [Dream](/3-Mechanics/CLI/spells/dream-xphb.md), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The couatl casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Lesser\
+      \ Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
+    "name": "Divine Aid (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/celestial/token/couatl-xmm.webp"
 ```
 ^statblock

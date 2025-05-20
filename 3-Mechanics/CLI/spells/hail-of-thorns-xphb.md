@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/conjuration
 classes:
 - Ranger
-aliases: ["Hail of Thorns"]
+aliases:
+- Hail of Thorns
 ---
 # Hail of Thorns
 *1st-level, Conjuration*  
@@ -19,9 +20,9 @@ aliases: ["Hail of Thorns"]
 - **Components:** V
 - **Duration:** Instantaneous
 
-As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking `dice:1d10|noform|noparens|avg` (`1d10`) Piercing damage on a failed save or half as much damage on a successful one.
+As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking `dice:1d10|noform|noparens|avg` (`d10`) Piercing damage on a failed save or half as much damage on a successful one.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(1d10)` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d10|noform|noparens|avg|text(d10)` for each spell slot level above 1.
 
 **Classes**: [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 

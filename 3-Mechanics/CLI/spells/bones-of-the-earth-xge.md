@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Bones of the Earth"]
+aliases:
+- Bones of the Earth
 ---
 # Bones of the Earth
 *6th-level, Transmutation*  

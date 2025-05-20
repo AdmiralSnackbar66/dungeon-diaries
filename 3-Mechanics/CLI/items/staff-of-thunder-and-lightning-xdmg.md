@@ -42,4 +42,4 @@ You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to cause a bolt
 
 You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to cause the staff to produce a thunderclap audible out to 600 feet. Every creature within a 60-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you makes a DC 17 Constitution saving throw. On a failed save, a creature takes `dice:2d6|noform|noparens|avg` (`2d6`) Thunder damage and has the [Deafened](/3-Mechanics/CLI/conditions.md#Deafened) condition for 1 minute. On a successful save, a creature takes half as much damage only.
 
-*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Tenser's Transformation"]
+aliases:
+- Tenser's Transformation
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  

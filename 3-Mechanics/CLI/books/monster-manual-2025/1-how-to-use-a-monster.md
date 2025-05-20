@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xmm
-aliases: ["How to Use a Monster"]
+aliases:
+- How to Use a Monster
 ---
 # How to Use a Monster
 *Source: Monster Manual (2025), p. 5* 
@@ -291,5 +292,5 @@ The monster has a limited number of Legendary Action uses, and that number is sp
 Some parts of a stat block have restrictions on the number of times they can be used. Here are the most common ways that usage is limited:
 
 - **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) to regain expended uses. For example, a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) that includes "1/Day" means the [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) can be taken once and that the monster must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) to take it again.  
-- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `dice:1d6|noform|noparens|avg` (`1d6`). If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `dice:1d6|noform|noparens|avg` (`1d6`).  
+- **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `dice:1d6|noform|noparens|avg` (`d6`). If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `dice:1d6|noform|noparens|avg` (`d6`).  
 - **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) to use it again.

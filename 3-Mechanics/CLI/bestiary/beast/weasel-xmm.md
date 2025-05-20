@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Weasel"]
+statblock-link: "#^statblock"
+aliases:
+- Weasel
 ---
 # [Weasel](3-Mechanics\CLI\bestiary\beast/weasel-xmm.md)
-*Source: Monster Manual (2024) p. 372, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 372, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,27 +29,31 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "3"
 "stats":
-- !!int "3"
-- !!int "16"
-- !!int "8"
-- !!int "2"
-- !!int "12"
-- !!int "3"
+  - !!int "3"
+  - !!int "16"
+  - !!int "8"
+  - !!int "2"
+  - !!int "12"
+  - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "3"
-  "Acrobatics": !!int "5"
+  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "0"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/weasel-xmm.webp"
 ```
 ^statblock

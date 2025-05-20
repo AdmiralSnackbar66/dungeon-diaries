@@ -12,7 +12,8 @@ classes:
 - Bard
 - Wizard
 - Wizard (Illusionist)
-aliases: ["Simulacrum"]
+aliases:
+- Simulacrum
 ---
 # Simulacrum
 *7th-level, Illusion*  
@@ -31,6 +32,6 @@ If the simulacrum takes damage, the only way to restore its [Hit Points](/3-Mech
 
 The simulacrum lasts until it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
-**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

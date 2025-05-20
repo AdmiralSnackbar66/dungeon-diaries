@@ -12,7 +12,8 @@ classes:
 - Bard
 - Druid
 - Ranger
-aliases: ["Conjure Woodland Beings"]
+aliases:
+- Conjure Woodland Beings
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  
@@ -27,8 +28,8 @@ You conjure nature spirits that flit around you in a 10-foot Emanation for the d
 
 In addition, you can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) action as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) for the spell's duration.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each spell slot level above 4.
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Bastion Events"]
+aliases:
+- Bastion Events
 ---
 # Bastion Events
 *Source: Dungeon Master's Guide (2024) p. 350* 

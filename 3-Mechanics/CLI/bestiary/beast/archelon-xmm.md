@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast/dinosaur
 statblock: inline
-aliases: ["Archelon"]
+statblock-link: "#^statblock"
+aliases:
+- Archelon
 ---
 # [Archelon](3-Mechanics\CLI\bestiary\beast/archelon-xmm.md)
-*Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,29 +28,31 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "17"
 "hp": !!int "90"
 "hit_dice": "12d12 + 12"
+"modifier": !!int "3"
 "stats":
-- !!int "18"
-- !!int "16"
-- !!int "13"
-- !!int "4"
-- !!int "14"
-- !!int "6"
+  - !!int "18"
+  - !!int "16"
+  - !!int "13"
+  - !!int "4"
+  - !!int "14"
+  - !!int "6"
 "speed": "20 ft., swim 80 ft."
 "skillsaves":
-  "Stealth": !!int "5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "4"
 "traits":
-- "desc": "The archelon can breathe air and water."
-  "name": "Amphibious"
+  - "desc": "The archelon can breathe air and water."
+    "name": "Amphibious"
 "actions":
-- "desc": "The archelon makes two Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage."
-  "name": "Bite"
+  - "desc": "The archelon makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/archelon-xmm.webp"
 ```
 ^statblock

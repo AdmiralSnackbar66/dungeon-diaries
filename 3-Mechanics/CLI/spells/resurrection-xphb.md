@@ -12,7 +12,8 @@ classes:
 - Bard
 - Cleric
 - Sorcerer (Divine Soul)
-aliases: ["Resurrection"]
+aliases:
+- Resurrection
 ---
 # Resurrection
 *7th-level, Necromancy*  
@@ -31,6 +32,6 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Te
 
 Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can't cast spells again, and you have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md).
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

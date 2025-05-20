@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey
 statblock: inline
-aliases: ["Blink Dog"]
+statblock-link: "#^statblock"
+aliases:
+- Blink Dog
 ---
 # [Blink Dog](3-Mechanics\CLI\bestiary\fey/blink-dog-xmm.md)
-*Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Blink Dog
 
@@ -32,28 +34,31 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
 "ac": !!int "13"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "3"
 "stats":
-- !!int "12"
-- !!int "17"
-- !!int "12"
-- !!int "10"
-- !!int "13"
-- !!int "11"
+  - !!int "12"
+  - !!int "17"
+  - !!int "12"
+  - !!int "10"
+  - !!int "13"
+  - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "5"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Elvish and Sylvan but can't speak them"
 "cr": "1/4"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage."
+    "name": "Bite"
 "bonus_actions":
-- "desc": "The dog teleports up to 40 feet to an unoccupied space it can see."
-  "name": "Teleport (Recharge 4-6)"
+  - "desc": "The dog teleports up to 40 feet to an unoccupied space it can see."
+    "name": "Teleport (Recharge 4-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/blink-dog-xmm.webp"
 ```
 ^statblock

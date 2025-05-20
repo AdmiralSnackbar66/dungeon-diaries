@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 1: Playing the Game"]
+aliases:
+- Chapter 1: Playing the Game
 ---
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 
@@ -110,13 +111,13 @@ When you need to roll dice, the rules tell you how many dice to roll of a certai
 
 #### Percentile Dice
 
-The rules sometimes refer to a `dice:d100|noform|noparens|avg` (`d100`). While such dice exist, the common way to roll `dice:1d100|noform|noparens|avg` (`1d100`) uses a pair of ten-sided dice numbered from 0 to 9, known as percentile dice. One die—that you designate before rolling—gives the tens digit, and the other gives the ones digit. If you roll a 7 for the tens digit and a 1 for the ones digit, for example, the number rolled is 71. Two 0s represent 100.
+The rules sometimes refer to a `dice:d100|noform|noparens|avg` (`d100`). While such dice exist, the common way to roll `dice:1d100|noform|noparens|avg` (`d100`) uses a pair of ten-sided dice numbered from 0 to 9, known as percentile dice. One die—that you designate before rolling—gives the tens digit, and the other gives the ones digit. If you roll a 7 for the tens digit and a 1 for the ones digit, for example, the number rolled is 71. Two 0s represent 100.
 
 Some ten-sided dice are numbered in tens (00, 10, 20, and so on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71, and 00 and 0 is 100.
 
 #### D3
 
-The same *d* notation appears in the expression "`dice:1d3|noform|noparens|avg` (`1d3`)," even though it's rare to find dice with only three sides. To simulate rolling `dice:1d3|noform|noparens|avg` (`1d3`), roll `dice:1d6|noform|noparens|avg` (`1d6`) and divide the number rolled by 2 (round up).
+The same *d* notation appears in the expression "`dice:1d3|noform|noparens|avg` (`d3`)," even though it's rare to find dice with only three sides. To simulate rolling `dice:1d3|noform|noparens|avg` (`d3`), roll `dice:1d6|noform|noparens|avg` (`d6`) and divide the number rolled by 2 (round up).
 
 ### What Are Dice For?
 
@@ -128,7 +129,7 @@ The 20-sided die (`dice:d20|noform|noparens|avg` (`d20`)) is the most important 
 
 #### Damage
 
-The most common use for dice other than the `dice:d20|noform|noparens|avg` (`d20`) is to determine damage. When you make a successful attack roll (one kind of [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [Dagger](/3-Mechanics/CLI/items/dagger-xphb.md) uses `dice:1d4|noform|noparens|avg` (`1d4`), a [Greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md) uses `dice:1d12|noform|noparens|avg` (`1d12`), and a [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) spell uses `dice:8d6|noform|noparens|avg` (`8d6`).
+The most common use for dice other than the `dice:d20|noform|noparens|avg` (`d20`) is to determine damage. When you make a successful attack roll (one kind of [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)), you roll damage to see how effective the attack is. When you cast a spell, you might also roll damage. Different weapons and spells use different dice for damage. For example, a [Dagger](/3-Mechanics/CLI/items/dagger-xphb.md) uses `dice:1d4|noform|noparens|avg` (`d4`), a [Greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md) uses `dice:1d12|noform|noparens|avg` (`d12`), and a [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) spell uses `dice:8d6|noform|noparens|avg` (`8d6`).
 
 #### Random Tables
 
@@ -947,7 +948,7 @@ When attacking with a weapon, you add your ability modifier—the same modifier 
 
 ### Critical Hits
 
-When you score a Critical Hit, you deal extra damage. Roll the attack's damage dice twice, add them together, and add any relevant modifiers as normal. For example, if you score a Critical Hit with a [Dagger](/3-Mechanics/CLI/items/dagger-xphb.md), roll `dice:2d4|noform|noparens|avg` (`2d4`) for the damage rather than `dice:1d4|noform|noparens|avg` (`1d4`), and add your relevant ability modifier. If the attack involves other damage dice, such as from the Rogue's Sneak Attack feature, you also roll those dice twice.
+When you score a Critical Hit, you deal extra damage. Roll the attack's damage dice twice, add them together, and add any relevant modifiers as normal. For example, if you score a Critical Hit with a [Dagger](/3-Mechanics/CLI/items/dagger-xphb.md), roll `dice:2d4|noform|noparens|avg` (`2d4`) for the damage rather than `dice:1d4|noform|noparens|avg` (`d4`), and add your relevant ability modifier. If the attack involves other damage dice, such as from the Rogue's Sneak Attack feature, you also roll those dice twice.
 
 ### Saving Throws and Damage
 
@@ -1044,7 +1045,7 @@ If you take any damage while you have 0 Hit Points, you suffer a Death Saving Th
 
 You can take the [Help](/3-Mechanics/CLI/actions.md#Help) action to try to stabilize a creature with 0 Hit Points, which requires a successful DC 10 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check.
 
-A Stable creature doesn't make Death Saving Throws even though it has 0 Hit Points, but it still has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making Death Saving Throws again. A Stable creature that isn't healed regains 1 Hit Point after `dice:1d4|noform|noparens|avg` (`1d4`) hours.
+A Stable creature doesn't make Death Saving Throws even though it has 0 Hit Points, but it still has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition. If the creature takes damage, it stops being Stable and starts making Death Saving Throws again. A Stable creature that isn't healed regains 1 Hit Point after `dice:1d4|noform|noparens|avg` (`d4`) hours.
 
 ### Temporary Hit Points
 

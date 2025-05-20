@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Background; I became..."]
+aliases:
+- Background; I became...
 ---
 # Background; I became...
 *Source: Xanathar's Guide to Everything p. 64* 

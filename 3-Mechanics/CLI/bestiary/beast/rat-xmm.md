@@ -11,10 +11,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Rat"]
+statblock-link: "#^statblock"
+aliases:
+- Rat
 ---
 # [Rat](3-Mechanics\CLI\bestiary\beast/rat-xmm.md)
-*Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -28,29 +30,31 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "10"
 "hp": !!int "1"
 "hit_dice": "1d4 - 1"
+"modifier": !!int "0"
 "stats":
-- !!int "2"
-- !!int "11"
-- !!int "9"
-- !!int "2"
-- !!int "10"
-- !!int "4"
+  - !!int "2"
+  - !!int "11"
+  - !!int "9"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  "Perception": !!int "2"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+2"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
 "cr": "0"
 "traits":
-- "desc": "The rat doesn't provoke Opportunity Attacks when it moves out of an enemy's\
-    \ reach."
-  "name": "Agile"
+  - "desc": "The rat doesn't provoke Opportunity Attacks when it moves out of an enemy's\
+      \ reach."
+    "name": "Agile"
 "actions":
-- "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage."
+    "name": "Bite"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/rat-xmm.webp"
 ```
 ^statblock

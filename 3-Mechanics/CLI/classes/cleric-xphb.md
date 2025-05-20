@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/cleric
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Cleric"]
+aliases:
+- Cleric
 ---
 # Cleric
-*Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -127,7 +128,7 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 ### Divine Spark (Level 2)
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you point your [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `dice:1d8|noform|noparens|avg` (`1d8`) and add your Wisdom modifier. You either restore [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
+As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you point your [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll `dice:1d8|noform|noparens|avg` (`d8`) and add your Wisdom modifier. You either restore [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
 You roll an additional `dice:d8|noform|noparens|avg` (`d8`) when you reach Cleric levels `dice:2d8|noform|noparens|avg|text(7)` (`2d8`), `dice:3d8|noform|noparens|avg|text(13)` (`3d8`), and `dice:4d8|noform|noparens|avg|text(18)` (`4d8`).
 
@@ -145,7 +146,7 @@ You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-im
 
 ### Sear Undead (Level 5)
 
-Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of `dice:1d8|noform|noparens|avg` (`1d8`)) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.
+Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of `dice:1d8|noform|noparens|avg` (`d8`)) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll's total. This damage doesn't end the turn effect.
 
 ### Subclass Feature (Level 6)
 
@@ -157,7 +158,7 @@ Divine power infuses you in battle. You gain one of the following options of you
 
 ### Divine Strike (Level 7)
 
-Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra `dice:1d8|noform|noparens|avg` (`1d8`) Necrotic or Radiant damage (your choice).
+Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra `dice:1d8|noform|noparens|avg` (`d8`) Necrotic or Radiant damage (your choice).
 
 ### Potent Spellcasting (Level 7)
 

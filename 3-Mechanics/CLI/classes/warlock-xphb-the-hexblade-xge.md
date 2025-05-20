@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/warlock/hexblade
-aliases: ["The Hexblade"]
+aliases:
+- The Hexblade
 ---
 # The Hexblade
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/sorcerer
-aliases: ["Sorcerer Spells"]
+aliases:
+- Sorcerer Spells
 ---
 # Sorcerer Spells
 
@@ -11,6 +12,7 @@ aliases: ["Sorcerer Spells"]
 
 - [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md "XPHB")
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md "XPHB")
+- [Booming Blade](/3-Mechanics/CLI/spells/booming-blade-tce.md "TCE") (\*)
 - [Chill Touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md "XPHB")
 - [Control Flames](/3-Mechanics/CLI/spells/control-flames-xge.md "XGE")
 - [Create Bonfire](/3-Mechanics/CLI/spells/create-bonfire-xge.md "XGE")
@@ -19,13 +21,15 @@ aliases: ["Sorcerer Spells"]
 - [Fire Bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB")
 - [Friends](/3-Mechanics/CLI/spells/friends-xphb.md "XPHB")
 - [Frostbite](/3-Mechanics/CLI/spells/frostbite-xge.md "XGE")
+- [Green-Flame Blade](/3-Mechanics/CLI/spells/green-flame-blade-tce.md "TCE") (\*)
 - [Gust](/3-Mechanics/CLI/spells/gust-xge.md "XGE")
 - [Infestation](/3-Mechanics/CLI/spells/infestation-xge.md "XGE")
 - [Light](/3-Mechanics/CLI/spells/light-xphb.md "XPHB")
+- [Lightning Lure](/3-Mechanics/CLI/spells/lightning-lure-tce.md "TCE") (\*)
 - [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB")
 - [Mending](/3-Mechanics/CLI/spells/mending-xphb.md "XPHB")
 - [Message](/3-Mechanics/CLI/spells/message-xphb.md "XPHB")
-- [Mind Sliver](/3-Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB")
+- [Mind Sliver](/3-Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB") (\*)
 - [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB")
 - [Mold Earth](/3-Mechanics/CLI/spells/mold-earth-xge.md "XGE")
 - [Poison Spray](/3-Mechanics/CLI/spells/poison-spray-xphb.md "XPHB")
@@ -34,6 +38,7 @@ aliases: ["Sorcerer Spells"]
 - [Shape Water](/3-Mechanics/CLI/spells/shape-water-xge.md "XGE")
 - [Shocking Grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB")
 - [Sorcerous Burst](/3-Mechanics/CLI/spells/sorcerous-burst-xphb.md "XPHB")
+- [Sword Burst](/3-Mechanics/CLI/spells/sword-burst-tce.md "TCE") (\*)
 - [Thunderclap](/3-Mechanics/CLI/spells/thunderclap-xphb.md "XPHB")
 - [True Strike](/3-Mechanics/CLI/spells/true-strike-xphb.md "XPHB")
 
@@ -54,7 +59,7 @@ aliases: ["Sorcerer Spells"]
 - [False Life](/3-Mechanics/CLI/spells/false-life-xphb.md "XPHB")
 - [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md "XPHB")
 - [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB")
-- [Grease](/3-Mechanics/CLI/spells/grease-xphb.md "XPHB")
+- [Grease](/3-Mechanics/CLI/spells/grease-xphb.md "XPHB") (\*)
 - [Ice Knife](/3-Mechanics/CLI/spells/ice-knife-xphb.md "XPHB")
 - [Jump](/3-Mechanics/CLI/spells/jump-xphb.md "XPHB")
 - [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md "XPHB")
@@ -64,6 +69,7 @@ aliases: ["Sorcerer Spells"]
 - [Silent Image](/3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB")
 - [Silvery Barbs](/3-Mechanics/CLI/spells/silvery-barbs-scc.md "SCC")
 - [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md "XPHB")
+- [Tasha's Caustic Brew](/3-Mechanics/CLI/spells/tashas-caustic-brew-tce.md "TCE") (\*)
 - [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB")
 - [Witch Bolt](/3-Mechanics/CLI/spells/witch-bolt-xphb.md "XPHB")
 
@@ -84,15 +90,15 @@ aliases: ["Sorcerer Spells"]
 - [Earthbind](/3-Mechanics/CLI/spells/earthbind-xge.md "XGE")
 - [Enhance Ability](/3-Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB")
 - [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB")
-- [Flame Blade](/3-Mechanics/CLI/spells/flame-blade-xphb.md "XPHB")
-- [Flaming Sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB")
+- [Flame Blade](/3-Mechanics/CLI/spells/flame-blade-xphb.md "XPHB") (\*)
+- [Flaming Sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB") (\*)
 - [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB")
 - [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
 - [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB")
 - [Kinetic Jaunt](/3-Mechanics/CLI/spells/kinetic-jaunt-scc.md "SCC")
 - [Knock](/3-Mechanics/CLI/spells/knock-xphb.md "XPHB")
 - [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md "XPHB")
-- [Magic Weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB")
+- [Magic Weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB") (\*)
 - [Maximilian's Earthen Grasp](/3-Mechanics/CLI/spells/maximilians-earthen-grasp-xge.md "XGE")
 - [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB")
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB")
@@ -106,6 +112,7 @@ aliases: ["Sorcerer Spells"]
 - [Snilloc's Snowball Swarm](/3-Mechanics/CLI/spells/snillocs-snowball-swarm-xge.md "XGE")
 - [Spider Climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md "XPHB")
 - [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB")
+- [Tasha's Mind Whip](/3-Mechanics/CLI/spells/tashas-mind-whip-tce.md "TCE") (\*)
 - [Vortex Warp](/3-Mechanics/CLI/spells/vortex-warp-scc.md "SCC")
 - [Warding Wind](/3-Mechanics/CLI/spells/warding-wind-xge.md "XGE")
 - [Web](/3-Mechanics/CLI/spells/web-xphb.md "XPHB")
@@ -128,6 +135,7 @@ aliases: ["Sorcerer Spells"]
 - [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB")
 - [Haste](/3-Mechanics/CLI/spells/haste-xphb.md "XPHB")
 - [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB")
+- [Intellect Fortress](/3-Mechanics/CLI/spells/intellect-fortress-tce.md "TCE") (\*)
 - [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB")
 - [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md "XPHB")
 - [Melf's Minute Meteors](/3-Mechanics/CLI/spells/melfs-minute-meteors-xge.md "XGE")
@@ -138,7 +146,7 @@ aliases: ["Sorcerer Spells"]
 - [Thunder Step](/3-Mechanics/CLI/spells/thunder-step-xge.md "XGE")
 - [Tidal Wave](/3-Mechanics/CLI/spells/tidal-wave-xge.md "XGE")
 - [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md "XPHB")
-- [Vampiric Touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB")
+- [Vampiric Touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md "XPHB") (\*)
 - [Wall of Water](/3-Mechanics/CLI/spells/wall-of-water-xge.md "XGE")
 - [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB")
 - [Water Walk](/3-Mechanics/CLI/spells/water-walk-xphb.md "XPHB")
@@ -151,7 +159,7 @@ aliases: ["Sorcerer Spells"]
 - [Confusion](/3-Mechanics/CLI/spells/confusion-xphb.md "XPHB")
 - [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md "XPHB")
 - [Dominate Beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md "XPHB")
-- [Fire Shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md "XPHB")
+- [Fire Shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md "XPHB") (\*)
 - [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md "XPHB")
 - [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md "XPHB")
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
@@ -165,7 +173,7 @@ aliases: ["Sorcerer Spells"]
 ## 5th Level
 
 - [Animate Objects](/3-Mechanics/CLI/spells/animate-objects-xphb.md "XPHB")
-- [Bigby's Hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md "XPHB")
+- [Bigby's Hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md "XPHB") (\*)
 - [Cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md "XPHB")
 - [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB")
 - [Control Winds](/3-Mechanics/CLI/spells/control-winds-xge.md "XGE")
@@ -192,7 +200,7 @@ aliases: ["Sorcerer Spells"]
 - [Circle of Death](/3-Mechanics/CLI/spells/circle-of-death-xphb.md "XPHB")
 - [Disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md "XPHB")
 - [Eyebite](/3-Mechanics/CLI/spells/eyebite-xphb.md "XPHB")
-- [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md "XPHB")
+- [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md "XPHB") (\*)
 - [Globe of Invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md "XPHB")
 - [Investiture of Flame](/3-Mechanics/CLI/spells/investiture-of-flame-xge.md "XGE")
 - [Investiture of Ice](/3-Mechanics/CLI/spells/investiture-of-ice-xge.md "XGE")
@@ -201,15 +209,17 @@ aliases: ["Sorcerer Spells"]
 - [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md "XPHB")
 - [Mental Prison](/3-Mechanics/CLI/spells/mental-prison-xge.md "XGE")
 - [Move Earth](/3-Mechanics/CLI/spells/move-earth-xphb.md "XPHB")
-- [Otiluke's Freezing Sphere](/3-Mechanics/CLI/spells/otilukes-freezing-sphere-xphb.md "XPHB")
+- [Otiluke's Freezing Sphere](/3-Mechanics/CLI/spells/otilukes-freezing-sphere-xphb.md "XPHB") (\*)
 - [Scatter](/3-Mechanics/CLI/spells/scatter-xge.md "XGE")
 - [Sunbeam](/3-Mechanics/CLI/spells/sunbeam-xphb.md "XPHB")
+- [Tasha's Otherworldly Guise](/3-Mechanics/CLI/spells/tashas-otherworldly-guise-tce.md "TCE") (\*)
 - [True Seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md "XPHB")
 
 ## 7th Level
 
 - [Crown of Stars](/3-Mechanics/CLI/spells/crown-of-stars-xge.md "XGE")
 - [Delayed Blast Fireball](/3-Mechanics/CLI/spells/delayed-blast-fireball-xphb.md "XPHB")
+- [Dream of the Blue Veil](/3-Mechanics/CLI/spells/dream-of-the-blue-veil-tce.md "TCE") (\*)
 - [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md "XPHB")
 - [Finger of Death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md "XPHB")
 - [Fire Storm](/3-Mechanics/CLI/spells/fire-storm-xphb.md "XPHB")
@@ -223,7 +233,7 @@ aliases: ["Sorcerer Spells"]
 ## 8th Level
 
 - [Abi-Dalzim's Horrid Wilting](/3-Mechanics/CLI/spells/abi-dalzims-horrid-wilting-xge.md "XGE")
-- [Demiplane](/3-Mechanics/CLI/spells/demiplane-xphb.md "XPHB")
+- [Demiplane](/3-Mechanics/CLI/spells/demiplane-xphb.md "XPHB") (\*)
 - [Dominate Monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md "XPHB")
 - [Earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md "XPHB")
 - [Incendiary Cloud](/3-Mechanics/CLI/spells/incendiary-cloud-xphb.md "XPHB")
@@ -232,6 +242,7 @@ aliases: ["Sorcerer Spells"]
 
 ## 9th Level
 
+- [Blade of Disaster](/3-Mechanics/CLI/spells/blade-of-disaster-tce.md "TCE") (\*)
 - [Gate](/3-Mechanics/CLI/spells/gate-xphb.md "XPHB")
 - [Mass Polymorph](/3-Mechanics/CLI/spells/mass-polymorph-xge.md "XGE")
 - [Meteor Swarm](/3-Mechanics/CLI/spells/meteor-swarm-xphb.md "XPHB")

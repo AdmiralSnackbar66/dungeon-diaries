@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/glory
-aliases: ["Oath of Glory"]
+aliases:
+- Oath of Glory
 ---
 # Oath of Glory
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  

@@ -19,4 +19,4 @@ aliases:
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
 - **Craft.** [Musket](/3-Mechanics/CLI/items/musket-xphb.md), [Pistol](/3-Mechanics/CLI/items/pistol-xphb.md), [Bell](/3-Mechanics/CLI/items/bell-xphb.md), [Bullseye Lantern](/3-Mechanics/CLI/items/bullseye-lantern-xphb.md), [Flask](/3-Mechanics/CLI/items/flask-xphb.md), [Hooded Lantern](/3-Mechanics/CLI/items/hooded-lantern-xphb.md), [Hunting Trap](/3-Mechanics/CLI/items/hunting-trap-xphb.md), [Lock](/3-Mechanics/CLI/items/lock-xphb.md), [Manacles](/3-Mechanics/CLI/items/manacles-xphb.md), [Mirror](/3-Mechanics/CLI/items/mirror-xphb.md), [Shovel](/3-Mechanics/CLI/items/shovel-xphb.md), [Signal Whistle](/3-Mechanics/CLI/items/signal-whistle-xphb.md), [Tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md)  
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

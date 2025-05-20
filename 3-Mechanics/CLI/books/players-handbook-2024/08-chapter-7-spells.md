@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Chapter 7: Spells"]
+aliases:
+- Chapter 7: Spells
 ---
 # Chapter 7: Spells
 *Source: Player's Handbook (2024), p. 235* 
@@ -171,13 +172,13 @@ If the spell normally has no effect on a target that succeeds on a saving throw,
 
 Many spells specify that a target makes a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure. Here's how to calculate the DC for your spells:
 
-<span class='abilityDc'>**Spell save DC**: 8 + your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityDc'>**Spell save DC**: Spellcasting + Proficiency Bonus</span>
 
 #### Attack Rolls
 
 Some spells require the caster to make an attack roll to determine whether the spell hits a target. Here's how to calculate the attack modifier for your spells:
 
-<span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting modifier</span>
+<span class='abilityAttackMod'>**Spell attack modifier**: Spellcasting + Proficiency Bonus</span>
 
 #### Combining Spell Effects
 

@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Thri-kreen Marauder"]
+statblock-link: "#^statblock"
+aliases:
+- Thri-kreen Marauder
 ---
 # [Thri-kreen Marauder](3-Mechanics\CLI\bestiary\monstrosity/thri-kreen-marauder-xmm.md)
 *Source: Monster Manual (2024) p. 306*  
@@ -38,35 +40,39 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 "ac": !!int "15"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "2"
 "stats":
-- !!int "12"
-- !!int "15"
-- !!int "13"
-- !!int "8"
-- !!int "12"
-- !!int "7"
+  - !!int "12"
+  - !!int "15"
+  - !!int "13"
+  - !!int "8"
+  - !!int "12"
+  - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
-  "Survival": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
+  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+    "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Thri-kreen; telepathy 60 ft."
 "cr": "1"
 "actions":
-- "desc": "The thri-kreen makes two attacks, using Gythka or Chatkcha in any combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Slashing damage\
-    \ plus 2 (1d4) Poison damage."
-  "name": "Gythka"
-- "desc": "Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Slashing\
-    \ damage."
-  "name": "Chatkcha"
+  - "desc": "The thri-kreen makes two attacks, using Gythka or Chatkcha in any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d8 + 1) Slashing damage\
+      \ plus 2 (d4) Poison damage."
+    "name": "Gythka"
+  - "desc": "Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Slashing\
+      \ damage."
+    "name": "Chatkcha"
 "bonus_actions":
-- "desc": "The thri-kreen jumps up to 15 feet by spending 5 feet of movement."
-  "name": "Leap"
+  - "desc": "The thri-kreen jumps up to 15 feet by spending 5 feet of movement."
+    "name": "Leap"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-marauder-xmm.webp"
 ```
 ^statblock

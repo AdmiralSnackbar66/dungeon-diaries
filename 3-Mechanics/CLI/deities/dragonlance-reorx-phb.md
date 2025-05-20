@@ -6,7 +6,8 @@ tags:
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
-aliases: ["Reorx"]
+aliases: 
+- Reorx
 ---
 # Reorx
 *Source: Player's Handbook p. 295, Xanathar's Guide to Everything p. 18* 

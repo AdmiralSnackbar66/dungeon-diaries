@@ -8,7 +8,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Death Cultist"]
+statblock-link: "#^statblock"
+aliases:
+- Death Cultist
 ---
 # [Death Cultist](3-Mechanics\CLI\bestiary\humanoid/death-cultist-xmm.md)
 *Source: Monster Manual (2024) p. 86*  
@@ -81,47 +83,50 @@ Cults can organize around any mystical tradition, but many serve supernatural be
 "ac": !!int "17"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
+"modifier": !!int "4"
 "stats":
-- !!int "19"
-- !!int "12"
-- !!int "18"
-- !!int "12"
-- !!int "16"
-- !!int "14"
+  - !!int "19"
+  - !!int "12"
+  - !!int "18"
+  - !!int "12"
+  - !!int "16"
+  - !!int "14"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "6"
-  "Constitution": !!int "7"
+  - "constitution": "+7"
+  - "wisdom": "+6"
 "skillsaves":
-  "Religion": !!int "4"
-  "Insight": !!int "6"
-  "Perception": !!int "6"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+6"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+4"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "8"
-"traits":
-- "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability (spell save DC 14):\n\nAt will: [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md),\
-    \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The cultist makes three attacks, using Dread Scythe or Deathly Ray in any\
-    \ combination."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 9 (1d10 + 4) Slashing damage\
-    \ plus 11 (2d10) Necrotic damage, and the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ until the end of its next turn."
-  "name": "Dread Scythe"
-- "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 22 (4d10) Necrotic damage."
-  "name": "Deathly Ray"
+  - "desc": "The cultist makes three attacks, using Dread Scythe or Deathly Ray in\
+      \ any combination."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 9 (1d10 + 4) Slashing damage\
+      \ plus 11 (2d10) Necrotic damage, and the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ until the end of its next turn."
+    "name": "Dread Scythe"
+  - "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 22 (4d10) Necrotic damage."
+    "name": "Deathly Ray"
+  - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability (spell save DC 14):\n\nAt will: [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md),\
+      \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+    "name": "Spellcasting"
 "bonus_actions":
-- "desc": "Wisdom Saving Throw: DC 14, each creature in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-    \ originating from the cultist. Failure: 14 (4d6) Psychic damage, and the target\
-    \ has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until\
-    \ the end of its next turn. Success: Half damage only."
-  "name": "Spirit Wail (Recharge 5-6)"
+  - "desc": "Wisdom Saving Throw: DC 14, each creature in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the cultist. Failure: 14 (4d6) Psychic damage, and the\
+      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
+      \ until the end of its next turn. Success: Half damage only."
+    "name": "Spirit Wail (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/death-cultist-xmm.webp"
 ```
 ^statblock

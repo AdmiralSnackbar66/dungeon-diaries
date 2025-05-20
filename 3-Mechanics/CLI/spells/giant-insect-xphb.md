@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Druid
-aliases: ["Giant Insect"]
+aliases:
+- Giant Insect
 ---
 # Giant Insect
 *4th-level, Conjuration*  
@@ -29,4 +30,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 279*
+*Source: Player's Handbook (2024) p. 279. Available in the Free Rules (2024)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/race/elf
-aliases: ["Spells for Elf"]
+aliases:
+- Spells for Elf
 ---
 # Spells for Elf
 
@@ -11,6 +12,7 @@ aliases: ["Spells for Elf"]
 
 - [Acid Splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md "XPHB") 
 - [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md "XPHB") 
+- [Booming Blade](/3-Mechanics/CLI/spells/booming-blade-tce.md "TCE") 
 - [Chill Touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md "XPHB") 
 - [Control Flames](/3-Mechanics/CLI/spells/control-flames-xge.md "XGE") 
 - [Create Bonfire](/3-Mechanics/CLI/spells/create-bonfire-xge.md "XGE") 
@@ -20,9 +22,11 @@ aliases: ["Spells for Elf"]
 - [Fire Bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") 
 - [Friends](/3-Mechanics/CLI/spells/friends-xphb.md "XPHB") 
 - [Frostbite](/3-Mechanics/CLI/spells/frostbite-xge.md "XGE") 
+- [Green-Flame Blade](/3-Mechanics/CLI/spells/green-flame-blade-tce.md "TCE") 
 - [Gust](/3-Mechanics/CLI/spells/gust-xge.md "XGE") 
 - [Infestation](/3-Mechanics/CLI/spells/infestation-xge.md "XGE") 
 - [Light](/3-Mechanics/CLI/spells/light-xphb.md "XPHB") 
+- [Lightning Lure](/3-Mechanics/CLI/spells/lightning-lure-tce.md "TCE") 
 - [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") 
 - [Mending](/3-Mechanics/CLI/spells/mending-xphb.md "XPHB") 
 - [Message](/3-Mechanics/CLI/spells/message-xphb.md "XPHB") 
@@ -34,6 +38,7 @@ aliases: ["Spells for Elf"]
 - [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") 
 - [Shape Water](/3-Mechanics/CLI/spells/shape-water-xge.md "XGE") 
 - [Shocking Grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") 
+- [Sword Burst](/3-Mechanics/CLI/spells/sword-burst-tce.md "TCE") 
 - [Thunderclap](/3-Mechanics/CLI/spells/thunderclap-xphb.md "XPHB") 
 - [Toll the Dead](/3-Mechanics/CLI/spells/toll-the-dead-xphb.md "XPHB") 
 - [True Strike](/3-Mechanics/CLI/spells/true-strike-xphb.md "XPHB") 

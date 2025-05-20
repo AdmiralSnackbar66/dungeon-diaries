@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/aberration/gith
 statblock: inline
-aliases: ["Githyanki Knight"]
+statblock-link: "#^statblock"
+aliases:
+- Githyanki Knight
 ---
 # [Githyanki Knight](3-Mechanics\CLI\bestiary\aberration/githyanki-knight-xmm.md)
 *Source: Monster Manual (2024) p. 135*  
@@ -29,7 +31,7 @@ Githyanki were once an ordinary people, but the deeds of a vile mind flayer empi
 
 Ages ago, a humanlike people were conquered by an empire of mind flayers. The illithids manipulated this forgotten people through untold horrors, forced evolution, and psychic reshaping. Eventually one named Gith rose from among the captives and led a rebellion against their oppressors. Gith's followers, who became known as the gith, defeated the mind flayers and shattered their vast empire.
 
-The victory of the gith was short-lived. As Gith was forging her own burgeoning empire, a leader named Zerthimon challenged her. Zerthimon claimed Gith's drive for vengeance and new conquests was evidence of species-wide mental programing laid by the mind flayers, biological manipulation that condemned her people to continued servitude. This claim split the gith into Gith's followers, the githyanki (meaning "followers of Gith"), and Zerthimon's followers, the githzerai (meaning "those who spurn Gith"), and sparked an ongoing conflict.
+The victory of the gith was short-lived. As Gith was forging her own burgeoning empire, a leader named Zerthimon challenged her. Zerthimon claimed Gith's drive for vengeance and new conquests was evidence of species-wide mental programming laid by the mind flayers, biological manipulation that condemned her people to continued servitude. This claim split the gith into Gith's followers, the githyanki (meaning "followers of Gith"), and Zerthimon's followers, the githzerai (meaning "those who spurn Gith"), and sparked an ongoing conflict.
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
@@ -42,46 +44,46 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "ac": !!int "18"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
+"modifier": !!int "5"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "15"
+  - !!int "16"
+  - !!int "14"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "15"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "5"
-  "Intelligence": !!int "5"
-  "Constitution": !!int "5"
+  - "constitution": "+5"
+  - "intelligence": "+5"
+  - "wisdom": "+5"
 "senses": "passive Perception 12"
 "languages": "Common, Gith"
 "cr": "8"
-"traits":
-- "desc": "The githyanki casts one of the following spells, requiring no spell components\
-    \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\nAt\
-    \ will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is\
-    \ Invisible)\n\n1/day each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-    \ [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\n2/day each:\
-    \ [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) (self only), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
-    \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n\
-    \n2/day: [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md)"
-  "name": "Misty Step (2/Day)"
 "actions":
-- "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
-    \ with a use of Spellcasting to cast [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)\
-    \ if available."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage\
-    \ plus 14 (4d6) Psychic damage. Critical Hit: If the target is in an astral\
-    \ body (as with the [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md)\
-    \ spell), the githyanki can cut the silvery cord that tethers the target to its\
-    \ material body instead of dealing damage."
-  "name": "Silver Sword"
+  - "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
+      \ with a use of Spellcasting to cast [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)\
+      \ if available."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage\
+      \ plus 14 (4d6) Psychic damage. Critical Hit: If the target is in an astral\
+      \ body (as with the [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md)\
+      \ spell), the githyanki can cut the silvery cord that tethers the target to\
+      \ its material body instead of dealing damage."
+    "name": "Silver Sword"
+  - "desc": "The githyanki casts one of the following spells, requiring no spell components\
+      \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
+      At will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
+      \ is Invisible)\n\n2/day each: [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\n1/day\
+      \ each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+      \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
+    "name": "Misty Step (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-knight-xmm.webp"
 ```
 ^statblock

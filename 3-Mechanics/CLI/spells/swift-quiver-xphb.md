@@ -8,7 +8,8 @@ tags:
 - ttrpg-cli/spell/school/transmutation
 classes:
 - Ranger
-aliases: ["Swift Quiver"]
+aliases:
+- Swift Quiver
 ---
 # Swift Quiver
 *5th-level, Transmutation*  

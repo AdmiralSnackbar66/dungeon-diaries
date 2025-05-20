@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Treasure Hoards; Random Treasure Hoard"]
+aliases:
+- Treasure Hoards; Random Treasure Hoard
 ---
 # Treasure Hoards; Random Treasure Hoard
 *Source: Dungeon Master's Guide (2024) p. 120* 
@@ -13,7 +14,7 @@ aliases: ["Treasure Hoards; Random Treasure Hoard"]
 | CR | Monetary Treasure | Magic Items |
 |----|-------------------|-------------|
 | 0–4 | `2d4 × 100` (500) GP | `dice:1d4-1\|noform\|noparens\|avg` (`1d4-1`) |
-| 5–10 | `8d10 × 100` (4,400) GP | `dice:1d3\|noform\|noparens\|avg` (`1d3`) |
-| 11–16 | `8d8 × 1,000` (36,000) GP | `dice:1d4\|noform\|noparens\|avg` (`1d4`) |
-| 17+ | `6d10 × 10,000` (330,000) GP | `dice:1d6\|noform\|noparens\|avg` (`1d6`) |
+| 5–10 | `8d10 × 100` (4,400) GP | `dice:1d3\|noform\|noparens\|avg\|text(d3)` |
+| 11–16 | `8d8 × 1,000` (36,000) GP | `dice:1d4\|noform\|noparens\|avg\|text(d4)` |
+| 17+ | `6d10 × 10,000` (330,000) GP | `dice:1d6\|noform\|noparens\|avg\|text(d6)` |
 ^random-treasure-hoard

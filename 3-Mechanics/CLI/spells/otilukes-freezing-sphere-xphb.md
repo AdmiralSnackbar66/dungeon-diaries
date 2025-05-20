@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Otiluke's Freezing Sphere"]
+aliases:
+- Otiluke's Freezing Sphere
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  
@@ -31,8 +32,8 @@ If the globe strikes a body of water, it freezes the water to a depth of 6 inche
 
 You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 6.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each spell slot level above 6.
 
-**Classes**: [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Freezing Sphere")*
+*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Freezing Sphere") and the Free Rules (2024)*

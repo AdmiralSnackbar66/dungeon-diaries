@@ -15,7 +15,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/giant
 statblock: inline
-aliases: ["Ogrillon Ogre"]
+statblock-link: "#^statblock"
+aliases:
+- Ogrillon Ogre
 ---
 # [Ogrillon Ogre](3-Mechanics\CLI\bestiary\giant/ogrillon-ogre-xmm.md)
 *Source: Monster Manual (2024) p. 231*  
@@ -41,25 +43,26 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
 "ac": !!int "12"
 "hp": !!int "52"
 "hit_dice": "7d10 + 14"
+"modifier": !!int "0"
 "stats":
-- !!int "17"
-- !!int "10"
-- !!int "14"
-- !!int "7"
-- !!int "9"
-- !!int "10"
+  - !!int "17"
+  - !!int "10"
+  - !!int "14"
+  - !!int "7"
+  - !!int "9"
+  - !!int "10"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
-  "name": "Battleaxe"
-- "desc": "Melee or Ranged Attack Roll: +5, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 6 (1d6 + 3) Piercing damage."
-  "name": "Javelin"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
+    "name": "Battleaxe"
+  - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 30/120 ft. Hit:\
+      \ 6 (1d6 + 3) Piercing damage."
+    "name": "Javelin"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/giant/token/ogrillon-ogre-xmm.webp"
 ```
 ^statblock

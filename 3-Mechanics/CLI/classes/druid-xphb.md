@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/druid
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Druid"]
+aliases:
+- Druid
 ---
 # Druid
-*Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -194,7 +195,7 @@ Add your Wisdom modifier to the damage you deal with any Druid cantrip.
 
 ### Primal Strike (Level 7)
 
-Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra `dice:1d8|noform|noparens|avg` (`1d8`) Cold, Fire, Lightning, or Thunder damage (choose when you hit).
+Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra `dice:1d8|noform|noparens|avg` (`d8`) Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 ### Ability Score Improvement (Level 8)
 

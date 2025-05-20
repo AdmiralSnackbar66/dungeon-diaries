@@ -20,7 +20,8 @@ classes:
 - Sorcerer
 - Sorcerer (Draconic Sorcery)
 - Wizard
-aliases: ["Dragon's Breath"]
+aliases:
+- Dragon's Breath
 ---
 # Dragon's Breath
 *2nd-level, Transmutation*  
@@ -33,8 +34,8 @@ aliases: ["Dragon's Breath"]
 
 You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poison. Until the spell ends, the target can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to exhale a 15-foot Cone. Each creature in that area makes a Dexterity saving throw, taking `dice:3d6|noform|noparens|avg` (`3d6`) damage of the chosen type on a failed save or half as much damage on a successful one.
 
-**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** The damage increases by `dice:1d6|noform|noparens|avg|text(d6)` for each spell slot level above 2.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

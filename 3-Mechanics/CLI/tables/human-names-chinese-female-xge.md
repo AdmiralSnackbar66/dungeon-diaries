@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – Chinese, Female"]
+aliases:
+- Human Names – Chinese, Female
 ---
 # Human Names – Chinese, Female
 *Source: Xanathar's Guide to Everything p. 181* 

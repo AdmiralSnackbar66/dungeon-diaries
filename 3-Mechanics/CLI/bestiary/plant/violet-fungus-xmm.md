@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Violet Fungus"]
+statblock-link: "#^statblock"
+aliases:
+- Violet Fungus
 ---
 # [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus-xmm.md)
-*Source: Monster Manual (2024) p. 126. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 126. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Slow but mobile, violet fungi rot any flesh they touch with their lashing tendrils.
 
@@ -32,13 +34,14 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "ac": !!int "5"
 "hp": !!int "18"
 "hit_dice": "4d8"
+"modifier": !!int "-5"
 "stats":
-- !!int "3"
-- !!int "1"
-- !!int "10"
-- !!int "1"
-- !!int "3"
-- !!int "1"
+  - !!int "3"
+  - !!int "1"
+  - !!int "10"
+  - !!int "1"
+  - !!int "3"
+  - !!int "1"
 "speed": "5 ft."
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
   \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
@@ -46,12 +49,12 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "languages": ""
 "cr": "1/4"
 "actions":
-- "desc": "The fungus makes two Rotting Touch attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +2, reach 10 ft. Hit: 4 (1d8) Necrotic damage."
-  "name": "Rotting Touch"
+  - "desc": "The fungus makes two Rotting Touch attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +2, reach 10 ft. Hit: 4 (d8) Necrotic damage."
+    "name": "Rotting Touch"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus-xmm.webp"
 ```
 ^statblock

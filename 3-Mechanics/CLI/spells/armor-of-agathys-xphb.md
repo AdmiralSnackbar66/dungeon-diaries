@@ -10,7 +10,8 @@ tags:
 classes:
 - Paladin (Oath of Conquest)
 - Warlock
-aliases: ["Armor of Agathys"]
+aliases:
+- Armor of Agathys
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  
@@ -25,6 +26,6 @@ Protective magical frost surrounds you. You gain 5 [Temporary Hit Points](/3-Mec
 
 **Using a Higher-Level Spell Slot.** The [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) and the Cold damage both increase by 5 for each spell slot level above 1.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-paladin-xphb-oath-of-conquest-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of Conquest)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 243*

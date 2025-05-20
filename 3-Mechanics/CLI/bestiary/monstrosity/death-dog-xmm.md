@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Death Dog"]
+statblock-link: "#^statblock"
+aliases:
+- Death Dog
 ---
 # [Death Dog](3-Mechanics\CLI\bestiary\monstrosity/death-dog-xmm.md)
-*Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Death Dog
 
@@ -50,17 +52,20 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 "ac": !!int "12"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
+"modifier": !!int "2"
 "stats":
-- !!int "15"
-- !!int "14"
-- !!int "14"
-- !!int "3"
-- !!int "13"
-- !!int "6"
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "3"
+  - !!int "13"
+  - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+5"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
   \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
   \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
@@ -68,21 +73,21 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 "languages": ""
 "cr": "1"
 "actions":
-- "desc": "The death dog makes two Bite attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.\
-    \ If the target is a creature, it is subjected to the following effect. Constitution\
-    \ Saving Throw: DC 12. 1st Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ condition. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the target's\
-    \ [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum doesn't\
-    \ return to normal when finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
-    \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-    \ on a success. Subsequent Failures: The [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-    \ target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
-    \ decreases by 5 (1d10)."
-  "name": "Bite"
+  - "desc": "The death dog makes two Bite attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.\
+      \ If the target is a creature, it is subjected to the following effect. Constitution\
+      \ Saving Throw: DC 12. 1st Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the\
+      \ target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ doesn't return to normal when finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
+      \ on a success. Subsequent Failures: The [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ decreases by 5 (d10)."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/death-dog-xmm.webp"
 ```
 ^statblock

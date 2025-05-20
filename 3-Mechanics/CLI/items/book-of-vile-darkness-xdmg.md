@@ -64,13 +64,13 @@ At the DM's discretion, the book might reveal secrets no mortal should know, suc
 
 ## Vile Speech
 
-While the book is on your person, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to recite words from its pages in a foul, dead language. Each time you do so, you take `dice:1d12|noform|noparens|avg` (`1d12`) Psychic damage, and each creature within 15 feet of you takes `dice:3d6|noform|noparens|avg` (`3d6`) Psychic damage unless the creature is a Fiend or an Undead.
+While the book is on your person, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to recite words from its pages in a foul, dead language. Each time you do so, you take `dice:1d12|noform|noparens|avg` (`d12`) Psychic damage, and each creature within 15 feet of you takes `dice:3d6|noform|noparens|avg` (`3d6`) Psychic damage unless the creature is a Fiend or an Undead.
 
 ## Destroying the Book
 
 The Book of Vile Darkness allows pages to be torn from it, but any evil lore contained on those pages finds its way back into the book eventually, usually when a new author adds pages to the tome.
 
-If a [solar](/3-Mechanics/CLI/bestiary/celestial/solar-xmm.md) tears the book in two, the book is destroyed for `dice:1d100|noform|noparens|avg` (`1d100`) years, after which it re-forms in some far corner of the multiverse.
+If a [solar](/3-Mechanics/CLI/bestiary/celestial/solar-xmm.md) tears the book in two, the book is destroyed for `dice:1d100|noform|noparens|avg` (`d100`) years, after which it re-forms in some far corner of the multiverse.
 
 A creature attuned to the book for 100 years can unearth a phrase hidden in the original text that, when translated to Celestial and spoken aloud, destroys both the speaker and the book in a flash of radiance. However, as long as evil exists in the multiverse, the book re-forms `1d10 × 100` years later.
 

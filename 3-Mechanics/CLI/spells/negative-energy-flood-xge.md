@@ -12,7 +12,8 @@ classes:
 - Bard
 - Warlock
 - Wizard
-aliases: ["Negative Energy Flood"]
+aliases:
+- Negative Energy Flood
 ---
 # Negative Energy Flood
 *5th-level, Necromancy*  

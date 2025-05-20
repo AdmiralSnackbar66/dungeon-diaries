@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Candlekeep"]
+aliases:
+- Candlekeep
 ---
 # Candlekeep
 *Source: Candlekeep Mysteries, p. 6* 

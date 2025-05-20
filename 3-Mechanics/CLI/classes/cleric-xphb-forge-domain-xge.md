@@ -5,7 +5,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/domain/forge
 - ttrpg-cli/subclass/cleric/forge
-aliases: ["Forge Domain"]
+aliases:
+- Forge Domain
 ---
 # Forge Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
@@ -50,7 +51,7 @@ aliases: ["Forge Domain"]
 
 ### Forge Domain (Level 3)
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, Reorx, Onatar, Moradin, Hephaestus, and Goibhniu.
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](/3-Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/3-Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/3-Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/3-Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/3-Mechanics/CLI/deities/celtic-goibhniu.md).
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -92,14 +93,14 @@ Starting at 6th level, your mastery of the forge grants you special abilities:
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with the fiery power of the forge. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`d8`) fire damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric <span title="Tasha's Cauldron of Everything">optional feature</span>, which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](/3-Mechanics/CLI/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Saint of Forge and Fire (Level 17)
 

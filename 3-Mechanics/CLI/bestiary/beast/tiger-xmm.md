@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Tiger"]
+statblock-link: "#^statblock"
+aliases:
+- Tiger
 ---
 # [Tiger](3-Mechanics\CLI\bestiary\beast/tiger-xmm.md)
-*Source: Monster Manual (2024) p. 371, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 371, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -26,31 +28,34 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
+"modifier": !!int "3"
 "stats":
-- !!int "17"
-- !!int "16"
-- !!int "14"
-- !!int "3"
-- !!int "12"
-- !!int "8"
+  - !!int "17"
+  - !!int "16"
+  - !!int "14"
+  - !!int "3"
+  - !!int "12"
+  - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  "Stealth": !!int "7"
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.\
-    \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Rend"
+  - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.\
+      \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ condition."
+    "name": "Rend"
 "bonus_actions":
-- "desc": "The tiger takes the Disengage or Hide action."
-  "name": "Nimble Escape"
+  - "desc": "The tiger takes the Disengage or Hide action."
+    "name": "Nimble Escape"
 "source":
-- "XMM"
-- "XPHB"
+  - "XMM"
+  - "XPHB"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/tiger-xmm.webp"
 ```
 ^statblock

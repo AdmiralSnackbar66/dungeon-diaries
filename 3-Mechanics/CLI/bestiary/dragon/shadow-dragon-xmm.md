@@ -10,7 +10,9 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/dragon
 statblock: inline
-aliases: ["Shadow Dragon"]
+statblock-link: "#^statblock"
+aliases:
+- Shadow Dragon
 ---
 # [Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/shadow-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 275*  
@@ -45,80 +47,83 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "ac": !!int "16"
 "hp": !!int "189"
 "hit_dice": "18d12 + 72"
+"modifier": !!int "14"
 "stats":
-- !!int "21"
-- !!int "19"
-- !!int "18"
-- !!int "14"
-- !!int "12"
-- !!int "18"
+  - !!int "21"
+  - !!int "19"
+  - !!int "18"
+  - !!int "14"
+  - !!int "12"
+  - !!int "18"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
-  "Dexterity": !!int "9"
-  "Wisdom": !!int "6"
+  - "dexterity": "+9"
+  - "wisdom": "+6"
 "skillsaves":
-  "Stealth": !!int "14"
-  "Perception": !!int "11"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+11"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+14"
 "damage_resistances": "See Living Shadow"
 "damage_immunities": "necrotic"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "13"
 "traits":
-- "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
-  "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-- "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the dragon has\
-    \ [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to damage that\
-    \ isn't Force, Psychic, or Radiant."
-  "name": "Living Shadow"
-- "desc": "While in sunlight, the dragon has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-    \ on ability checks and attack rolls."
-  "name": "Sunlight Sensitivity"
+  - "desc": "If the dragon fails a saving throw, it can choose to succeed instead."
+    "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
+  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the dragon\
+      \ has [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to damage\
+      \ that isn't Force, Psychic, or Radiant."
+    "name": "Living Shadow"
+  - "desc": "While in sunlight, the dragon has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on ability checks and attack rolls."
+    "name": "Sunlight Sensitivity"
 "actions":
-- "desc": "The dragon makes three Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
-    \ plus 3 (1d6) Necrotic damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 17, each creature in a 60-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: 35 (10d6) Necrotic damage. Success: Half damage. Failure or Success:\
-    \ A Humanoid reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ by this damage dies, and a [Shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md)\
-    \ rises from the corpse. The shadow is under the dragon's control and shares the\
-    \ dragon's [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md) count\
-    \ but acts immediately after the dragon."
-  "name": "Shadow Breath (Recharge 5-6)"
+  - "desc": "The dragon makes three Rend attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 12 (2d6 + 5) Slashing damage\
+      \ plus 3 (d6) Necrotic damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 17, each creature in a 60-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 35 (10d6) Necrotic damage. Success: Half damage. Failure or\
+      \ Success: A Humanoid reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ by this damage dies, and a [Shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md)\
+      \ rises from the corpse. The shadow is under the dragon's control and shares\
+      \ the dragon's [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
+      \ count but acts immediately after the dragon."
+    "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-- "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-    \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the dragon takes\
-    \ the Hide action."
-  "name": "Shadow Stealth"
+  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the dragon\
+      \ takes the Hide action."
+    "name": "Shadow Stealth"
 "legendary_actions":
-- "desc": "The dragon moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
-    \ and it makes one Rend attack."
-  "name": "Pounce"
-- "desc": "The dragon uses Shadow Stealth, and one creature of its choice that it\
-    \ can see within 10 feet of it takes 10 (3d6) Necrotic damage. The dragon can't\
-    \ take this action again until the start of its next turn."
-  "name": "Veil of Shadow"
+  - "desc": "The dragon moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+      \ and it makes one Rend attack."
+    "name": "Pounce"
+  - "desc": "The dragon uses Shadow Stealth, and one creature of its choice that it\
+      \ can see within 10 feet of it takes 10 (3d6) Necrotic damage. The dragon can't\
+      \ take this action again until the start of its next turn."
+    "name": "Veil of Shadow"
 "regional_effects":
-- "desc": "The region around a shadow dragon's lair is twisted by its presence, creating\
-    \ the following effects:"
-  "name": ""
-- "desc": "- Negative Energy Suffusion. Whenever a creature within 1 mile of the\
-    \ lair regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ from a spell, it subtracts 1d10 from the number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ regained.  \n- Stifling Shadows. Within 1 mile of the lair, effects that\
-    \ normally create [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-    \ instead create [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md),\
-    \ and creatures there have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.  "
-  "name": ""
-- "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-  "name": ""
+  - "desc": "The region around a shadow dragon's lair is twisted by its presence,\
+      \ creating the following effects:"
+    "name": ""
+  - "desc": "- Negative Energy Suffusion. Whenever a creature within 1 mile of\
+      \ the lair regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ from a spell, it subtracts d10 from the number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ regained.  \n- Stifling Shadows. Within 1 mile of the lair, effects that\
+      \ normally create [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ instead create [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md),\
+      \ and creatures there have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.  "
+    "name": ""
+  - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
+    "name": ""
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/shadow-dragon-xmm.webp"
 ```
 ^statblock

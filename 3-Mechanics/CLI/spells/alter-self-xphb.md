@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
@@ -14,6 +15,7 @@ tags:
 - ttrpg-cli/spell/subclass/draconic-sorcery
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Fighter (Eldritch Knight)
@@ -21,7 +23,8 @@ classes:
 - Sorcerer
 - Sorcerer (Draconic Sorcery)
 - Wizard
-aliases: ["Alter Self"]
+aliases:
+- Alter Self
 ---
 # Alter Self
 *2nd-level, Transmutation*  
@@ -44,10 +47,10 @@ You alter your appearance. You decide what you look like, including your height,
 
 ## Natural Weapons
 
-You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) to deal damage with that new growth, it deals `dice:1d6|noform|noparens|avg` (`1d6`) damage of the type in parentheses instead of dealing the normal damage for your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
+You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) to deal damage with that new growth, it deals `dice:1d6|noform|noparens|avg` (`d6`) damage of the type in parentheses instead of dealing the normal damage for your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), and you use your spellcasting ability modifier for the attack and damage rolls rather than using Strength.
 
 ## Summary
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Sorcerer (Draconic Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

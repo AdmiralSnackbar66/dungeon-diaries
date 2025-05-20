@@ -12,7 +12,8 @@ classes:
 - Bard
 - Druid
 - Ranger
-aliases: ["Wrath of Nature"]
+aliases:
+- Wrath of Nature
 ---
 # Wrath of Nature
 *5th-level, Evocation*  

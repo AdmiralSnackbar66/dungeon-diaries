@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Shemshime's Bedtime Rhyme"]
+aliases:
+- Shemshime's Bedtime Rhyme
 ---
 # Shemshime's Bedtime Rhyme
 *Source: Candlekeep Mysteries, p. 61* 
@@ -126,7 +127,7 @@ A handful of people reside in the Firefly Cellar while the task of restoring its
 [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) is a [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) with the following changes:
 
 - [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) speaks Common and Elvish, and she has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet. She has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put her to sleep.  
-- Instead of a rapier, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) wields a cane and can use an action to make two melee weapon attacks with it: +3 to hit, reach 5 ft., one target. *Hit*: `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) bludgeoning damage.  
+- Instead of a rapier, [Varnyr](/3-Mechanics/CLI/bestiary/npc/varnyr-cm.md) wields a cane and can use an action to make two melee weapon attacks with it: +3 to hit, reach 5 ft., one target. *Hit*: `dice:1d4|noform|noparens|avg|text(2)` (`d4`) bludgeoning damage.  
 
 #### Personality Trait
 
@@ -206,7 +207,7 @@ She is an animated talker whose exaggerated gesticulations while chatting annoy 
 
 - [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) speaks Common and Druidic, and she has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
 - When [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) moves on her turn in combat, she can double her speed until the end of the turn. Once she uses this ability, she can't use it again until she moves 0 feet on one of her turns.  
-- As an action, [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) can make a melee weapon attack with her claws: +2 to hit, reach 5 ft., one target. *Hit*: `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) slashing damage.  
+- As an action, [K'Tulah](/3-Mechanics/CLI/bestiary/npc/ktulah-cm.md) can make a melee weapon attack with her claws: +2 to hit, reach 5 ft., one target. *Hit*: `dice:1d4|noform|noparens|avg|text(2)` (`d4`) slashing damage.  
 
 #### Personality Trait
 
@@ -353,7 +354,7 @@ The hatch has been targeted by an [arcane lock](/3-Mechanics/CLI/spells/arcane-l
 | dice: d6 | Phenomenon |
 |----------|------------|
 | 1 | For the next 10 minutes, all the fireflies in the lamps flicker out at irregular intervals, leaving the library in darkness for several seconds at a time. |
-| 2 | Random books fly off the shelves. Each creature in areas F1, F2, or F14 must succeed on a DC 13 Dexterity saving throw or take `dice:1d4\|noform\|noparens\|avg\|text(2)` (`1d4`) bludgeoning damage from collisions with the flying books. |
+| 2 | Random books fly off the shelves. Each creature in areas F1, F2, or F14 must succeed on a DC 13 Dexterity saving throw or take `dice:1d4\|noform\|noparens\|avg\|text(2)` (`d4`) bludgeoning damage from collisions with the flying books. |
 | 3 | The library becomes much colder. This drop in temperature lasts until the end of the adventure. |
 | 4 | Three [shadows](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) appear in the same area as the characters. The shadows attack the characters but disappear at the end of their third turn in combat if they have not been destroyed by then. |
 | 5 | [Shemshime](/3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)'s foul magic manifests as a random character's worst nightmare. That character must make a DC 12 Intelligence saving throw. On a failed save, the character takes `dice:2d8\|noform\|noparens\|avg\|text(9)` (`2d8`) psychic damage and is [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of the manifestation, believing it to be real. The manifested nightmare lasts for up to 1 minute, follows the character around, and can't be harmed. The character must repeat the saving throw at the end of each of its turns, ending the illusion on a success or taking `dice:2d8\|noform\|noparens\|avg\|text(9)` (`2d8`) psychic damage on a failed save. |

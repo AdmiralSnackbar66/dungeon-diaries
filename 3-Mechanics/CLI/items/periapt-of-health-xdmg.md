@@ -18,4 +18,4 @@ While wearing this pendant, you can take a [Magic](/3-Mechanics/CLI/actions.md#M
 
 In addition, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition while you wear this pendant.
 
-*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

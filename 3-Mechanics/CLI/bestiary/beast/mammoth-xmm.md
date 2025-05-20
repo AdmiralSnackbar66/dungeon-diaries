@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/huge
 - ttrpg-cli/monster/type/beast
 statblock: inline
-aliases: ["Mammoth"]
+statblock-link: "#^statblock"
+aliases:
+- Mammoth
 ---
 # [Mammoth](3-Mechanics\CLI\bestiary\beast/mammoth-xmm.md)
-*Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -25,35 +27,36 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "13"
 "hp": !!int "126"
 "hit_dice": "11d12 + 55"
+"modifier": !!int "2"
 "stats":
-- !!int "24"
-- !!int "9"
-- !!int "21"
-- !!int "3"
-- !!int "11"
-- !!int "6"
+  - !!int "24"
+  - !!int "9"
+  - !!int "21"
+  - !!int "3"
+  - !!int "11"
+  - !!int "6"
 "speed": "50 ft."
 "saves":
-  "Strength": !!int "10"
-  "Constitution": !!int "8"
+  - "strength": "+10"
+  - "constitution": "+8"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "6"
 "actions":
-- "desc": "The mammoth makes two Gore attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage.\
-    \ If the target is a Huge or smaller creature and the mammoth moved 20+ feet straight\
-    \ toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-    \ condition."
-  "name": "Gore"
+  - "desc": "The mammoth makes two Gore attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing\
+      \ damage. If the target is a Huge or smaller creature and the mammoth moved\
+      \ 20+ feet straight toward it immediately before the hit, the target has the\
+      \ [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+    "name": "Gore"
 "bonus_actions":
-- "desc": "Dexterity Saving Throw: DC 18, one creature within 5 feet that has the\
-    \ [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. Failure: 29 (4d10\
-    \ + 7) Bludgeoning damage. Success: Half damage."
-  "name": "Trample"
+  - "desc": "Dexterity Saving Throw: DC 18, one creature within 5 feet that has\
+      \ the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. Failure: 29\
+      \ (4d10 + 7) Bludgeoning damage. Success: Half damage."
+    "name": "Trample"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/beast/token/mammoth-xmm.webp"
 ```
 ^statblock

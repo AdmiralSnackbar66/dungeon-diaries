@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
 statblock: inline
-aliases: ["Quandrix Apprentice"]
+statblock-link: "#^statblock"
+aliases:
+- Quandrix Apprentice
 ---
 # [Quandrix Apprentice](3-Mechanics\CLI\bestiary\humanoid/quandrix-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 208*  
@@ -27,40 +29,44 @@ The scholars of Quandrix College focus on the mathematical principles that gover
 "ac": !!int "11"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
+"modifier": !!int "1"
 "stats":
-- !!int "10"
-- !!int "12"
-- !!int "13"
-- !!int "15"
-- !!int "14"
-- !!int "11"
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "15"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Wisdom": !!int "4"
-  "Intelligence": !!int "4"
+  - "intelligence": "+4"
+  - "wisdom": "+4"
 "skillsaves":
-  "Nature": !!int "4"
-  "Investigation": !!int "6"
-  "Arcana": !!int "6"
+  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+    "desc": "+6"
+  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+    "desc": "+6"
+  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+    "desc": "+4"
 "senses": "passive Perception 12"
 "languages": "Common plus any two languages"
 "cr": "2"
-"traits":
-- "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage\
-    \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each: [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md),\
-    \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "The apprentice makes two Exponential Lash attacks."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
-    \ one target. Hit: 5 (1d6 + 2) force damage, and the apprentice can cause one\
-    \ creature it can see within 30 feet of the target to take 9 (2d6 + 2) force damage."
-  "name": "Exponential Lash"
+  - "desc": "The apprentice makes two Exponential Lash attacks."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Spell Attack: +4 to hit, reach 5 ft. or range 60 ft.,\
+      \ one target. Hit: 5 (1d6 + 2) force damage, and the apprentice can cause\
+      \ one creature it can see within 30 feet of the target to take 9 (2d6 + 2) force\
+      \ damage."
+    "name": "Exponential Lash"
+  - "desc": "The apprentice casts one of the following spells, requiring no material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each:\
+      \ [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    "name": "Spellcasting"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/quandrix-apprentice-scc.webp"
 ```
 ^statblock

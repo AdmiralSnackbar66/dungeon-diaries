@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/fighter
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Fighter"]
+aliases:
+- Fighter
 ---
 # Fighter
-*Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -76,7 +77,7 @@ Whenever you gain a Fighter level, you can replace the feat you chose with a dif
 
 ### Second Wind (Level 1)
 
-You have a limited well of physical and mental stamina that you can draw on. As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can use it to regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `dice:1d10|noform|noparens|avg` (`1d10`) plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can use it to regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `dice:1d10|noform|noparens|avg` (`d10`) plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a [Short Rest](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
@@ -84,9 +85,9 @@ When you reach certain Fighter levels, you gain more uses of this feature, as sh
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the <span title="Player's Handbook (2024)">mastery properties</span> of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of three kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Fighter levels, you gain the ability to use the <span title="Player's Handbook (2024)">mastery properties</span> of more kinds of weapons, as shown in the [Weapon](/3-Mechanics/CLI/variant-rules/weapon-xphb.md) Mastery column of the Fighter Features table.
+When you reach certain Fighter levels, you gain the ability to use the [mastery properties](/3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the [Weapon](/3-Mechanics/CLI/variant-rules/weapon-xphb.md) Mastery column of the Fighter Features table.
 
 ### Action Surge (Level 2)
 
@@ -96,7 +97,7 @@ Once you use this feature, you can't do so again until you finish a [Short](/3-M
 
 ### Tactical Mind (Level 2)
 
-You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), you roll `dice:1d10|noform|noparens|avg` (`1d10`) and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
+You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), you roll `dice:1d10|noform|noparens|avg` (`d10`) and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn't expended.
 
 ### Fighter Subclass (Level 3)
 

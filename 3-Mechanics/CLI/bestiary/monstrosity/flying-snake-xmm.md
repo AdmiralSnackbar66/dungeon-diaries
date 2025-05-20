@@ -10,10 +10,12 @@ tags:
 - ttrpg-cli/monster/size/tiny
 - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-aliases: ["Flying Snake"]
+statblock-link: "#^statblock"
+aliases:
+- Flying Snake
 ---
 # [Flying Snake](3-Mechanics\CLI\bestiary\monstrosity/flying-snake-xmm.md)
-*Source: Monster Manual (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
@@ -27,27 +29,28 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "ac": !!int "14"
 "hp": !!int "5"
 "hit_dice": "2d4"
+"modifier": !!int "2"
 "stats":
-- !!int "4"
-- !!int "15"
-- !!int "11"
-- !!int "2"
-- !!int "12"
-- !!int "5"
+  - !!int "4"
+  - !!int "15"
+  - !!int "11"
+  - !!int "2"
+  - !!int "12"
+  - !!int "5"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "senses": "blindsight 10 ft., passive Perception 11"
 "languages": ""
 "cr": "1/8"
 "traits":
-- "desc": "The snake doesn't provoke an Opportunity Attack when it flies out of an\
-    \ enemy's reach."
-  "name": "Flyby"
+  - "desc": "The snake doesn't provoke an Opportunity Attack when it flies out of\
+      \ an enemy's reach."
+    "name": "Flyby"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 5 (2d4)\
-    \ Poison damage."
-  "name": "Bite"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage plus 5\
+      \ (2d4) Poison damage."
+    "name": "Bite"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/monstrosity/token/flying-snake-xmm.webp"
 ```
 ^statblock

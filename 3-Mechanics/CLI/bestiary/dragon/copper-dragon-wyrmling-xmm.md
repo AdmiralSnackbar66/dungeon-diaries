@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-aliases: ["Copper Dragon Wyrmling"]
+statblock-link: "#^statblock"
+aliases:
+- Copper Dragon Wyrmling
 ---
 # [Copper Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/copper-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
 
@@ -39,38 +41,41 @@ Copper dragons typically inhabit multichamber caves and renovated ruins.
 "ac": !!int "16"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
+"modifier": !!int "3"
 "stats":
-- !!int "15"
-- !!int "12"
-- !!int "13"
-- !!int "14"
-- !!int "11"
-- !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "13"
+  - !!int "14"
+  - !!int "11"
+  - !!int "13"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
-  "Dexterity": !!int "3"
-  "Wisdom": !!int "2"
+  - "dexterity": "+3"
+  - "wisdom": "+2"
 "skillsaves":
-  "Stealth": !!int "3"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+3"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
-  "name": "Rend"
-- "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-    \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
-    \ 18 (4d8) Acid damage. Success: Half damage."
-  "name": "Acid Breath (Recharge 5-6)"
-- "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: The target can't take Reactions; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ is halved; and it can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
-    \ on its turn, not both. This effect lasts until the end of its next turn."
-  "name": "Slowing Breath"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
+    "name": "Rend"
+  - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
+      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ 18 (4d8) Acid damage. Success: Half damage."
+    "name": "Acid Breath (Recharge 5-6)"
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target can't take Reactions; its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ is halved; and it can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ on its turn, not both. This effect lasts until the end of its next turn."
+    "name": "Slowing Breath"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/copper-dragon-wyrmling-xmm.webp"
 ```
 ^statblock

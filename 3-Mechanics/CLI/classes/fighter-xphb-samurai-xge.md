@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/fighter/samurai
-aliases: ["Samurai"]
+aliases:
+- Samurai
 ---
 # Samurai
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  

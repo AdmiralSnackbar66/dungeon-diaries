@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Layers of Arborea"]
+aliases:
+- Layers of Arborea
 ---
 # Layers of Arborea
 *Source: Dungeon Master's Guide (2024) p. 183* 

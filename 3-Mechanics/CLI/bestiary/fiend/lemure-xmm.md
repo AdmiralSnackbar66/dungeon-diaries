@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Lemure"]
+statblock-link: "#^statblock"
+aliases:
+- Lemure
 ---
 # [Lemure](3-Mechanics\CLI\bestiary\fiend/lemure-xmm.md)
-*Source: Monster Manual (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Lemures torment weaker creatures, but in the Nine Hells, few such beings exist. To avoid greater suffering, they obey the orders of more powerful devils.
 
@@ -34,13 +36,14 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "ac": !!int "9"
 "hp": !!int "9"
 "hit_dice": "2d8"
+"modifier": !!int "-3"
 "stats":
-- !!int "10"
-- !!int "5"
-- !!int "11"
-- !!int "1"
-- !!int "11"
-- !!int "3"
+  - !!int "10"
+  - !!int "5"
+  - !!int "11"
+  - !!int "1"
+  - !!int "11"
+  - !!int "3"
 "speed": "20 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
@@ -51,15 +54,15 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
-- "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ in 1d10 days unless it is killed by a creature under the effects of a [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)\
-    \ spell or its remains are sprinkled with Holy Water."
-  "name": "Hellish Restoration"
+  - "desc": "If the lemure dies in the Nine Hells, it revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in d10 days unless it is killed by a creature under the effects of a [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)\
+      \ spell or its remains are sprinkled with Holy Water."
+    "name": "Hellish Restoration"
 "actions":
-- "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Poison damage."
-  "name": "Vile Slime"
+  - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 2 (d4) Poison damage."
+    "name": "Vile Slime"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/lemure-xmm.webp"
 ```
 ^statblock

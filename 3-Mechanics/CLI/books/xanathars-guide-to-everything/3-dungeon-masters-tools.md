@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Dungeon Master's Tools"]
+aliases:
+- Dungeon Master's Tools
 ---
 # Dungeon Master's Tools
 *Source: Xanathar's Guide to Everything, p. 77* 
@@ -20,7 +21,7 @@ Most effects in the game happen in succession, following an order set by the rul
 
 ## Falling
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice:20d6|noform|noparens|avg` (`20d6`). You also land [prone](/3-Mechanics/CLI/conditions.md#Prone), unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `dice:1d6|noform|noparens|avg` (`d6`) bludgeoning damage for every 10 feet you fell, to a maximum of `dice:20d6|noform|noparens|avg` (`20d6`). You also land [prone](/3-Mechanics/CLI/conditions.md#Prone), unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ### Rate of Falling
 
@@ -308,6 +309,10 @@ This table gives you a way to match a character of a certain level with a number
 
 ## Random Encounters: A World of Possibilities
 
+> [!quote] A quote from Xanathar  
+> 
+> Crazy things happen all the time. You never know what's just around the corner or behind that door or down in that pit where I threw all those dwarves. Dwarves might be down there still. They're hardy. They bounce. Sometimes.
+
 Chapter 3 of the Dungeon Master's Guide provides guidance on using random encounters in your game. This section builds on that guidance, offering a host of random encounter tables for you to use when you determine that a random encounter is going to take place.
 
 Using the monster lists in appendix B of that book as a basis, we've built a set of tables for each environment category: arctic, coastal, desert, forest, grassland, hill, mountain, swamp, Underdark, underwater, and urban. Within each category, separate tables are provided for each of the four tiers of play: levels 1-4, 5-10, 11-16, and 17-20.
@@ -325,6 +330,12 @@ Of course, you also have the freedom to adjust the numbers, but it's important t
 The tables also include entries for what the dungeon master's guide calls "encounters of a less monstrous nature." Many of these results cry out to be customized or detailed, which offers you an opportunity to connect them to the story of your campaign. And in so doing, you've taken a step toward making your own personalized encounter table. Now, keep going!
 
 See the Encounter Generator for a complete list of all the tables available.
+
+> [!quote] A quote from Xanathar  
+> 
+> Danger is everywhere. Always keep one eye open.
+> 
+> That's much easier for me than it is for you.
 
 ## Traps Revisited
 
@@ -390,6 +401,12 @@ The following simple traps can be used to populate your adventures or as models 
 - [Poison Needle Trap](/3-Mechanics/CLI/traps-hazards/poison-needle-trap-xge.md)  
 - [Scything Blade Trap](/3-Mechanics/CLI/traps-hazards/scything-blade-trap-xge.md)  
 - [Sleep of Ages Trap](/3-Mechanics/CLI/traps-hazards/sleep-of-ages-trap-xge.md)  
+
+> [!quote] A quote from Xanathar  
+> 
+> Pit traps are hilarious! Because when one of you walking things steps on one, you fall down!
+> 
+> And you get hurt! That's the best part.
 
 ![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c2022.webp#center)
 
@@ -676,6 +693,14 @@ By engaging the characters in downtime activities that take weeks or even months
 Downtime rules also provide ways for characters to spend—or be relieved of—the monetary treasure they amass on their adventures.
 
 The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
+
+> [!quote] A quote from Xanathar  
+> 
+> When minions come back from a mission, sometimes I send them shopping.
+> 
+> Shopping is this thing where minions give away their stuff to other people, and other people give them different stuff.
+> 
+> It's so strange.
 
 ### Rivals
 
@@ -1177,3 +1202,9 @@ The magic items are presented in alphabetical order.
 > 
 > Even on a world that experiences dawn each day, the DM is free to choose a different time-perhaps noon, sunset, or midnight-when certain magic items recharge.
 ^recharging-without-a-dawn
+
+> [!quote] A quote from Xanathar  
+> 
+> So why can't people who use magic do it all the time?
+> 
+> I can disintegrate things whenever I want. Like now. And now. And now. And now ... Hey, where'd everybody go?

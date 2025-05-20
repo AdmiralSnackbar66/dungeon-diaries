@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Priest Acolyte"]
+statblock-link: "#^statblock"
+aliases:
+- Priest Acolyte
 ---
 # [Priest Acolyte](3-Mechanics\CLI\bestiary\humanoid/priest-acolyte-xmm.md)
-*Source: Monster Manual (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Priest acolytes have great faith but modest magical skill. Some might be trainees in religious organizations or soldiers in zealous armies, while others are faith leaders in small communities or wanderers on pilgrimages.
 
@@ -57,37 +59,39 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 "ac": !!int "13"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "0"
 "stats":
-- !!int "14"
-- !!int "10"
-- !!int "12"
-- !!int "10"
-- !!int "14"
-- !!int "11"
+  - !!int "14"
+  - !!int "10"
+  - !!int "12"
+  - !!int "10"
+  - !!int "14"
+  - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  "Medicine": !!int "4"
-  "Religion": !!int "2"
+  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+    "desc": "+4"
+  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+    "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"
-"traits":
-- "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-    \ ability:\n\nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
-  "name": "Spellcasting"
-- "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Healing\
-    \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
-    \ using the same spellcasting ability as Spellcasting.\n\n1/day: [Bless](/3-Mechanics/CLI/spells/bless-xphb.md),\
-    \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)"
-  "name": "Divine Aid (1/Day)"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage\
-    \ plus 2 (1d4) Radiant damage."
-  "name": "Mace"
-- "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 7 (2d6) Radiant damage."
-  "name": "Radiant Flame"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Bludgeoning damage\
+      \ plus 2 (d4) Radiant damage."
+    "name": "Mace"
+  - "desc": "Ranged Attack Roll: +4, range 60 ft. Hit: 7 (2d6) Radiant damage."
+    "name": "Radiant Flame"
+  - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
+      \ ability:\n\nAt will: [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+    "name": "Spellcasting"
+"bonus_actions":
+  - "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Healing\
+      \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+      \ using the same spellcasting ability as Spellcasting.\n"
+    "name": "Divine Aid (1/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/priest-acolyte-xmm.webp"
 ```
 ^statblock

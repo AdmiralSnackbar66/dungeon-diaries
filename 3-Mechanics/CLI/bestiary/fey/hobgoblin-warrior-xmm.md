@@ -15,10 +15,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
-aliases: ["Hobgoblin Warrior"]
+statblock-link: "#^statblock"
+aliases:
+- Hobgoblin Warrior
 ---
 # [Hobgoblin Warrior](3-Mechanics\CLI\bestiary\fey/hobgoblin-warrior-xmm.md)
-*Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
 
@@ -62,31 +64,32 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "ac": !!int "18"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
+"modifier": !!int "3"
 "stats":
-- !!int "13"
-- !!int "12"
-- !!int "12"
-- !!int "10"
-- !!int "10"
-- !!int "9"
+  - !!int "13"
+  - !!int "12"
+  - !!int "12"
+  - !!int "10"
+  - !!int "10"
+  - !!int "9"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-- "desc": "The hobgoblin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on an attack roll against a creature if at least one of the hobgoblin's allies\
-    \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-    \ condition."
-  "name": "Pack Tactics"
+  - "desc": "The hobgoblin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on an attack roll against a creature if at least one of the hobgoblin's allies\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition."
+    "name": "Pack Tactics"
 "actions":
-- "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage."
-  "name": "Longsword"
-- "desc": "Ranged Attack Roll: +3, range 150/600 ft. Hit: 5 (1d8 + 1) Piercing\
-    \ damage plus 7 (3d4) Poison damage."
-  "name": "Longbow"
+  - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 12 (2d10 + 1) Slashing damage."
+    "name": "Longsword"
+  - "desc": "Ranged Attack Roll: +3, range 150/600 ft. Hit: 5 (1d8 + 1) Piercing\
+      \ damage plus 7 (3d4) Poison damage."
+    "name": "Longbow"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
 ```
 ^statblock

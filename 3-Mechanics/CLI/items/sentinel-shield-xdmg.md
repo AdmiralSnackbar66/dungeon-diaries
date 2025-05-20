@@ -17,4 +17,4 @@ aliases:
 
 While holding this Shield, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md) rolls and Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks. The Shield is emblazoned with a symbol of an eye.
 
-*Source: Dungeon Master's Guide (2024) p. 303*
+*Source: Dungeon Master's Guide (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

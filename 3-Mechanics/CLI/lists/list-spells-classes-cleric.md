@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/class/cleric
-aliases: ["Cleric Spells"]
+aliases:
+- Cleric Spells
 ---
 # Cleric Spells
 
@@ -62,7 +63,7 @@ aliases: ["Cleric Spells"]
 ## 3rd Level
 
 - [Animate Dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB")
-- [Aura of Vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB")
+- [Aura of Vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB") (\*)
 - [Beacon of Hope](/3-Mechanics/CLI/spells/beacon-of-hope-xphb.md "XPHB")
 - [Bestow Curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB")
 - [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB")
@@ -81,13 +82,14 @@ aliases: ["Cleric Spells"]
 - [Sending](/3-Mechanics/CLI/spells/sending-xphb.md "XPHB")
 - [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")
 - [Spirit Guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md "XPHB")
+- [Spirit Shroud](/3-Mechanics/CLI/spells/spirit-shroud-tce.md "TCE") (\*)
 - [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md "XPHB")
 - [Water Walk](/3-Mechanics/CLI/spells/water-walk-xphb.md "XPHB")
 
 ## 4th Level
 
-- [Aura of Life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md "XPHB")
-- [Aura of Purity](/3-Mechanics/CLI/spells/aura-of-purity-xphb.md "XPHB")
+- [Aura of Life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md "XPHB") (\*)
+- [Aura of Purity](/3-Mechanics/CLI/spells/aura-of-purity-xphb.md "XPHB") (\*)
 - [Banishment](/3-Mechanics/CLI/spells/banishment-xphb.md "XPHB")
 - [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md "XPHB")
 - [Death Ward](/3-Mechanics/CLI/spells/death-ward-xphb.md "XPHB")
@@ -115,7 +117,7 @@ aliases: ["Cleric Spells"]
 - [Planar Binding](/3-Mechanics/CLI/spells/planar-binding-xphb.md "XPHB")
 - [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md "XPHB")
 - [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md "XPHB")
-- [Summon Celestial](/3-Mechanics/CLI/spells/summon-celestial-xphb.md "XPHB")
+- [Summon Celestial](/3-Mechanics/CLI/spells/summon-celestial-xphb.md "XPHB") (\*)
 
 ## 6th Level
 
@@ -127,7 +129,7 @@ aliases: ["Cleric Spells"]
 - [Heal](/3-Mechanics/CLI/spells/heal-xphb.md "XPHB")
 - [Heroes' Feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md "XPHB")
 - [Planar Ally](/3-Mechanics/CLI/spells/planar-ally-xphb.md "XPHB")
-- [Sunbeam](/3-Mechanics/CLI/spells/sunbeam-xphb.md "XPHB")
+- [Sunbeam](/3-Mechanics/CLI/spells/sunbeam-xphb.md "XPHB") (\*)
 - [True Seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md "XPHB")
 - [Word of Recall](/3-Mechanics/CLI/spells/word-of-recall-xphb.md "XPHB")
 
@@ -150,12 +152,12 @@ aliases: ["Cleric Spells"]
 - [Control Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md "XPHB")
 - [Earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md "XPHB")
 - [Holy Aura](/3-Mechanics/CLI/spells/holy-aura-xphb.md "XPHB")
-- [Sunburst](/3-Mechanics/CLI/spells/sunburst-xphb.md "XPHB")
+- [Sunburst](/3-Mechanics/CLI/spells/sunburst-xphb.md "XPHB") (\*)
 
 ## 9th Level
 
 - [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")
 - [Gate](/3-Mechanics/CLI/spells/gate-xphb.md "XPHB")
 - [Mass Heal](/3-Mechanics/CLI/spells/mass-heal-xphb.md "XPHB")
-- [Power Word Heal](/3-Mechanics/CLI/spells/power-word-heal-xphb.md "XPHB")
+- [Power Word Heal](/3-Mechanics/CLI/spells/power-word-heal-xphb.md "XPHB") (\*)
 - [True Resurrection](/3-Mechanics/CLI/spells/true-resurrection-xphb.md "XPHB")

@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Sanctuary"]
+aliases:
+- Sanctuary
 ---
 # Sanctuary
 *Level 5 Bastion facility*  

@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Enervation"]
+aliases:
+- Enervation
 ---
 # Enervation
 *5th-level, Necromancy*  
@@ -29,7 +30,7 @@ A tendril of inky darkness reaches out from you, touching a creature you can see
 
 Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `dice:1d8|noform|noparens|avg|text(d8)` for each slot level above 5th.
 
 **Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 

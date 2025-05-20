@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/abjurer
-aliases: ["Abjurer"]
+aliases:
+- Abjurer
 ---
 # Abjurer
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  

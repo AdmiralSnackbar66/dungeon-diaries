@@ -11,7 +11,9 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/fiend
 statblock: inline
-aliases: ["Gnoll Pack Lord"]
+statblock-link: "#^statblock"
+aliases:
+- Gnoll Pack Lord
 ---
 # [Gnoll Pack Lord](3-Mechanics\CLI\bestiary\fiend/gnoll-pack-lord-xmm.md)
 *Source: Monster Manual (2024) p. 140*  
@@ -40,38 +42,39 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 "ac": !!int "15"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
+"modifier": !!int "4"
 "stats":
-- !!int "16"
-- !!int "14"
-- !!int "13"
-- !!int "8"
-- !!int "11"
-- !!int "9"
+  - !!int "16"
+  - !!int "14"
+  - !!int "13"
+  - !!int "8"
+  - !!int "11"
+  - !!int "9"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "2"
 "actions":
-- "desc": "The gnoll makes two attacks, using Bone Whip or Bone Javelin in any combination,\
-    \ and it uses Incite Rampage if available."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 8 (2d4 + 3) Slashing damage."
-  "name": "Bone Whip"
-- "desc": "Ranged Attack Roll: +5, range 30/120 ft. Hit: 7 (1d8 + 3) Piercing\
-    \ damage."
-  "name": "Bone Javelin"
-- "desc": "The gnoll targets another creature it can see within 60 feet of itself\
-    \ that has the Rampage [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).\
-    \ The target can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
-    \ to make one melee attack."
-  "name": "Incite Rampage (Recharge 5-6)"
+  - "desc": "The gnoll makes two attacks, using Bone Whip or Bone Javelin in any combination,\
+      \ and it uses Incite Rampage if available."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 8 (2d4 + 3) Slashing damage."
+    "name": "Bone Whip"
+  - "desc": "Ranged Attack Roll: +5, range 30/120 ft. Hit: 7 (1d8 + 3) Piercing\
+      \ damage."
+    "name": "Bone Javelin"
+  - "desc": "The gnoll targets another creature it can see within 60 feet of itself\
+      \ that has the Rampage [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).\
+      \ The target can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+      \ to make one melee attack."
+    "name": "Incite Rampage (Recharge 5-6)"
 "bonus_actions":
-- "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
-    \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
-    \ and it makes one Bone Whip attack."
-  "name": "Rampage (2/Day)"
+  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+      \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+      \ and it makes one Bone Whip attack."
+    "name": "Rampage (2/Day)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-pack-lord-xmm.webp"
 ```
 ^statblock

@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Gaming Hall"]
+aliases:
+- Gaming Hall
 ---
 # Gaming Hall
 *Level 9 Bastion facility*  
@@ -18,7 +19,7 @@ A Gaming Hall offers recreational activities like chess and games of darts, card
 
 ## Trade: Gambling Hall
 
-When you issue the "Trade" order to this facility, the facility's hirelings turn the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll `dice:1d100|noform|noparens|avg` (`1d100`) and consult the following table to determine your portion of the house's winnings.
+When you issue the "Trade" order to this facility, the facility's hirelings turn the Gaming Hall into a gambling den for 7 days. At the end of the seventh day, roll `dice:1d100|noform|noparens|avg` (`d100`) and consult the following table to determine your portion of the house's winnings.
 
 `dice: [](gaming-hall.md#^1-winnings)`
 

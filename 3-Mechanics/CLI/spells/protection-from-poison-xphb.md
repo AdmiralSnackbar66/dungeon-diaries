@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
@@ -13,6 +14,7 @@ tags:
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/divine-soul
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Cleric
@@ -20,7 +22,8 @@ classes:
 - Paladin
 - Ranger
 - Sorcerer (Divine Soul)
-aliases: ["Protection from Poison"]
+aliases:
+- Protection from Poison
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  
@@ -33,6 +36,6 @@ aliases: ["Protection from Poison"]
 
 You touch a creature and end the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition on it. For the duration, the target has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition, and it has [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

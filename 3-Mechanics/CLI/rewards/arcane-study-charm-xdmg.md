@@ -4,7 +4,8 @@ cssclasses: json5e-reward
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/reward/charm
-aliases: ["Arcane Study Charm"]
+aliases:
+- Arcane Study Charm
 ---
 # Arcane Study Charm
 *Charm*  

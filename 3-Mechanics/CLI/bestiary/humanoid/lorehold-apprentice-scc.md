@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid/wizard
 statblock: inline
-aliases: ["Lorehold Apprentice"]
+statblock-link: "#^statblock"
+aliases:
+- Lorehold Apprentice
 ---
 # [Lorehold Apprentice](3-Mechanics\CLI\bestiary\humanoid/lorehold-apprentice-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 197*  
@@ -29,47 +31,51 @@ The archaeomancers of Lorehold College draw their magical might from the flow of
 "ac": !!int "12"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
+"modifier": !!int "2"
 "stats":
-- !!int "10"
-- !!int "14"
-- !!int "13"
-- !!int "15"
-- !!int "12"
-- !!int "11"
+  - !!int "10"
+  - !!int "14"
+  - !!int "13"
+  - !!int "15"
+  - !!int "12"
+  - !!int "11"
 "speed": "30 ft."
 "saves":
-  "Intelligence": !!int "4"
-  "Constitution": !!int "3"
+  - "constitution": "+3"
+  - "intelligence": "+4"
 "skillsaves":
-  "Investigation": !!int "6"
-  "Insight": !!int "3"
-  "History": !!int "6"
+  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+    "desc": "+6"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+3"
+  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+    "desc": "+6"
 "senses": "passive Perception 11"
 "languages": "Common plus any two languages"
 "cr": "2"
-"traits":
-- "desc": "The apprentice casts one of the following spells, requiring no material\
-    \ components and using Intelligence as the spellcasting ability (spell save DC\
-    \ 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
-    \n1/day each: [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-    \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
-  "name": "Spellcasting"
 "actions":
-- "desc": "Melee Spell Attack: +4 to hit, reach 30 ft., one target. Hit: 7 (1d10\
-    \ + 2) bludgeoning damage plus 9 (2d8) thunder damage."
-  "name": "Scroll Bash"
-- "desc": "Thundering golden energy erupts around a creature the apprentice can see\
-    \ within 90 feet of it. The creature must make a DC 12 Constitution saving throw,\
-    \ taking 33 (6d10) thunder damage on a failed save, or half as much damage on\
-    \ a successful one. A Construct has disadvantage on the saving throw."
-  "name": "Reduce to Memory (Recharge 6)"
+  - "desc": "Melee Spell Attack: +4 to hit, reach 30 ft., one target. Hit: 7 (1d10\
+      \ + 2) bludgeoning damage plus 9 (2d8) thunder damage."
+    "name": "Scroll Bash"
+  - "desc": "Thundering golden energy erupts around a creature the apprentice can\
+      \ see within 90 feet of it. The creature must make a DC 12 Constitution saving\
+      \ throw, taking 33 (6d10) thunder damage on a failed save, or half as much damage\
+      \ on a successful one. A Construct has disadvantage on the saving throw."
+    "name": "Reduce to Memory (Recharge 6)"
+  - "desc": "The apprentice casts one of the following spells, requiring no material\
+      \ components and using Intelligence as the spellcasting ability (spell save\
+      \ DC 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](/3-Mechanics/CLI/spells/light-xphb.md)\n\n1/day each: [comprehend\
+      \ languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md), [locate\
+      \ object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+    "name": "Spellcasting"
 "reactions":
-- "desc": "When another creature within 60 feet of the apprentice misses a target\
-    \ with an attack roll, the apprentice magically enables the attacker to reroll\
-    \ the attack roll. It must use the new roll."
-  "name": "Learn from the Past (2/Day)"
+  - "desc": "When another creature within 60 feet of the apprentice misses a target\
+      \ with an attack roll, the apprentice magically enables the attacker to reroll\
+      \ the attack roll. It must use the new roll."
+    "name": "Learn from the Past (2/Day)"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/lorehold-apprentice-scc.webp"
 ```
 ^statblock

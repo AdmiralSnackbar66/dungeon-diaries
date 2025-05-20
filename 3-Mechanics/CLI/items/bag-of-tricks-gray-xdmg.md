@@ -34,4 +34,4 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8 | [Giant Elk](/3-Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md) |
 ^1-creature
 
-*Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

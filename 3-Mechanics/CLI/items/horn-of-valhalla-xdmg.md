@@ -35,4 +35,4 @@ If you meet the requirement, they are [Friendly](/3-Mechanics/CLI/variant-rules/
 - [Horn of Valhalla, Iron](/3-Mechanics/CLI/items/horn-of-valhalla-iron-xdmg.md)
 - [Horn of Valhalla, Silver](/3-Mechanics/CLI/items/horn-of-valhalla-silver-xdmg.md)
 
-*Source: Dungeon Master's Guide (2024) p. 270*
+*Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

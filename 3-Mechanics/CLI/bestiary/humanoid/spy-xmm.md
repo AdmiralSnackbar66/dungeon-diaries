@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/small-or-medium
 - ttrpg-cli/monster/type/humanoid
 statblock: inline
-aliases: ["Spy"]
+statblock-link: "#^statblock"
+aliases:
+- Spy
 ---
 # [Spy](3-Mechanics\CLI\bestiary\humanoid/spy-xmm.md)
-*Source: Monster Manual (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Spies use charm and deception to veil their true intentions. If forced into combat, they seek to end such conflicts quietly and decisively.
 
@@ -44,36 +46,43 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 "ac": !!int "12"
 "hp": !!int "27"
 "hit_dice": "6d8"
+"modifier": !!int "4"
 "stats":
-- !!int "10"
-- !!int "15"
-- !!int "10"
-- !!int "12"
-- !!int "14"
-- !!int "16"
+  - !!int "10"
+  - !!int "15"
+  - !!int "10"
+  - !!int "12"
+  - !!int "14"
+  - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  "Sleight of Hand": !!int "4"
-  "Deception": !!int "5"
-  "Stealth": !!int "6"
-  "Investigation": !!int "5"
-  "Insight": !!int "4"
-  "Perception": !!int "6"
+  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+    "desc": "+5"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+    "desc": "+5"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+6"
+  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
-    \ plus 7 (2d6) Poison damage."
-  "name": "Shortsword"
-- "desc": "Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Piercing\
-    \ damage plus 7 (2d6) Poison damage."
-  "name": "Hand Crossbow"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
+      \ plus 7 (2d6) Poison damage."
+    "name": "Shortsword"
+  - "desc": "Ranged Attack Roll: +4, range 30/120 ft. Hit: 5 (1d6 + 2) Piercing\
+      \ damage plus 7 (2d6) Poison damage."
+    "name": "Hand Crossbow"
 "bonus_actions":
-- "desc": "The spy takes the Dash, Disengage, or Hide action."
-  "name": "Cunning Action"
+  - "desc": "The spy takes the Dash, Disengage, or Hide action."
+    "name": "Cunning Action"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/humanoid/token/spy-xmm.webp"
 ```
 ^statblock

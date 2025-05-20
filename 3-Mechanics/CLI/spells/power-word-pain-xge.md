@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Power Word Pain"]
+aliases:
+- Power Word Pain
 ---
 # Power Word Pain
 *7th-level, Enchantment*  

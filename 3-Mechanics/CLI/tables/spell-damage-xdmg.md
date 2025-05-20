@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Spell Damage"]
+aliases:
+- Spell Damage
 ---
 # Spell Damage
 *Source: Dungeon Master's Guide (2024) p. 59* 
@@ -12,7 +13,7 @@ aliases: ["Spell Damage"]
 
 | Spell Level | One Target | Multiple Targets |
 |-------------|------------|------------------|
-| Cantrip | `dice:1d10\|noform\|noparens\|avg` (`1d10`) | `dice:1d6\|noform\|noparens\|avg` (`1d6`) |
+| Cantrip | `dice:1d10\|noform\|noparens\|avg\|text(d10)` | `dice:1d6\|noform\|noparens\|avg\|text(d6)` |
 | 1 | `dice:2d10\|noform\|noparens\|avg` (`2d10`) | `dice:2d6\|noform\|noparens\|avg` (`2d6`) |
 | 2 | `dice:3d10\|noform\|noparens\|avg` (`3d10`) | `dice:3d6\|noform\|noparens\|avg` (`3d6`) |
 | 3 | `dice:5d10\|noform\|noparens\|avg` (`5d10`) | `dice:6d6\|noform\|noparens\|avg` (`6d6`) |

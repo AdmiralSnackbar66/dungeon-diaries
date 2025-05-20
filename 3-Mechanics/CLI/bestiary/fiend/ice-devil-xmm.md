@@ -9,10 +9,12 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-aliases: ["Ice Devil"]
+statblock-link: "#^statblock"
+aliases:
+- Ice Devil
 ---
 # [Ice Devil](3-Mechanics\CLI\bestiary\fiend/ice-devil-xmm.md)
-*Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Ice Devil
 
@@ -43,57 +45,61 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 "ac": !!int "18"
 "hp": !!int "228"
 "hit_dice": "24d10 + 96"
+"modifier": !!int "7"
 "stats":
-- !!int "21"
-- !!int "14"
-- !!int "18"
-- !!int "18"
-- !!int "15"
-- !!int "18"
+  - !!int "21"
+  - !!int "14"
+  - !!int "18"
+  - !!int "18"
+  - !!int "15"
+  - !!int "18"
 "speed": "40 ft."
 "saves":
-  "Charisma": !!int "9"
-  "Dexterity": !!int "7"
-  "Wisdom": !!int "7"
-  "Constitution": !!int "9"
+  - "dexterity": "+7"
+  - "constitution": "+9"
+  - "wisdom": "+7"
+  - "charisma": "+9"
 "skillsaves":
-  "Insight": !!int "7"
-  "Perception": !!int "7"
-  "Persuasion": !!int "9"
+  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+    "desc": "+7"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+7"
+  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+    "desc": "+9"
 "damage_immunities": "cold, fire, poison"
 "condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 120 ft., passive Perception 17"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "14"
 "traits":
-- "desc": "The devil casts [Wall of Ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\
-    \ (level 8 version), requiring no spell components and using Intelligence as the\
-    \ spellcasting ability (spell save DC 17).\n"
-  "name": "Ice Wall (Recharge 6)"
-- "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-    \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-    \ somewhere in the Nine Hells."
-  "name": "Diabolical Restoration"
-- "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-    \ on saving throws against spells and other magical effects."
-  "name": "Magic Resistance"
+  - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ somewhere in the Nine Hells."
+    "name": "Diabolical Restoration"
+  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on saving throws against spells and other magical effects."
+    "name": "Magic Resistance"
 "actions":
-- "desc": "The devil makes three Ice Spear attacks. It can replace one attack with\
-    \ a Tail attack."
-  "name": "Multiattack"
-- "desc": "Melee or Ranged Attack Roll: +10, reach 5 ft. or range 30/120 ft. Hit:\
-    \ 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end of its\
-    \ next turn, the target can't take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
-    \ or [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md), its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-    \ decreases by 10 feet, and it can move or take one action on its turn, not both.\
-    \ Hit or Miss: The spear magically returns to the devil's hand immediately after\
-    \ a ranged attack."
-  "name": "Ice Spear"
-- "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (3d6 + 5) Bludgeoning\
-    \ damage plus 18 (4d8) Cold damage."
-  "name": "Tail"
+  - "desc": "The devil makes three Ice Spear attacks. It can replace one attack with\
+      \ a Tail attack."
+    "name": "Multiattack"
+  - "desc": "Melee  or Ranged Attack Roll: +10, reach 5 ft. or range 30/120 ft.\
+      \ Hit: 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end\
+      \ of its next turn, the target can't take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ or [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md), its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ decreases by 10 feet, and it can move or take one action on its turn, not\
+      \ both. Hit or Miss: The spear magically returns to the devil's hand immediately\
+      \ after a ranged attack."
+    "name": "Ice Spear"
+  - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (3d6 + 5) Bludgeoning\
+      \ damage plus 18 (4d8) Cold damage."
+    "name": "Tail"
+  - "desc": "The devil casts [Wall of Ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\
+      \ (level 8 version), requiring no spell components and using Intelligence as\
+      \ the spellcasting ability (spell save DC 17).\n"
+    "name": "Ice Wall (Recharge 6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/fiend/token/ice-devil-xmm.webp"
 ```
 ^statblock

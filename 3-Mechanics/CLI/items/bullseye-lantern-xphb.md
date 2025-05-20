@@ -17,4 +17,4 @@ aliases:
 
 A Bullseye Lantern burns Oil as fuel to cast [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 60-foot Cone and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 60 feet.
 
-*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

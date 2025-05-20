@@ -7,7 +7,9 @@ tags:
 - ttrpg-cli/monster/size/large
 - ttrpg-cli/monster/type/plant
 statblock: inline
-aliases: ["Groff"]
+statblock-link: "#^statblock"
+aliases:
+- Groff
 ---
 # [Groff](3-Mechanics\CLI\bestiary\plant/groff-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 194*  
@@ -23,46 +25,49 @@ Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane
 "ac_class": "natural armor"
 "hp": !!int "68"
 "hit_dice": "8d10 + 24"
+"modifier": !!int "0"
 "stats":
-- !!int "20"
-- !!int "10"
-- !!int "17"
-- !!int "4"
-- !!int "13"
-- !!int "7"
+  - !!int "20"
+  - !!int "10"
+  - !!int "17"
+  - !!int "4"
+  - !!int "13"
+  - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  "Stealth": !!int "4"
-  "Perception": !!int "3"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+3"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "4"
 "traits":
-- "desc": "If the groff is motionless at the start of combat, it has advantage on\
-    \ its initiative roll. Moreover, if a creature hasn't observed the groff move\
-    \ or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
-    \ check to discern that the groff isn't an ordinary moss-covered bog patch."
-  "name": "False Appearance"
-- "desc": "The groff can hold its breath for up to 1 hour."
-  "name": "Hold Breath"
+  - "desc": "If the groff is motionless at the start of combat, it has advantage on\
+      \ its initiative roll. Moreover, if a creature hasn't observed the groff move\
+      \ or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
+      \ check to discern that the groff isn't an ordinary moss-covered bog patch."
+    "name": "False Appearance"
+  - "desc": "The groff can hold its breath for up to 1 hour."
+    "name": "Hold Breath"
 "actions":
-- "desc": "The groff makes one Bite attack and one Swamp Claw attack."
-  "name": "Multiattack"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8\
-    \ + 5) piercing damage."
-  "name": "Bite"
-- "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6\
-    \ + 5) slashing damage. If the target is a Medium or smaller creature, it must\
-    \ succeed on a DC 15 Strength saving throw or become engulfed by the groff. While\
-    \ engulfed, the target can't breathe, is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-    \ and takes 10 (3d6) poison damage at the start of each of its turns. When the\
-    \ groff moves, the engulfed target moves with it. The groff can have only one\
-    \ target engulfed at a time.\n\nAn engulfed target can repeat the saving throw\
-    \ at the end of its turns. On a success, the target escapes and enters the nearest\
-    \ unoccupied space."
-  "name": "Swamp Claw"
+  - "desc": "The groff makes one Bite attack and one Swamp Claw attack."
+    "name": "Multiattack"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8\
+      \ + 5) piercing damage."
+    "name": "Bite"
+  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6\
+      \ + 5) slashing damage. If the target is a Medium or smaller creature, it must\
+      \ succeed on a DC 15 Strength saving throw or become engulfed by the groff.\
+      \ While engulfed, the target can't breathe, is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+      \ and takes 10 (3d6) poison damage at the start of each of its turns. When the\
+      \ groff moves, the engulfed target moves with it. The groff can have only one\
+      \ target engulfed at a time.\n\nAn engulfed target can repeat the saving throw\
+      \ at the end of its turns. On a success, the target escapes and enters the nearest\
+      \ unoccupied space."
+    "name": "Swamp Claw"
 "source":
-- "SCC"
+  - "SCC"
 "image": "/3-Mechanics/CLI/bestiary/plant/token/groff-scc.webp"
 ```
 ^statblock

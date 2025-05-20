@@ -4,10 +4,11 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Criminal"]
+aliases:
+- Criminal
 ---
 # Criminal
-*Source: Player's Handbook (2024) p. 180*  
+*Source: Player's Handbook (2024) p. 180. Available in the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/backgrounds/img/criminal.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  

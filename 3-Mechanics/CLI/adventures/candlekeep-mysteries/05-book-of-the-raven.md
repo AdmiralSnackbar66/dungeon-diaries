@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/cm
-aliases: ["Book of the Raven"]
+aliases:
+- Book of the Raven
 ---
 # Book of the Raven
 *Source: Candlekeep Mysteries, p. 35* 
@@ -553,5 +554,5 @@ The lycanthropes entry in the "Monster Manual" has rules for characters afflicte
 
 > [!note] 
 > 
-> A character cursed with wereraven lycanthropy gains a Dexterity of 15 if their score isn't already higher. Attack and damage rolls for the wereraven's beak are based on whichever is higher of the character's Strength and Dexterity. The peck of a wereraven deals 1 piercing damage in raven form (no ability modifier applies to this damage), or `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage in hybrid form (the character's ability modifier applies to this damage). This attack carries the curse of wereraven lycanthropy.
+> A character cursed with wereraven lycanthropy gains a Dexterity of 15 if their score isn't already higher. Attack and damage rolls for the wereraven's beak are based on whichever is higher of the character's Strength and Dexterity. The peck of a wereraven deals 1 piercing damage in raven form (no ability modifier applies to this damage), or `dice:1d4|noform|noparens|avg` (`d4`) piercing damage in hybrid form (the character's ability modifier applies to this damage). This attack carries the curse of wereraven lycanthropy.
 ^11d

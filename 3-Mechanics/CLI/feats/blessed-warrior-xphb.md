@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
-aliases: ["Blessed Warrior"]
+aliases:
+- Blessed Warrior
 ---
 # Blessed Warrior
 *Source: Player's Handbook (2024) p. 110*  

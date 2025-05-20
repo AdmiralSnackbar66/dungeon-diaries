@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/optional-feature/ei
-aliases: ["Grasp of Hadar"]
+aliases:
+- Grasp of Hadar
 ---
 # Grasp of Hadar
 *Source: Xanathar's Guide to Everything p. 57*  

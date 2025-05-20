@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/level/4th-level
@@ -11,12 +12,14 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 classes:
+- Artificer
 - Bard
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Wizard
 - Wizard (Abjurer)
-aliases: ["Mordenkainen's Private Sanctum"]
+aliases:
+- Mordenkainen's Private Sanctum
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  
@@ -42,6 +45,6 @@ Casting this spell on the same spot every day for 365 days makes the spell last 
 
 **Using a Higher-Level Spell Slot.** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Private Sanctum")*
+*Source: Player's Handbook (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Private Sanctum") and the Free Rules (2024)*

@@ -4,7 +4,8 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/paladin/ancients
-aliases: ["Oath of the Ancients"]
+aliases:
+- Oath of the Ancients
 ---
 # Oath of the Ancients
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  

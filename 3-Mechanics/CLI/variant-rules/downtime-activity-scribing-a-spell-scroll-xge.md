@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Activity: Scribing a Spell Scroll"]
+aliases:
+- Downtime Activity: Scribing a Spell Scroll
 ---
 # Downtime Activity: Scribing a Spell Scroll
 *Source: Xanathar's Guide to Everything p. 133* 

@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/warlock
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Warlock"]
+aliases:
+- Warlock
 ---
 # Warlock
-*Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -71,7 +72,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 ### Eldritch Invocations (Level 1)
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "[Eldritch Invocation Options](/3-Mechanics/CLI/lists/list-optfeaturetype-ei.md)" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[Optional features from [Eldritch Invocation](/3-Mechanics/CLI/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 #### Prerequisites
 

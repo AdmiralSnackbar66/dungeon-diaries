@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/school/abjuration
-aliases: ["Abjuration Spells"]
+aliases:
+- Abjuration Spells
 ---
 # Abjuration Spells
 
@@ -45,6 +46,7 @@ aliases: ["Abjuration Spells"]
 - [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md "XPHB")
 - [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")
 - [Glyph of Warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md "XPHB")
+- [Intellect Fortress](/3-Mechanics/CLI/spells/intellect-fortress-tce.md "TCE")
 - [Magic Circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md "XPHB")
 - [Mass Healing Word](/3-Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB")
 - [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md "XPHB")

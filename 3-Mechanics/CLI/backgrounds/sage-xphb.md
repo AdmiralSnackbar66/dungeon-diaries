@@ -4,10 +4,11 @@ cssclasses: json5e-background
 tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Sage"]
+aliases:
+- Sage
 ---
 # Sage
-*Source: Player's Handbook (2024) p. 183*  
+*Source: Player's Handbook (2024) p. 183. Available in the Free Rules (2024)*  
 ![](/3-Mechanics/CLI/backgrounds/img/sage.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Wisdom  

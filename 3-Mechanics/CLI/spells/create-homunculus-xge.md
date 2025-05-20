@@ -10,7 +10,8 @@ tags:
 classes:
 - Bard
 - Wizard
-aliases: ["Create Homunculus"]
+aliases:
+- Create Homunculus
 ---
 # Create Homunculus
 *6th-level, Transmutation*  

@@ -15,7 +15,7 @@ aliases:
 
 This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save DC 17), as shown in the Cube of Force Faces table.
 
-The cube starts with 10 charges, and it regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn.
+The cube starts with 10 charges, and it regains `dice:1d6|noform|noparens|avg` (`d6`) expended charges daily at dawn.
 
 **Cube of Force Faces**
 
@@ -29,4 +29,4 @@ The cube starts with 10 charges, and it regains `dice:1d6|noform|noparens|avg` (
 | [Wall of Force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md) | 5 |
 ^cube-of-force-faces
 
-*Source: Dungeon Master's Guide (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

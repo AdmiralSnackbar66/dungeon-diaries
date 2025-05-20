@@ -16,7 +16,8 @@ classes:
 - Druid
 - Sorcerer
 - Sorcerer (Divine Soul)
-aliases: ["Fire Storm"]
+aliases:
+- Fire Storm
 ---
 # Fire Storm
 *7th-level, Evocation*  
@@ -31,6 +32,6 @@ A storm of fire appears within range. The area of the storm consists of up to te
 
 Flammable objects in the area that aren't being worn or carried start [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md).
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

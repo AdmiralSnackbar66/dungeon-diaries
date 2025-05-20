@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
@@ -11,6 +12,7 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/artificer-initiate
 - ttrpg-cli/spell/feat/drow-high-magic
 - ttrpg-cli/spell/feat/fey-touched
 - ttrpg-cli/spell/feat/magic-initiate
@@ -19,6 +21,7 @@ tags:
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/race/elf
+- ttrpg-cli/spell/race/firbolg
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/arcane-trickster
@@ -26,13 +29,16 @@ tags:
 - ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/diviner
 - ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/oath-of-the-watchers
 classes:
+- Artificer
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
 - Fighter (Eldritch Knight)
 - Paladin
+- Paladin (Oath of the Watchers)
 - Ranger
 - Rogue (Arcane Trickster)
 - Sorcerer
@@ -40,7 +46,8 @@ classes:
 - Warlock
 - Wizard
 - Wizard (Diviner)
-aliases: ["Detect Magic"]
+aliases:
+- Detect Magic
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  
@@ -55,6 +62,6 @@ For the duration, you sense the presence of magical effects within 30 feet of yo
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer-xphb-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-bard-xphb-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Paladin (Oath of the Watchers)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

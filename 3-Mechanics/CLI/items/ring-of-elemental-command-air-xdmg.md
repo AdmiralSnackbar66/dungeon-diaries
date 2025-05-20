@@ -5,11 +5,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/wondrous/ring
 aliases: 
 - "Ring of Elemental Command (Air)"
 ---
 # Ring of Elemental Command (Air)
-*Legendary (requires attunement)*  
+*Ring, legendary (requires attunement)*  
 ![](/3-Mechanics/CLI/items/img/ring-of-elemental-command-air.webp#right)
 
 
@@ -28,4 +29,4 @@ While wearing the ring, you benefit from additional properties corresponding to 
 
 The ring has 5 charges and regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [Chain Lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md) (3 charges), [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md) (0 charges), [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) (2 charges), [Wind Wall](/3-Mechanics/CLI/spells/wind-wall-xphb.md) (1 charge)
 
-*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

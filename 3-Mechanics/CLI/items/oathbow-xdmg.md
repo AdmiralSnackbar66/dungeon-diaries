@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
 aliases: 
 - "Oathbow"
 - "Oath Longbow"
@@ -43,4 +44,4 @@ While your sworn enemy lives, you have [Disadvantage](/3-Mechanics/CLI/variant-r
 - **Weight**: 2.0 lbs.
 
 
-*Source: Dungeon Master's Guide (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -4,7 +4,8 @@ cssclasses: json5e-bastion
 tags:
 - ttrpg-cli/bastion
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Teleportation Circle"]
+aliases:
+- Teleportation Circle
 ---
 # Teleportation Circle
 *Level 9 Bastion facility*  

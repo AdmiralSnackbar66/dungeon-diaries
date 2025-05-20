@@ -3,10 +3,11 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Travel Terrain"]
+aliases:
+- Travel Terrain
 ---
 # Travel Terrain
-*Source: Dungeon Master's Guide (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+*Source: Dungeon Master's Guide (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
 **Travel Terrain**
 

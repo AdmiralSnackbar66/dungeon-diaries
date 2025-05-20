@@ -4,10 +4,11 @@ cssclasses: json5e-class
 tags:
 - ttrpg-cli/class/monk
 - ttrpg-cli/compendium/src/5e/xphb
-aliases: ["Monk"]
+aliases:
+- Monk
 ---
 # Monk
-*Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -83,7 +84,7 @@ You can make an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-x
 
 ### Martial Arts Die (Level 1)
 
-You can roll `dice:1d6|noform|noparens|avg` (`1d6`) in place of the normal damage of your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+You can roll `dice:1d6|noform|noparens|avg` (`d6`) in place of the normal damage of your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
 ### Dexterous Attacks (Level 1)
 
@@ -127,7 +128,7 @@ Once you use this feature, you can't use it again until you finish a [Long Rest]
 
 ### Deflect Attacks (Level 3)
 
-When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the attack's total damage against you. The reduction equals `dice:1d10|noform|noparens|avg` (`1d10`) plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the attack's total damage against you. The reduction equals `dice:1d10|noform|noparens|avg` (`d10`) plus your Dexterity modifier and Monk level.
 
 If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 

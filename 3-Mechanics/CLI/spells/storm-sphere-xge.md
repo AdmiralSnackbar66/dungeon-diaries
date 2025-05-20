@@ -18,7 +18,8 @@ classes:
 - Sorcerer
 - Wizard
 - Wizard (Evoker)
-aliases: ["Storm Sphere"]
+aliases:
+- Storm Sphere
 ---
 # Storm Sphere
 *4th-level, Evocation*  
@@ -35,8 +36,8 @@ Until the spell ends, you can use a bonus action on each of your turns to cause 
 
 Creatures within 30 feet of the sphere have disadvantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks made to listen.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `dice:1d6|noform|noparens|avg|text(1d6)` for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by `dice:1d6|noform|noparens|avg|text(d6)` for each slot level above 4th.
 
-**Classes**: [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-rogue-xphb-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-fighter-xphb-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-wizard-xphb-evoker-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 166*

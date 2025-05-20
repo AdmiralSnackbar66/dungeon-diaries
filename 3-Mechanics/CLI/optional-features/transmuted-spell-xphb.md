@@ -4,7 +4,8 @@ cssclasses: json5e-feat
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/optional-feature/mm
-aliases: ["Transmuted Spell"]
+aliases:
+- Transmuted Spell
 ---
 # Transmuted Spell
 *Source: Player's Handbook (2024) p. 142*  

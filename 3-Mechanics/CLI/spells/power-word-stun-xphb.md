@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Power Word Stun"]
+aliases:
+- Power Word Stun
 ---
 # Power Word Stun
 *8th-level, Enchantment*  
@@ -31,4 +32,4 @@ The [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) target makes a Constitutio
 
 **Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

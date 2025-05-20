@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Scatter"]
+aliases:
+- Scatter
 ---
 # Scatter
 *6th-level, Conjuration*  

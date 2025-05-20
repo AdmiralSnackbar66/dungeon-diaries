@@ -8,10 +8,12 @@ tags:
 - ttrpg-cli/monster/size/medium
 - ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
-aliases: ["White Dragon Wyrmling"]
+statblock-link: "#^statblock"
+aliases:
+- White Dragon Wyrmling
 ---
 # [White Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/white-dragon-wyrmling-xmm.md)
-*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 White dragon wyrmlings usually head off on their own soon after hatching. While the cold means little to these creatures, food is scarce in arctic realms, and predators there are merciless. Most white dragon wyrmlings survive by scavenging, hunting opportunistically, and quickly fleeing foes—including other white dragons.
 
@@ -39,40 +41,43 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "ac": !!int "16"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
+"modifier": !!int "2"
 "stats":
-- !!int "14"
-- !!int "10"
-- !!int "14"
-- !!int "5"
-- !!int "10"
-- !!int "11"
+  - !!int "14"
+  - !!int "10"
+  - !!int "14"
+  - !!int "5"
+  - !!int "10"
+  - !!int "11"
 "speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
 "saves":
-  "Dexterity": !!int "2"
-  "Wisdom": !!int "2"
+  - "dexterity": "+2"
+  - "wisdom": "+2"
 "skillsaves":
-  "Stealth": !!int "2"
-  "Perception": !!int "4"
+  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+    "desc": "+4"
+  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+    "desc": "+2"
 "damage_immunities": "cold"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
 "traits":
-- "desc": "The dragon can move across and climb icy surfaces without needing to make\
-    \ an ability check. Additionally, [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
-    \ composed of ice or snow doesn't cost it extra movement."
-  "name": "Ice Walk"
+  - "desc": "The dragon can move across and climb icy surfaces without needing to\
+      \ make an ability check. Additionally, [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
+      \ composed of ice or snow doesn't cost it extra movement."
+    "name": "Ice Walk"
 "actions":
-- "desc": "The dragon makes two Rend attacks."
-  "name": "Multiattack"
-- "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
-    \ plus 2 (1d4) Cold damage."
-  "name": "Rend"
-- "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-    \ Failure: 22 (5d8) Cold damage. Success: Half damage."
-  "name": "Cold Breath (Recharge 5-6)"
+  - "desc": "The dragon makes two Rend attacks."
+    "name": "Multiattack"
+  - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
+      \ plus 2 (d4) Cold damage."
+    "name": "Rend"
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 22 (5d8) Cold damage. Success: Half damage."
+    "name": "Cold Breath (Recharge 5-6)"
 "source":
-- "XMM"
+  - "XMM"
 "image": "/3-Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling-xmm.webp"
 ```
 ^statblock

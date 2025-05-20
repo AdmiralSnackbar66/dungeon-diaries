@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
-aliases: ["Sentient Item's Special Purpose"]
+aliases:
+- Sentient Item's Special Purpose
 ---
 # Sentient Item's Special Purpose
 *Source: Dungeon Master's Guide (2024) p. 226* 

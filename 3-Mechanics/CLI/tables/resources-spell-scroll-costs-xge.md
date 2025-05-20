@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Resources; Spell Scroll Costs"]
+aliases:
+- Resources; Spell Scroll Costs
 ---
 # Resources; Spell Scroll Costs
 *Source: Xanathar's Guide to Everything p. 133* 

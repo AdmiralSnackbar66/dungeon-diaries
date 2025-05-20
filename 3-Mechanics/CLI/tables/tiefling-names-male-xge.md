@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Tiefling Names – Male"]
+aliases:
+- Tiefling Names – Male
 ---
 # Tiefling Names – Male
 *Source: Xanathar's Guide to Everything p. 180* 

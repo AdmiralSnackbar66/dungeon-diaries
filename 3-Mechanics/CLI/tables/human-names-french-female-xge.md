@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Human Names – French, Female"]
+aliases:
+- Human Names – French, Female
 ---
 # Human Names – French, Female
 *Source: Xanathar's Guide to Everything p. 181* 

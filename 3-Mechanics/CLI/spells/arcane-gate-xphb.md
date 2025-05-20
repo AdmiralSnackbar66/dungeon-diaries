@@ -14,7 +14,8 @@ classes:
 - Sorcerer
 - Warlock
 - Wizard
-aliases: ["Arcane Gate"]
+aliases:
+- Arcane Gate
 ---
 # Arcane Gate
 *6th-level, Conjuration*  

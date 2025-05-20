@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/spell/list/feat/wood-elf-magic
-aliases: ["Spells for Wood Elf Magic"]
+aliases:
+- Spells for Wood Elf Magic
 ---
 # Spells for Wood Elf Magic
 
