@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Borun Erutan"
             }
+          },
+          {
+            "id": "bdd9061beacb70e6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan Tracker.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Borun Erutan Tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +216,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "fd900437deebe0fb",
+  "active": "bdd9061beacb70e6",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "z_Assets/Zolon Orielson.pdf",
-    "z_Assets/Borun Erutan Tracker.pdf",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan Tracker.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
     "z_Assets/Drawing 2025-05-21 11.16.58.excalidraw.md",
     "z_Assets/Misc/ImagePlaceholder.png.md",
@@ -229,7 +243,6 @@
     "z_Assets/Strixhaven Acceptance Packet.pdf",
     "z_templates/magic item.md",
     "z_templates/Líadan Inghean Machar.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "3-Mechanics/CLI/books/tashas-cauldron-of-everything/2-character-options.md",
@@ -250,7 +263,6 @@
     "3-Mechanics/CLI/optional-features/img",
     "3-Mechanics/CLI/bestiary/miscellaneous/img",
     "3-Mechanics/CLI/bestiary/miscellaneous/token",
-    "3-Mechanics/CLI/bestiary/miscellaneous",
     "z_Assets/Untitled.canvas"
   ]
 }
