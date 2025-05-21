@@ -16,9 +16,9 @@ tags:
 >|Alignment|Neutral Good|
 >|Species| Bear|
 >###### Strixhaven
->>|Type|Stat|
+>|Type|Stat|
 >|---|---|
 >|College| Quandrix|
 >|Occupation| Professor of Substance|
 
-![[02-life-at-strixhaven#Ruxa, Patient Professor]]
+Ruxa (neutral good [Quandrix professor of substance](/3-Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc.md)) looks like a bipedal brown bear and knows that wild new theories, though exciting, are worthless without a deep understanding of the basics. He teaches students of all levels, and even his most experienced pupils benefit from a much deeper understanding of the fundamental building blocks of the world.
