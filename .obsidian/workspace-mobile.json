@@ -4,58 +4,21 @@
     "type": "split",
     "children": [
       {
-<<<<<<< refs/remotes/origin/v4
-        "id": "dc81040e76c7233a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad9e008ec2924468",
-=======
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
             "id": "e7a7b303c61786dc",
->>>>>>> Last Sync: May 19, 2025 10:35:53 PM (Mobile)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< refs/remotes/origin/v4
-                "file": "ttrpgs/Professor Serafina Onyx.md",
+                "file": "ttrpgs/ttrpgs.md",
                 "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Professor Serafina Onyx"
-            }
-          }
-        ]
-      },
-      {
-        "id": "326243348dfd89ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f16479ad794a4635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Mechanics/CLI/bestiary/undead/lich-xmm.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "lich-xmm"
-=======
-                "file": "vault/ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven"
->>>>>>> Last Sync: May 19, 2025 10:35:53 PM (Mobile)
+              "title": "ttrpgs"
             }
           }
         ]
@@ -64,30 +27,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3585a0aa9f19102c",
+    "id": "ed014269d0d3bc75",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "44ffd25d5f269fae",
+        "id": "9c0fa7933756c59e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "8aef8207ea7c0a9d",
+        "id": "85914c84a58e699c",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Drazhomir",
-            "matchingCase": true,
+            "query": "",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -98,7 +61,7 @@
         }
       },
       {
-        "id": "721fd65bde0bd283",
+        "id": "144d85f01ff4da69",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -113,17 +76,7 @@
         }
       },
       {
-        "id": "5fb8be10ccdfb551",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
-        }
-      },
-      {
-        "id": "2b5d772f739c3cb0",
+        "id": "381459234c51056f",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -135,25 +88,100 @@
           "icon": "lucide-archive",
           "title": "All properties"
         }
+      },
+      {
+        "id": "6b17d1cbe2f5d36f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "b52e9479f5f1490a",
+    "id": "2450fd290c373473",
     "type": "mobile-drawer",
-    "children": [],
+    "children": [
+      {
+        "id": "35be7e8b8923e000",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "14be79287126c2d9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f362dc630ccd9b39",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "1d064c730669c614",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "f1d4c5537ad1196e",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
+      }
+    ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -166,103 +194,11 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "dbfolder:Create a new database table": false,
-      "homepage:Open homepage": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "homepage:Open homepage": false
     }
   },
-<<<<<<< refs/remotes/origin/v4
-  "active": "ad9e008ec2924468",
-  "lastOpenFiles": [
-    "3-Mechanics/CLI/bestiary/undead/lich-xmm.md",
-    "ttrpgs/Professor Serafina Onyx.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
-    "3-Mechanics/CLI/bestiary/undead/demilich-xmm.md",
-    "ttrpgs/Non Player Characters/Mavinder Sharpbeak.md",
-    "3-Mechanics/CLI/bestiary/aberration/token/aberrant-spirit-xphb.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/3-animals.md",
-    "3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md",
-    "3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md",
-    "3-Mechanics/CLI/bestiary/humanoid/witherbloom-apprentice-scc.md",
-    "ttrpgs/ttrpgs.md",
-    "ttrpgs/Non Player Characters/Strixhaven Mysteries 1.md",
-=======
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "vault/ttrpgs/ttrpgs.md",
-    "3-Mechanics/CLI/backgrounds/backgrounds.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/223-15-004-otyugh.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/112-04-016-dryads.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/030-29-003-alt-cover.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/invisible-stalker.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/249-18-010-rust-monster.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/202-13-012-mezzoloth.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/hill-giant.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/gelatinous-cube.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/img/300-23-004-were-creature-group.webp",
-    "3-Mechanics/CLI/books/monster-manual-2025/3-animals.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/img",
-    "3-Mechanics/CLI/books/monster-manual-2025/5-credits.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/1-how-to-use-a-monster.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
-    "3-Mechanics/CLI/books/monster-manual-2025",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/07-chapter-7-treasure.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/06-chapter-6-cosmology.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/12-credits.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/05-chapter-5-creating-campaigns.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/04-chapter-4-creating-adventures.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/10-appendix-b-maps.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/03-chapter-3-dms-toolbox.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/02-chapter-2-running-the-game.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/08-chapter-8-bastions.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/11-appendix-c-tracking-sheets.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/09-appendix-a-lore-glossary.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024",
-    "3-Mechanics/CLI/bestiary/bestiary.md",
-    "3-Mechanics/CLI/bestiary/celestial/celestial.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
->>>>>>> Last Sync: May 19, 2025 10:35:53 PM (Mobile)
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
-    "z_Assets/Serafina Onyx.jpeg",
-    "vault/index.md",
-    "ttrpgs/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "3-Mechanics/CLI/adventures/candlekeep-mysteries/03-the-joy-of-extradimensional-spaces.md",
-    "3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp",
-    "3-Mechanics/CLI/bestiary/aberration/token/slaad-tadpole-xmm.webp",
-    "3-Mechanics/CLI/bestiary/dragon/token/pseudodragon-xmm.webp",
-    "3-Mechanics/CLI/bestiary/plant/token/myconid-sprout-xmm.webp",
-    "3-Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp",
-    "z_templates/session-player.md",
-    "z_templates/session-gm.md",
-    "ttrpgs/Campaigns/Strixhaven/003_20250524.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
-    "ttrpgs/Campaigns/Strixhaven/002_202050601.md",
-    "ttrpgs/Campaigns/Strixhaven/Additional Rules/Urzmaktok Grojsh.md",
-    "ttrpgs/Campaigns/Strixhaven/No games found.md",
-    "ttrpgs/Campaigns/Strixhaven/002_null.md",
-    "ttrpgs/Campaigns/Strixhaven",
-    "ttrpgs/Campaigns",
-    "ttrpgs",
-    "3-Mechanics/CLI/Dice-Roller-Tables/_Generators/Dice Generators",
-    "3-Mechanics/CLI/Dice-Roller-Tables/_Generators/Rant Generators",
-    "3-Mechanics/CLI/Dice-Roller-Tables/Names/All Names",
-    "3-Mechanics/CLI/Dice-Roller-Tables/Tarot",
-    "3-Mechanics/CLI/Dice-Roller-Tables/_Generators",
-    "3-Mechanics/CLI/Dice-Roller-Tables/Names",
-    "3-Mechanics/CLI/Dice-Roller-Tables/LICENSE",
-    "3-Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp",
-    "3-Mechanics/CLI/races/img/tiefling.webp",
-    "3-Mechanics/CLI/races/img/dwarf.webp",
-    "z_Assets/Untitled.canvas"
-  ]
+  "lastOpenFiles": []
 }
