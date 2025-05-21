@@ -51,7 +51,7 @@ These historians are fascinated by all time periods, and they regularly meet to 
 #### Fantastical Horticulture Club
 
 **Skills:** [[skills#Nature|Nature]], [[skills#Survival|Survival]]
-**Member:** [[Urzmaktok Grojsh]]
+**Member:** [[04-school-is-in-session#Urzmaktok Grojsh| Urzmaktok Grojsh]]
 
 These green-thumbed experts love mixing magic and gardening to create new strains of vegetation, many of which they cultivate on campus.
 
