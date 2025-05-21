@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63c0752248e3ad4d",
+        "id": "0bab35035d62f0c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ac0dbeb94260f17c",
+            "id": "52714f7e33a014a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,7 +203,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ac0dbeb94260f17c",
+  "active": "52714f7e33a014a7",
   "lastOpenFiles": [
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "ttrpgs/ttrpgs.md",
