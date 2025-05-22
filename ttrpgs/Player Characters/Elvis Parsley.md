@@ -24,6 +24,8 @@ campaign: Strixhaven
 aliases:
   - Elvis
 ---
+## Bio
+![[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley|Elvis Parsley]]
 ## DND Beyond
 
 ```custom-frames

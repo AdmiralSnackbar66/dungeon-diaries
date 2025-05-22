@@ -6,6 +6,14 @@ published: 2025-05-26
 tags:
   - dnd
   - NPC
+type: npc
+race:
+  - Owlin
+class: 
+college: Lorehold
+role: Student
+employer: 
+expracurricular: Intramural Silkball Club
 ---
 >[!infobox]
 ># `Javanesh Stoutclaw`

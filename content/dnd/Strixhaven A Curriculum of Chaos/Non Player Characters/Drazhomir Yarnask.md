@@ -6,6 +6,13 @@ tags:
   - NPC
 published: 2025-05-18
 draft: true
+type: npc
+race:
+  - Minotaur
+college: Quandrix
+employer: Biblioplex
+extracurricular: Dead Languages Society
+role: Student
 ---
 > [!infobox]
 > # `Drazhomir Yarnask`

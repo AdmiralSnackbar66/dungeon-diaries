@@ -3,6 +3,9 @@ title: Professor Serafina Onyx
 draft: true
 Published: 25/05/2025
 NoteIcon: npc
+publish: 
+college: Silverquill
+employer: Strixhaven
 ---
 >[!infobox]
 ># `=this.file.name`
