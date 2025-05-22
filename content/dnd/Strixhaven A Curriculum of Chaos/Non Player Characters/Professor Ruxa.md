@@ -1,12 +1,13 @@
 ---
 title: Professor Ruxxa
-draft: false
-publish: true
+draft: true
+publish: false
 published: 2025-05-21
 tags:
   - dnd
   - NPC
 role: Faculty
+college: Quandrix
 ---
 >[!infobox]
 >#  `ProfessorRuxxa`

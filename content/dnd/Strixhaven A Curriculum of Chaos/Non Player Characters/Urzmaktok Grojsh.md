@@ -7,6 +7,7 @@ tags:
   - dnd
   - NPC
 role: Student
+college: Witherbloom
 ---
 >[!infobox]
 ># `Urzmaktok Grojsh`

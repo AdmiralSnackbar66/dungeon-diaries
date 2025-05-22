@@ -4,8 +4,10 @@ title: Rook
 tags:
   - dnd
   - NPC
-published: 18-05-2025
+published: 2025-05-16T00:00:00.000+01:00
 role: Staff
+college: n/a
+publish: true
 ---
 >[!infobox]
 > # `Rook`

@@ -6,6 +6,8 @@ tags:
   - dnd
   - NPC
 role: Faculty
+college: Silverquill
+Published: 2025-05-17T00:00:00.000+01:00
 ---
 > [!infobox]
 > # `Professor Mavinda Sharpbeak`

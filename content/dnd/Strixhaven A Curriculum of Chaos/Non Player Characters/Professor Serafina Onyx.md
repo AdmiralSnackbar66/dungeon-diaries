@@ -7,6 +7,9 @@ publish:
 college: Silverquill
 employer: Strixhaven
 role: Faculty
+tags:
+  - dnd
+  - NPC
 ---
 >[!infobox]
 ># `=this.file.name`

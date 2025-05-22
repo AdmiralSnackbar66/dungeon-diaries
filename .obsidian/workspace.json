@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "84b70e909b00fe2d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3cebae5ec9a0ae88",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/NPC Database.md"
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md"
               },
               "icon": "database-folder-icon",
-              "title": "NPC Database"
+              "title": "Non Player Characters"
             }
           }
         ]
@@ -253,12 +253,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3cebae5ec9a0ae88",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/NPC Database.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/2025-05-22.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/032-03-008-aurora.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
     "ttrpgs/Untitled.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
@@ -279,12 +284,8 @@
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
     "ttrpgs/Sessions/Scripts",
     "ttrpgs/Sessions",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/2. Scavenger Hunt.md",
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/1. Tour of the Biblioplex.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png.crdownload",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png",
@@ -294,7 +295,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/049-03-025-zanther.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/048-03-024-urzmaktok.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/047-03-023-tilana.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/046-03-022-shuvadri.webp",
     "public/dnd/Player-Characters/Dalaila-Eversnow.html",
     "[content/dnd/Player Characters",
     "[content/dnd",
