@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83c7d2f0e3103561",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "727ee3ffda03512e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "Elvis Parsley"
             }
           }
         ]
@@ -202,18 +202,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "727ee3ffda03512e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "ttrpgs/Player Characters/Elvis Parsley.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Locations.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
     "ttrpgs/Untitled.md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
-    "ttrpgs/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
