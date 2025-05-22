@@ -5,6 +5,7 @@ tags:
 publish: true
 published: 2025-05-15
 title: Tulk "The Bulk" Tusktooth
+role: Staff
 ---
 
 > [!infobox]

@@ -6,6 +6,7 @@ published: 2025-05-26
 tags:
   - dnd
   - NPC
+role: Student
 ---
 >[!infobox]
 ># `Urzmaktok Grojsh`

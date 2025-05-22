@@ -6,6 +6,7 @@ NoteIcon: npc
 publish: 
 college: Silverquill
 employer: Strixhaven
+role: Faculty
 ---
 >[!infobox]
 ># `=this.file.name`

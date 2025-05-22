@@ -5,6 +5,7 @@ published: 2025-05-16
 tags:
   - dnd
   - NPC
+role: Faculty
 ---
 > [!infobox]
 > # `Professor Mavinda Sharpbeak`

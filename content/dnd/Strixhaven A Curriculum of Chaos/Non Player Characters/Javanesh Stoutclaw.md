@@ -12,7 +12,7 @@ race:
 class: 
 college: Lorehold
 role: Student
-employer: 
+employer: Bows End Tavern
 expracurricular: Intramural Silkball Club
 ---
 >[!infobox]

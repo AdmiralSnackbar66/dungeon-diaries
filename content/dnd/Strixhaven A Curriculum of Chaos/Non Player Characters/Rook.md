@@ -5,6 +5,7 @@ tags:
   - dnd
   - NPC
 published: 18-05-2025
+role: Staff
 ---
 >[!infobox]
 > # `Rook`
