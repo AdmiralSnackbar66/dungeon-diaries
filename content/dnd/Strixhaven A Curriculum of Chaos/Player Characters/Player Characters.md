@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -30,13 +30,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  role:
+  Class:
     input: text
-    accessorKey: role
-    key: role
-    id: role
-    label: role
-    position: 100
+    accessorKey: Class
+    key: Class
+    id: Class
+    label: Class
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -49,19 +49,16 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  college:
+  Species:
     input: text
-    accessorKey: college
-    key: college
-    id: college
-    label: college
-    position: 100
+    accessorKey: Species
+    key: Species
+    id: Species
+    label: Species
+    position: 4
     skipPersist: false
     isHidden: false
-    sortIndex: 1
-    width: 143
-    isSorted: true
-    isSortedDesc: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -77,7 +74,7 @@ columns:
     key: draft
     id: draft
     label: draft
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -96,7 +93,26 @@ columns:
     key: publish
     id: publish
     label: publish
-    position: 100
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  published:
+    input: calendar
+    accessorKey: published
+    key: published
+    id: published
+    label: published
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -115,13 +131,15 @@ columns:
     key: tags
     id: tags
     label: tags
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "dnd", value: "dnd", color: "hsl(346, 95%, 90%)"}
-      - { label: "NPC", value: "NPC", color: "hsl(255, 95%, 90%)"}
+      - { label: "dnd", value: "dnd", color: "hsl(157, 95%, 90%)"}
+      - { label: "player character", value: "player character", color: "hsl(104, 95%, 90%)"}
+      - { label: "player", value: "player", color: "hsl(289, 95%, 90%)"}
+      - { label: "character", value: "character", color: "hsl(263, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -131,35 +149,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __created__:
-    key: __created__
-    id: __created__
-    input: metadata_time
-    label: Created
-    accessorKey: __created__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: true
-    position: 0
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  published:
-    input: calendar
-    accessorKey: published
-    key: published
-    id: published
-    label: published
-    position: 100
+  Alignment:
+    input: text
+    accessorKey: Alignment
+    key: Alignment
+    id: Alignment
+    label: Alignment
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -182,6 +178,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 332
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -218,7 +215,7 @@ config:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: true
+  show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false

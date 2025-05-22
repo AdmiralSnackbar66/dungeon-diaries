@@ -3,7 +3,11 @@ published: 2025-05-15
 title: Omari Elderon
 tags:
   - dnd
+  - player
 publish: true
+Alignment: Lawful Good
+Class: Wizard
+Species: Human
 ---
 
 ![[Omari Elderon.png|215x323]]

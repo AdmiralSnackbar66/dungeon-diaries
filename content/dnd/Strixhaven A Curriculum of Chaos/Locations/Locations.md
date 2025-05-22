@@ -30,47 +30,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  role:
-    input: text
-    accessorKey: role
-    key: role
-    id: role
-    label: role
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  college:
-    input: text
-    accessorKey: college
-    key: college
-    id: college
-    label: college
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: 1
-    width: 143
-    isSorted: true
-    isSortedDesc: false
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   draft:
     input: checkbox
     accessorKey: draft
@@ -109,50 +68,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  tags:
-    input: tags
-    accessorKey: tags
-    key: tags
-    id: tags
-    label: tags
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "dnd", value: "dnd", color: "hsl(346, 95%, 90%)"}
-      - { label: "NPC", value: "NPC", color: "hsl(255, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  __created__:
-    key: __created__
-    id: __created__
-    input: metadata_time
-    label: Created
-    accessorKey: __created__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: true
-    position: 0
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   published:
     input: calendar
     accessorKey: published
@@ -172,35 +87,19 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  extra_curricular:
-    input: text
-    accessorKey: extra_curricular
-    key: extra_curricular
-    id: extra_curricular
-    label: extra_curricular
+  tags:
+    input: tags
+    accessorKey: tags
+    key: tags
+    id: tags
+    label: tags
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  job:
-    input: text
-    accessorKey: job
-    key: job
-    id: job
-    label: job
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
+    options:
+      - { label: "dnd", value: "dnd", color: "hsl(334, 95%, 90%)"}
+      - { label: "location", value: "location", color: "hsl(132, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -218,7 +117,7 @@ config:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
-  show_metadata_created: true
+  show_metadata_created: false
   show_metadata_modified: false
   show_metadata_tasks: false
   show_metadata_inlinks: false

@@ -3,13 +3,11 @@ title: Borun Erutan
 draft: false
 tags:
   - dnd
-  - player character
+  - player
 publish: true
-Class:
-  - Wizard
-Species:
-  - Human
-Alignment: Neutral
+Class: Druid
+Species: Half Elf
+Alignment: Lawful Good
 published: 2025-05-15
 ---
 >[!infobox]

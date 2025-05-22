@@ -3,7 +3,11 @@ title: Dalaila Eversnow
 publish: true
 tags:
   - dnd
+  - player
 published: 2025-05-15
+Alignment: Lawful Good
+Class: Cleric
+Species: Elf
 ---
 ![[Dalaila Eversnow.png|215x323]]
 

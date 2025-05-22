@@ -3,7 +3,11 @@ published: 2025-05-15
 title: Roleck Nevari
 tags:
   - dnd
+  - player
 publish: true
+Alignment: Lawful Good
+Class: Sorcerer
+Species: Tiefling
 ---
 
 ![[Roleck Nevari.png|215x323]]

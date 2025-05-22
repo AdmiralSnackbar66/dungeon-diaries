@@ -3,7 +3,11 @@ publish: true
 title: Zolon Orielson
 tags:
   - dnd
+  - player
 published: 2025-05-15
+Alignment: Lawful Good
+Class: Paladin
+Species: Dragonborn
 ---
 ![[Zolon Orielson.png|215x323]]
 

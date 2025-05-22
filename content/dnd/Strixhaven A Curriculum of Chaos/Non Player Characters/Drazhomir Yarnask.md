@@ -13,6 +13,7 @@ college: Quandrix
 employer: Biblioplex
 extracurricular: Dead Languages Society
 role: Student
+extra_curricular:
 ---
 > [!infobox]
 > # `Drazhomir Yarnask`

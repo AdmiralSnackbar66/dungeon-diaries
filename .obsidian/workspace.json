@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84b70e909b00fe2d",
+        "id": "28916775abe1af67",
         "type": "tabs",
         "children": [
           {
-            "id": "3cebae5ec9a0ae88",
+            "id": "412ef1e2a56cde18",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md"
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "database-folder-icon",
-              "title": "Non Player Characters"
+              "icon": "lucide-file",
+              "title": "Elvis Parsley"
             }
           }
         ]
@@ -253,19 +255,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3cebae5ec9a0ae88",
+  "active": "412ef1e2a56cde18",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Locations.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Extra Curriculars/The Strixhaven Show Band Association.md",
     "ttrpgs/ttrpgs.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/2025-05-22.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "ttrpgs/Player Characters/Elvis Parsley.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Extra Curriculars",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/2025-05-22.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/032-03-008-aurora.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
     "ttrpgs/Untitled.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md",
@@ -274,16 +287,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",
     "ttrpgs/Non Player Characters/Rook.md",
-    "ttrpgs/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
-    "vault/0-Scratch Notes/Strixhaven Mysteries 1.md",
-    "3-Mechanics/CLI/adventures/candlekeep-mysteries/03-the-joy-of-extradimensional-spaces.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/04-school-is-in-session.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "3-Mechanics/CLI/adventures/strixhaven-campus-kerfuffle/1-campus-kerfuffle.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/5. That Trunk Has Teeth!.md",
     "ttrpgs/Sessions/Scripts",
     "ttrpgs/Sessions",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png",
@@ -300,7 +303,6 @@
     "[content/dnd",
     "[content",
     "public/dnd/Player-Characters/Borun-Erutan.html",
-    "content/dnd/Session Notes",
     "z_Assets/Untitled.canvas",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"

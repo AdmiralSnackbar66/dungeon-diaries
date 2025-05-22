@@ -6,6 +6,12 @@ tags:
   - player
 published: 2025-05-15
 date: 2025-05-15
+Alignment: Neutral
+Class:
+  - Bard
+Species:
+  - Elf
+extra_curricular: The Strixhaven Show Band Association
 ---
 >[!infobox]
 ># `Elvis Parsley`
@@ -32,9 +38,9 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                             | d4                        | Skills                       | Member                                      |
-| -------------------------------- | ------------------------- | ---------------------------- | ------------------------------------------- |
-| Strixhaven Show Band Association | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
+| Name                                 | d4                        | Skills                       | Member                                      |
+| ------------------------------------ | ------------------------- | ---------------------------- | ------------------------------------------- |
+| The Strixhaven Show Band Association | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
 ### Job
 | Employer            | Job  | Co Worker              |
 | ------------------- | ---- | ---------------------- |
