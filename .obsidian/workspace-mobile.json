@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Quandrix College"
@@ -216,10 +216,11 @@
   },
   "active": "18504473639fff96",
   "lastOpenFiles": [
+    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
     "ttrpgs/ttrpgs.md",
     "z_templates/Update published files.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
     "2025-05-26.md",
@@ -245,7 +246,6 @@
     "3-Mechanics/CLI/books/players-handbook-2024/08-chapter-7-spells.md",
     "3-Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "ttrpgs/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Hofri Ghostforge.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.webp",
