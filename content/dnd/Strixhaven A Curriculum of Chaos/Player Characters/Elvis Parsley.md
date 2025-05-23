@@ -28,7 +28,7 @@ extra_curricular: The Strixhaven Show Band Association
 ### Bio
 A neutral aligned elf bard.
 
-Enrolled at Strixhaven.
+Enrolled at Strixhaven. His enrollment at Strixhaven has raised questions around his tuition fees and how they were paid.... if at all.
 
 Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Association
 
