@@ -32,6 +32,9 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:insert-table"
+    "editor:insert-table",
+    "editor:fold-all",
+    "editor:insert-horizontal-rule",
+    "table-editor-obsidian:format-all-tables"
   ]
 }
