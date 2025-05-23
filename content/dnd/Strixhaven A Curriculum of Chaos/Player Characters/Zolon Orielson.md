@@ -33,11 +33,11 @@ extra_curricular: The Intramural Silkball Club
 ### Extracurriculars
 | Name | d4                        | Skills | Member |
 | ---- | ------------------------- | ------ | ------ |
-|  `=this.extra_curricular`   | <input type= "checkbox"/> |        |        |
+| The Intramural Silkball Club | <input type= "checkbox"/> |        |        |
 ### Job
 | Employer         | Job | Co Worker |
 | ---------------- | --- | --------- |
-| `=this.employer` | `=this.job`    |           |
+|Strixhaven Dormitories  | Resident Assistant    |           |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |

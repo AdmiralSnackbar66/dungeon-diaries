@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
-                "mode": "preview",
-                "source": true
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Zolon Orielson"
+              "title": "Borun Erutan"
             }
           }
         ]
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
+            "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -215,13 +215,13 @@
   },
   "active": "c12e6e541cfce86e",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/` = this.employer `.md",
     "ttrpgs/ttrpgs.md",
