@@ -1,8 +1,8 @@
 ---
 title: Javanesh Stoutclaw
-draft: true
-publish: 
-published: 2025-05-26
+draft: false
+publish: true
+published: 2025-05-19
 tags:
   - dnd
   - NPC
