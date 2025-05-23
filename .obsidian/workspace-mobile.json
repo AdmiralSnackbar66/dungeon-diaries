@@ -4,32 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe00383997785384",
+        "id": "c5f721f2190b2c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "18504473639fff96",
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
+            "id": "93ae3ceeae9ef170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Quandrix College"
-                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven"
+              "title": "Quandrix College"
             }
           }
         ]
@@ -38,32 +27,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed014269d0d3bc75",
+    "id": "3585a0aa9f19102c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9c0fa7933756c59e",
+        "id": "44ffd25d5f269fae",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "85914c84a58e699c",
+        "id": "8aef8207ea7c0a9d",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
             "query": "Quandrix",
             "matchingCase": true,
-            "query": "",
-            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -74,7 +61,7 @@
         }
       },
       {
-        "id": "144d85f01ff4da69",
+        "id": "721fd65bde0bd283",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -89,7 +76,17 @@
         }
       },
       {
-        "id": "381459234c51056f",
+        "id": "5fb8be10ccdfb551",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "2b5d772f739c3cb0",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -100,88 +97,6 @@
           },
           "icon": "lucide-archive",
           "title": "All properties"
-        }
-      },
-      {
-        "id": "6b17d1cbe2f5d36f",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "2450fd290c373473",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "35be7e8b8923e000",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-coming-in",
-          "title": "Backlinks"
-        }
-      },
-      {
-        "id": "14be79287126c2d9",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
-        }
-      },
-      {
-        "id": "f362dc630ccd9b39",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
-        }
-      },
-      {
-        "id": "1d064c730669c614",
-        "type": "leaf",
-        "state": {
-          "type": "initiative-tracker-view",
-          "state": {},
-          "icon": "initiative-tracker",
-          "title": "Initiative Tracker"
-        }
-      },
-      {
-        "id": "f1d4c5537ad1196e",
-        "type": "leaf",
-        "state": {
-          "type": "DICE_ROLLER_VIEW",
-          "state": {},
-          "icon": "dices",
-          "title": "Dice Tray"
         }
       }
     ],
@@ -272,16 +187,15 @@
       }
     ],
     "currentTab": 5
-    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -294,27 +208,30 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "dbfolder:Create a new database table": false,
+      "homepage:Open homepage": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "publish:Publish changes...": false
     }
   },
-  "active": "18504473639fff96",
+  "active": "93ae3ceeae9ef170",
   "lastOpenFiles": [
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
+    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
+    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~HEAD",
+    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
     "z_templates/Update published files.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
     "2025-05-26.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "z_templates/Untitled.md",
     "ttrpgs/Untitled 2.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups",
     "Untitled 1",
@@ -330,7 +247,6 @@
     "3-Mechanics/CLI/classes/wizard-xphb.md",
     "3-Mechanics/CLI/books/players-handbook-2024/08-chapter-7-spells.md",
     "3-Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Hofri Ghostforge.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.webp",
@@ -345,18 +261,6 @@
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
     "z_Assets/Borun Erutan.pdf",
     "z_Assets/character-sheet 1.pdf",
-    "z_Assets/Roleck Nevari.pdf",
-    "z_Assets/Strixhaven Acceptance Packet.pdf",
     "z_Assets/Untitled.canvas"
-      "homepage:Open homepage": false
-    }
-  },
-      "homepage:Open homepage": false
-    }
-  },
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "ttrpgs/ttrpgs.md",
-    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md"
   ]
 }

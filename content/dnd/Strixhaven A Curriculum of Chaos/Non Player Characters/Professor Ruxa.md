@@ -1,7 +1,7 @@
 ---
 title: Professor Ruxxa
-draft: true
-publish: false
+draft: false
+publish: true
 published: 2025-05-21
 tags:
   - dnd
