@@ -8,15 +8,20 @@ publish: true
 Alignment: Lawful Good
 Class: Wizard
 Species: Human
+job: Book clerk
+employer: The Biblioplex
+extra_curricular: The Strixhaven Starr
 ---
+>[!infobox]
+># `Omari Elderon`
+>![[Omari Elderon.png|map]]
+>###### Basic Information
+>| Type      | Stat        |
+>| --------- | ----------- |
+>| Alignment | Lawful Good |
+>| Class     | Wizard|
+>| Species   | Human    |
 
-![[Omari Elderon.png|215x323]]
-
-| Type      | Stat        |
-| --------- | ----------- |
-| Alignment | Lawful Good |
-| Class     | Wizard    |
-| Species   | Human           |
 
 ## Tracking Sheet
 
@@ -26,17 +31,20 @@ Species: Human
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                              | d4                        | Skills | Member               |
-| --------------------------------- | ------------------------- | ------ | -------------------- |
-| The Fantastical Horticulture Club | <input type= "checkbox"/> |        | [[Urzmaktok Grojsh]] |
+| Name                | d4                        | Skills | Member |
+| ------------------- | ------------------------- | ------ | ------ |
+| The Strixhaven Star | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job     | Co Worker |
-| ----------------- | ------- | --------- |
-| [[Firejolt Cafe]] | Barista |           |
+| Employer           | Job        | Co Worker            |
+| ------------------ | ---------- | -------------------- |
+| [[The Biblioplex]] | Book Clerk | [[Urzmaktok Grojsh]] |
 ### Class Schedule
-| Course                               | Professor                   | College |
-| ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
+| Course                               | Professor                   | College     |
+| ------------------------------------ | --------------------------- | ----------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
+| Beginning Inkomanncy                 |                             | Silverquill |
+| Beginning Computational Magic        |                             | Quandrix    |
+| Arcane Botany for Beginners          |                             | Witherbloom |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

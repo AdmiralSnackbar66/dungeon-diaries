@@ -10,6 +10,7 @@ role: Faculty
 tags:
   - dnd
   - NPC
+type: npc
 ---
 >[!infobox]
 ># `=this.file.name`

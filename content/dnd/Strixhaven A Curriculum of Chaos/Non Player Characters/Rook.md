@@ -8,6 +8,7 @@ published: 2025-05-16T00:00:00.000+01:00
 role: Staff
 college: n/a
 publish: true
+type: npc
 ---
 >[!infobox]
 > # `Rook`

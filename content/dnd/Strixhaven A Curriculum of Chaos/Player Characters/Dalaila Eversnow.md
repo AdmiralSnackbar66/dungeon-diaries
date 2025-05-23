@@ -8,14 +8,20 @@ published: 2025-05-15
 Alignment: Lawful Good
 Class: Cleric
 Species: Elf
+job: Cashier
+employer: Firejolt Cafe
+extra_curricular: The Mage Tower Cheer Squad
 ---
-![[Dalaila Eversnow.png|215x323]]
+>[!infobox]
+># `Borun Erutan'
+>![[Dalaila Eversnow.png|map]]
+>###### Basic Information
+>| Type      | Stat        |
+>| --------- | ----------- |
+>| Alignment | Lawful Good |
+>| Class     | Cleric      |
+>| Species   | Elf    |
 
-| Type      | Stat        |
-| --------- | ----------- |
-| Alignment | Lawful Good |
-| Class     | Cleric      |
-| Species   | Elf            |
 
 ## Tracking Sheet
 
@@ -25,17 +31,20 @@ Species: Elf
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                              | d4                        | Skills | Member               |
-| --------------------------------- | ------------------------- | ------ | -------------------- |
-| The Fantastical Horticulture Club | <input type= "checkbox"/> |        | [[Urzmaktok Grojsh]] |
+| Name                       | d4                        | Skills | Member |
+| -------------------------- | ------------------------- | ------ | ------ |
+| ` = this.extra_curricular ` | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job     | Co Worker |
-| ----------------- | ------- | --------- |
-| [[Firejolt Cafe]] | Barista |           |
+| Employer         | Job     | Co Worker |
+| ---------------- | ------- | --------- |
+| `=this.employer` | `=this.job` |           |
 ### Class Schedule
-| Course                               | Professor                   | College |
-| ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
+| Course                               | Professor                   | College     |
+| ------------------------------------ | --------------------------- | ----------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
+| The  History of  Magic and Art       |                             | Prismari    |
+| introduction to Archeomancy          |                             | Lorehold    |
+| Arcane Botany for Beginners          |                             | Witherbloom |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

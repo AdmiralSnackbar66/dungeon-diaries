@@ -12,6 +12,8 @@ Class:
 Species:
   - Elf
 extra_curricular: The Strixhaven Show Band Association
+employer: Bows End Tavern
+job: Cook
 ---
 >[!infobox]
 ># `Elvis Parsley`
@@ -44,16 +46,16 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 ---
 
 ### Extracurriculars
-| Name                                 | d4                        | Skills                       | Member                                      |
-| ------------------------------------ | ------------------------- | ---------------------------- | ------------------------------------------- |
-| The Strixhaven Show Band Association | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
+| Name                     | d4                        | Skills                       | Member                                      |
+| ------------------------ | ------------------------- | ---------------------------- | ------------------------------------------- |
+| `=this.extra_curricular` | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
 
 ---
 
 ### Job
-| Employer            | Job  | Co Worker              |
-| ------------------- | ---- | ---------------------- |
-| [[Bows End Tavern]] | Cook | [[Javanesh Stoutclaw]] |
+| Employer         | Job  | Co Worker              |
+| ---------------- | ---- | ---------------------- |
+| `=this.employer` | `=this.job` | [[Javanesh Stoutclaw]] |
 
 
 ---

@@ -6,17 +6,24 @@ tags:
   - player
 publish: true
 Alignment: Lawful Good
-Class: Sorcerer
-Species: Tiefling
+Class:
+  - Sorcerer
+Species:
+  - Tiefling
+extra_curricular: The Play Actors Drama Guild
+employer: Strixhaven Magic Labs
+job: Specimen Preparer
+college: Not chosen
 ---
-
-![[Roleck Nevari.png|215x323]]
-
-| Type      | Stat        |
-| --------- | ----------- |
-| Alignment | Lawful Good |
-| Class     | Sorcerer    |
-| Species   | Tiefling         |
+>[!infobox]
+># `Roleck Nevari'
+>![[Roleck Nevari.png|map]]
+>###### Basic Information
+>| Type      | Stat        |
+>| --------- | ----------- |
+>| Alignment | Lawful Good |
+>| Class     | Sorcerer     |
+>| Species   | Tiefling    |
 
 ## Tracking Sheet
 
@@ -26,13 +33,13 @@ Species: Tiefling
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                              | d4                        | Skills | Member               |
-| --------------------------------- | ------------------------- | ------ | -------------------- |
-| The Fantastical Horticulture Club | <input type= "checkbox"/> |        | [[Urzmaktok Grojsh]] |
+| Name                      | d4                        | Skills | Member |
+| ------------------------- | ------------------------- | ------ | ------ |
+| `= this.extra_curricular` | <input type= "checkbox"/> |        |        |
 ### Job
 | Employer          | Job     | Co Worker |
 | ----------------- | ------- | --------- |
-| [[Firejolt Cafe]] | Barista |           |
+| ` = this.employer `|`=this.job`  |           |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |

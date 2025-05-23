@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "dc0a263d6d8f6946",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c12e6e541cfce86e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "Zolon Orielson"
             }
           }
         ]
@@ -110,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -122,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ttrpgs/ttrpgs.md",
+            "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,9 +174,19 @@
           "icon": "dices",
           "title": "Dice Tray"
         }
+      },
+      {
+        "id": "5df63e4be13663d8",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-creature-view",
+          "state": {},
+          "icon": "initiative-tracker-creature-view",
+          "title": "Combatant"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,38 +213,39 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c12e6e541cfce86e",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "ttrpgs/Player Characters/Elvis Parsley.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/` = this.employer `.md",
     "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "3-Mechanics/CLI/classes/wizard-xphb.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/08-chapter-7-spells.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
+    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
+    "ttrpgs/Player Characters/Borun Erutan.md",
+    "ttrpgs/Player Characters/Dalaila Eversnow.md",
+    "3-Mechanics/CLI/spells/chromatic-orb-xphb.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
+    "3-Mechanics/CLI/conditions.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
+    "ttrpgs/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Locations.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
     "ttrpgs/Untitled.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
-    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
-    "ttrpgs/Handouts/Scavenger Hunt Clues.md",
-    "ttrpgs/Lorehold.md",
-    "3-Mechanics/CLI/bestiary/humanoid/lorehold-professor-of-order-scc.md",
-    "Npc relations.md",
-    "ttrpgs/Campaigns/Strixhaven/Test.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Hofri Ghostforge.jpg",
-    "z_templates/session-gm.md",
-    "z_templates/NEW WEB NPC.md",
-    "z_templates/Test Character.md",
-    "z_templates/PlayerCharacter.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxxa.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/IMG_0039.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.png",
@@ -252,7 +254,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan Tracker.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
-    "z_Assets/AislaFitzbottom.webp",
     "z_Assets/Borun Erutan.pdf",
     "z_Assets/character-sheet 1.pdf",
     "z_Assets/Roleck Nevari.pdf",

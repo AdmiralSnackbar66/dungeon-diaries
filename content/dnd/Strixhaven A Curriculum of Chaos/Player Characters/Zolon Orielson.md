@@ -8,14 +8,20 @@ published: 2025-05-15
 Alignment: Lawful Good
 Class: Paladin
 Species: Dragonborn
+job: Resident Assistant
+employer: Strixhaven Dormitories
+extra_curricular: The Intramural Silkball Club
 ---
-![[Zolon Orielson.png|215x323]]
 
-| Type      | Stat        |
-| --------- | ----------- |
-| Alignment | Lawful Good |
-| Class     | Paladin     |
-| Species   | Dragonborn         |
+>[!infobox]
+># `Zolon Orielson`'
+>![[Zolon Orielson.png|map]]
+>###### Basic Information
+>| Type      | Stat        |
+>| --------- | ----------- |
+>| Alignment | Lawful Good |
+>| Class     | Paladin     |
+>| Species   | Dragonborn    |
 
 ## Tracking Sheet
 
@@ -27,11 +33,11 @@ Species: Dragonborn
 ### Extracurriculars
 | Name | d4                        | Skills | Member |
 | ---- | ------------------------- | ------ | ------ |
-|      | <input type= "checkbox"/> |        |        |
+|  `=this.extra_curricular`   | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job | Co Worker |
-| ----------------- | --- | --------- |
-| |   |           |
+| Employer         | Job | Co Worker |
+| ---------------- | --- | --------- |
+| `=this.employer` | `=this.job`    |           |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |

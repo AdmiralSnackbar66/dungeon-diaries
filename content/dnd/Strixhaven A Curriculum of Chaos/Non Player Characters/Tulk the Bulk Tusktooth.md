@@ -7,6 +7,7 @@ published: 2025-05-15
 title: Tulk "The Bulk" Tusktooth
 role: Staff
 college: n/a
+type: npc
 ---
 
 > [!infobox]

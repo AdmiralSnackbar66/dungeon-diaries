@@ -8,6 +8,7 @@ tags:
   - NPC
 role: Faculty
 college: Quandrix
+type: npc
 ---
 >[!infobox]
 >#  `ProfessorRuxxa`

@@ -5,10 +5,15 @@ tags:
   - dnd
   - player
 publish: true
-Class: Druid
-Species: Half Elf
+Class:
+  - Druid
+Species:
+  - Half Elf
 Alignment: Lawful Good
 published: 2025-05-15
+employer: Firejolt Cafe
+job: Barista
+extra_curricular: The  Fantastical Horticulture Club
 ---
 >[!infobox]
 ># `Borun Erutan'
@@ -38,11 +43,11 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 ### Extracurriculars
 | Name                              | d4                        | Skills | Member               |
 | --------------------------------- | ------------------------- | ------ | -------------------- |
-| The Fantastical Horticulture Club | <input type= "checkbox"/> |        | [[Urzmaktok Grojsh]] |
+| ` = this.extra_curricular`| <input type= "checkbox"/> |        | |
 ### Job
 | Employer          | Job     | Co Worker |
 | ----------------- | ------- | --------- |
-| [[Firejolt Cafe]] | Barista |           |
+| ` = this.employer ` | ` = this.job `    |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
