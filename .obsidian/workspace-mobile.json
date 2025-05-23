@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "Strixhaven"
             }
           }
         ]
@@ -199,8 +199,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9c0fa7933756c59e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ttrpgs/ttrpgs.md"
+    "ttrpgs/ttrpgs.md",
+    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md"
   ]
 }
