@@ -9,6 +9,10 @@ tags:
 role: Faculty
 college: Quandrix
 type: npc
+race:
+  - Bear
+class:
+  - Druid
 ---
 >[!infobox]
 >#  `ProfessorRuxxa`

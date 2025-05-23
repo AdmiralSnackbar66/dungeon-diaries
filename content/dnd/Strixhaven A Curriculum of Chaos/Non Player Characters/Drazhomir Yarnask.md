@@ -1,11 +1,11 @@
 ---
 title: Drazhomir Yarnask
-publish: 
+publish: true
 tags:
   - dnd
   - NPC
 published: 2025-05-18
-draft: true
+draft: false
 type: npc
 race:
   - Minotaur
@@ -13,7 +13,9 @@ college: Quandrix
 employer: Biblioplex
 extracurricular: Dead Languages Society
 role: Student
-extra_curricular:
+extra_curricular: 
+class:
+  - Wizard
 ---
 > [!infobox]
 > # `Drazhomir Yarnask`
