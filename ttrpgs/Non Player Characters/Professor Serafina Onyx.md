@@ -4,7 +4,13 @@ aliases:
   - Verelda Lang
   - Liliana Vess
   - Fistandia
-NoteIcon: npc
+tags:
+  - dnd
+  - NPC
+race:
+  - Human
+class:
+  - Warlock
 ---
 >[!infobox]
 ># `=this.file.name`

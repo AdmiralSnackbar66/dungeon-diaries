@@ -1,4 +1,10 @@
-%% #Ignore update via "Update Publish Files" template %% 
+---
+title: Quandrix Students
+publish: true
+published: 
+explorerexclude: true
+---
+
 
 | Name                                                                                                           | Species                    | Class                    |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |

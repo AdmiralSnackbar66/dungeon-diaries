@@ -1,8 +1,6 @@
 ---
 title: Professor Serafina Onyx
-draft: false
 Published: 25/05/2025
-NoteIcon: npc
 publish: true
 college: Silverquill
 employer: Strixhaven
@@ -12,7 +10,9 @@ tags:
   - NPC
 type: npc
 published: 2025-05-18T00:00:00.000+01:00
-class: Sorcerer
+class:
+  - Warlock
+"":
 ---
 >[!infobox]
 ># `=this.file.name`
