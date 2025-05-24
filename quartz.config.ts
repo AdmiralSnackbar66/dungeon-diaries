@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
 	filters: [Plugin.ExplicitPublish()],
     locale: "en-GB",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "dungeondiaries.co.uk",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "published",
     theme: {
