@@ -4,6 +4,7 @@ draft: false
 tags:
   - blog
 published: 2025-03-07
+publish: true
 ---
 So Ive made some changes to the way I update this blog and am currently in the process of teaking the design..
 

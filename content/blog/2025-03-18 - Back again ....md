@@ -4,6 +4,8 @@ draft: false
 tags:
   - blog
 date: 2025-03-18
+publish: true
+published: 2025-03-18T00:00:00.000+00:00
 ---
 So its been about a week since the last blog post.
 
