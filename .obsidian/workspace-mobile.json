@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f9c92a27b84a1b",
+        "id": "83550c60ebeee327",
         "type": "tabs",
         "children": [
           {
-            "id": "10911589b05c26d9",
+            "id": "a43e627c14bac48c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
+                "file": "content/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "index"
             }
           }
         ]
@@ -214,16 +214,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "10911589b05c26d9",
+  "active": "a43e627c14bac48c",
   "lastOpenFiles": [
+    "content/blog/index.md",
+    "ttrpgs/ttrpgs.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
     "content/index.md",
     "quartz.config.ts",
     "quartz.config.ts.txt",
-    "content/blog/index.md",
     "content/blog/blog.md",
     "content/dnd/index.md",
     "content/dnd/dnd.md",
-    "ttrpgs/ttrpgs.md",
     "content/blog/2025-03-25 - Testing private notes  ....md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "content/Untitled database.md",
