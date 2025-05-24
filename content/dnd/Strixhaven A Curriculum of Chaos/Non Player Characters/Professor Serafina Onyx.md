@@ -1,9 +1,9 @@
 ---
 title: Professor Serafina Onyx
-draft: true
+draft: false
 Published: 25/05/2025
 NoteIcon: npc
-publish: 
+publish: true
 college: Silverquill
 employer: Strixhaven
 role: Faculty
@@ -11,10 +11,12 @@ tags:
   - dnd
   - NPC
 type: npc
+published: 2025-05-18T00:00:00.000+01:00
+class: Sorcerer
 ---
 >[!infobox]
 ># `=this.file.name`
->![[Serafina Onyx.jpeg|map]]
+>![[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg|map]]
 >###### Basic Information
 >Type|Stat|
 >---|---|

@@ -13,6 +13,10 @@ const fileAndQuery = new Map([
      "Quandrix Students",
     'TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" FROM "content" WHERE (type = "npc") WHERE (role = "Student") WHERE (college = "Quandrix") SORT file.mtime DESC',
    ],
+   [
+     "Quandrix College TEST",
+    'TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" FROM "content" WHERE (type = "npc") WHERE (role = "Faculty") WHERE (college = "Quandrix") SORT file.mtime DESC',
+   ],
 ]);
 
 await fileAndQuery.forEach(async (query, filename) => {

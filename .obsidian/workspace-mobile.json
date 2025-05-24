@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f721f2190b2c0b",
+        "id": "2071a33b7053fe9b",
         "type": "tabs",
         "children": [
           {
-            "id": "93ae3ceeae9ef170",
+            "id": "45cd4663dd339f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
-                "mode": "source",
-                "source": false
+                "file": "content/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Quandrix College"
+              "title": "index"
             }
           }
         ]
@@ -214,39 +214,41 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "93ae3ceeae9ef170",
+  "active": "45cd4663dd339f58",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
+    "quartz.config.ts.txt",
+    "content/blog/index.md",
+    "content/blog/blog.md",
+    "content/index.md",
+    "quartz.config.ts",
+    "content/dnd/index.md",
+    "content/dnd/dnd.md",
     "ttrpgs/ttrpgs.md",
+    "content/blog/2025-03-25 - Testing private notes  ....md",
+    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
+    "content/Untitled database.md",
+    "content/dnd/Untitled database.md",
+    "3-Mechanics/CLI/lists/list-spells-classes-wizard.md",
+    "3-Mechanics/CLI/spells/chromatic-orb-xphb.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "3-Mechanics/CLI/spells/vicious-mockery-xphb.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
+    "z_templates/Update published files.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Untitled database.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill College.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~HEAD",
-    "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
-    "z_templates/Update published files.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
-    "2025-05-26.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
-    "z_templates/Untitled.md",
-    "ttrpgs/Untitled 2.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups",
     "Untitled 1",
     "Untitled",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/` = this.employer `.md",
-    "3-Mechanics/CLI/classes/wizard-xphb.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/08-chapter-7-spells.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/04-chapter-3-character-classes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Hofri Ghostforge.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.webp",
@@ -259,8 +261,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan Tracker.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
-    "z_Assets/Borun Erutan.pdf",
-    "z_Assets/character-sheet 1.pdf",
     "z_Assets/Untitled.canvas"
   ]
 }

@@ -14,6 +14,7 @@ college: Lorehold
 role: Student
 employer: Bows End Tavern
 expracurricular: Intramural Silkball Club
+extra_curricular: The Intramural Silkball ClubSilkball
 ---
 >[!infobox]
 ># `Javanesh Stoutclaw`

@@ -8,7 +8,7 @@ NoteIcon: npc
 ---
 >[!infobox]
 ># `=this.file.name`
->![[Serafina Onyx.jpeg|200]]
+>![[z_Assets/Serafina Onyx.jpeg|200]]
 >###### Basic Information
 >Type|Stat|
 >---|---|

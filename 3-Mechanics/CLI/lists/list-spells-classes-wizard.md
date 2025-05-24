@@ -68,7 +68,7 @@ aliases:
 - [Jump](/3-Mechanics/CLI/spells/jump-xphb.md "XPHB")
 - [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md "XPHB")
 - [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md "XPHB")
-- [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md "XPHB")
+- [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md "XPHB") ^269c01
 - [Protection from Evil and Good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB")
 - [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md "XPHB")
 - [Shield](/3-Mechanics/CLI/spells/shield-xphb.md "XPHB")

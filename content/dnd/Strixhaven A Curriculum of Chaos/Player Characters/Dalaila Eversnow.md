@@ -41,7 +41,7 @@ extra_curricular: The Mage Tower Cheer Squad
 ### Class Schedule
 | Course                               | Professor                   | College     |
 | ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
+| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]] | Generic     |
 | The  History of  Magic and Art       |                             | Prismari    |
 | introduction to Archeomancy          |                             | Lorehold    |
 | Arcane Botany for Beginners          |                             | Witherbloom |

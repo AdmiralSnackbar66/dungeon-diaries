@@ -62,7 +62,7 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 ### Class Schedule
 | Course                               | Professor                      | College  |
 | ------------------------------------ | ------------------------------ | -------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | Generic  |
+| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]]    | Generic  |
 | Beginning Computational Magic        | [[Professor Ruxa]]             | Quandrix |
 | History of Magic and Art             | [[Professor Hofri Ghostforge]] | Lorehold |
 

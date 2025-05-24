@@ -4,6 +4,8 @@ title: My Blog
 publish: true
 tags:
   - blog
+aliases:
+  - blog_index
 ---
 
 Welcome to the blog element of my site. This is where I collect my thoughts of the day.

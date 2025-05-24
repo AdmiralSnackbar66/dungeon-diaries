@@ -43,7 +43,7 @@ college: Not chosen
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
+| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]] | Generic |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |
