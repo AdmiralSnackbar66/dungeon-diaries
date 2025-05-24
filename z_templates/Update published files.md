@@ -1,4 +1,5 @@
 
+
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const openPublishPanel = app.commands.commands["publish:view-changes"].callback;
@@ -30,7 +31,8 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
   const tFile = tp.file.find_tfile(filename);
   const queryOutput = await dv.queryMarkdown(query);
-  const fileContent = `%% #Ignore update via "Update Publish Files" template %% \n\n${queryOutput.value}`;
+  const fileContent = `---\npublish: true\nexplorerexclude: true\n---\n${queryOutput.value}`;
+  const fileContent2 =`%% #Ignore update via "Update Publish Files" template %% \n\n${queryOutput.value}`; 
   try {
     await app.vault.modify(tFile, fileContent);
     new Notice(`Updated ${tFile.basename}.`);

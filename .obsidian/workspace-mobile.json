@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83550c60ebeee327",
+        "id": "715e9e093275dd02",
         "type": "tabs",
         "children": [
           {
-            "id": "a43e627c14bac48c",
+            "id": "28f8c566debd07ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill Faculty.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Silverquill Faculty"
+              "title": "Quandrix Faculty"
             }
           }
         ]
@@ -214,23 +214,23 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a43e627c14bac48c",
+  "active": "28f8c566debd07ad",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill Students.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill Faculty.md",
-    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "z_templates/Update published files.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill College.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill Faculty.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill College.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill Students.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
+    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
     "content/blog/blog.md",
     "content/index.md",
     "content/blog/index.md",
-    "ttrpgs/ttrpgs.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
     "quartz.config.ts",
     "quartz.config.ts.txt",
