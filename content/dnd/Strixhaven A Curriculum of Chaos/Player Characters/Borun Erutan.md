@@ -41,13 +41,13 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                              | d4                        | Skills | Member               |
-| --------------------------------- | ------------------------- | ------ | -------------------- |
-| ` = this.extra_curricular`| <input type= "checkbox"/> |        | |
+| Name                              | d4                        | Skills | Member |
+| --------------------------------- | ------------------------- | ------ | ------ |
+| The Fantastical Horticulture Club | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job     | Co Worker |
-| ----------------- | ------- | --------- |
-| ` = this.employer ` | ` = this.job `    |
+| Employer          | Job            | Co Worker |
+| ----------------- | -------------- | --------- |
+| [[Firejolt Cafe]] | ` = this.job ` |           |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |

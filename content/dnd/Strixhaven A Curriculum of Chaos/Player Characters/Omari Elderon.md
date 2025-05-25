@@ -37,11 +37,11 @@ extra_curricular: The Strixhaven Starr
 ### Job
 | Employer           | Job        | Co Worker            |
 | ------------------ | ---------- | -------------------- |
-| [[ttrpgs/Campaigns/Strixhaven/Locations/The Biblioplex]] | Book Clerk | [[Urzmaktok Grojsh]] |
+| [[The Biblioplex]] | Book Clerk | [[Urzmaktok Grojsh]] |
 ### Class Schedule
 | Course                               | Professor                   | College     |
 | ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]] | Generic     |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
 | Beginning Inkomanncy                 |                             | Silverquill |
 | Beginning Computational Magic        |                             | Quandrix    |
 | Arcane Botany for Beginners          |                             | Witherbloom |

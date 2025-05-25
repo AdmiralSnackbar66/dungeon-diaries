@@ -1,7 +1,7 @@
 ---
 title: Urzmaktok Grojsh
-draft: true
-publish: false
+draft: false
+publish: true
 published: 2025-05-26
 tags:
   - dnd

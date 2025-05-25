@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c7b96a02480c0ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f18ba282e487cb0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Zolon Orielson"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -214,25 +214,29 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f18ba282e487cb0e",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md",
+    "ttrpgs/Campaigns/Strixhaven/Locations/The Biblioplex.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/ttrpgs.md",
     "ttrpgs/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "quartz.config.ts",
     "quartz.config.ts.txt",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Ruxxa.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxxa.jpeg",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
@@ -242,10 +246,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Silverquill Students.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
-    "content/blog/blog.md",
-    "content/index.md",
-    "content/blog/index.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~HEAD",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups",

@@ -31,17 +31,17 @@ extra_curricular: The Intramural Silkball Club
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name | d4                        | Skills | Member |
-| ---- | ------------------------- | ------ | ------ |
+| Name                         | d4                        | Skills | Member |
+| ---------------------------- | ------------------------- | ------ | ------ |
 | The Intramural Silkball Club | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer         | Job | Co Worker |
-| ---------------- | --- | --------- |
-|Strixhaven Dormitories  | Resident Assistant    |           |
+| Employer               | Job                | Co Worker |
+| ---------------------- | ------------------ | --------- |
+| Strixhaven Dormitories | Resident Assistant |           |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]] | Generic |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

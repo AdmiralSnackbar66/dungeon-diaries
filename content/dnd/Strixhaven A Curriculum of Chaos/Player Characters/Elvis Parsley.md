@@ -46,23 +46,23 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 ---
 
 ### Extracurriculars
-| Name                     | d4                        | Skills                       | Member                                      |
-| ------------------------ | ------------------------- | ---------------------------- | ------------------------------------------- |
-| `=this.extra_curricular` | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
+| Name                                 | d4                        | Skills                       | Member                                      |
+| ------------------------------------ | ------------------------- | ---------------------------- | ------------------------------------------- |
+| The Strixhaven Show Band Association | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
 
 ---
 
 ### Job
-| Employer         | Job  | Co Worker              |
-| ---------------- | ---- | ---------------------- |
-| `=this.employer` | `=this.job` | [[Javanesh Stoutclaw]] |
+| Employer            | Job         | Co Worker              |
+| ------------------- | ----------- | ---------------------- |
+| [[Bows End Tavern]] | `=this.job` | [[Javanesh Stoutclaw]] |
 
 
 ---
 ### Class Schedule
 | Course                               | Professor                      | College  |
 | ------------------------------------ | ------------------------------ | -------- |
-| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]]    | Generic  |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | Generic  |
 | Beginning Computational Magic        | [[Professor Ruxa]]             | Quandrix |
 | History of Magic and Art             | [[Professor Hofri Ghostforge]] | Lorehold |
 

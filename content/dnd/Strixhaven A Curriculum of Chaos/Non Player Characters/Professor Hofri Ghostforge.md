@@ -1,7 +1,7 @@
 ---
 title: Professor Hofri Ghostforge
-draft: true
-publish: 
+draft: false
+publish: true
 published: 2025-05-26
 tags:
   - dnd

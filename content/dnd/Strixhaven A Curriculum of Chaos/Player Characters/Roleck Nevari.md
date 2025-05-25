@@ -33,17 +33,17 @@ college: Not chosen
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                      | d4                        | Skills | Member |
-| ------------------------- | ------------------------- | ------ | ------ |
-| `= this.extra_curricular` | <input type= "checkbox"/> |        |        |
+| Name                        | d4                        | Skills | Member |
+| --------------------------- | ------------------------- | ------ | ------ |
+| The Play Actors Drama Guild | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job     | Co Worker |
-| ----------------- | ------- | --------- |
-| ` = this.employer `|`=this.job`  |           |
+| Employer                  | Job         | Co Worker |
+| ------------------------- | ----------- | --------- |
+| The Strixhaven Magic Labs | `=this.job` |           |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]] | Generic |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |
