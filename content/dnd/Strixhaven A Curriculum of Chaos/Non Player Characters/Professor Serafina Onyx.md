@@ -16,7 +16,7 @@ race:
   - Human
 ---
 >[!infobox]
-># `=this.file.name`
+># `Professor Serafina Onyx`
 >![[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg|map]]
 >###### Basic Information
 >Type|Stat|
