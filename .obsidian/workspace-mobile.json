@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34e387e5310d4aa6",
+        "id": "292fe8bde86751f8",
         "type": "tabs",
         "children": [
           {
-            "id": "80955039aa0bc17f",
+            "id": "351dbf7e6466bfb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -214,11 +214,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "80955039aa0bc17f",
+  "active": "351dbf7e6466bfb5",
   "lastOpenFiles": [
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Ruxxa.jpg",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxxa.jpeg",
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Students.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups/Quandrix College.md",
@@ -243,7 +245,6 @@
     "content/dnd/Untitled database.md",
     "3-Mechanics/CLI/lists/list-spells-classes-wizard.md",
     "3-Mechanics/CLI/spells/chromatic-orb-xphb.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~HEAD",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups",
@@ -254,11 +255,9 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Hofri Ghostforge.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxxa.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/IMG_0039.jpeg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan Tracker.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",

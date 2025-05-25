@@ -16,7 +16,7 @@ class:
 ---
 >[!infobox]
 >#  `Professor Ruxxa`
->![[Professor Ruxxa.jpeg|300]]
+>![[Ruxxa.jpg]]
 >###### Basic Info
 >|Type|Stat|
 >|---|---|
