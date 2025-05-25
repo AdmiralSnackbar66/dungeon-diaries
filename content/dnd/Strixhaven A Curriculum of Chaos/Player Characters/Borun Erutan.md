@@ -20,6 +20,7 @@ hp: "9"
 passperc: "12"
 race:
   - Half Elf
+Player: Matthew
 ---
 >[!infobox]
 ># `Borun Erutan`

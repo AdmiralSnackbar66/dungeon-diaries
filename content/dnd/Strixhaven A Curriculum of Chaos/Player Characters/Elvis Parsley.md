@@ -20,6 +20,7 @@ ac: "14"
 passperc: "13"
 race:
   - Elf
+Player: Eddie
 ---
 >[!infobox]
 ># `Elvis Parsley`
@@ -68,9 +69,10 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 ### Class Schedule
 | Course                               | Professor                      | College  |
 | ------------------------------------ | ------------------------------ | -------- |
-| Introduction to Magical Physiologies | [[Serafina Onyx]]    | Generic  |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | Generic  |
 | Beginning Computational Magic        | [[Professor Ruxa]]             | Quandrix |
 | History of Magic and Art             | [[Professor Hofri Ghostforge]] | Lorehold |
+|                                      |                                |          |
 
 ---
 

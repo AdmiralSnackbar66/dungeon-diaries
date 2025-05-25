@@ -20,6 +20,7 @@ ac: "11"
 passperc: "11"
 race:
   - Tiefling
+Player: Deakin
 ---
 >[!infobox]
 ># `Roleck Nevari`

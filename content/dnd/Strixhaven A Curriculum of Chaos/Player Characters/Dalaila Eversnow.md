@@ -14,12 +14,14 @@ extra_curricular: The Dragonsguard Historical Society
 campaign: Strixhaven
 NoteIcon: player
 type: player
-Class: Cleric
+Class:
+  - Cleric
 hp: "9"
 ac: "14"
 passperc: "12"
 race:
   - Elf
+Player: Abigail
 ---
 >[!infobox]
 ># `Dalaila Eversnow`
@@ -40,18 +42,17 @@ race:
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                       | d4                        | Skills | Member |
-| -------------------------- | ------------------------- | ------ | ------ |
-| The Mage Tower Cheer Squad | <input type= "checkbox"/> |        |        |
+| Name                                | d4                        | Skills          | Members                                  |
+| ----------------------------------- | ------------------------- | --------------- | ---------------------------------------- |
+| The Dragonsguard Historical Society | <input type= "checkbox"/> | Arcana, History | Bhedum "Rampart" Sooviij , Tilana Kapule |
 ### Job
-| Employer          | Job     | Co Worker |
-| ----------------- | ------- | --------- |
-| [[Firejolt Cafe]] | Cashier |           |
-|                   |         |           |
+| Employer          | Job     | Co Worker    |
+| ----------------- | ------- | ------------ |
+| [[Firejolt Cafe]] | Cashier | [[Mina Lee]] |
 ### Class Schedule
 | Course                               | Professor                   | College     |
 | ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic     |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
 | The  History of  Magic and Art       |                             | Prismari    |
 | introduction to Archeomancy          |                             | Lorehold    |
 | Arcane Botany for Beginners          |                             | Witherbloom |

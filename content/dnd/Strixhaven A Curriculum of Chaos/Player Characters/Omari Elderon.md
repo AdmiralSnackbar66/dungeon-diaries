@@ -19,6 +19,7 @@ ac: "11"
 passperc: "13"
 race:
   - Human
+Player: Nathan
 ---
 >[!infobox]
 ># `Omari Elderon`

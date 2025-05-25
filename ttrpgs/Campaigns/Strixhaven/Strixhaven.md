@@ -50,10 +50,11 @@ TABLE description as "Description" from "ttrpgs"
 WHERE contains(lower(type),"faction")
 WHERE (campaign = "Strixhaven")
 ```
+## Locations
 
-## Custom rules
-
-- [[Character options]]
-- [[ttrpgs/Strixhaven/House Rules|House Rules]]
-
-## [[Safety Tools]]
+```dataview  
+TABLE WITHOUT ID link(file.name) AS "Name", publish
+FROM "content"
+WHERE (type = "location")
+SORT file.mtime DESC
+```
