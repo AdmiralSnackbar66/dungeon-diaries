@@ -14,7 +14,7 @@ extra_curricular: The Intramural Silkball Club
 ---
 
 >[!infobox]
-># `Zolon Orielson`'
+># `Zolon Orielson`
 >![[Zolon Orielson.png|map]]
 >###### Basic Information
 >| Type      | Stat        |

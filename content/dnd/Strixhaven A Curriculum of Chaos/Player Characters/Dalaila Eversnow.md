@@ -13,7 +13,7 @@ employer: Firejolt Cafe
 extra_curricular: The Mage Tower Cheer Squad
 ---
 >[!infobox]
-># `Borun Erutan'
+># `Dalaila Eversnow`
 >![[Dalaila Eversnow.png|map]]
 >###### Basic Information
 >| Type      | Stat        |

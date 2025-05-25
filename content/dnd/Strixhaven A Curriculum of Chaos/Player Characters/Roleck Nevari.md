@@ -16,7 +16,7 @@ job: Specimen Preparer
 college: Not chosen
 ---
 >[!infobox]
-># `Roleck Nevari'
+># `Roleck Nevari`
 >![[Roleck Nevari.png|map]]
 >###### Basic Information
 >| Type      | Stat        |

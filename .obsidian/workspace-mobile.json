@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001_20250511_log"
+              "title": "Zolon Orielson"
             }
           }
         ]
@@ -216,11 +216,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/ttrpgs.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "ttrpgs/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "quartz.config.ts",
@@ -241,11 +246,6 @@
     "content/blog/blog.md",
     "content/index.md",
     "content/blog/index.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
-    "content/dnd/index.md",
-    "content/dnd/dnd.md",
-    "content/blog/2025-03-25 - Testing private notes  ....md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~HEAD",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups",

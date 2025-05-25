@@ -16,7 +16,7 @@ job: Barista
 extra_curricular: The  Fantastical Horticulture Club
 ---
 >[!infobox]
-># `Borun Erutan'
+># `Borun Erutan`
 >![[Borun Erutan.png|map]]
 >###### Basic Information
 >| Type      | Stat        |
