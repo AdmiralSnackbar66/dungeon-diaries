@@ -16,7 +16,7 @@ class:
 ---
 >[!infobox]
 >#  `Professor Ruxxa`
->![[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Ruxxa.jpg]]
+>![[Ruxxa.jpg]]
 >###### Basic Info
 >|Type|Stat|
 >|---|---|

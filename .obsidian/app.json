@@ -37,5 +37,5 @@
     "editor:insert-horizontal-rule",
     "table-editor-obsidian:format-all-tables"
   ],
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "shortest"
 }
