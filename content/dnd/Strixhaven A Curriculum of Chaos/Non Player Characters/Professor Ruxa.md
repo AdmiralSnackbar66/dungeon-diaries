@@ -15,7 +15,7 @@ class:
   - Druid
 ---
 >[!infobox]
->#  `ProfessorRuxxa`
+>#  `Professor Ruxxa`
 >![[Professor Ruxxa.jpeg|300]]
 >###### Basic Info
 >|Type|Stat|
