@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec1772253d974a8",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "00de23ee68e2557e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,7 +186,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,13 +214,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "00de23ee68e2557e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ttrpgs/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
+    "ttrpgs/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "quartz.config.ts",
     "quartz.config.ts.txt",
@@ -245,7 +246,6 @@
     "content/dnd/dnd.md",
     "content/blog/2025-03-25 - Testing private notes  ....md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "content/Untitled database.md",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
     "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~HEAD",
     "content/dnd/Strixhaven A Curriculum of Chaos/Factions and Groups",
