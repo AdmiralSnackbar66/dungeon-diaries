@@ -6,11 +6,19 @@ tags:
   - player
 published: 2025-05-15
 Alignment: Lawful Good
-Class: Paladin
-Species: Dragonborn
+Class:
+  - Paladin
 job: Resident Assistant
 employer: Strixhaven Dormitories
 extra_curricular: The Intramural Silkball Club
+campaign: Strixhaven
+NoteIcon: player
+type: player
+hp: "7"
+ac: "18"
+passperc: "12"
+race:
+  - Dragonborn
 ---
 
 >[!infobox]
@@ -41,7 +49,7 @@ extra_curricular: The Intramural Silkball Club
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
+| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

@@ -11,7 +11,8 @@ race:
   - Dwarf
 college: Lorehold
 role: Faculty
-class:
+NoteIcon: npc
+Class:
   - Cleric
 ---
 >[!infobox]

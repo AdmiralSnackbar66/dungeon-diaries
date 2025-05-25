@@ -6,11 +6,20 @@ tags:
   - player
 published: 2025-05-15
 Alignment: Lawful Good
-Class: Cleric
-Species: Elf
+class:
+  - Cleric
 job: Cashier
 employer: Firejolt Cafe
-extra_curricular: The Mage Tower Cheer Squad
+extra_curricular: The Dragonsguard Historical Society
+campaign: Strixhaven
+NoteIcon: player
+type: player
+Class: Cleric
+hp: "9"
+ac: "14"
+passperc: "12"
+race:
+  - Elf
 ---
 >[!infobox]
 ># `Dalaila Eversnow`
@@ -42,7 +51,7 @@ extra_curricular: The Mage Tower Cheer Squad
 ### Class Schedule
 | Course                               | Professor                   | College     |
 | ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
+| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic     |
 | The  History of  Magic and Art       |                             | Prismari    |
 | introduction to Archeomancy          |                             | Lorehold    |
 | Arcane Botany for Beginners          |                             | Witherbloom |

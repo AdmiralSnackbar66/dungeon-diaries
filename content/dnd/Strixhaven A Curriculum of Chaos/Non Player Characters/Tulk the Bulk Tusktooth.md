@@ -8,6 +8,9 @@ title: Tulk "The Bulk" Tusktooth
 role: Staff
 college: n/a
 type: npc
+NoteIcon: npc
+race:
+  - Orc
 ---
 
 > [!infobox]

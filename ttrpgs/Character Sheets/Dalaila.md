@@ -1,7 +1,6 @@
 ---
 NoteIcon: player
 tags:
-  - player
   - Entity/Player-Character
 Player: Abigail
 Role: Player
@@ -20,6 +19,7 @@ PlayerKnownLanguages:
 campaign: Strixhaven
 aliases:
   - Daliaila
+type: character_sheet
 ---
 ## DnD Beyond
 ```custom-frames

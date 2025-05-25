@@ -1,35 +1,33 @@
 ---
 NoteIcon: player
 tags:
-  - player
   - Entity/Player-Character
-Player: Matthew
+Player: Deakin
 Role: Player
 Class:
-  - Druid
+  - Sorcerer
 Race:
-  - Half-Elf
+  - Tiefling
 level: 1
-hp: 9
-ac: 12
+hp: 8
+ac: 11
 modifier: 2
-pasperc: 12
+pasperc: 11
 Status: Active
 PlayerKnownLanguages:
   - Common
-  - Draconic
-  - Druidic
-  - Elvish
+  - Common Sign Language
+  - Infernal
 campaign: Strixhaven
 aliases:
-  - Borun
-date: 2025-05-01
-Session1_Attendance:
+  - Roleck
+role_internal: 
+type: character_sheet
 ---
 ## DnD Beyond
 ```custom-frames
-frame: Borun Erutan - DND Beyond
+frame: Roleck Nevari - DND Beyond
 ```
 
 ## Character Sheet
-![[Borun Erutan.pdf]]
+![[Roleck Nevari.pdf]]

@@ -1,7 +1,7 @@
 ---
 title: Urzmaktok Grojsh
 draft: false
-publish: true
+publish: false
 published: 2025-05-26
 tags:
   - dnd
@@ -9,6 +9,9 @@ tags:
 role: Student
 college: Witherbloom
 type: npc
+NoteIcon: npc
+race:
+  - Orc
 ---
 >[!infobox]
 ># `Urzmaktok Grojsh`

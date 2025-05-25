@@ -1,7 +1,7 @@
 ---
 NoteIcon: player
 tags:
-  - player
+  - character_sheet
 Player: Nathan
 Role: Player
 Class:
@@ -19,6 +19,7 @@ PlayerKnownLanguages:
   - Draconic
   - Elvish
 campaign: Strixhaven
+type: character_sheet
 ---
 
 ## DnD Beyond

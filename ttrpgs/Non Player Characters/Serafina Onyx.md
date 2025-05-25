@@ -1,20 +1,20 @@
 ---
-title: Professor Serafina Onyx
+title: Serafina Onyx
 aliases:
   - Verelda Lang
   - Liliana Vess
   - Fistandia
 tags:
   - dnd
-  - NPC
 race:
   - Human
 class:
-  - Warlock
+  - Sorcerer
+type: character_sheet
 ---
 >[!infobox]
 ># `=this.file.name`
->![[z_Assets/Serafina Onyx.jpeg|200]]
+>![[z_Assets/Serafina Onyx.jpeg|200|881x301]]
 >###### Basic Information
 >Type|Stat|
 >---|---|

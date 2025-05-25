@@ -13,10 +13,9 @@ banner_y: 0
 ## Player Characters
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", Race, Class, ac, hp, pasperc
-FROM "ttrpgs"
-WHERE (NoteIcon = "player") 
-WHERE (campaign = "Strixhaven")
+TABLE WITHOUT ID link(file.name) AS "Name", race, Class, ac, hp, pasperc
+FROM "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters"
+WHERE type = "player"
 SORT file.mtime DESC
 ```
 
@@ -24,7 +23,7 @@ SORT file.mtime DESC
 ## Non-Player Characters
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", race, class, college, role
+TABLE WITHOUT ID link(file.name) AS "Name", race, Class, college, role, publish
 FROM "content"
 WHERE (type = "npc")
 SORT file.mtime DESC

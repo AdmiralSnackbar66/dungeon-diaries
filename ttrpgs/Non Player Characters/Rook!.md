@@ -8,11 +8,12 @@ Class:
 Alignment: Lawful Neutral
 Character-Role: 
 Location: Strixhaven
-NoteIcon: npc
+NoteIcon: sheet
 hp: "90"
 ac: 17 (natural armour)
 pasperc: 12
 campaign: Strixhaven
+type: character_sheet
 ---
 
 

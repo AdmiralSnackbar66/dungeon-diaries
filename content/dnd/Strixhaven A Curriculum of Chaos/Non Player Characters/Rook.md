@@ -9,6 +9,9 @@ role: Staff
 college: n/a
 publish: true
 type: npc
+NoteIcon: npc
+race:
+  - Construct
 ---
 >[!infobox]
 > # `Rook`

@@ -6,11 +6,19 @@ tags:
   - player
 publish: true
 Alignment: Lawful Good
-Class: Wizard
-Species: Human
+Class:
+  - Wizard
 job: Book clerk
 employer: The Biblioplex
 extra_curricular: The Strixhaven Starr
+campaign: Strixhaven
+NoteIcon: player
+type: player
+hp: "9"
+ac: "11"
+passperc: "13"
+race:
+  - Human
 ---
 >[!infobox]
 ># `Omari Elderon`
@@ -41,7 +49,7 @@ extra_curricular: The Strixhaven Starr
 ### Class Schedule
 | Course                               | Professor                   | College     |
 | ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
+| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic     |
 | Beginning Inkomanncy                 |                             | Silverquill |
 | Beginning Computational Magic        |                             | Quandrix    |
 | Arcane Botany for Beginners          |                             | Witherbloom |

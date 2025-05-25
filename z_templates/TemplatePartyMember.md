@@ -1,7 +1,6 @@
 ---
 NoteIcon: player
-tags:
-  - player
+tags: []
 Player: 
 Role: Player
 Class: 

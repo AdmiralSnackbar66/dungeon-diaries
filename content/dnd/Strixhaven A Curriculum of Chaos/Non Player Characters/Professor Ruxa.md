@@ -11,8 +11,9 @@ college: Quandrix
 type: npc
 race:
   - Bear
-class:
+Class:
   - Druid
+NoteIcon: npc
 ---
 >[!infobox]
 >#  `Professor Ruxxa`

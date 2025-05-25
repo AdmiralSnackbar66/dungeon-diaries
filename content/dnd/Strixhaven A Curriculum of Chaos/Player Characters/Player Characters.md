@@ -49,25 +49,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Species:
-    input: text
-    accessorKey: Species
-    key: Species
-    id: Species
-    label: Species
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   draft:
     input: checkbox
     accessorKey: draft
@@ -214,6 +195,139 @@ columns:
     id: employer
     label: employer
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  campaign:
+    input: text
+    accessorKey: campaign
+    key: campaign
+    id: campaign
+    label: campaign
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  NoteIcon:
+    input: text
+    accessorKey: NoteIcon
+    key: NoteIcon
+    id: NoteIcon
+    label: NoteIcon
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  type:
+    input: text
+    accessorKey: type
+    key: type
+    id: type
+    label: type
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  hp:
+    input: text
+    accessorKey: hp
+    key: hp
+    id: hp
+    label: hp
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  ac:
+    input: text
+    accessorKey: ac
+    key: ac
+    id: ac
+    label: ac
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  passperc:
+    input: text
+    accessorKey: passperc
+    key: passperc
+    id: passperc
+    label: passperc
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  race:
+    input: text
+    accessorKey: race
+    key: race
+    id: Species
+    label: r
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1

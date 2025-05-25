@@ -10,10 +10,11 @@ tags:
   - NPC
 type: npc
 published: 2025-05-18T00:00:00.000+01:00
-class:
-  - Warlock
 race:
   - Human
+Class:
+  - Warlock
+NoteIcon: npc
 ---
 >[!infobox]
 ># `Professor Serafina Onyx`

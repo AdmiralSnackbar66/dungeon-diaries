@@ -8,12 +8,18 @@ publish: true
 Alignment: Lawful Good
 Class:
   - Sorcerer
-Species:
-  - Tiefling
 extra_curricular: The Play Actors Drama Guild
 employer: Strixhaven Magic Labs
 job: Specimen Preparer
 college: Not chosen
+campaign: Strixhaven
+NoteIcon: player
+type: player
+hp: "8"
+ac: "11"
+passperc: "11"
+race:
+  - Tiefling
 ---
 >[!infobox]
 ># `Roleck Nevari`
@@ -43,7 +49,7 @@ college: Not chosen
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
+| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

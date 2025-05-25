@@ -9,11 +9,17 @@ date: 2025-05-15
 Alignment: Neutral
 Class:
   - Bard
-Species:
-  - Elf
 extra_curricular: The Strixhaven Show Band Association
 employer: Bows End Tavern
 job: Cook
+campaign: Strixhaven
+NoteIcon: player
+type: player
+hp: "9"
+ac: "14"
+passperc: "13"
+race:
+  - Elf
 ---
 >[!infobox]
 ># `Elvis Parsley`
@@ -62,7 +68,7 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 ### Class Schedule
 | Course                               | Professor                      | College  |
 | ------------------------------------ | ------------------------------ | -------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | Generic  |
+| Introduction to Magical Physiologies | [[Serafina Onyx]]    | Generic  |
 | Beginning Computational Magic        | [[Professor Ruxa]]             | Quandrix |
 | History of Magic and Art             | [[Professor Hofri Ghostforge]] | Lorehold |
 

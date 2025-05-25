@@ -1,0 +1,1 @@
+![[07-chapter-6-equipment#Potion of Healing (50 GP)]]

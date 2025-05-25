@@ -7,13 +7,19 @@ tags:
 publish: true
 Class:
   - Druid
-Species:
-  - Half Elf
 Alignment: Lawful Good
 published: 2025-05-15
 employer: Firejolt Cafe
 job: Barista
 extra_curricular: The  Fantastical Horticulture Club
+campaign: Strixhaven
+NoteIcon: player
+type: player
+ac: "12"
+hp: "9"
+passperc: "12"
+race:
+  - Half Elf
 ---
 >[!infobox]
 ># `Borun Erutan`
@@ -49,9 +55,10 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 | ----------------- | -------------- | --------- |
 | [[Firejolt Cafe]] | ` = this.job ` |           |
 ### Class Schedule
-| Course                               | Professor                   | College |
-| ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[ttrpgs/Non Player Characters/Professor Serafina Onyx]] | Generic |
+| Course                               | Professor                                                | College |
+| ------------------------------------ | -------------------------------------------------------- | ------- |
+| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic |
+| Botany                               |                                                          |         |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

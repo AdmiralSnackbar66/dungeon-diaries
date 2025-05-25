@@ -14,8 +14,9 @@ employer: Biblioplex
 extracurricular: Dead Languages Society
 role: Student
 extra_curricular: Dead Languages Society
-class:
+Class:
   - Wizard
+NoteIcon: npc
 ---
 > [!infobox]
 > # `Drazhomir Yarnask`

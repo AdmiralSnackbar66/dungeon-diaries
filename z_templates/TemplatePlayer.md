@@ -2,8 +2,7 @@
 NoteIcon: player
 aliases:
   - Bob
-tags:
-  - player
+tags: []
 Player: Bob
 Role: Player
 Class:

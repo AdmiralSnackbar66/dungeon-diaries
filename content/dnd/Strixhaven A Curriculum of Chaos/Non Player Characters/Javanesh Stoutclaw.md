@@ -9,12 +9,13 @@ tags:
 type: npc
 race:
   - Owlin
-class: 
 college: Lorehold
 role: Student
 employer: Bows End Tavern
 expracurricular: Intramural Silkball Club
 extra_curricular: The Intramural Silkball ClubSilkball
+Class: 
+NoteIcon: npc
 ---
 >[!infobox]
 ># `Javanesh Stoutclaw`

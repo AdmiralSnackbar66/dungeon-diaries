@@ -1,8 +1,7 @@
 ---
 NoteIcon: player
 tags:
-  - player
-  - Entity/Player-Character
+  - character_sheet
 Player: Robbie
 Role: Player
 Class:
@@ -21,6 +20,7 @@ PlayerKnownLanguages:
 campaign: Strixhaven
 aliases:
   - Zolon
+type: character_sheet
 ---
 ## DnD Beyond
 ```custom-frames

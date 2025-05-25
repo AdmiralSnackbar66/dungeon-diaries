@@ -1,7 +1,6 @@
 ---
 NoteIcon: player
 tags:
-  - player
   - Entity/Player-Character
 Player: Eddie
 Role: Player
@@ -23,6 +22,7 @@ PlayerKnownLanguages:
 campaign: Strixhaven
 aliases:
   - Elvis
+type: character_sheet
 ---
 ## Bio
 ![[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley|Elvis Parsley]]
