@@ -1,5 +1,5 @@
 ---
-title: <dt.title>
+title: Session 2 - A Long One
 tags:
   - blog
   - dnd
