@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb871c855a22d576",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b63b5618923aa4c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "content/blog/blog.md"
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "database-folder-icon",
-              "title": "blog"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -584,8 +586,9 @@
   },
   "active": "44ffd25d5f269fae",
   "lastOpenFiles": [
-    "index.md",
     "ttrpgs/ttrpgs.md",
+    "content/blog/blog.md",
+    "content/index.md",
     "content/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "ttrpgs/Non Player Characters/Aisla Fitzbottom.md",
@@ -612,7 +615,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rampart.webp",
     "3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-xmm.webp",
     "3-Mechanics/CLI/bestiary/fiend/token/quasit-xmm.webp",
