@@ -28,7 +28,7 @@ Class:
 >###### Strixhaven
 >|Type | Stat|
 >|---|---|
->|College|[[Lorehold]]
+>|College|[[ttrpgs/Lorehold]]
 >|Jobs| Lorehold Professor of Order|
 
 
