@@ -1,1 +1,0 @@
-![[04-school-is-in-session#Javenesh Stoutclaw]]

@@ -50,12 +50,12 @@ Player: Abigail
 | ----------------- | ------- | ------------ |
 | [[Firejolt Cafe]] | Cashier | [[Mina Lee]] |
 ### Class Schedule
-| Course                               | Professor                   | College     |
-| ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
-| The  History of  Magic and Art       |                             | Prismari    |
-| introduction to Archeomancy          |                             | Lorehold    |
-| Arcane Botany for Beginners          |                             | Witherbloom |
+| Course                               | Professor                      | College     |
+| ------------------------------------ | ------------------------------ | ----------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | Generic     |
+| The  History of  Magic and Art       | [[Professor Arkin Minexes]]    | Prismari    |
+| introduction to Archeomancy          | [[Professor Hofri Ghostforge]] | Lorehold    |
+| Arcane Botany for Beginners          | [[Professor Willowdusk]]       | Witherbloom |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |
