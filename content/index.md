@@ -7,5 +7,7 @@ Welcome to Dungeon Diaries.
 
 A website  dedicated to my DnD sessions and a place to host my personal blog.
 
--  [[/blog/|My Blog]]
--  [[/dnd/|My DnD Sessions]]
+Happy days
+
+-  [[blog/|My Blog]]
+-  [[dnd/|My DnD Sessions]]
