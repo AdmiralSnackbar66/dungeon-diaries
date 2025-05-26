@@ -52,14 +52,14 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 | --------------------------------- | ------------------------- | ------ | ------ |
 | The Fantastical Horticulture Club | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job            | Co Worker |
-| ----------------- | -------------- | --------- |
-| [[Firejolt Cafe]] | ` = this.job ` |           |
+| Employer          | Job     | Co Worker |
+| ----------------- | ------- | --------- |
+| [[Firejolt Cafe]] | Barista |           |
 ### Class Schedule
-| Course                               | Professor                                                | College |
-| ------------------------------------ | -------------------------------------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic |
-| Botany                               |                                                          |         |
+| Course                               | Professor                   | College |
+| ------------------------------------ | --------------------------- | ------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
+| Botany                               |                             |         |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |
