@@ -9,5 +9,5 @@ A website  dedicated to my DnD sessions and a place to host my personal blog.
 
 Happy days
 
--  [[blog/|My Blog]]
--  [[dnd/|My DnD Sessions]]
+-  [[http://www.dungeondiaries.co.uk/blog/|My Blog]]
+-  [[http://www.dungeondiaries.co.uk/dnd/|My DnD Sessions]]
