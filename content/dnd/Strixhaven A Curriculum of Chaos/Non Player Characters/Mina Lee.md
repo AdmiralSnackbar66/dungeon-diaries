@@ -10,6 +10,7 @@ boon: Mina loves sharing her vast repository of knowledge with you. If you seek 
 bane: Firejolt Café never has the ingredients in stock for the beverages you initially order, even if it’s a common drink.
 role: Student
 college: Silverquill
+NoteIcon: npc
 ---
 >[!infobox]
 ># `Mina Lee`
