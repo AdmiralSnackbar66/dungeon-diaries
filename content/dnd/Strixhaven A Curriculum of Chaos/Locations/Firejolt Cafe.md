@@ -2,7 +2,7 @@
 tags:
   - dnd
   - location
-publish: false
+publish: true
 published: 2025-05-16
 type: location
 NoteIcon: location

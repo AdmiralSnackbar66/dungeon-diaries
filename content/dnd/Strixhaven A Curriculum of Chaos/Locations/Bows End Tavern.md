@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Bow's End Tavern
 published: 2025-05-15
 tags:

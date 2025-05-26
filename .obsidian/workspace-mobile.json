@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0089443424973e34",
+        "id": "2d0d864485c3064e",
         "type": "tabs",
         "children": [
           {
-            "id": "925130ae02c72aa8",
+            "id": "0eb266f71854ec08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "001_20250511_log"
             }
           }
         ]
@@ -584,30 +584,30 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "925130ae02c72aa8",
+  "active": "0eb266f71854ec08",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Firejolt Cafe.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
+    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum \"Rampart\" Sooviij.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rampart.webp",
-    "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Firejolt Cafe.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Locations.md",
     "ttrpgs/Campaigns/Strixhaven/Locations/The Biblioplex.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "ttrpgs/Character Sheets/Borun.md",
     "ttrpgs/Character Sheets/Elvis.md",
