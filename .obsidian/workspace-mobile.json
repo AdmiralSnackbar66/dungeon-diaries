@@ -11,14 +11,12 @@
             "id": "0f297023e3bc6d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "ttrpgs/Non Player Characters/Aisla Fitzbottom.md",
-                "mode": "source",
-                "source": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md"
               },
-              "icon": "lucide-file",
-              "title": "Aisla Fitzbottom"
+              "icon": "database-folder-icon",
+              "title": "Non Player Characters"
             }
           }
         ]
@@ -586,6 +584,7 @@
   },
   "active": "0f297023e3bc6d06",
   "lastOpenFiles": [
+    "ttrpgs/Non Player Characters/Aisla Fitzbottom.md",
     "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum \"Rampart\" Sooviij.md",
     "z_templates/NEW WEB NPC.md",
@@ -614,7 +613,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Firejolt Cafe.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rampart.webp",
     "3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-xmm.webp",
     "3-Mechanics/CLI/bestiary/fiend/token/quasit-xmm.webp",
