@@ -13,7 +13,7 @@ banner_y: 0
 ## Player Characters
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Name", race, Class, ac, hp, pasperc
+TABLE WITHOUT ID link(file.name) AS "Name", race, Class, ac, hp, passperc
 FROM "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters"
 WHERE type = "player"
 SORT file.mtime DESC
