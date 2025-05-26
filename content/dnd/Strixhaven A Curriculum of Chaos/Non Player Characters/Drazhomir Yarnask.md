@@ -4,6 +4,7 @@ publish: true
 tags:
   - dnd
   - NPC
+  - student
 published: 2025-05-18
 draft: false
 type: npc

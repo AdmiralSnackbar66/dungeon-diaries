@@ -1,11 +1,12 @@
 ---
 title: Urzmaktok Grojsh
 draft: false
-publish: false
+publish: true
 published: 2025-05-25T00:00:00.000+01:00
 tags:
   - dnd
   - NPC
+  - student
 role: Student
 college: Witherbloom
 type: npc

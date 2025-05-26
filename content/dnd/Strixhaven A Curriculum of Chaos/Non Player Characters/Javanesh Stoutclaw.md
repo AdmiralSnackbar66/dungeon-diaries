@@ -6,6 +6,7 @@ published: 2025-05-19
 tags:
   - dnd
   - NPC
+  - student
 type: npc
 race:
   - Owlin

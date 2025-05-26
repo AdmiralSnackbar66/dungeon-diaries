@@ -6,6 +6,7 @@ published: 2025-05-25
 tags:
   - dnd
   - NPC
+  - faculty
 NoteIcon: npc
 race:
   - Vedalken
@@ -13,6 +14,7 @@ Alignment: Lawful Neutral
 Class:
   - Wizard
 college: Quandrix
+role: Faculty
 ---
 >[!infobox]
 ># `Professor Quentis Orvlo`

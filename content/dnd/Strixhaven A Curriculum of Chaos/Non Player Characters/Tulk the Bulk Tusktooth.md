@@ -2,6 +2,7 @@
 tags:
   - dnd
   - NPC
+  - non faculty
 publish: true
 published: 2025-05-15
 title: Tulk "The Bulk" Tusktooth

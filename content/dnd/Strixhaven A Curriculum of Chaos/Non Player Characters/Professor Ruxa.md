@@ -6,6 +6,7 @@ published: 2025-05-21
 tags:
   - dnd
   - NPC
+  - faculty
 role: Faculty
 college: Quandrix
 type: npc

@@ -6,6 +6,7 @@ published: 2025-05-25T00:00:00.000+01:00
 tags:
   - dnd
   - NPC
+  - student
 boon: Mina loves sharing her vast repository of knowledge with you. If you seek obscure information that’s not secret, Mina researches it and reports her findings within a week.
 bane: Firejolt Café never has the ingredients in stock for the beverages you initially order, even if it’s a common drink.
 role: Student

@@ -8,6 +8,7 @@ role: Faculty
 tags:
   - dnd
   - NPC
+  - faculty
 type: npc
 published: 2025-05-18T00:00:00.000+01:00
 race:
@@ -18,7 +19,7 @@ NoteIcon: npc
 ---
 >[!infobox]
 ># `Professor Serafina Onyx`
->![[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Serafina Onyx.jpeg|map]]
+>![[Serafina Onyx.jpeg]]
 >###### Basic Information
 >Type|Stat|
 >---|---|

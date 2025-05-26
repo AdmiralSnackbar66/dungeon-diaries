@@ -103,6 +103,10 @@ columns:
     options:
       - { label: "dnd", value: "dnd", color: "hsl(346, 95%, 90%)"}
       - { label: "NPC", value: "NPC", color: "hsl(255, 95%, 90%)"}
+      - { label: "student", value: "student", color: "hsl(120, 95%, 90%)"}
+      - { label: "faculty", value: "faculty", color: "hsl(276, 95%, 90%)"}
+      - { label: "no faculty", value: "no faculty", color: "hsl(162, 95%, 90%)"}
+      - { label: "non faculty", value: "non faculty", color: "hsl(162, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

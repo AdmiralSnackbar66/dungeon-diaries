@@ -6,6 +6,7 @@ published: 2025-05-25T00:00:00.000+01:00
 tags:
   - dnd
   - NPC
+  - student
 college: Quandrix
 role: Student
 type: npc

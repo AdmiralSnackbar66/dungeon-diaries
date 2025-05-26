@@ -6,12 +6,14 @@ published: 2025-05-25
 tags:
   - dnd
   - NPC
+  - faculty
 NoteIcon: npc
 race:
   - Dhampir
 Alignment: Neutral Good
 Class: 
 college: Silverquill
+role: Faculty
 ---
 >[!infobox]
 ># `Professor Brenneth Blackstone`
