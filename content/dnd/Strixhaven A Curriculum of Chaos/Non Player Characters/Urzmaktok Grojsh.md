@@ -2,7 +2,7 @@
 title: Urzmaktok Grojsh
 draft: false
 publish: false
-published: 2025-05-26
+published: 2025-05-25T00:00:00.000+01:00
 tags:
   - dnd
   - NPC

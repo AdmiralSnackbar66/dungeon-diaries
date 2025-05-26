@@ -48,9 +48,12 @@ Player: Deakin
 | ------------------------- | ----------- | --------- |
 | The Strixhaven Magic Labs | `=this.job` |           |
 ### Class Schedule
-| Course                               | Professor                   | College |
-| ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic |
+| Course                               | Professor                      | College         |
+| ------------------------------------ | ------------------------------ | --------------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | General Studies |
+| The History of Magic and Art         | [[Professor Arkin Minexes]]    | Prismari        |
+| Introduction to Archeomancy          | [[Professor Hofri Ghostforge]] | Lorehold        |
+| Basic Magical Auras                  | [[Professor Quentis Orvlo]]    | General Studies |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

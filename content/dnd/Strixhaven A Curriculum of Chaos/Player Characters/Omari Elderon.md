@@ -50,10 +50,10 @@ Player: Nathan
 ### Class Schedule
 | Course                               | Professor                   | College     |
 | ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic     |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
 | Beginning Inkomanncy                 |                             | Silverquill |
-| Beginning Computational Magic        |                             | Quandrix    |
-| Arcane Botany for Beginners          |                             | Witherbloom |
+| Beginning Computational Magic        | [[Professor Ruxa]]          | Quandrix    |
+| Arcane Botany for Beginners          | [[Professor Willowdusk]]    | Witherbloom |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

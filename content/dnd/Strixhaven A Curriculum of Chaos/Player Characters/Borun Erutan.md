@@ -56,10 +56,12 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 | ----------------- | ------- | --------- |
 | [[Firejolt Cafe]] | Barista |           |
 ### Class Schedule
-| Course                               | Professor                   | College |
-| ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
-| Botany                               |                             |         |
+| Course                               | Professor                      | College     |
+| ------------------------------------ | ------------------------------ | ----------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]    | Generic     |
+| The History of Magic and Art         | [[Professor Arkin Minexes]]    | Prismari    |
+| The Introduction to Archeomancy      | [[Professor Hofri Ghostforge]] | Lorehold    |
+| Arcane-Botany for Beginners          | [[Professor Willowdusk]]       | Witherbloom |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |
