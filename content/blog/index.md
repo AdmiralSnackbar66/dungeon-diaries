@@ -6,6 +6,7 @@ tags:
   - blog
 aliases:
   - blog_index
+published: 2025-03-05
 ---
 
 Welcome to the blog element of my site. This is where I collect my thoughts of the day.

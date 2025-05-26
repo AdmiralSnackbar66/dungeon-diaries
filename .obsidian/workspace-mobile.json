@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
+                "file": "content/blog/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002_20250525_log"
+              "title": "index"
             }
           }
         ]
@@ -585,14 +585,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
+    "content/blog/blog.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.png",
@@ -602,7 +603,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Mina Lee.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/blog/2025-05-25 - Session 2 - A long one .....md",
-    "content/blog/blog.md",
     "content/index.md",
     "content/blog/index.md",
     "content/dnd/index.md",
