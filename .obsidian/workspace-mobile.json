@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "97d130254206dc76",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "239608ad8309fb4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/index.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -100,7 +100,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -583,26 +584,24 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "239608ad8309fb4d",
   "lastOpenFiles": [
-    "content/blog/blog.md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
+    "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/chained_library.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. The Joy of Extradimensional Space.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion copy.png",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/MimicFrontPage.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Mina Lee.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/blog/2025-05-25 - Session 2 - A long one .....md",
+    "content/blog/blog.md",
     "content/index.md",
     "content/blog/index.md",
     "content/dnd/index.md",
@@ -620,7 +619,8 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "ttrpgs/Lorehold.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rampart.webp",
+    "ttrpgs/Untitled.md",
+    "ttrpgs/Non Player Characters/Strixhaven Mysteries 1.md",
     "z_Assets/Omar.pdf.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
