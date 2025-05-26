@@ -12,10 +12,15 @@ published: 2025-05-26
 tags:
   - dnd
   - NPC
+NoteIcon: npc
+race: <% species %>
+Alignment: <% alignment %>
+Class: 
+college: <% college %>
 ---
 >[!infobox]
 ># `<% npc_name %>`
->![ <% npc_name %>.webp]]
+>![[] <% npc_name %>.webp]]
 >###### Basic Information
 >|Type| Stat|
 >|---|---|

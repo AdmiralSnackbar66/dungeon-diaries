@@ -34,4 +34,3 @@ No one knows how old Willowdusk really is. This professor of growth claims to be
 
 Her lessons proved so effective that she was asked to stay as a professor. She loves passing on her knowledge of medicinal herbs, pest mascot cultivation, and dissection techniques to generations of new students, and she almost always has a pot of tea brewing.
 
-![[Willowdusk.jpg]]
