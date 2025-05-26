@@ -42,9 +42,9 @@ Player: Abigail
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                                | d4                        | Skills          | Members                                  |
-| ----------------------------------- | ------------------------- | --------------- | ---------------------------------------- |
-| The Dragonsguard Historical Society | <input type= "checkbox"/> | Arcana, History | Bhedum "Rampart" Sooviij , Tilana Kapule |
+| Name                                | d4                        | Skills          | Members                                      |
+| ----------------------------------- | ------------------------- | --------------- | -------------------------------------------- |
+| The Dragonsguard Historical Society | <input type= "checkbox"/> | Arcana, History | [[Bhedum "Rampart" Sooviij]] ,[[Tilana Kapule]] |
 ### Job
 | Employer          | Job     | Co Worker    |
 | ----------------- | ------- | ------------ |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-                "mode": "source",
-                "source": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Borun Erutan"
+              "title": "Tilana Kapule"
             }
           }
         ]
@@ -586,6 +586,11 @@
   },
   "active": "0eb266f71854ec08",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Bhedum \"Rampart\" Sooviij ,.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/The Biblioplex.md",
@@ -595,12 +600,8 @@
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum \"Rampart\" Sooviij.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
@@ -612,7 +613,6 @@
     "ttrpgs/Character Sheets/Borun.md",
     "ttrpgs/Character Sheets/Elvis.md",
     "ttrpgs/Character Sheets/Dalaila.md",
-    "ttrpgs/Character Sheets/Roleck.md",
     "3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-xmm.webp",
     "3-Mechanics/CLI/bestiary/fiend/token/quasit-xmm.webp",
     "3-Mechanics/CLI/bestiary/construct/token/homunculus-xmm.webp",

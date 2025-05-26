@@ -1,7 +1,7 @@
 ---
 title: Tilana Kapule
 draft: false
-publish: false
+publish: true
 published: 2025-05-26
 tags:
   - dnd
