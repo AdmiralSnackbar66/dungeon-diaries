@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b688cc27b544b40",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0e88b8678a277e9f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
-                "mode": "source",
-                "source": false
+                "file": "content/blog/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "index"
             }
           }
         ]
@@ -100,8 +100,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "b52e9479f5f1490a",
@@ -584,13 +583,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0e88b8678a277e9f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/blog/index.md",
+    "blog/index.md",
+    "blog/index. md.md",
+    "blog",
+    "content/blog/blog.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md",
-    "content/index.md",
     "ttrpgs/Campaigns/Strixhaven/001_20250511.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
@@ -602,7 +607,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Professor Brenneth Blackstone.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Professor Quentin's Orvlo.md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Quentis Orvlo.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
@@ -613,15 +617,11 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/chained_library.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion copy.png",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Mina Lee.md",
-    "content/blog/2025-05-25 - Session 2 - A long one .....md",
     "z_Assets/Omar.pdf.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
@@ -631,7 +631,6 @@
     "z_Assets/character-sheet 1.pdf",
     "quartz.config.ts",
     "quartz.config.ts.txt",
-    "ttrpgs/Non Player Characters/Professor Serafina Onyx.md~v4",
     "z_Assets/Untitled.canvas"
   ]
 }
