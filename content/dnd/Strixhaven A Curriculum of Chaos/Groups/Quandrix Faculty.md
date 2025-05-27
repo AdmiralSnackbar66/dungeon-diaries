@@ -1,6 +1,9 @@
 ---
-publish: true
-explorerexclude: true
+publish: false
+explorerexclude: false
+tags:
+  - dnd
+  - groups
 ---
 | Name                                                                                                     | Species                | Class                   |
 | -------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------- |
