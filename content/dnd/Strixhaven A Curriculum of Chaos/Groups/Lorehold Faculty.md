@@ -3,7 +3,6 @@ publish: true
 <<<<<<< HEAD
 explorerexclude: true
 tags:
-  - explorerexclude
   - dnd
 ---
 | Name                                                                                                                             | Species                 | Class                    |
