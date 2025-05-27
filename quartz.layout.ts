@@ -39,21 +39,18 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-	title: "Navigation", // title of the explorer component
+	title: "Explorer", // title of the explorer component
   folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
   folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
   useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
   // omitted but shown later
   sortFn: ...,
+  filterFn: {
   filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["authoring content", "tags", "advanced"])
- 
-    // can also use node.slug or by anything on node.data
-    // note that node.data is only present for files that exist on disk
-    // (e.g. implicit folder nodes that have no associated index.md)
-    return !omit.has(node.displayName.toLowerCase())
+    // exclude files with the tag "explorerexclude"
+    return node.data.tags?.includes("explorerexclude") !== true
   },
+},
   mapFn: ...,
   // what order to apply functions in
   order: ["filter", "map", "sort"],
