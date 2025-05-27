@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 explorerexclude: true
 ---
 | Name                                                                                                                               | Species                 | Class                     |
