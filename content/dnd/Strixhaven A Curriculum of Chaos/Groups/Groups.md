@@ -101,6 +101,9 @@ columns:
       - { label: "dnd", value: "dnd", color: "hsl(38, 95%, 90%)"}
       - { label: "groups", value: "groups", color: "hsl(124, 95%, 90%)"}
       - { label: "lorehold", value: "lorehold", color: "hsl(130, 95%, 90%)"}
+      - { label: "quandrix", value: "quandrix", color: "hsl(4, 95%, 90%)"}
+      - { label: "silverquill", value: "silverquill", color: "hsl(356, 95%, 90%)"}
+      - { label: "explorerexclude", value: "explorerexclude", color: "hsl(155, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
