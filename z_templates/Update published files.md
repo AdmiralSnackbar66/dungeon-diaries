@@ -22,6 +22,15 @@ const fileAndQuery = new Map([
      "Silverquill Faculty",
     'TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" FROM "content" WHERE (type = "npc") WHERE (role = "Faculty") WHERE (college = "Silverquill") SORT file.mtime DESC',
    ],
+       [
+     "Lorehold Students",
+    'TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" FROM "content" WHERE (type = "npc") WHERE (role = "Student") WHERE (college = "Lorehold") SORT file.mtime DESC',
+   ],
+    [
+    "Lorehold Faculty",
+     'TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" FROM "content" WHERE (type = "npc") WHERE (role = "Faculty") WHERE (college = "Lorehold") SORT file.mtime DESC',
+   ],
+    
 ]);
 
 await fileAndQuery.forEach(async (query, filename) => {
