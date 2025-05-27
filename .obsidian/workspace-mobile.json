@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+                "file": "content/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Lorehold"
+              "title": "index"
             }
           }
         ]
@@ -586,11 +586,11 @@
   },
   "active": "0e17e7a9ef866bfc",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups",
     "content/index.md",
-    "ttrpgs/ttrpgs.md",
     "content/blog/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
