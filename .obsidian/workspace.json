@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Faculty.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lorehold"
+              "title": "Lorehold Faculty"
             }
           }
         ]
@@ -258,8 +258,12 @@
   },
   "active": "f3ac9ec266422b5f",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix Faculty.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix Students.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill Students.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill Faculty.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Faculty.md",
     "ttrpgs/Campaigns/Strixhaven/Lorehold Students.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-map.webp",
@@ -287,9 +291,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Extra Curriculars",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/001_20250511_log.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Rosie Wuzzfedlims.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/032-03-008-aurora.webp",
     "z_Assets/CogworkArchivist.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",

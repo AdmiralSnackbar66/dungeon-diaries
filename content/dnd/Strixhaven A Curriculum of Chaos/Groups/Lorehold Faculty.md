@@ -1,16 +1,7 @@
 ---
-title: Lorehold Faculty
 publish: true
-published: 2025-05-25
-unlisted: true
+explorerexclude: true
 ---
-
-
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" 
-FROM "content" 
-WHERE (type = "npc") 
-WHERE (role = "Faculty") 
-WHERE (college = "Lorehold") 
-SORT file.mtime DESC
-```
+| Name                                                                                                                             | Species                 | Class                    |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md\|Professor Hofri Ghostforge]] | <ul><li>Dwarf</li></ul> | <ul><li>Cleric</li></ul> |

@@ -1,15 +1,9 @@
 ---
 publish: true
-published: 2025-05-25
-title: Lorehold Students
-unlisted: true
+explorerexclude: true
 ---
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", race as "Species" , class AS "Class" 
-FROM "content" 
-WHERE (type = "npc") 
-WHERE (role = "Student") 
-WHERE (college = "Lorehold") 
-SORT file.mtime DESC
-```
-
+| Name                                                                                                                           | Species                   | Class |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----- |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md\|Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md\|Javanesh Stoutclaw]]               | <ul><li>Owlin</li></ul>   | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md\|Bhedum Rampart Sooviij]]       | <ul><li>Loxodon</li></ul> | \-    |
