@@ -1,5 +1,6 @@
 ---
 publish: true
+<<<<<<< HEAD
 explorerexclude: true
 tags:
   - explorerexclude
