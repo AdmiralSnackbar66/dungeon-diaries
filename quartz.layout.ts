@@ -38,12 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-  filterFn: (node) => {
-    // exclude files with the tag "explorerexclude"
-    return node.data.tags?.includes("explorerexclude") !== true
-  },
-}),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),

@@ -587,6 +587,7 @@
   "active": "eba2e5e6c04efe48",
   "lastOpenFiles": [
     "quartz.layout.ts.txt",
+    "quartz.layout.ts",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Students.md",
@@ -631,7 +632,6 @@
     "z_Assets/Borun Erutan.pdf",
     "z_Assets/character-sheet 1.pdf",
     "quartz.config.ts",
-    "quartz.config.ts.txt",
     "z_Assets/Untitled.canvas"
   ]
 }
