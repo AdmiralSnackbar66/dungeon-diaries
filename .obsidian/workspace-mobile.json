@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
-                "mode": "source",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Students.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Lorehold Students"
             }
           }
         ]
@@ -586,11 +586,20 @@
   },
   "active": "0e17e7a9ef866bfc",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-map.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Students.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix Faculty.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill Faculty.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Faculty.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill Students.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix Students.md",
     "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups",
-    "content/index.md",
     "content/blog/index.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
@@ -608,21 +617,11 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Professor Quentin's Orvlo.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Quentis Orvlo.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/3. Register for Classes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Orvlo.png",
-    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
-    "ttrpgs/Untitled.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/chained_library.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
-    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Lillianas_mansion.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion copy.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/extradimensional_mansion.webp",
     "z_Assets/Omar.pdf.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",
