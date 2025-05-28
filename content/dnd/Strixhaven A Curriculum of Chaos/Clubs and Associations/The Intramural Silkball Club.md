@@ -24,9 +24,9 @@ WHERE contains(extracurricular,"The Intramural Silkball Club")
 ```
 %%
 
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md|Zolon Orielson]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md|Javanesh Stoutclaw]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md|Melwythorne]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md|Tilana Kapule]]
+- [[Javanesh Stoutclaw|Javanesh Stoutclaw]]
+- [[Melwythorne|Melwythorne]]
+- [[Tilana Kapule|Tilana Kapule]]
+- [[Zolon Orielson|Zolon Orielson]]
 
 %% DATAVIEW_PUBLISHER: end %%

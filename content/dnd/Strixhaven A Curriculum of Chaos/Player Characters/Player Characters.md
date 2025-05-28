@@ -149,26 +149,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  extra_curricular:
-    input: text
-    accessorKey: extra_curricular
-    key: extra_curricular
-    id: extra_curricular
-    label: extra_curricular
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 332
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   job:
     input: text
     accessorKey: job

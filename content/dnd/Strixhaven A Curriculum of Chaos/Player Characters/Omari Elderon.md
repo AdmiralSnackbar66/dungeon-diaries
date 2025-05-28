@@ -41,20 +41,20 @@ extracurricular: The Strixhaven Starr
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                | d4                        | Skills | Member |
-| ------------------- | ------------------------- | ------ | ------ |
-| The Strixhaven Star | <input type= "checkbox"/> |        |        |
+| Name                    | d4                        | Skills | Member |
+| ----------------------- | ------------------------- | ------ | ------ |
+| [[The Strixhaven Star]] | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer           | Job        | Co Worker            |
-| ------------------ | ---------- | -------------------- |
-| [[The Biblioplex]] | Book Clerk | [[Urzmaktok Grojsh]] |
+| Employer           | Job        | Co Worker             |
+| ------------------ | ---------- | --------------------- |
+| [[The Biblioplex]] | Book Clerk | [[Drazhomir Yarnask]] |
 ### Class Schedule
-| Course                               | Professor                   | College     |
-| ------------------------------------ | --------------------------- | ----------- |
-| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic     |
-| Beginning Inkomanncy                 |                             | Silverquill |
-| Beginning Computational Magic        | [[Professor Ruxa]]          | Quandrix    |
-| Arcane Botany for Beginners          | [[Professor Willowdusk]]    | Witherbloom |
+| Course                               | Professor                         | College     |
+| ------------------------------------ | --------------------------------- | ----------- |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]]       | Generic     |
+| Beginning Inkomanncy                 | [[Professor Brenneth Blackstone]] | Silverquill |
+| Beginning Computational Magic        | [[Professor Ruxa]]                | Quandrix    |
+| Arcane Botany for Beginners          | [[Professor Willowdusk]]          | Witherbloom |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |

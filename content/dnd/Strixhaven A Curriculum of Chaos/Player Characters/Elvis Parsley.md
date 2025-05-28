@@ -54,9 +54,9 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 ---
 
 ### Extracurriculars
-| Name                                 | d4                        | Skills                       | Member                                      |
-| ------------------------------------ | ------------------------- | ---------------------------- | ------------------------------------------- |
-| [[The Strixhaven Show Band Association]] | <input type= "checkbox"/> | Sleight of Hand, Performance | Aurora Luna Wynterstarr, Rubina Larkingdale |
+| Name                                     | d4                        | Skills                       | Member                                              |
+| ---------------------------------------- | ------------------------- | ---------------------------- | --------------------------------------------------- |
+| [[The Strixhaven Show Band Association]] | <input type= "checkbox"/> | Sleight of Hand, Performance | [[Aurora Luna Wynterstarr]], [[Rubina Larkingdale]] |
 
 ---
 

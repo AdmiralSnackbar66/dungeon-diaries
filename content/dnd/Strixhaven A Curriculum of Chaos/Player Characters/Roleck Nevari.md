@@ -41,9 +41,9 @@ extracurricular: The Play Actors Drama Guild
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                        | d4                        | Skills | Member |
-| --------------------------- | ------------------------- | ------ | ------ |
-| The Play Actors Drama Guild | <input type= "checkbox"/> |        |        |
+| Name                           | d4                        | Skills | Member |
+| ------------------------------ | ------------------------- | ------ | ------ |
+| [[The Playactors Drama Guild]] | <input type= "checkbox"/> |        |        |
 ### Job
 | Employer                  | Job         | Co Worker |
 | ------------------------- | ----------- | --------- |

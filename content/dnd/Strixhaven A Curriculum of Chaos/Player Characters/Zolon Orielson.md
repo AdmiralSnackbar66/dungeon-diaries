@@ -52,7 +52,7 @@ extracurricular:
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
-| Introduction to Magical Physiologies | [[Serafina Onyx]] | Generic |
+| Introduction to Magical Physiologies | [[Professor Serafina Onyx]] | Generic |
 ### Exams
 ###### Year 1
 | #   | d4                                                   | Reroll                                               | Exam       | Result | Skills |
