@@ -38,5 +38,6 @@
     "table-editor-obsidian:format-all-tables"
   ],
   "newLinkFormat": "shortest",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "useMarkdownLinks": false
 }

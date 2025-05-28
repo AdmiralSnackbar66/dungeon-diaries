@@ -104,6 +104,7 @@ columns:
       - { label: "quandrix", value: "quandrix", color: "hsl(4, 95%, 90%)"}
       - { label: "silverquill", value: "silverquill", color: "hsl(356, 95%, 90%)"}
       - { label: "explorerexclude", value: "explorerexclude", color: "hsl(155, 95%, 90%)"}
+      - { label: "witherbloom", value: "witherbloom", color: "hsl(72, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

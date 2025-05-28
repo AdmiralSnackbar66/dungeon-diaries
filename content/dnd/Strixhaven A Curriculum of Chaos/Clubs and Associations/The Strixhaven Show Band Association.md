@@ -5,11 +5,14 @@ title: The Strixhaven Show Band Association
 tags:
   - dnd
   - club
+skills:
+  - Sleight of Hand
+  - Performance
 ---
-**Skills:**
+**Skills:** Sleight of Hand, Performance
 
 **Description:**
-
+These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes, and drums, and they regularly perform rousing concerts.
 
 #### Members
 
@@ -22,7 +25,8 @@ WHERE contains(extracurricular,"The Strixhaven Show Band Association")
 %%
 
 - [[Rubina Larkingdale|Rubina Larkingdale]]
-- [[Elvis Parsley|Elvis Parsley]]
+- [[Aurora Luna Wynterstarr|Aurora Luna Wynterstarr]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/ElvisParsley.png|Elvis Parsley]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

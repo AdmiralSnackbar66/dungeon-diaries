@@ -25,8 +25,8 @@ WHERE contains(extracurricular,"The Intramural Silkball Club")
 %%
 
 - [[Javanesh Stoutclaw|Javanesh Stoutclaw]]
-- [[Tilana Kapule|Tilana Kapule]]
 - [[Melwythorne|Melwythorne]]
+- [[Tilana Kapule|Tilana Kapule]]
 - [[Zolon Orielson|Zolon Orielson]]
 
 %% DATAVIEW_PUBLISHER: end %%

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 published: 2025-05-28
 tags:
   - club
@@ -24,8 +24,8 @@ These experts in the game of Dragonchess discuss the latest in strategy, compete
 ```
 %%
 
-- [[Tilana Kapule|Tilana Kapule]]
 - [[Bhedum Rampart Sooviij|Bhedum Rampart Sooviij]]
+- [[Tilana Kapule|Tilana Kapule]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
