@@ -11,7 +11,8 @@ Alignment: Lawful Good
 published: 2025-05-15
 employer: Firejolt Cafe
 job: Barista
-extra_curricular: The  Fantastical Horticulture Club
+extracurricular:
+  - The Fantastical Horticulture Club
 campaign: Strixhaven
 NoteIcon: player
 type: player
@@ -50,7 +51,7 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 ### Extracurriculars
 | Name                              | d4                        | Skills | Member |
 | --------------------------------- | ------------------------- | ------ | ------ |
-| The Fantastical Horticulture Club | <input type= "checkbox"/> |        |        |
+| [[The Fantastical Horticulture Club]] | <input type= "checkbox"/> |        |        |
 ### Job
 | Employer          | Job     | Co Worker |
 | ----------------- | ------- | --------- |

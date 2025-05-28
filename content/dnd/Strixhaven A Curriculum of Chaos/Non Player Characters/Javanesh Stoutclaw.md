@@ -13,10 +13,12 @@ race:
 college: Lorehold
 role: Student
 employer: Bows End Tavern
-expracurricular: Intramural Silkball Club
-extra_curricular: The Intramural Silkball ClubSilkball
+extracurricular:
+  - The Intramural Silkball Club
 Class: 
 NoteIcon: npc
+boon: 
+bane:
 ---
 >[!infobox]
 ># `Javanesh Stoutclaw`
@@ -30,6 +32,8 @@ NoteIcon: npc
 >|Type|Stat|
 >|---|---|
 >|College| Lorehold|
+>|Job| Assistant Manager - [[Bows End Tavern]]|
+>|Extracurricular| [[The Intramural Silkball Club]]|
 >
 
 Javenesh is an imposing and powerfully built owlin who looks permanently scruffy despite his best efforts. Contributing to his dishevelment are tufts of juvenile plumage that refuse to smooth down, a handful of scars whose origin he's not sure of, and at least one hole in whatever clothing he's wearing.

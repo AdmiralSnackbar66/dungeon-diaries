@@ -15,6 +15,9 @@ race:
   - Human
 Class:
   - Wizard
+extracurricular:
+  - The Intramural Silkball Club
+  - The Dragonchess Club
 ---
 >[!infobox]
 ># `Tilana Kapule`
@@ -31,7 +34,7 @@ Class:
 >|College|Quandrix
 >|Year | |
 >|Jobs| |
->|Extracurricular|The Dragonchess Club , The Intramural Silkball Club|
+>|Extracurricular|[[The Dragonchess Club]] , [[The Intramural Silkball Club]]|
 
 Tilana’s poised demeanor and steady gaze are remarkable. An excellent judge of character, she doesn’t associate with those she deems mean-spirited. Her exacting judgment has led her to join the Dragonchess Club, and while she is still honing her skill at the game itself, she compensates by reading her opponent instead of the board. Many a foe has struggled to sit in silence as she gives them her full attention, probing for weaknesses, the pieces seemingly incidental.
 

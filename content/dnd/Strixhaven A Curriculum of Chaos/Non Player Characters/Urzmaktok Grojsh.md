@@ -13,6 +13,10 @@ type: npc
 NoteIcon: npc
 race:
   - Orc
+extracurricular:
+  - The Fantastical Horticulture Club
+boon: 
+bane:
 ---
 >[!infobox]
 ># `Urzmaktok Grojsh`

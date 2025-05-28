@@ -12,6 +12,9 @@ bane: Firejolt Café never has the ingredients in stock for the beverages you in
 role: Student
 college: Silverquill
 NoteIcon: npc
+type: npc
+race:
+  - Human
 ---
 >[!infobox]
 ># `Mina Lee`

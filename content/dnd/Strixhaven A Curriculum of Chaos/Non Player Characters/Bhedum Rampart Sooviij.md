@@ -13,6 +13,9 @@ type: npc
 NoteIcon: npc
 race:
   - Loxodon
+extracurricular:
+  - The Dragonsguard Historical Society
+  - The Dragonchess Club
 ---
 >[!infobox]
 ># `Bhedum "Rhampart" Sooviij`

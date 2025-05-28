@@ -20,6 +20,7 @@ passperc: "13"
 race:
   - Human
 Player: Nathan
+extracurricular: The Strixhaven Starr
 ---
 >[!infobox]
 ># `Omari Elderon`

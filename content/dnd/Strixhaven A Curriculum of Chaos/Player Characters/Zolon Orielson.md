@@ -20,6 +20,8 @@ passperc: "12"
 race:
   - Dragonborn
 Player: Robbie
+extracurricular:
+  - The Intramural Silkball Club
 ---
 
 >[!infobox]
@@ -40,9 +42,9 @@ Player: Robbie
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                         | d4                        | Skills | Member |
-| ---------------------------- | ------------------------- | ------ | ------ |
-| The Intramural Silkball Club | <input type= "checkbox"/> |        |        |
+| Name                             | d4                        | Skills | Member |
+| -------------------------------- | ------------------------- | ------ | ------ |
+| [[The Intramural Silkball Club]] | <input type= "checkbox"/> |        |        |
 ### Job
 | Employer               | Job                | Co Worker |
 | ---------------------- | ------------------ | --------- |

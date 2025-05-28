@@ -21,6 +21,7 @@ passperc: "11"
 race:
   - Tiefling
 Player: Deakin
+extracurricular: The Play Actors Drama Guild
 ---
 >[!infobox]
 ># `Roleck Nevari`

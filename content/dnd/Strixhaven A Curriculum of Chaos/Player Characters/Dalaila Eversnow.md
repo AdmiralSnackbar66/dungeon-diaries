@@ -22,6 +22,7 @@ passperc: "12"
 race:
   - Elf
 Player: Abigail
+extracurricular: [[The Dragonsguard Historical Society]]
 ---
 >[!infobox]
 ># `Dalaila Eversnow`
@@ -44,7 +45,7 @@ Player: Abigail
 ### Extracurriculars
 | Name                                | d4                        | Skills          | Members                                      |
 | ----------------------------------- | ------------------------- | --------------- | -------------------------------------------- |
-| The Dragonsguard Historical Society | <input type= "checkbox"/> | Arcana, History | [[Bhedum "Rampart" Sooviij]] ,[[Tilana Kapule]] |
+| [[The Dragonsguard Historical Society]] | <input type= "checkbox"/> | Arcana, History | [[Bhedum Rampart Sooviij]] ,[[Tilana Kapule]] |
 ### Job
 | Employer          | Job     | Co Worker    |
 | ----------------- | ------- | ------------ |

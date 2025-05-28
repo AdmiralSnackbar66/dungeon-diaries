@@ -14,6 +14,7 @@ Alignment: Neutral Good
 Class: 
 college: Silverquill
 role: Faculty
+type: npc
 ---
 >[!infobox]
 ># `Professor Brenneth Blackstone`

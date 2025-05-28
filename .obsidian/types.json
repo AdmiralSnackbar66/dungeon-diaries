@@ -38,6 +38,7 @@
     "modified": "date",
     "species": "multitext",
     "Session_date": "date",
-    "skills": "multitext"
+    "skills": "multitext",
+    "extracurricular": "multitext"
   }
 }

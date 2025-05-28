@@ -15,6 +15,7 @@ Class:
   - Druid
 role: Faculty
 college: Witherbloom
+type: npc
 ---
 >[!infobox]
 ># `Professor Willowdusk`
