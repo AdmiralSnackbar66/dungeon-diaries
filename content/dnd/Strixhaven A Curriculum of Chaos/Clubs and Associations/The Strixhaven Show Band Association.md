@@ -21,8 +21,8 @@ WHERE contains(extracurricular,"The Strixhaven Show Band Association")
 ```
 %%
 
-- [[Rubina Larkingdale|Rubina Larkingdale]]
-- [[Elvis Parsley|Elvis Parsley]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md|Elvis Parsley]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rubina Larkingdale.md|Rubina Larkingdale]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

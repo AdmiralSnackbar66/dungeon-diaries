@@ -25,8 +25,8 @@ WHERE contains(extracurricular,"The Dragonsguard Historical Society")
 ```
 %%
 
-- [[Bhedum Rampart Sooviij|Bhedum Rampart Sooviij]]
-- [[Dalaila Eversnow|Dalaila Eversnow]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md|Dalaila Eversnow]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md|Bhedum Rampart Sooviij]]
 
 %% DATAVIEW_PUBLISHER: end %%
 
