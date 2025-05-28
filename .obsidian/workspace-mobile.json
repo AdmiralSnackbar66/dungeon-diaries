@@ -11,12 +11,14 @@
             "id": "eba2e5e6c04efe48",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md"
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "database-folder-icon",
-              "title": "Groups"
+              "icon": "lucide-file",
+              "title": "002_20250525_log"
             }
           }
         ]
@@ -584,6 +586,7 @@
   },
   "active": "eba2e5e6c04efe48",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
     "ttrpgs/ttrpgs.md",
     "quartz.layout.ts",
     "quartz.layout.ts.txt",
@@ -596,7 +599,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold Faculty.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill Students.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix Students.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/Session Notes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups",
