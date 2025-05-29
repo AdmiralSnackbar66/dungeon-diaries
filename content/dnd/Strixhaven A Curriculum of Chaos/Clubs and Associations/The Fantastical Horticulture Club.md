@@ -14,20 +14,11 @@ These green-thumbed experts love mixing magic and gardening to create new strain
 
 #### Members
 
-%% DATAVIEW_PUBLISHER: start
-```dataview
-LIST 
-FROM "content" 
-WHERE contains(extracurricular,"The Fantastical Horticulture")
-```
-%%
-
-- [[Urzmaktok Grojsh|Urzmaktok Grojsh]]
-- [[Borun Erutan|Borun Erutan]]
-
-%% DATAVIEW_PUBLISHER: end %%
-
-
+<!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular,"The Fantastical Horticulture") -->
+<!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular,"The Fantastical Horticulture") -->
+- [[Urzmaktok Grojsh]]
+- [[Borun Erutan]]
+<!-- SerializedQuery END -->
 
 
 
