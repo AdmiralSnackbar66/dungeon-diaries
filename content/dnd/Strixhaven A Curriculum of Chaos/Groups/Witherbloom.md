@@ -20,9 +20,9 @@ WHERE (role = "Faculty")
 ```
 %%
 
-| Name                     | Species                  | Class                   |
-| ------------------------ | ------------------------ | ----------------------- |
-| [[Professor Willowdusk]] | <ul><li>Treant</li></ul> | <ul><li>Druid</li></ul> |
+| Name                                                                                                                 | Species                  | Class                   |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Willowdusk.md\|Professor Willowdusk]] | <ul><li>Treant</li></ul> | <ul><li>Druid</li></ul> |
 
 %% DATAVIEW_PUBLISHER: end %%
 #### Students
@@ -36,9 +36,9 @@ WHERE (role = "Student")
 ```
 %%
 
-| Name                                   | Species                 | Class |
-| -------------------------------------- | ----------------------- | ----- |
-| [[Melwythorne\|Melwythorne]]           | <ul><li>Dryad</li></ul> | \-    |
-| [[Urzmaktok Grojsh\|Urzmaktok Grojsh]] | <ul><li>Orc</li></ul>   | \-    |
+| Name                                                                                                         | Species                 | Class |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------- | ----- |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md\|Urzmaktok Grojsh]] | <ul><li>Orc</li></ul>   | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md\|Melwythorne]]           | <ul><li>Dryad</li></ul> | \-    |
 
 %% DATAVIEW_PUBLISHER: end %%

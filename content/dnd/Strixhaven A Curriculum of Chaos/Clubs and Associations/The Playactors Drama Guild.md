@@ -17,12 +17,12 @@ These actors work together to create productions of brilliant stagecraft, often 
 #### Members
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-LIST 
+
 FROM "content" 
 WHERE contains(extracurricular,"The Playactors Drama Guild")
 ```
 %%
 
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rubina Larkingdale.md|Rubina Larkingdale]]
 
-
-
+%% DATAVIEW_PUBLISHER: end %%

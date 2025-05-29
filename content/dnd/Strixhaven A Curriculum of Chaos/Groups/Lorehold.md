@@ -22,9 +22,9 @@ WHERE (role = "Faculty")
 ```
 %%
 
-| Name                                                       | Species                 | Class                    |
-| ---------------------------------------------------------- | ----------------------- | ------------------------ |
-| [[Professor Hofri Ghostforge\|Professor Hofri Ghostforge]] | <ul><li>Dwarf</li></ul> | <ul><li>Cleric</li></ul> |
+| Name                                                                                                                             | Species                 | Class                    |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md\|Professor Hofri Ghostforge]] | <ul><li>Dwarf</li></ul> | <ul><li>Cleric</li></ul> |
 
 %% DATAVIEW_PUBLISHER: end %%
 
@@ -38,10 +38,10 @@ WHERE (role = "Student")
 ```
 %%
 
-| Name                                                     | Species                   | Class |
-| -------------------------------------------------------- | ------------------------- | ----- |
-| [[Bhedum Rampart Sooviij]]                               | <ul><li>Loxodon</li></ul> | \-    |
-| [[Javanesh Stoutclaw\|Javanesh Stoutclaw]]               | <ul><li>Owlin</li></ul>   | \-    |
-| [[Rosimyffenbip Wuzzfedlims\|Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
+| Name                                                                                                                           | Species                   | Class |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----- |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md\|Javanesh Stoutclaw]]               | <ul><li>Owlin</li></ul>   | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md\|Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md\|Bhedum Rampart Sooviij]]       | <ul><li>Loxodon</li></ul> | \-    |
 
 %% DATAVIEW_PUBLISHER: end %%
