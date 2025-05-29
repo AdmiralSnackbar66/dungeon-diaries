@@ -6736,10 +6736,8 @@ var MarkdownSourceContentAdapter = class extends FileSourceContentAdapter {
       console.warn(`MarkdownSourceContentAdapter: Skipping missing-file: ${this.file_path}`);
       return false;
     }
-    if (this.item.file_type !== "md") {
-      return false;
-    }
-    if (this.item.size > 1e6) {
+    if (this.item.size > (this.settings?.max_import_size || 3e5)) {
+      console.warn(`MarkdownSourceContentAdapter: Skipping large file: ${this.file_path}`);
       return false;
     }
     return true;
@@ -9427,7 +9425,8 @@ var SmartEmbedOllamaAdapter = class extends SmartEmbedModelApiAdapter {
     signup_url: null,
     // Not applicable for local instance
     batch_size: 30,
-    models: {}
+    models: {},
+    model_key: "nomic-embed-text"
   };
   get endpoint() {
     return `${this.model_config.host}${this.model_config.endpoint}`;
@@ -9587,17 +9586,12 @@ var SmartEmbedOllamaAdapter = class extends SmartEmbedModelApiAdapter {
 var SmartEmbedModelOllamaRequestAdapter = class extends SmartEmbedModelRequestAdapter {
   /**
    * Convert request to Ollama's embed API format.
-   * @param {boolean} [streaming=false] - Whether streaming is enabled (not used here)
    * @returns {Object} Request parameters in Ollama's format
    */
-  to_platform(streaming = false) {
+  to_platform() {
     const ollama_body = {
-      model: this.adapter.model_config.id,
+      model: this.adapter.model_config.model_key,
       input: this.embed_inputs
-      // Advanced parameters can be added here if needed
-      // truncate: true, // Defaults to true, adjust based on requirements
-      // options: { temperature: 0.7 }, // Example option
-      // keep_alive: "5m", // Example option
     };
     return {
       url: this.adapter.endpoint,
@@ -9613,7 +9607,6 @@ var SmartEmbedModelOllamaRequestAdapter = class extends SmartEmbedModelRequestAd
   get_headers() {
     return {
       "Content-Type": "application/json"
-      // Add additional headers if required by Ollama
     };
   }
 };
@@ -12737,6 +12730,7 @@ async function post_process9(view, frag, opts = {}) {
   const toggle_button = frag.querySelector("[title='Fold all toggle']");
   toggle_button.addEventListener("click", () => {
     const expanded = view.env.settings.expanded_view;
+    view.env.settings.expanded_view = !expanded;
     container.querySelectorAll(".sc-result").forEach(async (elm) => {
       if (expanded) {
         elm.classList.add("sc-collapsed");
@@ -12744,7 +12738,6 @@ async function post_process9(view, frag, opts = {}) {
         elm.classList.remove("sc-collapsed");
       }
     });
-    view.env.settings.expanded_view = !expanded;
     this.safe_inner_html(toggle_button, this.get_icon_html(view.env.settings.expanded_view ? "fold-vertical" : "unfold-vertical"));
     toggle_button.setAttribute("aria-label", view.env.settings.expanded_view ? "Fold all" : "Unfold all");
   });
@@ -12757,11 +12750,11 @@ async function post_process9(view, frag, opts = {}) {
     view.plugin.open_lookup_view();
   });
   const help_button = frag.querySelector("[title='Help']");
-  help_button.addEventListener("click", () => {
+  help_button?.addEventListener("click", () => {
     window.open("https://docs.smartconnections.app/connections-pane", "_blank");
   });
   const settings_button = frag.querySelector("[title='Settings']");
-  settings_button.addEventListener("click", () => {
+  settings_button?.addEventListener("click", () => {
     view.open_settings();
   });
   if (typeof opts.post_process === "function") {
@@ -12860,7 +12853,7 @@ async function build_html8(result, opts = {}) {
   const expanded_view = item.env.settings.expanded_view;
   return `<div class="temp-container">
     <div
-      class="sc-result${expanded_view ? "" : " sc-collapsed"}"
+      class="sc-result sc-collapsed"
       data-path="${item.path.replace(/"/g, "&quot;")}"
       data-link="${item.link?.replace(/"/g, "&quot;") || ""}"
       data-collection="${item.collection_key}"
@@ -12907,9 +12900,8 @@ ${await entity.read()}`;
       result_elm.querySelector("li").appendChild(entity_frag);
     }
   };
-  const toggle_result = async (_result_elm) => {
+  const toggle_result = (_result_elm) => {
     _result_elm.classList.toggle("sc-collapsed");
-    await render_result(_result_elm);
   };
   const handle_result_click = (event) => {
     event.preventDefault();
@@ -12952,15 +12944,22 @@ ${await entity.read()}`;
     });
   }
   const observer = new MutationObserver((mutations) => {
-    mutations.forEach((mutation) => {
-      if (mutation.attributeName === "class" && !result_elm.classList.contains("sc-collapsed")) {
-        render_result(result_elm);
-      }
+    const has_expansion_change = mutations.some((mutation) => {
+      const target = mutation.target;
+      return mutation.attributeName === "class" && mutation.oldValue?.includes("sc-collapsed") !== target.classList.contains("sc-collapsed");
     });
+    if (has_expansion_change && !mutations[0].target.classList.contains("sc-collapsed")) {
+      render_result(mutations[0].target);
+    }
   });
-  observer.observe(result_elm, { attributes: true });
+  observer.observe(result_elm, {
+    attributes: true,
+    attributeOldValue: true,
+    attributeFilter: ["class"]
+    // Only observe class changes
+  });
   if (!env.settings.expanded_view) return result_elm;
-  await render_result(result_elm);
+  toggle_result(result_elm);
   return result_elm;
 }
 function should_render_embed2(entity) {
@@ -30014,37 +30013,6 @@ var smart_env_config5 = {
   }
 };
 
-// src/smart_search.js
-var SmartSearch = class {
-  constructor(plugin) {
-    this.main = plugin;
-    this.plugin = plugin;
-  }
-  async search(search_text, filter = {}) {
-    try {
-      if (!this.plugin.env?.smart_blocks?.smart_embed && !this.plugin.env?.smart_sources?.smart_embed) {
-        this.main.notices.show("embed_model_not_loaded");
-        return [];
-      }
-      const collection = this.plugin.env?.smart_blocks?.smart_embed ? this.plugin.env.smart_blocks : this.plugin.env.smart_sources;
-      const embedding = await collection.smart_embed.embed(search_text);
-      if (!embedding?.vec) {
-        this.main.notices.show("embed_search_text_failed");
-        return [];
-      }
-      return (await collection.nearest(embedding.vec, filter)).sort((a, b) => {
-        if (a.score > b.score) return -1;
-        if (a.score < b.score) return 1;
-        return 0;
-      });
-    } catch (e) {
-      this.main.notices.show("error_in_embedding_search");
-      console.error(e);
-      return [];
-    }
-  }
-};
-
 // src/sc_settings_tab.js
 var import_obsidian32 = require("obsidian");
 var ScSettingsTab = class extends import_obsidian32.PluginSettingTab {
@@ -30974,8 +30942,10 @@ var SmartCosSim = class {
   }
   apply(a, b) {
     try {
-      const a_key = a.path ?? a;
-      const b_key = b.path ?? b;
+      if (!smart_env || smart_env.state !== "loaded") return "Loading...";
+      const a_key = a?.path ?? a;
+      const b_key = b?.path ?? b;
+      if (!a_key || !b_key) return 0;
       const item_a = smart_env.smart_sources.get(a_key);
       let item_b = smart_env.smart_sources.get(b_key);
       if (!item_b) {
@@ -30993,41 +30963,88 @@ var SmartCosSim = class {
   }
 };
 
-// src/bases/connections_score_column.js
+// src/bases/connections_score_column_modal.js
 var import_obsidian40 = require("obsidian");
-function insert_connections_score_column(baseStr, selectedKey, propertyName = "") {
-  if (!baseStr || !selectedKey) return baseStr;
-  const prop = propertyName || selectedKey.split("/").pop().replace(/\.md$/i, "");
-  const formulaLine = `  ${prop}: cos_sim(file.file, "${selectedKey}")`;
-  const displayLine = `  formula.${prop}: ${prop}`;
-  const orderLine = `      - formula.${prop}`;
-  const lines = baseStr.split(/\r?\n/);
-  const blockEnd = (idx, indentRx) => {
-    let i = idx + 1;
-    while (i < lines.length && indentRx.test(lines[i])) i++;
-    return i - 1;
-  };
-  const f = lines.findIndex((l) => /^formulas:\s*$/.test(l));
-  if (f !== -1 && !lines.includes(formulaLine)) lines.splice(blockEnd(f, /^\s{2}\S/) + 1, 0, formulaLine);
-  const d = lines.findIndex((l) => /^display:\s*$/.test(l));
-  if (d !== -1 && !lines.includes(displayLine)) lines.splice(blockEnd(d, /^\s{2}\S/) + 1, 0, displayLine);
-  const v = lines.findIndex((l) => /^views:\s*$/.test(l));
-  if (v !== -1 && !lines.includes(orderLine)) {
-    let orderIdx = -1;
-    for (let i = v + 1; i < lines.length; i++) {
-      if (/^\s*-\s+type:\s+table/.test(lines[i])) {
-        orderIdx = lines.findIndex((l, j) => j > i && /^\s+order:\s*$/.test(l));
+
+// src/bases/connections_score_column.js
+function insert_connections_score_column(base_str = "", selected_key, property_name = "") {
+  if (!selected_key) return base_str ?? "";
+  const prop = property_name || selected_key.split("/").pop().replace(/\.md$/i, "");
+  const compare_to = selected_key === "this.file.file" ? "this.file.file" : `"${selected_key}"`;
+  const formula_ln = `  ${prop}: cos_sim(file.file, ${compare_to})`;
+  const display_ln = `  formula.${prop}: ${prop}`;
+  const order_ln = `      - formula.${prop}`;
+  const lines = (base_str ?? "").split(/\r?\n/);
+  let idx = lines.findIndex((l) => /^formulas:\s*$/i.test(l));
+  if (idx === -1) {
+    lines.unshift("formulas:", formula_ln);
+  } else if (!lines.some((l) => l.trimStart() === formula_ln.trimStart())) {
+    idx = find_block_end(lines, idx, /^\s{2}\S/);
+    lines.splice(idx + 1, 0, formula_ln);
+  }
+  idx = lines.findIndex((l) => /^display:\s*$/i.test(l));
+  if (idx === -1) {
+    const formulas_end = lines.findIndex((l) => /^formulas:\s*$/i.test(l));
+    const insert_at = find_block_end(lines, formulas_end, /^\s{2}\S/) + 1;
+    lines.splice(insert_at, 0, "display:", display_ln);
+  } else if (!lines.some((l) => l.trimStart() === display_ln.trimStart())) {
+    idx = find_block_end(lines, idx, /^\s{2}\S/);
+    lines.splice(idx + 1, 0, display_ln);
+  }
+  idx = lines.findIndex((l) => /^views:\s*$/i.test(l));
+  if (idx === -1) {
+    lines.push(
+      "views:",
+      "  - type: table",
+      "    name: Table",
+      "    order:",
+      "      - file.name",
+      order_ln
+    );
+  } else {
+    let order_idx = -1;
+    for (let i = idx + 1; i < lines.length; i++) {
+      if (/^\s*-\s+type:\s+table/i.test(lines[i])) {
+        order_idx = lines.findIndex(
+          (l, j) => j > i && /^\s*order:\s*$/i.test(l)
+        );
+        if (order_idx === -1) {
+          const name_ln = lines.findIndex(
+            (l, j) => j > i && /^\s*name:\s+/i.test(l)
+          );
+          const insert_at = name_ln !== -1 ? name_ln + 1 : i + 1;
+          lines.splice(
+            insert_at,
+            0,
+            "    order:",
+            `      - file.name`,
+            order_ln
+          );
+        }
         break;
       }
     }
-    if (orderIdx !== -1) lines.splice(orderIdx + 1, 0, orderLine);
+    if (order_idx !== -1 && !lines.some((l) => l.trimStart() === order_ln.trimStart())) {
+      lines.splice(order_idx + 1, 0, order_ln);
+    }
   }
-  return lines.join("\n");
+  return lines.filter((l) => l.trim()).join("\n").trim();
 }
+var find_block_end = (arr, start, indent_rx) => {
+  let i = start + 1;
+  while (i < arr.length && indent_rx.test(arr[i])) i++;
+  return i - 1;
+};
+var is_base_file = (f) => !!f && f.extension === "base";
+
+// src/bases/connections_score_column_modal.js
 var ConnectionsScoreColumnModal = class extends import_obsidian40.FuzzySuggestModal {
   constructor(app) {
     super(app);
-    this.items = Object.keys(window.smart_env?.smart_sources?.items || {});
+    this.items = [
+      "Current/active file (dynamic)",
+      ...Object.keys(window.smart_env?.smart_sources?.items || {})
+    ];
     this.setPlaceholder("Select note for similarity\u2026");
   }
   getItems() {
@@ -31039,29 +31056,31 @@ var ConnectionsScoreColumnModal = class extends import_obsidian40.FuzzySuggestMo
   onChooseItem(i) {
     this.#apply(i);
   }
-  async #apply(selectedKey) {
+  async #apply(selected_key) {
     const file = this.app.workspace.getActiveFile();
     if (!is_base_file(file)) {
       new import_obsidian40.Notice("No active .base file");
       return;
     }
+    let property_name;
+    if (selected_key === "Current/active file (dynamic)") {
+      selected_key = "this.file.file";
+      property_name = "score";
+    }
     const original = await this.app.vault.read(file);
-    const updated = insert_connections_score_column(original, selectedKey);
+    const updated = insert_connections_score_column(original, selected_key, property_name);
     if (original === updated) {
       new import_obsidian40.Notice("Connections score column already present");
       return;
     }
     await this.app.vault.modify(file, updated);
     this.#reload_base();
-    new import_obsidian40.Notice(`Added cos_sim column for ${selectedKey}`);
+    new import_obsidian40.Notice(`Added cos_sim column for ${selected_key}`);
   }
   #reload_base() {
-    this.app.workspace.getLeavesOfType("bases").forEach((leaf) => {
-      return leaf.isVisible() && leaf.rebuildView();
-    });
+    this.app.workspace.getLeavesOfType("bases").forEach((leaf) => leaf.isVisible() && leaf.rebuildView());
   }
 };
-var is_base_file = (file) => !!file && file.extension === "base";
 function register_connections_score_command(plugin) {
   plugin.addCommand({
     id: "sc-add-connections-score-column",
@@ -31077,7 +31096,7 @@ function register_connections_score_command(plugin) {
 }
 
 // releases/3.0.0.md
-var __default = "# Smart Connections `v3`\n## New Features\n### Bases integration\n- Introduces new command `Add: Connections score base column` and modal for selecting note that should be used in the comparison\n	- A `base` file must be open and active for the command to appear\n- Adds a new column to the current that display the connections score (semantic similarity) between each note and a specified file\n	- makes `cos_sim(file.file, TARGET)` available as a bases function\n### Smart Chat v1\n- Effectively utilizes the Smart Environment architecture to facilitate deeper integration and new features.\n#### Improved Smart Chat UI\n- New context builder\n	- makes managing conversation context easier\n- Drag images and notes into the chat window to add as context\n- Separate settings tab specifically for chat features\n#### *Improved Smart Chat compatibility with Local Models*\n- Note lookup (RAG) now compatible with models that don't support tool calling\n	- Disable tool calling in the settings\n### Ollama embedding adapter\n- use Ollama to create embeddings\n\n## Fixed\n- renders content in connections results when all result items are expanded by default\n## Housekeeping\n- Updated README\n	- Improved Getting Started section\n	- Removed extraneous details\n- Improved version release process\n- Smart Chat `v0` (legacy)\n	- Smart Chat `v0` will continue to be available for a short time and will be removed in `v3.1` unless unforeseen issues arise in which case it will be removed sooner.\n	- Smart Chat `v0` code was moved from `brianpetro/jsbrains` to the Smart Connections repo\n\n## patch `v3.0.1`\n\nImproved Mobile UX and cleaned up extraneous code.\n\n## patch `v3.0.3`\n\nFixed issue where connections results would not render if expand-all results was toggled on.\n\n## patch `v3.0.4`\n\nPrevented frontmatter blocks from being included in connections results. Fixed toggle-fold-all logic.\n\n## patch `v3.0.5`\n\nFixes Ollama Embedding model loading issue in the settings.\n\n## patch `v3.0.6`\n\nFixed release notes should only show once after update.";
+var __default = '# Smart Connections `v3`\r\n## New Features\r\n### Bases integration\r\n- Introduces new command `Add: Connections score base column` and modal for selecting note that should be used in the comparison\r\n	- A `base` file must be open and active for the command to appear\r\n- Adds a new column to the current that display the connections score (semantic similarity) between each note and a specified file\r\n	- makes `cos_sim(file.file, TARGET)` available as a bases function\r\n### Smart Chat v1\r\n- Effectively utilizes the Smart Environment architecture to facilitate deeper integration and new features.\r\n#### Improved Smart Chat UI\r\n- New context builder\r\n	- makes managing conversation context easier\r\n- Drag images and notes into the chat window to add as context\r\n- Separate settings tab specifically for chat features\r\n#### *Improved Smart Chat compatibility with Local Models*\r\n- Note lookup (RAG) now compatible with models that don\'t support tool calling\r\n	- Disable tool calling in the settings\r\n### Ollama embedding adapter\r\n- use Ollama to create embeddings\r\n\r\n## Fixed\r\n- renders content in connections results when all result items are expanded by default\r\n## Housekeeping\r\n- Updated README\r\n	- Improved Getting Started section\r\n	- Removed extraneous details\r\n- Improved version release process\r\n- Smart Chat `v0` (legacy)\r\n	- Smart Chat `v0` will continue to be available for a short time and will be removed in `v3.1` unless unforeseen issues arise in which case it will be removed sooner.\r\n	- Smart Chat `v0` code was moved from `brianpetro/jsbrains` to the Smart Connections repo\r\n\r\n## patch `v3.0.1`\r\n\r\nImproved Mobile UX and cleaned up extraneous code.\r\n\r\n## patch `v3.0.3`\r\n\r\nFixed issue where connections results would not render if expand-all results was toggled on.\r\n\r\n## patch `v3.0.4`\r\n\r\nPrevented frontmatter blocks from being included in connections results. Fixed toggle-fold-all logic.\r\n\r\n## patch `v3.0.5`\r\n\r\nFixes Ollama Embedding model loading issue in the settings.\r\n\r\n## patch `v3.0.6`\r\n\r\nFixed release notes should only show once after update.\r\n\r\n## patch `v3.0.7`\r\n\r\nAdded "current/dynamic" option in bases connection score modal to add score based on current file. Fixed issue causing Ollama to seemingly embed at 0 tokens/sec. Fixed bases integration modal failing on new bases.\r\n\r\n## patch `v3.0.8`\n\r\n- Improved bases integration UX\r\n	- prevent throwing error on erroroneous input in `cos_sim` base function\r\n	- gracefully handle when smart_env is not loaded yet\r\n- Reduced max size of markdown file that will be imported from 1MB to 300KB (prevent long initial import)\r\n	- advanced configuration available via `smart_sources.obsidian_markdown_source_content_adapter.max_import_size` in `smart_env.json`\r\n- Removed deprecated Smart Search API registered to window since `smart_env` object is now globally accessible\r\n- Fixed bug causing expanded connections results to render twice';
 
 // src/modals/release_notes.js
 var import_obsidian41 = require("obsidian");
@@ -31174,6 +31193,7 @@ var SmartConnectionsPlugin = class extends Plugin {
     this.addSettingTab(new ScSettingsTab(this.app, this));
     this.add_commands();
     this.register_code_blocks();
+    this.register_bases_integration();
   }
   // async onload() { this.app.workspace.onLayoutReady(this.initialize.bind(this)); } // initialize when layout is ready
   onunload() {
@@ -31198,6 +31218,8 @@ var SmartConnectionsPlugin = class extends Plugin {
       this.app.setting.removeSettingTab("smart-chat");
     });
     console.log("Smart Chat is registered");
+  }
+  register_bases_integration() {
     if (this.app.internalPlugins.plugins.bases?.instance) {
       this.app.internalPlugins.plugins.bases?.instance?.registerFunction(new SmartCosSim(this.app));
       this.register(() => {
@@ -31206,8 +31228,6 @@ var SmartConnectionsPlugin = class extends Plugin {
       });
       register_connections_score_command(this);
     }
-    this._api = new SmartSearch(this);
-    (window["SmartSearch"] = this._api) && this.register(() => delete window["SmartSearch"]);
   }
   register_code_blocks() {
     this.register_code_block("smart-connections", "render_code_block");
@@ -31277,7 +31297,7 @@ var SmartConnectionsPlugin = class extends Plugin {
       });
       const latest_release = response.tag_name;
       if (latest_release !== this.manifest.version) {
-        this.notices.show("new_version_available", { version: latest_release });
+        this.notices?.show("new_version_available", { version: latest_release });
         this.update_available = true;
       }
     } catch (error) {

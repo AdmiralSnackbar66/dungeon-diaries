@@ -46,7 +46,7 @@ SORT file.mtime DESC
 
 ## Factions and Groups
 ```dataview
-TABLE WITHOUT ID file.link AS "Name" from #groups 
+TABLE WITHOUT ID file.link AS "Name", publish AS "Published" from #groups 
 ```
 ## Locations
 

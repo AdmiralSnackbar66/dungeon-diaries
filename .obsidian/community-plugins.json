@@ -47,5 +47,6 @@
   "metadata-menu",
   "dataview-publisher",
   "links",
-  "dataview-serializer"
+  "dataview-serializer",
+  "obsidian-link-converter"
 ]
