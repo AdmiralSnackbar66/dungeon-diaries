@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56a26fa97a411f2f",
+        "id": "cea44d7f0ac245f3",
         "type": "tabs",
         "children": [
           {
-            "id": "a77733a3c63996f0",
+            "id": "08ea0ff858995da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
-                "mode": "source",
-                "source": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Star.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "The Strixhaven Star"
             }
           }
         ]
@@ -584,10 +584,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a77733a3c63996f0",
+  "active": "08ea0ff858995da3",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Mina Lee.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Star.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
+    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
+    "content/blog/2025-05-29 - Returning to the Gym .....md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloob.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Grayson Wildemere.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Untitled.md",
@@ -607,21 +616,12 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Arkin Minexes.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/046-03-022-shuvadri.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/043-03-019-quentillius.webp",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/034-03-010-cadoras.webp",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. Frogs The Word.md",
     "ttrpgs/Campaigns/Strixhaven/003_20250608.md",
-    "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations",
     "quartz.layout.ts",
     "quartz.layout.ts.txt",

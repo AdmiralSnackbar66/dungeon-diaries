@@ -16,7 +16,7 @@ At Witherbloom, the College of Essence Studies, mages draw power from the opposi
 
 | Name                                                                                                                 | Species                  | Class                   |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------- |
-| [[Professor Willowdusk]] | <ul><li>Treant</li></ul> | <ul><li>Druid</li></ul> |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Willowdusk.md\|Professor Willowdusk]] | <ul><li>Treant</li></ul> | <ul><li>Druid</li></ul> |
 <!-- SerializedQuery END -->
 
 
@@ -26,8 +26,9 @@ At Witherbloom, the College of Essence Studies, mages draw power from the opposi
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Name", race AS "Species", Class FROM "content" WHERE (college = "Witherbloom") WHERE (role = "Student") -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "Name", race AS "Species", Class FROM "content" WHERE (college = "Witherbloom") WHERE (role = "Student") -->
 
-| Name                                                                                                         | Species                 | Class |
-| ------------------------------------------------------------------------------------------------------------ | ----------------------- | ----- |
-| [[Melwythorne]]           | <ul><li>Dryad</li></ul> | \-    |
-| [[Urzmaktok Grojsh]] | <ul><li>Orc</li></ul>   | \-    |
+| Name                                                                                                                       | Species                 | Class |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----- |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.md\|Aurora Luna Wynterstarr]] | <ul><li>Human</li></ul> | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md\|Urzmaktok Grojsh]]               | <ul><li>Orc</li></ul>   | \-    |
+| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md\|Melwythorne]]                         | <ul><li>Dryad</li></ul> | \-    |
 <!-- SerializedQuery END -->

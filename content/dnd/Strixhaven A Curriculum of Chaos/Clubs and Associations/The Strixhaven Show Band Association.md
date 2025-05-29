@@ -17,9 +17,9 @@ These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes
 #### Members
 <!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular,"The Strixhaven Show Band Association") -->
 <!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular,"The Strixhaven Show Band Association") -->
-- [[Rubina Larkingdale]]
-- [[Aurora Luna Wynterstarr]]
-- [[Elvis Parsley]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.md|Aurora Luna Wynterstarr]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rubina Larkingdale.md|Rubina Larkingdale]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md|Elvis Parsley]]
 <!-- SerializedQuery END -->
 
 

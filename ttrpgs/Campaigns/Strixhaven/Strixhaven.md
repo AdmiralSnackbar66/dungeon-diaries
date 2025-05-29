@@ -44,11 +44,9 @@ SORT file.mtime DESC
 *Write down some facts about this campaign or the world that the characters find themselves in.*
 
 
-## Factions
+## Factions and Groups
 ```dataview
-TABLE description as "Description" from "ttrpgs"
-WHERE contains(lower(type),"faction")
-WHERE (campaign = "Strixhaven")
+TABLE WITHOUT ID file.link AS "Name" from #groups 
 ```
 ## Locations
 
