@@ -15,17 +15,8 @@ title: The Dragonchess Club
 These experts in the game of Dragonchess discuss the latest in strategy, compete against one another, and test out homemade variations of game 
 
 #### Members
-
-%% DATAVIEW_PUBLISHER: start
-```dataview
- LIST
- FROM "content"
- WHERE contains(extracurricular, "The Dragonchess Club")
-```
-%%
-
-- [[Tilana Kapule|Tilana Kapule]]
-- [[Bhedum Rampart Sooviij|Bhedum Rampart Sooviij]]
-
-%% DATAVIEW_PUBLISHER: end %%
-
+<!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular, "The Dragonchess Club") -->
+<!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular, "The Dragonchess Club") -->
+- [[Bhedum Rampart Sooviij]]
+- [[Tilana Kapule]]
+<!-- SerializedQuery END -->
