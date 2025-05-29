@@ -15,21 +15,11 @@ skills:
 These music enthusiasts play instruments such as hurdy-gurdies, bagpipes, flutes, and drums, and they regularly perform rousing concerts.
 
 #### Members
-
-%% DATAVIEW_PUBLISHER: start
-```dataview
-LIST 
-FROM "content" 
-WHERE contains(extracurricular,"The Strixhaven Show Band Association")
-```
-%%
-
-- [[Aurora Luna Wynterstarr|Aurora Luna Wynterstarr]]
-- [[Rubina Larkingdale|Rubina Larkingdale]]
-- [[ElvisParsley.png|Elvis Parsley]]
-
-%% DATAVIEW_PUBLISHER: end %%
-
-
+<!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular,"The Strixhaven Show Band Association") -->
+<!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular,"The Strixhaven Show Band Association") -->
+- [[Rubina Larkingdale]]
+- [[Aurora Luna Wynterstarr]]
+- [[Elvis Parsley]]
+<!-- SerializedQuery END -->
 
 

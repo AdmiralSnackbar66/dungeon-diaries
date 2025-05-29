@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c39c79188bead13a",
+        "id": "f695f74ae8c085ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e74aa157cd28e678",
+            "id": "5a8b9ec7c2db7a2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md"
               },
-              "icon": "lucide-file",
-              "title": "ttrpgs"
+              "icon": "database-folder-icon",
+              "title": "Clubs and Associations"
             }
           }
         ]
@@ -134,26 +131,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2911de48d50d504c",
+  "active": "5a8b9ec7c2db7a2d",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
+    "2025-05-29.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloob.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
     "ttrpgs/ttrpgs.md",
     "content/blog/2025-05-29 - Returning to the Gym .....md",
     "content/blog/blog.md",
     "content/blog/Untitled.md",
     "content/blog/2025-03-08 - Today is the day....md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.md",
     "2025-05-26.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
@@ -164,7 +163,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Aurora Luna Wynterstarr.md",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/09-friends-and-foes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-map.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-1748374282989.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.webp",
@@ -173,7 +171,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/013-02-002-the-chained-library.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Extra Curriculars",
     "z_Assets/CogworkArchivist.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",
     "ttrpgs/Sessions/Scripts",
     "ttrpgs/Sessions",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png.crdownload",
