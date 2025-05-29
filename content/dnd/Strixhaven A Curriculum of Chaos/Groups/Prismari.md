@@ -22,9 +22,9 @@ Where (role = "Faculty")
 ```
 %%
 
-| Name                                                                                                                       | Species                    | Class                      |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Arkin Minexes.md\|Professor Arkin Minexes]] | <ul><li>Half-Orc</li></ul> | <ul><li>Sorcerer</li></ul> |
+| Name                                                 | Species                    | Class                      |
+| ---------------------------------------------------- | -------------------------- | -------------------------- |
+| [[Professor Arkin Minexes\|Professor Arkin Minexes]] | <ul><li>Half-Orc</li></ul> | <ul><li>Sorcerer</li></ul> |
 
 %% DATAVIEW_PUBLISHER: end %%
 

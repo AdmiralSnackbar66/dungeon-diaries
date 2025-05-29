@@ -22,8 +22,8 @@ WHERE contains(extracurricular,"The Fantastical Horticulture")
 ```
 %%
 
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md|Urzmaktok Grojsh]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md|Borun Erutan]]
+- [[Urzmaktok Grojsh|Urzmaktok Grojsh]]
+- [[Borun Erutan|Borun Erutan]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

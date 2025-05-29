@@ -24,8 +24,8 @@ These experts in the game of Dragonchess discuss the latest in strategy, compete
 ```
 %%
 
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md|Tilana Kapule]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md|Bhedum Rampart Sooviij]]
+- [[Tilana Kapule|Tilana Kapule]]
+- [[Bhedum Rampart Sooviij|Bhedum Rampart Sooviij]]
 
 %% DATAVIEW_PUBLISHER: end %%
 

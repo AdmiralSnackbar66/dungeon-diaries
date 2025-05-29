@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png"
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Silverquill"
+              "icon": "lucide-file",
+              "title": "The Strixhaven Show Band Association"
             }
           }
         ]
@@ -584,22 +586,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.png",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
@@ -619,7 +622,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations",
     "quartz.layout.ts",
     "quartz.layout.ts.txt",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-map.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Brenneth Blackstone.jpg",
