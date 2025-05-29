@@ -2,6 +2,7 @@
 title: Returning to the gym ...
 tags:
   - blog
+  - gym
 publish: true
 published: 2025-05-29
 ---

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a184133168682e7",
+        "id": "c39c79188bead13a",
         "type": "tabs",
         "children": [
           {
-            "id": "3b90f61581dd5969",
+            "id": "e74aa157cd28e678",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,140 +86,6 @@
     "type": "split",
     "children": [
       {
-        "id": "33e6c82c7333c283",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64d211c75ab5f3cb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 001_20250511"
-            }
-          },
-          {
-            "id": "b72533034943a033",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 001_20250511"
-            }
-          },
-          {
-            "id": "664dcc7166d77ca8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c0165e8b4acee80e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "8b939f467afe6e34",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 001_20250511"
-            }
-          },
-          {
-            "id": "212cae36000609a3",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d2aa491239307e37",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f986df1211639636",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "d2c4715ab35ca7bd",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "ef34571b73aacdcc",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
         "id": "79d664b84aa056ee",
         "type": "tabs",
         "children": [
@@ -237,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,13 +134,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3b90f61581dd5969",
+  "active": "2911de48d50d504c",
   "lastOpenFiles": [
+    "ttrpgs/ttrpgs.md",
     "content/blog/2025-05-29 - Returning to the Gym .....md",
     "content/blog/blog.md",
     "content/blog/Untitled.md",
     "content/blog/2025-03-08 - Today is the day....md",
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
