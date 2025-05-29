@@ -17,20 +17,10 @@ These historians are fascinated by all time periods, and they regularly meet to 
 
 #### Members
 
-%% DATAVIEW_PUBLISHER: start
-```dataview
-LIST 
-FROM "content" 
-WHERE contains(extracurricular,"The Dragonsguard Historical Society")
-```
-%%
-
-- [[Bhedum Rampart Sooviij|Bhedum Rampart Sooviij]]
-- [[Dalaila Eversnow|Dalaila Eversnow]]
-
-%% DATAVIEW_PUBLISHER: end %%
-
-
-
+<!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular,"The Dragonsguard Historical Society") -->
+<!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular,"The Dragonsguard Historical Society") -->
+- [[Bhedum Rampart Sooviij]]
+- [[Dalaila Eversnow]]
+<!-- SerializedQuery END -->
 
 

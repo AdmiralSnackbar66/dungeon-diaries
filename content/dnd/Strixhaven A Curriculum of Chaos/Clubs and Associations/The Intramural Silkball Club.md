@@ -11,22 +11,16 @@ skills:
 ---
 **Skills:** Athletics, Intimidation
 
-
 These hardy athletes train together and compete in the rough-and-tumble Strixhaven game of silkball, which is played in muddy fields with balls made of spider silk.
 
 #### Members
 
-%% DATAVIEW_PUBLISHER: start
-```dataview
-LIST
-From "content"
-WHERE contains(extracurricular,"The Intramural Silkball Club")
-```
-%%
-
-- [[Javanesh Stoutclaw|Javanesh Stoutclaw]]
-- [[Tilana Kapule|Tilana Kapule]]
-- [[Melwythorne|Melwythorne]]
-- [[Zolon Orielson|Zolon Orielson]]
-
 %% DATAVIEW_PUBLISHER: end %%
+<!-- QueryToSerialize: LIST From "content" WHERE contains(extracurricular,"The Intramural Silkball Club") -->
+<!-- SerializedQuery: LIST From "content" WHERE contains(extracurricular,"The Intramural Silkball Club") -->
+- [[Javanesh Stoutclaw]]
+- [[Melwythorne]]
+- [[Tilana Kapule]]
+- [[Zolon Orielson]]
+<!-- SerializedQuery END -->
+

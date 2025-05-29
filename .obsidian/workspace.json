@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "68c67641b6f647a0",
+        "id": "f695f74ae8c085ad",
         "type": "tabs",
         "children": [
           {
-            "id": "122317bd9bb6d999",
+            "id": "5a8b9ec7c2db7a2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md"
               },
-              "icon": "lucide-file",
-              "title": "Witherbloom"
+              "icon": "database-folder-icon",
+              "title": "Clubs and Associations"
             }
           }
         ]
@@ -86,129 +83,6 @@
     "type": "split",
     "children": [
       {
-        "id": "33e6c82c7333c283",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64d211c75ab5f3cb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 001_20250511"
-            }
-          },
-          {
-            "id": "b72533034943a033",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 001_20250511"
-            }
-          },
-          {
-            "id": "664dcc7166d77ca8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c0165e8b4acee80e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "8b939f467afe6e34",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ttrpgs/Campaigns/Strixhaven/Sessions/001_20250511.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 001_20250511"
-            }
-          },
-          {
-            "id": "212cae36000609a3",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d2aa491239307e37",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f986df1211639636",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "d2c4715ab35ca7bd",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          }
-        ]
-      },
-      {
         "id": "79d664b84aa056ee",
         "type": "tabs",
         "children": [
@@ -218,8 +92,8 @@
             "state": {
               "type": "attendance",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "user-check",
+              "title": "Attendance"
             }
           }
         ]
@@ -257,21 +131,31 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "122317bd9bb6d999",
+  "active": "5a8b9ec7c2db7a2d",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
+    "2025-05-29.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloob.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
+    "ttrpgs/ttrpgs.md",
+    "content/blog/2025-05-29 - Returning to the Gym .....md",
+    "content/blog/blog.md",
+    "content/blog/Untitled.md",
+    "content/blog/2025-03-08 - Today is the day....md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.md",
     "2025-05-26.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
-    "ttrpgs/ttrpgs.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
@@ -279,13 +163,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Aurora Luna Wynterstarr.md",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/09-friends-and-foes.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/The Playactors Drama Guild.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-map.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-1748374282989.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.webp",
@@ -294,12 +171,9 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/013-02-002-the-chained-library.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Extra Curriculars",
     "z_Assets/CogworkArchivist.png",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.png",
     "ttrpgs/Sessions/Scripts",
     "ttrpgs/Sessions",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png.crdownload",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png.crdownload",
     "public/dnd/Player-Characters/Dalaila-Eversnow.html",
     "[content/dnd/Player Characters",

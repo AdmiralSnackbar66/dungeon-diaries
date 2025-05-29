@@ -5,7 +5,8 @@ tags:
   - blog
   - Disney
 date: 2025-03-08
-publish: false
+publish: true
+published: 2025-03-08T00:00:00.000+00:00
 ---
 It's early and I'm awake.. the reason - were off to Paris France. Disneyland paris to be exact. We fly later today and I still haven't packed... 
 

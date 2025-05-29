@@ -30,5 +30,13 @@
       ],
       "key": "B"
     }
+  ],
+  "dataview-serializer:insert-dataview-serializer-block": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
