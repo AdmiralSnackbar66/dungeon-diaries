@@ -18,9 +18,9 @@ These hardy athletes train together and compete in the rough-and-tumble Strixhav
 %% DATAVIEW_PUBLISHER: end %%
 <!-- QueryToSerialize: LIST From "content" WHERE contains(extracurricular,"The Intramural Silkball Club") -->
 <!-- SerializedQuery: LIST From "content" WHERE contains(extracurricular,"The Intramural Silkball Club") -->
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md|Javanesh Stoutclaw]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md|Tilana Kapule]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md|Melwythorne]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md|Zolon Orielson]]
+- [[Javanesh Stoutclaw]]
+- [[Melwythorne]]
+- [[Tilana Kapule]]
+- [[Zolon Orielson]]
 <!-- SerializedQuery END -->
 

@@ -17,7 +17,7 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 
 | Name                                                                                                                       | Species                    | Class                      |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------------------------- |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Arkin Minexes.md\|Professor Arkin Minexes]] | <ul><li>Half-Orc</li></ul> | <ul><li>Sorcerer</li></ul> |
+| [[Professor Arkin Minexes]] | <ul><li>Half-Orc</li></ul> | <ul><li>Sorcerer</li></ul> |
 <!-- SerializedQuery END -->
 
 #### Students
