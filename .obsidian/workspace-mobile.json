@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
-                "mode": "preview",
-                "source": true
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png"
               },
-              "icon": "lucide-file",
-              "title": "Prismari"
+              "icon": "lucide-image",
+              "title": "Silverquill"
             }
           }
         ]
@@ -586,6 +584,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Mavinda Sharpbeak.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
     "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Show Band Association.md",
@@ -593,10 +599,8 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonsguard Historical Society.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Witherbloom.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.png",
     "3-Mechanics/CLI/books/strixhaven-a-curriculum-of-chaos/02-life-at-strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
@@ -608,12 +612,7 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Firejolt Cafe.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rubina Larkingdale.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rubina Larkingdale.webp",
-    "ttrpgs/Untitled.md",
-    "z_templates/NEW WEB NPC.md",
-    "ttrpgs/Lorehold.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Willowdusk.jpg",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/melwythorne.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Snarl.jpg",
@@ -624,8 +623,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Lorehold-map.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Brenneth Blackstone.jpg",
-    "z_Assets/Pasted image 20250526202854.png",
-    "z_Assets/Pasted image 20250526202659.png",
     "z_Assets/Omar.pdf.pdf",
     "z_Assets/Zolon Orielson.pdf",
     "z_Assets/Strixhaven_Improved_Tracker_for_Players.pdf",

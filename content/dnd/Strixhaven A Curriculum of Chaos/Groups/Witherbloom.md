@@ -7,6 +7,8 @@ tags:
   - groups
   - witherbloom
 ---
+![[Witherbloom.png]]
+
 At Witherbloom, the College of Essence Studies, mages draw power from the opposing forces of life and death. These mages brew their spells from natural components and the essence of living creatures, using that power to heal or harm the living or to raise or entreat the dead. They can cause entire forests to blossom out of nowhere or call down old curses that scourge flesh from bone. Some Witherbloom mages defend ecosystems from pollution, while others revel in the power of corruption. They’re at home riding zombie crocodiles down a languid river, picking herbs for a potion to treat a disease, brooding over a chorus of swamp frogs, or summoning fearsome avatars of nature.
 
 #### Faculty
