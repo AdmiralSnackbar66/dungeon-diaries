@@ -48,7 +48,7 @@ extracurricular:
 ### Job
 | Employer               | Job                | Co Worker |
 | ---------------------- | ------------------ | --------- |
-| Strixhaven Dormitories | Resident Assistant |           |
+| Strixhaven Dormitories | Resident Assistant | `         |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
