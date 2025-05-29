@@ -18,7 +18,7 @@ college: <% college %>
 ---
 >[!infobox]
 ># `<% npc_name %>`
->![[] <% npc_name %>.webp]]
+>![[ <% npc_name %>.webp]]
 >###### Basic Information
 >|Type| Stat|
 >|---|---|

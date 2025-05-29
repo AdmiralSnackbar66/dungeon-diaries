@@ -15,6 +15,8 @@ extracurricular:
   - The Strixhaven Show Band Association
 boon: Out of respect for Aurora, fellow campus musicians will cover your expenses for one night per week at places where live music is common.
 bane: When there’s live music on campus, the lyrics always include rude sentiments directed toward you.
+role: Student
+type: npc
 ---
 >[!infobox]
 ># `Aurora Luna Wynterstarr`

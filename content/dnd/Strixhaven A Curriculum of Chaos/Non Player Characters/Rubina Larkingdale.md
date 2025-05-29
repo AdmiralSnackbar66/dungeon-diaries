@@ -14,6 +14,8 @@ college: Silverquill
 extracurricular:
   - The Strixhaven Show Band Association
   - The Playactors Drama Guild
+role: Student
+type: npc
 ---
 >[!infobox]
 ># `Rubin's Larkingdale`

@@ -107,6 +107,7 @@ columns:
       - { label: "faculty", value: "faculty", color: "hsl(276, 95%, 90%)"}
       - { label: "no faculty", value: "no faculty", color: "hsl(162, 95%, 90%)"}
       - { label: "non faculty", value: "non faculty", color: "hsl(162, 95%, 90%)"}
+      - { label: "club", value: "club", color: "hsl(23, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
