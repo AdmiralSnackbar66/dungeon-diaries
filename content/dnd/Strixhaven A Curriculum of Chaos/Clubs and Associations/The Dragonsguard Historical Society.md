@@ -19,8 +19,8 @@ These historians are fascinated by all time periods, and they regularly meet to 
 
 <!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular,"The Dragonsguard Historical Society") -->
 <!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular,"The Dragonsguard Historical Society") -->
-- [[Bhedum Rampart Sooviij]]
-- [[Dalaila Eversnow]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md|Bhedum Rampart Sooviij]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md|Dalaila Eversnow]]
 <!-- SerializedQuery END -->
 
 
