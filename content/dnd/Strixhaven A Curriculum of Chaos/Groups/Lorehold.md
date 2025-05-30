@@ -18,7 +18,7 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 
 | Name                                                                                                                             | Species                 | Class                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Hofri Ghostforge.md\|Professor Hofri Ghostforge]] | <ul><li>Dwarf</li></ul> | <ul><li>Cleric</li></ul> |
+| [[Professor Hofri Ghostforge]] | <ul><li>Dwarf</li></ul> | <ul><li>Cleric</li></ul> |
 <!-- SerializedQuery END -->
 
 #### Students
@@ -26,9 +26,9 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Name",  race AS "Species", Class FROM "content" WHERE (college = "Lorehold") WHERE (role = "Student") -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "Name",  race AS "Species", Class FROM "content" WHERE (college = "Lorehold") WHERE (role = "Student") -->
 
-| Name                                                                                                                           | Species                   | Class |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----- |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md\|Javanesh Stoutclaw]]               | <ul><li>Owlin</li></ul>   | \-    |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md\|Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md\|Bhedum Rampart Sooviij]]       | <ul><li>Loxodon</li></ul> | \-    |
+| Name    | Species                   | Class |
+| ----------------------------- | ------------------------- | ----- |
+| [[Bhedum Rampart Sooviij]]    | <ul><li>Loxodon</li></ul> | \-    |
+| [[Javanesh Stoutclaw]]        | <ul><li>Owlin</li></ul>   | \-    |
+| [[Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
 <!-- SerializedQuery END -->

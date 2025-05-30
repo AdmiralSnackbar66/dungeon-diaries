@@ -17,8 +17,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | Name                                                                                                                       | Species                    | Class                    |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Ruxa.md\|Professor Ruxa]]                   | <ul><li>Bear</li></ul>     | <ul><li>Druid</li></ul>  |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Quentis Orvlo.md\|Professor Quentis Orvlo]] | <ul><li>Vedalken</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Professor Quentis Orvlo]] | <ul><li>Vedalken</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Professor Ruxa]]                   | <ul><li>Bear</li></ul>     | <ul><li>Druid</li></ul>  |
 <!-- SerializedQuery END -->
 
 #### Students
@@ -27,6 +27,6 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | Name                                                                                                           | Species                    | Class                    |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md\|Tilana Kapule]]         | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
-| [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md\|Drazhomir Yarnask]] | <ul><li>Minotaur</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Drazhomir Yarnask]] | <ul><li>Minotaur</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Tilana Kapule]]         | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
 <!-- SerializedQuery END -->

@@ -14,9 +14,9 @@ Firejolt Café is the most popular place at Strixhaven to grab tea or coffee, ch
 #### Characters Linked to [[Firejolt Cafe]]
 <!-- QueryToSerialize: LIST FROM "content" where (employer = "Firejolt Cafe") -->
 <!-- SerializedQuery: LIST FROM "content" where (employer = "Firejolt Cafe") -->
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Ellina Tanglewood.md|Ellina Tanglewood]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md|Borun Erutan]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md|Dalaila Eversnow]]
+- [[Ellina Tanglewood]]
+- [[Borun Erutan]]
+- [[Dalaila Eversnow]]
 <!-- SerializedQuery END -->
 
 
