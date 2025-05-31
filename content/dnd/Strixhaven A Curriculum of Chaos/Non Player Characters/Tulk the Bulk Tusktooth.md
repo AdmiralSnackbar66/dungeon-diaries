@@ -12,6 +12,7 @@ type: npc
 NoteIcon: npc
 race:
   - Orc
+employer: Bows End Tavern
 ---
 
 > [!infobox]

@@ -26,9 +26,9 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Name",  race AS "Species", Class FROM "content" WHERE (college = "Lorehold") WHERE (role = "Student") -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "Name",  race AS "Species", Class FROM "content" WHERE (college = "Lorehold") WHERE (role = "Student") -->
 
-| Name    | Species                   | Class |
-| ----------------------------- | ------------------------- | ----- |
-| [[Bhedum Rampart Sooviij]]    | <ul><li>Loxodon</li></ul> | \-    |
-| [[Javanesh Stoutclaw]]        | <ul><li>Owlin</li></ul>   | \-    |
+| Name                                                                                                                           | Species                   | Class |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----- |
+| [[Bhedum Rampart Sooviij]]       | <ul><li>Loxodon</li></ul> | \-    |
+| [[Javanesh Stoutclaw]]               | <ul><li>Owlin</li></ul>   | \-    |
 | [[Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
 <!-- SerializedQuery END -->

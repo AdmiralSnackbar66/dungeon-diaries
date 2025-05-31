@@ -11,7 +11,7 @@ type: npc
 race:
   - Minotaur
 college: Quandrix
-employer: Biblioplex
+employer: The Biblioplex
 extracurricular: Dead Languages Society
 role: Student
 extra_curricular: Dead Languages Society

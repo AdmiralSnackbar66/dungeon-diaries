@@ -14,3 +14,13 @@ The center of Strixhaven is the Biblioplex, the university's main library. At th
 Five lines of beacon-towers radiate from the Biblioplex like enormous spokes. These Torches of Enlightenment stretch out to the five college campuses and beyond, more than a hundred miles into the surrounding countryside. They burn perpetually with magical flame, symbolizing the path toward learning and an escape from ignorance.
 
 ![[biblioplex.webp]]
+
+### Characters Linked To The Biblioplex
+<!-- QueryToSerialize: LIST From "content" WHERE (employer = "The Biblioplex") -->
+<!-- SerializedQuery: LIST From "content" WHERE (employer = "The Biblioplex") -->
+- [[Drazhomir Yarnask]]
+- [[Rook]]
+- [[Omari Elderon]]
+<!-- SerializedQuery END -->
+
+

@@ -21,6 +21,8 @@ Firejolt Café is the most popular place at Strixhaven to grab tea or coffee, ch
 
 
 
+
+
 %% 
 ## Locations
 ![[1-campus-kerfuffle#Firejolt Café Locations]]

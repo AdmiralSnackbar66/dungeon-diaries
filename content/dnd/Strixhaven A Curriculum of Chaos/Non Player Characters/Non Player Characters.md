@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -36,7 +36,7 @@ columns:
     key: role
     id: role
     label: role
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -55,7 +55,7 @@ columns:
     key: college
     id: college
     label: college
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -77,7 +77,7 @@ columns:
     key: publish
     id: publish
     label: publish
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -96,7 +96,7 @@ columns:
     key: tags
     id: tags
     label: tags
-    position: 100
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -127,7 +127,7 @@ columns:
     isDragDisabled: false
     skipPersist: false
     csvCandidate: true
-    position: 0
+    position: 2
     isHidden: false
     sortIndex: -1
     config:
@@ -145,7 +145,7 @@ columns:
     key: published
     id: published
     label: published
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -164,7 +164,7 @@ columns:
     key: job
     id: job
     label: job
-    position: 100
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -183,7 +183,7 @@ columns:
     key: type
     id: type
     label: type
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -202,7 +202,7 @@ columns:
     key: NoteIcon
     id: NoteIcon
     label: NoteIcon
-    position: 100
+    position: 11
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -221,7 +221,7 @@ columns:
     key: race
     id: race
     label: race
-    position: 100
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -240,7 +240,7 @@ columns:
     key: Class
     id: Class
     label: Class
-    position: 100
+    position: 13
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -259,7 +259,26 @@ columns:
     key: extracurricular
     id: extracurricular
     label: extracurricular
-    position: 100
+    position: 14
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  employer:
+    input: text
+    accessorKey: employer
+    key: employer
+    id: employer
+    label: employer
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1

@@ -16,6 +16,7 @@ race:
 extracurricular:
   - The Dragonsguard Historical Society
   - The Dragonchess Club
+employer: n/a
 ---
 >[!infobox]
 ># `Bhedum "Rhampart" Sooviij`

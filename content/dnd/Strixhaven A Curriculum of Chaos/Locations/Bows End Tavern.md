@@ -11,3 +11,13 @@ NoteIcon: location
 At the western end of the Dawnbow, where it meets the ground, stands a smaller university landmark: Bow's End Tavern, which serves as a hangout for older students. Most patrons come for the live music, deliciously greasy food, and various potions and beverages. Others come to settle their differences in wild duels in the lot behind the tavern. The tavern's manager is a kind but strict orc named [[Tulk the Bulk Tusktooth]]. 
 
 ![[Bows End Tavern.webp]]
+
+### Characters linked to Bows End Tavern
+<!-- QueryToSerialize: LIST FROM "content" WHERE (employer = "Bows End Tavern") -->
+<!-- SerializedQuery: LIST FROM "content" WHERE (employer = "Bows End Tavern") -->
+- [[Javanesh Stoutclaw]]
+- [[Tulk the Bulk Tusktooth]]
+- [[Elvis Parsley]]
+<!-- SerializedQuery END -->
+
+

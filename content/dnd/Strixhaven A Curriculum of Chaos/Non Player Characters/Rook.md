@@ -13,6 +13,7 @@ type: npc
 NoteIcon: npc
 race:
   - Construct
+employer: The Biblioplex
 ---
 >[!infobox]
 > # `Rook`
