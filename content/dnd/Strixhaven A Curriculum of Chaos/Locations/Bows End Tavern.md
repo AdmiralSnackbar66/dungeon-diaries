@@ -15,9 +15,9 @@ At the western end of the Dawnbow, where it meets the ground, stands a smaller u
 ### Characters linked to Bows End Tavern
 <!-- QueryToSerialize: LIST FROM "content" WHERE (employer = "Bows End Tavern") -->
 <!-- SerializedQuery: LIST FROM "content" WHERE (employer = "Bows End Tavern") -->
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md|Javanesh Stoutclaw]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md|Tulk the Bulk Tusktooth]]
-- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md|Elvis Parsley]]
+- [[Javanesh Stoutclaw]]
+- [[Tulk the Bulk Tusktooth]]
+- [[Elvis Parsley]]
 <!-- SerializedQuery END -->
 
 
