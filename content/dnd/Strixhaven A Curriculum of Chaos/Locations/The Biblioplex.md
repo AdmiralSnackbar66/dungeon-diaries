@@ -26,3 +26,4 @@ Five lines of beacon-towers radiate from the Biblioplex like enormous spokes. Th
 %%
 # Locations
 ![[1-campus-kerfuffle#Biblioplex Locations]]
+%%
