@@ -21,3 +21,9 @@ At the western end of the Dawnbow, where it meets the ground, stands a smaller u
 <!-- SerializedQuery END -->
 
 
+%%
+# Locations
+![[1-campus-kerfuffle#Bow's End Tavern Locations]]
+
+%
+
