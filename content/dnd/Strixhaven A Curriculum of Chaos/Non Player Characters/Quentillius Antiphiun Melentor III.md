@@ -13,7 +13,7 @@ Class:
   - Wizard
 college: Prismari
 extracurricular:
-  - Dead Languages Society
+  - The Dead Languages Society
   - The Playactors Drama Guild
 job: n/a
 employer: n/a
@@ -38,5 +38,5 @@ role: Student
 >|Year | Year One |
 >|Jobs|  n/a|
 >|Employer|n/a|
->|Extracurricular| Dead Languages Society, [[The Playactors Drama Guild]] |
+>|Extracurricular| [[The Dead Languages Society]], [[The Playactors Drama Guild]] |
 

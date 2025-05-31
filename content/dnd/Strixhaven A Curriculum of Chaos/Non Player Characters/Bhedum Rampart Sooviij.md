@@ -17,7 +17,7 @@ extracurricular:
   - The Dragonsguard Historical Society
   - The Dragonchess Club
 employer: n/a
-year:
+year: Year One
 ---
 >[!infobox]
 ># `Bhedum "Rhampart" Sooviij`
@@ -32,9 +32,10 @@ year:
 >|Type | Stat|
 >|---|---|
 >|College|Lorehold
->|Year | |
->|Jobs| |
->|Extracurricular| |
+>|Year | Year One|
+>|Jobs|n/a |
+>|Employer| n/a|
+>|Extracurricular| [[The Dragonsguard Historical Society]], [[The Dragonchess Club]]|
 
 Since their name is difficult to pronounce without a trunk, Bhedum has taken to referring to themself as “Rampart,” the closest translation of their name in Common. They are often found poring over ancient texts detailing battles, seeking to better understand the tactical decisions that result in victory and defeat. Rampart is happy to discuss their knowledge with fellow members of the Dragonsguard Historical Society, often doing so late into the night.
 

@@ -11,8 +11,7 @@ tags:
 #### Members
 <!-- QueryToSerialize: LIST from "content" where contains(extracurricular, "The Strixhaven Star") -->
 <!-- SerializedQuery: LIST from "content" where contains(extracurricular, "The Strixhaven Star") -->
+- [[Grayson Wildemere]]
 - [[Mina Lee]]
 - [[Omari Elderon]]
 <!-- SerializedQuery END -->
-
-

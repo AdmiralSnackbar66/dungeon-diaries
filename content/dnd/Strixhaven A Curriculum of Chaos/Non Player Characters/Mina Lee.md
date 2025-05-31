@@ -32,7 +32,8 @@ extracurricular:
 >|---|---|
 >|College|Silverquill
 >|Year | Two |
->|Jobs| Server -  [[Firejolt Cafe]] |
+>|Jobs| Server|
+>|Employer|[[Firejolt Cafe]] |
 >|Extracurricular| [[The Strixhaven Star ]]|
 
 Mina’s greatest love is the use of language; she adores how subtle differences in intonation and vocabulary can shape one’s perception of reality. Her fascination with language extends to spells and verbal components. After graduation, she plans to conduct research on the variance of language in spells and how one might tweak verbal components that the greater magical community considers immutable.

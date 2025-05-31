@@ -17,8 +17,8 @@ extracurricular:
   - The Intramural Silkball Club
 Class: 
 NoteIcon: npc
-boon: 
-bane:
+boon: " Javenesh’s reputation as a tough guy follows you. If peers would be aggressive toward you, they quickly back down."
+bane: The servers at Bow’s End Tavern know you are no friend to Javenesh. At the slightest sign of trouble, they blame you and ask you to leave.
 ---
 >[!infobox]
 ># `Javanesh Stoutclaw`
@@ -32,7 +32,8 @@ bane:
 >|Type|Stat|
 >|---|---|
 >|College| Lorehold|
->|Job| Assistant Manager - [[Bows End Tavern]]|
+>|Job| Assistant Manager|
+>|Employer| [[Bows End Tavern]]|
 >|Extracurricular| [[The Intramural Silkball Club]]|
 >
 

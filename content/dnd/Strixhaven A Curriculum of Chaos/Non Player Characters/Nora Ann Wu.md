@@ -13,7 +13,7 @@ Class:
   - Wizard
 college: Prismari
 extracurricular:
-  - Distinguished Society of Fine Artists
+  - The Distinguished Society of Fine Artists
 job: Resident Assistant
 employer: Strixhaven Dormitories
 boon: 
@@ -37,7 +37,7 @@ role: Student
 >|Year | Year Two |
 >|Jobs|  Resident Assistant|
 >|Employer|Strixhaven Dormitories|
->|Extracurricular| Distinguished Society of Fine Artists |
+>|Extracurricular| [[The Distinguished Society of Fine Artists]] |
 
 Rarely without a smile on her face, Nora is a kind person who is generous with her time and attention. This has led her to gain employment within the university’s dormitories, where she acts as a resident assistant. Nora offers confidential support to any student and is especially passionate about counseling other transgender students. She thoughtfully handles concerns ranging from students’ homesickness to matters that require her to act as an advocate for another student.
 

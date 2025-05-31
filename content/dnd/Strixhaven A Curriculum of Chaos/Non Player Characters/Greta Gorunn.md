@@ -36,7 +36,7 @@ role: Student
 >|Year | Year One |
 >|Jobs|  Equipment Assistant|
 >|Employer|Strixhaven Stadium|
->|Extracurricular| Strixhaven Iron-Lifters Society |
+>|Extracurricular| [[Strixhaven Iron-Lifters Society]] |
 
 Greta is often heard long before she is seen, as her raucous laughter echoes through the university’s halls. Enjoying a reputation as a golden-hearted troublemaker, Greta hates studying and grumbles about it at length. This has led to numerous warnings from the librarians for unnecessarily loud behavior, much to Greta’s amusement.
 

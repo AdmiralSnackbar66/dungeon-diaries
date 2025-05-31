@@ -6,12 +6,16 @@ tags:
   - dnd
   - NPC
 NoteIcon: npc
-race: Human
+race:
+  - Human
 Alignment: Neutral
 Class: 
 college: Silverquill
 role: Student
 type: npc
+extracurricular:
+  - The Strixhaven Star
+  - The Future Entrepreneurs of Strixhaven
 ---
 >[!infobox]
 ># `Grayson Wildemere`
@@ -28,7 +32,7 @@ type: npc
 >|College|Silverquill|
 >|Year | Year One|
 >|Jobs| |
->|Extracurricular| [[The Strixhaven Star]], Future Entrepreneurs of Strixhaven|
+>|Extracurricular| [[The Strixhaven Star]], [[The Future Entrepreneurs of Strixhaven]]|
 
 Grayson comes from an old, moneyed, and influential family. To him, studying at Strixhaven is a means to an end. Learning business acumen is just as important to Grayson as his classes, so he has joined the Future Entrepreneurs of Strixhaven. Grayson makes a point to know as much about everyone as possible, gathering information until he finds the best circumstance to use it. Having learned to pick locks, he often accesses places where he's unauthorized, searching for secrets.
 
