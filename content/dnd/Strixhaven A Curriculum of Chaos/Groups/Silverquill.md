@@ -25,9 +25,11 @@ The Silverquill campus is located due north of the central Strixhaven campus and
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Name", race as "Species", Class FROM "content" WHERE (college = "Silverquill") WHERE (role = "Student") -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "Name", race as "Species", Class FROM "content" WHERE (college = "Silverquill") WHERE (role = "Student") -->
 
-| Name                                                                                                             | Species                 | Class |
-| ---------------------------------------------------------------------------------------------------------------- | ----------------------- | ----- |
-| [[Grayson Wildemere]]   | Human                   | \-    |
-| [[Mina Lee]]                     | <ul><li>Human</li></ul> | \-    |
-| [[Rubina Larkingdale]] | <ul><li>Human</li></ul> | \-    |
+| Name                                                                                                                 | Species                 | Class                    |
+| -------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| [[Grayson Wildemere]]       | Human                   | \-                       |
+| [[Mina Lee]]                         | <ul><li>Human</li></ul> | \-                       |
+| [[Rubina Larkingdale]]     | <ul><li>Human</li></ul> | \-                       |
+| [[Shuvadri Glintmantle]] | <ul><li>Owlin</li></ul> | <ul><li>Wizard</li></ul> |
 <!-- SerializedQuery END -->
+

@@ -17,6 +17,7 @@ extracurricular:
   - The Dragonsguard Historical Society
   - The Dragonchess Club
 employer: n/a
+year:
 ---
 >[!infobox]
 ># `Bhedum "Rhampart" Sooviij`

@@ -11,15 +11,12 @@
             "id": "a328b7e880ff9833",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md"
               },
-              "icon": "lucide-file",
-              "title": "The Playactors Drama Guild"
+              "icon": "database-folder-icon",
+              "title": "Non Player Characters"
             }
           }
         ]
@@ -233,13 +230,17 @@
   },
   "active": "a328b7e880ff9833",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Shuvadri Glintmantle.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Non Player Characters.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Quentillius Antiphiun Melentor III.webp",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Greta Gorunn.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Quentillius Antiphiun Melentor III.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Quentillius Antiphiun Melentor III.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Groups.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Nora Ann Wu.md",
@@ -248,7 +249,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Larine Arneza.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Larine Arneza.webp",
     "z_templates/NEW WEB NPC.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Greta Gorunn.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Greta Gorunn.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Cadoras Damellawar.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/The Distinguished Society of Fine Artists.md",
@@ -261,8 +261,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Locations.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Firejolt Cafe.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Quandrix.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
