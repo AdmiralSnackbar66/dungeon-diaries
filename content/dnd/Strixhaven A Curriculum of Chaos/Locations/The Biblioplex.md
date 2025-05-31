@@ -18,9 +18,9 @@ Five lines of beacon-towers radiate from the Biblioplex like enormous spokes. Th
 ### Characters Linked To The Biblioplex
 <!-- QueryToSerialize: LIST From "content" WHERE (employer = "The Biblioplex") -->
 <!-- SerializedQuery: LIST From "content" WHERE (employer = "The Biblioplex") -->
-- [[Drazhomir Yarnask]]
-- [[Rook]]
-- [[Omari Elderon]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rook.md|Rook]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md|Drazhomir Yarnask]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md|Omari Elderon]]
 <!-- SerializedQuery END -->
 
 %%
