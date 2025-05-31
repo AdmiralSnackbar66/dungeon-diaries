@@ -17,16 +17,23 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | Name                                                                                                                       | Species                    | Class                    |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| [[Professor Ruxa]]                   | <ul><li>Bear</li></ul>     | <ul><li>Druid</li></ul>  |
 | [[Professor Quentis Orvlo]] | <ul><li>Vedalken</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Professor Ruxa]]                   | <ul><li>Bear</li></ul>     | <ul><li>Druid</li></ul>  |
 <!-- SerializedQuery END -->
 
 #### Students
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "Name", race AS "Species", Class WHERE (college = "Quandrix") WHERE (role = "Student") -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link AS "Name", race AS "Species", Class WHERE (college = "Quandrix") WHERE (role = "Student") -->
 
-| Name                                                                                                           | Species                    | Class                    |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| [[Drazhomir Yarnask]] | <ul><li>Minotaur</li></ul> | <ul><li>Wizard</li></ul> |
-| [[Tilana Kapule]]         | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
+| Name                                                                                                             | Species                    | Class                    |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
+| [[Cadoras Damellawar]] | <ul><li>Elf</li></ul>      | \-                       |
+| [[Drazhomir Yarnask]]   | <ul><li>Minotaur</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Larine Arneza]]           | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
+| [[Tilana Kapule]]           | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
 <!-- SerializedQuery END -->
+
+
+
+
+

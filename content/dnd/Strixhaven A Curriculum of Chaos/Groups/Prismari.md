@@ -24,6 +24,8 @@ Southwest of the central campus, the Prismari campus is situated in a region of 
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Name", race AS "Species", Class From "content" Where (college = "Prismari") Where (role = "Student") -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "Name", race AS "Species", Class From "content" Where (college = "Prismari") Where (role = "Student") -->
 
-| Name | Species | Class |
-| ---- | ------- | ----- |
+| Name                                                                                               | Species                 | Class                    |
+| -------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| [[Nora Ann Wu]] | <ul><li>Human</li></ul> | <ul><li>Wizard</li></ul> |
 <!-- SerializedQuery END -->
+

@@ -29,6 +29,7 @@ The Lorehold campus is situated northwest of the central campus in a region of s
 | Name                                                                                                                           | Species                   | Class |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------- | ----- |
 | [[Bhedum Rampart Sooviij]]       | <ul><li>Loxodon</li></ul> | \-    |
+| [[Greta Gorunn]]                           | <ul><li>Dwarf</li></ul>   | \-    |
 | [[Javanesh Stoutclaw]]               | <ul><li>Owlin</li></ul>   | \-    |
 | [[Rosimyffenbip Wuzzfedlims]] | <ul><li>Gnome</li></ul>   | \-    |
 <!-- SerializedQuery END -->

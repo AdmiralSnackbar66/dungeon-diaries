@@ -19,4 +19,9 @@ These actors work together to create productions of brilliant stagecraft, often 
 <!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular,"The Playactors Drama Guild") -->
 <!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular,"The Playactors Drama Guild") -->
 - [[Rubina Larkingdale]]
+- [[Quentillius Antiphiun Melentor III]]
+- [[Roleck Nevari]]
 <!-- SerializedQuery END -->
+
+
+

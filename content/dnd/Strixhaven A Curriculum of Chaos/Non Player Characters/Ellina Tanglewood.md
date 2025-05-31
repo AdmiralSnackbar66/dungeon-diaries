@@ -14,6 +14,7 @@ Class:
 college: n/a
 job: Cafe Manager
 employer: Firejolt Cafe
+role: Staff
 ---
 >[!infobox]
 ># `Ellina Tanglewood`

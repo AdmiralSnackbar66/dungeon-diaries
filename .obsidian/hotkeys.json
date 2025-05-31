@@ -38,5 +38,13 @@
       ],
       "key": "D"
     }
+  ],
+  "dataview-serializer:serialize-all-dataview-queries": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }
