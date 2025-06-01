@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bacaa2ddd10c4636",
+        "id": "9e5404d1450c64cc",
         "type": "tabs",
         "children": [
           {
-            "id": "d2760cd7ee3bd9f9",
+            "id": "af4e54f1db7fa231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ttrpgs/ttrpgs.md",
+                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ttrpgs"
+              "title": "Strixhaven"
+            }
+          },
+          {
+            "id": "0718c7f881a67ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ttrpgs/Campaigns/Strixhaven/003_20250608.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "003_20250608"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,121 +100,7 @@
   "right": {
     "id": "4376769ea3073bd6",
     "type": "split",
-    "children": [
-      {
-        "id": "79d664b84aa056ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ee7800ec630e2f8",
-            "type": "leaf",
-            "state": {
-              "type": "attendance",
-              "state": {},
-              "icon": "user-check",
-              "title": "Attendance"
-            }
-          },
-          {
-            "id": "86557598ab74726c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Clubs and Associations"
-            }
-          },
-          {
-            "id": "d08388ffd3626ff7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Clubs and Associations"
-            }
-          },
-          {
-            "id": "ce129b7f6fd4ac38",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "638a403437c2d4b9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "bc6144db4989ea2b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Clubs and Associations"
-            }
-          },
-          {
-            "id": "193422d42821a611",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "55c6db7346d5cfaa",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 435.5,
     "collapsed": true
@@ -231,12 +133,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2760cd7ee3bd9f9",
+  "active": "0718c7f881a67ee6",
   "lastOpenFiles": [
-    "ttrpgs/Campaigns/Strixhaven/Sessions/9. Work Hard Play Harder.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
     "ttrpgs/Campaigns/Strixhaven/003_20250608.md",
+    "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
     "ttrpgs/ttrpgs.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. Frogs The Word.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/10. Chaos in The Kitchen.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. The Joy of Extradimensional Space.md",
+    "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/9. Work Hard Play Harder.md",
+    "ttrpgs/Sessions/Scripts",
+    "ttrpgs/Sessions",
+    "3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dead Languages Society.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Quentillius Antiphiun Melentor III.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Playactors Drama Guild.md",
@@ -253,13 +164,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Larine Arneza.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Strixhaven Star.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Grayson Wildemere.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Future Entrepreneurs of Strixhaven.md",
-    "z_templates/Clubs and Association Template.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Dragonchess Club.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Clubs and Associations.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Prismari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Zanther Bowen.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Nora Ann Wu.webp",
@@ -271,8 +175,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups/Silverquill.png",
     "content/dnd/Strixhaven A Curriculum of Chaos/Groups",
     "content/dnd/Strixhaven A Curriculum of Chaos/Extra Curriculars",
-    "ttrpgs/Sessions/Scripts",
-    "ttrpgs/Sessions",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/create an image of a front page of a newspaper called the Strixhaven Star, a university newspaper for a magical university c.png.crdownload",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png.crdownload",
     "public/dnd/Player-Characters/Dalaila-Eversnow.html",
