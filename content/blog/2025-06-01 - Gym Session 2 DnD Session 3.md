@@ -18,6 +18,7 @@ Today was legs and core and below are the excercises that I did ..
 | Machine Leg Extension    | 3    | 10-12 |
 | Cable Wood Chop*         | 3    | 12-15 |
 | Machine Seated Crunch    | 3    | 12-15 |
+
 It was hard but manageable. Again I believe consistency is key.
 
 After that I went home and worked on more prep work for my dnd session 3 which is scheduled for next weekend.  All the prep is done bar some miniature printing and painting.  The models I need are on the printer now and should be printed in the next couple of hours.. then onto the painting.

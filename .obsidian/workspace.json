@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7808047fba77b999",
+        "id": "c056faefbeebf00b",
         "type": "tabs",
         "children": [
           {
-            "id": "6f66e5b5f62c74e2",
+            "id": "f17259d8fbf42159",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,12 +221,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f66e5b5f62c74e2",
+  "active": "f17259d8fbf42159",
   "lastOpenFiles": [
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Strixhaven Iron-Lifters Society.md",
-    "ttrpgs/ttrpgs.md",
-    "content/blog/2025-05-29 - Returning to the Gym .....md",
     "content/blog/2025-06-01 - Gym Session 2 DnD Session 3.md",
+    "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Strixhaven Iron-Lifters Society.md",
+    "content/blog/2025-05-29 - Returning to the Gym .....md",
     "content/blog/blog.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/7. Frogs The Word.md",
     "ttrpgs/Campaigns/Strixhaven/003_20250608.md",
