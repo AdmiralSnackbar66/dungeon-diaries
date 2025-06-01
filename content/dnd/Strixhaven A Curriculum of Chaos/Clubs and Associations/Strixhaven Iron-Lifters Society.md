@@ -15,14 +15,7 @@ title: Strixhaven Iron-Lifters Society
 These bodybuilders support each other in developing strong muscles and even stronger friendships
 
 #### Members
-<!-- QueryToSerialize: LIST FROM "content" WHERE CONTAINS(extracurricular, "Strixhaven Iron-Lifters Society")  -->
-```dataview
-LIST 
-FROM "content" 
-WHERE contains(extracurricular,"Strixhaven Iron-Lifters Society")
-```
-%%
-
-
-
-
+<!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular, "Strixhaven Iron-Lifters Society") -->
+<!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular, "Strixhaven Iron-Lifters Society") -->
+- [[Greta Gorunn]]
+<!-- SerializedQuery END -->

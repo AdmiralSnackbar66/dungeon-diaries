@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61ac27d6e5393815",
+        "id": "7808047fba77b999",
         "type": "tabs",
         "children": [
           {
-            "id": "c60f11b7f46062f5",
+            "id": "6f66e5b5f62c74e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -221,8 +221,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c60f11b7f46062f5",
+  "active": "6f66e5b5f62c74e2",
   "lastOpenFiles": [
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/Strixhaven Iron-Lifters Society.md",
+    "ttrpgs/ttrpgs.md",
     "content/blog/2025-05-29 - Returning to the Gym .....md",
     "content/blog/2025-06-01 - Gym Session 2 DnD Session 3.md",
     "content/blog/blog.md",
@@ -233,7 +235,6 @@
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/10. Chaos in The Kitchen.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/4. Job Fair & Extra Curricular activities.md",
     "ttrpgs/Campaigns/Strixhaven/002_20250525.md",
-    "ttrpgs/ttrpgs.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/Scripts.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/6. The Joy of Extradimensional Space.md",
     "ttrpgs/Campaigns/Strixhaven/Sessions/Scripts/9. Work Hard Play Harder.md",
@@ -251,7 +252,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Nora Ann Wu.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Mina Lee.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Student-Mages of Faith.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Aurora Luna Wynterstarr.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Zanther Bowen.webp",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Nora Ann Wu.webp",
