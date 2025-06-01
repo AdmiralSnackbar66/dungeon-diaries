@@ -17,8 +17,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | Name                                                                                                                       | Species                    | Class                    |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| [[Professor Ruxa]]                   | <ul><li>Bear</li></ul>     | <ul><li>Druid</li></ul>  |
 | [[Professor Quentis Orvlo]] | <ul><li>Vedalken</li></ul> | <ul><li>Wizard</li></ul> |
+| [[Professor Ruxa]]                   | <ul><li>Bear</li></ul>     | <ul><li>Druid</li></ul>  |
 <!-- SerializedQuery END -->
 
 #### Students
