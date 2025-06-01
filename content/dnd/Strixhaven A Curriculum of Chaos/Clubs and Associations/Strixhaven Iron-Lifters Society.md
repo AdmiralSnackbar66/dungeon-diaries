@@ -9,7 +9,7 @@ skills:
   - Athletics
 title: Strixhaven Iron-Lifters Society
 ---
-**Skills:** [[3-Mechanics/CLI/skills#Athletics|Athletics]], [[3-Mechanics/CLI/skills#Medicine|Medicine]]
+**Skills:** Athletics, Medicine
 
 **Description:**
 These bodybuilders support each other in developing strong muscles and even stronger friendships

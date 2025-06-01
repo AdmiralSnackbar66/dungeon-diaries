@@ -9,7 +9,7 @@ skills:
   - Religion
 title: The Student-Mages of Faith
 ---
-**Skills:** [[3-Mechanics/CLI/skills#Insight|Insight]], [[3-Mechanics/CLI/skills#Religion|Religion]]
+**Skills:**  Insight, Religion
 
 **Description:**
 These pious students of many faiths gather to share prayers and theological debates and to celebrate one another’s high holidays.

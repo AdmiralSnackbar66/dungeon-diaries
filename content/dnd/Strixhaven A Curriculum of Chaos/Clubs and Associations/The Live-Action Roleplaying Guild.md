@@ -9,7 +9,7 @@ skills:
   - Performance
 title: The Live-Action Roleplaying Guild
 ---
-**Skills:** [[3-Mechanics/CLI/skills#Animal Handling|Animal Handling]], [[3-Mechanics/CLI/skills#Performance|Performance]]
+**Skills:** Animal Handling, Performance
 
 **Description:**
 These storytelling enthusiasts engage in a mix of strategy and playacting—often involving mascots—when they enact fantastical narratives that they resolve with special rules.

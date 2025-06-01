@@ -9,7 +9,7 @@ skills:
   - Athletics
   - Intimidation
 ---
-**Skills:** [[3-Mechanics/CLI/skills#Athletics|Athletics]], [[3-Mechanics/CLI/skills#Intimidation|Intimidation]]
+**Skills:**  Athletics, Intimidation
 
 These hardy athletes train together and compete in the rough-and-tumble Strixhaven game of silkball, which is played in muddy fields with balls made of spider silk.
 

@@ -9,7 +9,7 @@ skills:
   - History
 title: The Dead Languages Society
 ---
-**Skills:** [[3-Mechanics/CLI/skills#Athletics|Athletics]], [[3-Mechanics/CLI/skills#History|History]]
+**Skills:** Athletics, History
 
 **Description:**
 These linguistics lovers take advantage of Strixhaven’s deep repository of tomes written in ancient and near-extinct languages, teaching themselves these tongues and often translating their favorite works.

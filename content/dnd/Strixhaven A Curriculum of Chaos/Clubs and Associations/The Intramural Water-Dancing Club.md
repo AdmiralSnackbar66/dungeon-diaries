@@ -9,7 +9,7 @@ skills:
   - Performance
 title: The Intramural Water-Dancing Club
 ---
-**Skills:** [[3-Mechanics/CLI/skills#Athletics|Athletics]], [[3-Mechanics/CLI/skills#Performance|Performance]]
+**Skills:** Athletics, Performance
 
 **Description:**
 These swimming enthusiasts combine their athletic skills with the finesse of artists as they choreograph water dances to the latest popular songs.

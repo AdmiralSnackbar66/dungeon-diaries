@@ -5,8 +5,14 @@ title: The Strixhaven Star
 tags:
   - dnd
   - club
+skills:
+  - investigation
+  - Insight
 ---
+**Skills:**  Investigation, Insight
 
+**Description:**
+These truth seekers and wordsmiths report on campus news, regularly interviewing important figures and producing the monthly _Strixhaven Star_ newspaper, which is distributed across the campus.
 
 #### Members
 <!-- QueryToSerialize: LIST from "content" where contains(extracurricular, "The Strixhaven Star") -->
