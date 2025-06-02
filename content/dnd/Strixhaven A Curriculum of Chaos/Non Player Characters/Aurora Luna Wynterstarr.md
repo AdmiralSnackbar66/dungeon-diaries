@@ -40,3 +40,6 @@ Before arriving at Strixhaven, Aurora changed her name and appearance to that of
 An accomplished musician on several instruments, Aurora is often found at Bow’s End Tavern performing beautiful dirges on the hurdy-gurdy for the assembled patrons. Aurora is also a member of the Strixhaven Show Band Association, though she believes the music they play lacks the raw emotion of her original compositions.
 
 She works as a groundskeeper at the Strixhaven Stadium, where she takes great pleasure in using magic to blight undesirable vegetation on the field.
+
+#### Features in
+<!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->

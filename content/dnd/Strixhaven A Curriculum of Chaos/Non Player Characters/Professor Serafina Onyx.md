@@ -28,8 +28,14 @@ NoteIcon: npc
 >###### Strixhaven
 >Type|Stat|
 >---|---|
->College|Silverquill|
+>College|[[Silverquill]]|
 >Profession | Professor - Teacher of Introduction to Magical Philosophies|
 >
 
 Serafina Onyx is one of Strixhaven's newest faculty members. A brilliant necromantic researcher, she achieved the rank of professor after only less than a year of teaching, which certainly raised many eyebrows. Onyx currently teaches introductory courses in magical physiologies, and her work documententing the corruptive effects of shadow creatures has also earned her opportunities to teach courses at Silverquill College.
+
+#### Features in
+<!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+<!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+- [[002_20250525_log]]: Session 2 Recap
+<!-- SerializedQuery END -->

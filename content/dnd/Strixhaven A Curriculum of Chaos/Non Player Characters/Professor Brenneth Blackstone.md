@@ -28,9 +28,13 @@ type: npc
 >###### Strixhaven
 >|Type | Stat|
 >|---|---|
->|College|Silverquill
+>|College|[[Silverquill]]
 >|Year | |
 >|Jobs| Professor of Shadow|
->|Extracurricular| |
+>|Extracurricular| n/a |
 
 Brenneth Blackstone , Silver­quill professor of shadow,  is a rising star in the study of magical writing and symbols. With a dynamic lecturing style, this dhampir—a partial vampire—attracts students from across Strixhaven purely for his lessons’ value as performance art. 
+
+#### Features in
+<!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+

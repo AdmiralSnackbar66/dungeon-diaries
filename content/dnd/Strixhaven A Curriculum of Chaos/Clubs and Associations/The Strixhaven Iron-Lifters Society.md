@@ -7,7 +7,7 @@ tags:
 skills:
   - Medicine
   - Athletics
-title: Strixhaven Iron-Lifters Society
+title: The Strixhaven Iron-Lifters Society
 ---
 **Skills:** Athletics, Medicine
 

@@ -34,9 +34,11 @@ role: Student
 >###### Strixhaven
 >|Type | Stat|
 >|---|---|
->|College|Prismari
+>|College|[[Prismari]]
 >|Year | Year One |
 >|Jobs|  n/a|
 >|Employer|n/a|
 >|Extracurricular| [[The Dead Languages Society]], [[The Playactors Drama Guild]] |
 
+#### Features in
+<!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->

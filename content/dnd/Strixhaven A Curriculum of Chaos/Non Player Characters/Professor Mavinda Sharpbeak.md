@@ -28,9 +28,16 @@ NoteIcon: npc
 >######  Strixhaven
 >Type | Stat
 >---|---|
->College | Silverquill|
+>College | [[Silverquill]]|
 > Profession|  Professor of Radiance |
 
 A professor attached to Silverquill college.  A first year councillor and Professor of Radiance who can call up magic through spoken words and glyphs formed of magically shaped ink and light. She can  channel radiance to illuminate her allies, bolstering them with encouragement and inspiring any who witness her orations. She can turn her words into potent assets in battle or strike at her foes with searing radiance.
 
 She seeks to inspire greatness in all that they do, pushing her students to look for the good in all things and bring that into the light.
+
+#### Features in
+<!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+<!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+- [[001_20250511_log]]: Session 1 Recap
+<!-- SerializedQuery END -->
+

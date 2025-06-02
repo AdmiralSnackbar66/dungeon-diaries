@@ -29,7 +29,7 @@ type: npc
 >###### Strixhaven
 >|Type | Stat|
 >|---|---|
->|College|Witherbloom
+>|College|[[Witherbloom]]
 >|Year | n/a|
 >|Jobs| Professor of Growth|
 >|Extracurricular| n/a|
@@ -38,3 +38,5 @@ No one knows how old Willowdusk really is. This professor of growth claims to be
 
 Her lessons proved so effective that she was asked to stay as a professor. She loves passing on her knowledge of medicinal herbs, pest mascot cultivation, and dissection techniques to generations of new students, and she almost always has a pot of tea brewing.
 
+#### Features in
+<!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
