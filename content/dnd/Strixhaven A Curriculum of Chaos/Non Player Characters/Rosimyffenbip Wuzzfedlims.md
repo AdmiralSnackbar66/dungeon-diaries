@@ -37,12 +37,11 @@ Excitable and impish, Rosimyffenbip is proud of her name; she insists you can ca
 
 Rosie referees silkball and takes fair play very seriously. Woe betide any participant who feels the wrath of her whistle. Rosie is also an enthusiastic participant in Strixhaven’s Live-Action Roleplaying Guild. She insists on roleplaying only “monsters” and delights in chasing down participants to “eat” them. Many a participant has heard giggling approaching them at high speed before their character’s death.
 
-
 #### Features in
-<!-- QueryToSerialize: TABLE WITHOUT ID link(title) as "Title" FROM [[]] WHERE contains(tags, "sessions") -->
-<!-- SerializedQuery: TABLE WITHOUT ID link(title) as "Title" FROM [[]] WHERE contains(tags, "sessions") -->
+<!-- QueryToSerialize: TABLE WITHOUT ID link(file.name) AS Title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+<!-- SerializedQuery: TABLE WITHOUT ID link(file.name) AS Title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
 
-| Title                                |
-| ------------------------------------ |
-| [[Session 1 Recap]] |
+| Title                                                                                                |
+| ---------------------------------------------------------------------------------------------------- |
+| [[001_20250511_log]] |
 <!-- SerializedQuery END -->
