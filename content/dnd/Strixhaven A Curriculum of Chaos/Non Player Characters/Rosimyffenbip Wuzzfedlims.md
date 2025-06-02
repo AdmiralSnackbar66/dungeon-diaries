@@ -39,7 +39,10 @@ Rosie referees silkball and takes fair play very seriously. Woe betide any parti
 
 
 #### Features in
-<!-- QueryToSerialize: LIST FROM [[]] WHERE contains(tags,"session") -->
-<!-- SerializedQuery: LIST FROM [[]] WHERE contains(tags,"session") -->
-- [[001_20250511_log]]
+<!-- QueryToSerialize: TABLE WITHOUT ID link(title) as "Title" FROM [[]] WHERE contains(tags, "sessions") -->
+<!-- SerializedQuery: TABLE WITHOUT ID link(title) as "Title" FROM [[]] WHERE contains(tags, "sessions") -->
+
+| Title                                |
+| ------------------------------------ |
+| [[Session 1 Recap]] |
 <!-- SerializedQuery END -->
