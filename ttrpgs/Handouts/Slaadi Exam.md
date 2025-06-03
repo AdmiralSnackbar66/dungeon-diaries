@@ -2,8 +2,6 @@
 NoteIcon: Journal
 campaign: Strixhaven
 ---
-
-
 # Slaadi Exam Questions
 
 1. Which type of Slaad would you most likely find alone but would want to avoid fighting at all costs?
