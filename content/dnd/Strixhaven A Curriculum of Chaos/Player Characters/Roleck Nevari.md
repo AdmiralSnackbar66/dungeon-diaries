@@ -46,9 +46,9 @@ extracurricular:
 | ------------------------------ | ------------------------- | ------ | ------ |
 | [[The Playactors Drama Guild]] | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer                  | Job         | Co Worker |
-| ------------------------- | ----------- | --------- |
-| The Strixhaven Magic Labs | `=this.job` |           |
+| Employer                  | Job         | Co Worker            |
+| ------------------------- | ----------- | -------------------- |
+| The Strixhaven Magic Labs | `=this.job` | [[Urzmaktok Grojsh]] |
 ### Class Schedule
 | Course                               | Professor                      | College         |
 | ------------------------------------ | ------------------------------ | --------------- |
@@ -64,3 +64,8 @@ extracurricular:
 | 2   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 | 3   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 
+### Linked To Characters
+<!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
+<!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
+- [[Urzmaktok Grojsh]]
+<!-- SerializedQuery END -->

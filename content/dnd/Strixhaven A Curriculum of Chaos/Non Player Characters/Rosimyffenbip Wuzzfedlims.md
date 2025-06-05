@@ -44,3 +44,6 @@ Rosie referees silkball and takes fair play very seriously. Woe betide any parti
 <!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
 - [[001_20250511_log]]: Session 1 Recap
 <!-- SerializedQuery END -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->

@@ -18,4 +18,5 @@ These storytelling enthusiasts engage in a mix of strategy and playacting—ofte
 <!-- QueryToSerialize: LIST FROM "content" WHERE contains(extracurricular, "The Live-Action Roleplaying Guild") -->
 <!-- SerializedQuery: LIST FROM "content" WHERE contains(extracurricular, "The Live-Action Roleplaying Guild") -->
 - [[Cadoras Damellawar]]
+- [[Rosimyffenbip Wuzzfedlims]]
 <!-- SerializedQuery END -->

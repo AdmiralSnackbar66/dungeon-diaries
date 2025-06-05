@@ -63,3 +63,8 @@ extracurricular: The Strixhaven Starr
 | 2   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 | 3   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 
+### Linked To Characters
+<!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
+<!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
+- [[Drazhomir Yarnask]]
+<!-- SerializedQuery END -->

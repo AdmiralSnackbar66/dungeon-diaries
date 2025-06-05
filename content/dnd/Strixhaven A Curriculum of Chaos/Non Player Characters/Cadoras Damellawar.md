@@ -44,3 +44,7 @@ Cadoras does have some strange eating habits; he sometimes eats an entire jar of
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+

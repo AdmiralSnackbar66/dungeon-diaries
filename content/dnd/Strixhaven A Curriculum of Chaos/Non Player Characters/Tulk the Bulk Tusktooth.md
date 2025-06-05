@@ -32,3 +32,8 @@ Despite running the tavern, Tulk doesn't seem to know much about cooking. For ex
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Player
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+
+

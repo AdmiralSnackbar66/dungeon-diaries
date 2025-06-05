@@ -42,3 +42,8 @@ He is also a member of the Student-Mages of Faith. He enjoys helping his fellow 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
 
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Zolon Orielson]]
+<!-- SerializedQuery END -->

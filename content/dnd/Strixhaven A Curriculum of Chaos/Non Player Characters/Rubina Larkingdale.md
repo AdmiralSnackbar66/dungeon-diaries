@@ -40,3 +40,9 @@ Rubina is part of the Strixhaven Show Band Association and has moved from playin
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Elvis Parsley]]
+<!-- SerializedQuery END -->

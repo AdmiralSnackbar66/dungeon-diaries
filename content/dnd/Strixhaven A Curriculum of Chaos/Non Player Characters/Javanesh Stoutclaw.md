@@ -43,3 +43,10 @@ Contrary to what people initially assume, Javenesh is a friendly sort. To make e
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Elvis Parsley]]
+- [[Zolon Orielson]]
+<!-- SerializedQuery END -->

@@ -43,3 +43,9 @@ Rampart’s opponents at the Dragonchess Club find themselves outmatched time an
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Dalaila Eversnow]]
+<!-- SerializedQuery END -->

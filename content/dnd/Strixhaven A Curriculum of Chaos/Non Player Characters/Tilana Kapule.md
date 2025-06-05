@@ -42,3 +42,10 @@ Surprising to some, Tilana has also joined the Intramural Silkball Club. During 
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Dalaila Eversnow]]
+- [[Zolon Orielson]]
+<!-- SerializedQuery END -->

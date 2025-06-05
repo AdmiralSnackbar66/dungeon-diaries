@@ -42,13 +42,13 @@ extracurricular:
 | ---- | ------ | ------------ | :----------------------: | ----------- |
 |      |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                             | d4                        | Skills | Member |
-| -------------------------------- | ------------------------- | ------ | ------ |
-| [[The Intramural Silkball Club]] | <input type= "checkbox"/> |        |        |
+| Name                             | d4                        | Skills                  | Member                                                     |
+| -------------------------------- | ------------------------- | ----------------------- | ---------------------------------------------------------- |
+| [[The Intramural Silkball Club]] | <input type= "checkbox"/> | Athletics, Intimidation | [[Javanesh Stoutclaw]], [[Melwythorne]], [[Tilana Kapule]] |
 ### Job
-| Employer               | Job                | Co Worker |
-| ---------------------- | ------------------ | --------- |
-| Strixhaven Dormitories | Resident Assistant |           |
+| Employer               | Job                | Co Worker       |
+| ---------------------- | ------------------ | --------------- |
+| Strixhaven Dormitories | Resident Assistant | [[Nora Ann Wu]] |
 ### Class Schedule
 | Course                               | Professor                   | College |
 | ------------------------------------ | --------------------------- | ------- |
@@ -60,4 +60,13 @@ extracurricular:
 | 1   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> | The Slaadi |        |        |
 | 2   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 | 3   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
+
+### Linked To Characters
+<!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
+<!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
+- [[Javanesh Stoutclaw]]
+- [[Melwythorne]]
+- [[Nora Ann Wu]]
+- [[Tilana Kapule]]
+<!-- SerializedQuery END -->
 

@@ -53,9 +53,9 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 | --------------------------------- | ------------------------- | ------ | ------ |
 | [[The Fantastical Horticulture Club]] | <input type= "checkbox"/> |        |        |
 ### Job
-| Employer          | Job     | Co Worker |
-| ----------------- | ------- | --------- |
-| [[Firejolt Cafe]] | Barista |           |
+| Employer          | Job     | Co Worker    |
+| ----------------- | ------- | ------------ |
+| [[Firejolt Cafe]] | Barista | [[Mina Lee]] |
 ### Class Schedule
 | Course                               | Professor                      | College     |
 | ------------------------------------ | ------------------------------ | ----------- |
@@ -71,3 +71,8 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 | 2   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 | 3   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 
+### Linked To Characters
+<!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
+<!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
+- [[Mina Lee]]
+<!-- SerializedQuery END -->

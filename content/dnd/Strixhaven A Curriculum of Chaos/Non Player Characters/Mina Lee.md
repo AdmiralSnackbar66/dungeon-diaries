@@ -17,6 +17,7 @@ race:
   - Human
 extracurricular:
   - The Strixhaven Starr
+employer: Firejolt Cafe
 ---
 >[!infobox]
 ># `Mina Lee`
@@ -42,3 +43,11 @@ Mina’s love of language and nuance has led her to join the _Strixhaven Star_�
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Borun Erutan]]
+- [[Dalaila Eversnow]]
+<!-- SerializedQuery END -->
+

@@ -85,3 +85,10 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 | 2   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 | 3   | <input type="checkbox" /><input type = "checkbox" /> | <input type="checkbox" /><input type = "checkbox" /> |            |        |        |
 
+### Linked To Characters
+<!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
+<!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
+- [[Aurora Luna Wynterstarr]]
+- [[Javanesh Stoutclaw]]
+- [[Rubina Larkingdale]]
+<!-- SerializedQuery END -->

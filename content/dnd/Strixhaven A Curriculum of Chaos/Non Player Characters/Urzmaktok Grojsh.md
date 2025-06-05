@@ -44,3 +44,9 @@ Urzmaktok makes it clear he wants everyone to use his full first name. Should an
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+#### Linked To Player
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Roleck Nevari]]
+<!-- SerializedQuery END -->

@@ -46,3 +46,10 @@ Nora is a passionate member of the Distinguished Society of Fine Artists. As suc
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
 
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Zolon Orielson]]
+<!-- SerializedQuery END -->
+
+

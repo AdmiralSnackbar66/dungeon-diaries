@@ -18,4 +18,4 @@
 
 *Attacker loses 1 Inspiration (if having any) from rolls 15-20
 
-`dice: [[Crit & Fumble Tables#^fumble]]|DURATION`
+`dice: [[Crit & Fumble Tables#^fumble]]`

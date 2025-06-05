@@ -43,3 +43,12 @@ Drazhomir's greatest love is poetry. As a member of the university's Dead Langua
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+<!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+- [[002_20250525_log]]: Session 2 Recap
+<!-- SerializedQuery END -->
+
+#### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Omari Elderon]]
+<!-- SerializedQuery END -->

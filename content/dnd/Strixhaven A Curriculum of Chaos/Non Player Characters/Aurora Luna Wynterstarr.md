@@ -43,3 +43,10 @@ She works as a groundskeeper at the Strixhaven Stadium, where she takes great pl
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+
+### Linked To Players
+<!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
+<!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Elvis Parsley]]
+<!-- SerializedQuery END -->
+
