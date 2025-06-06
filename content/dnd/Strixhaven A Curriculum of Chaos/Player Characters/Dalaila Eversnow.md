@@ -69,5 +69,7 @@ extracurricular: [[The Dragonsguard Historical Society]]
 <!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
 <!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
 - [[Bhedum Rampart Sooviij]]
+- [[Mina Lee]]
 - [[Tilana Kapule]]
 <!-- SerializedQuery END -->
+

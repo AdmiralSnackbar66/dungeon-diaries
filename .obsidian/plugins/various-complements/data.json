@@ -1,7 +1,7 @@
 {
   "strategy": "english-only",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "fuzzyMatch": true,
   "minFuzzyMatchScore": 0.5,
   "matchingWithoutEmoji": true,
@@ -35,6 +35,7 @@
       }
     ],
     "select with custom alias": [],
+    "select with query alias": [],
     "up": [
       {
         "modifiers": [],
