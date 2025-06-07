@@ -64,9 +64,8 @@ extracurricular:
 ### Linked To Characters
 <!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
 <!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
-- [[Javanesh Stoutclaw]]
-- [[Melwythorne]]
-- [[Nora Ann Wu]]
-- [[Tilana Kapule]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md|Javanesh Stoutclaw]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md|Melwythorne]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md|Tilana Kapule]]
+- [[content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Nora Ann Wu.md|Nora Ann Wu]]
 <!-- SerializedQuery END -->
-
