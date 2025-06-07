@@ -48,5 +48,6 @@ Urzmaktok makes it clear he wants everyone to use his full first name. Should an
 #### Linked To Player
 <!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->
 <!-- SerializedQuery: LIST FROM [[]] WHERE (type = "player") -->
+- [[Borun Erutan]]
 - [[Roleck Nevari]]
 <!-- SerializedQuery END -->

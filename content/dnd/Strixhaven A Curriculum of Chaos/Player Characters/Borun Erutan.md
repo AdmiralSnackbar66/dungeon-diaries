@@ -45,13 +45,13 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 
 ### Relationships
 
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ | :----------------------: | ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                 | Points | Relationship |       Inspiration        | Boon / Bane |
+| -------------------- | ------ | ------------ | :----------------------: | ----------- |
+| [[Urzmaktok Grojsh]] |        |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                              | d4                        | Skills | Member |
-| --------------------------------- | ------------------------- | ------ | ------ |
-| [[The Fantastical Horticulture Club]] | <input type= "checkbox"/> |        |        |
+| Name                                  | d4                        | Skills           | Member               |
+| ------------------------------------- | ------------------------- | ---------------- | -------------------- |
+| [[The Fantastical Horticulture Club]] | <input type= "checkbox"/> | Nature, Survival | [[Urzmaktok Grojsh]] |
 ### Job
 | Employer          | Job     | Co Worker    |
 | ----------------- | ------- | ------------ |
@@ -75,4 +75,6 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 <!-- QueryToSerialize: LIST FROM [[]] where (role = "Student") -->
 <!-- SerializedQuery: LIST FROM [[]] where (role = "Student") -->
 - [[Mina Lee]]
+- [[Urzmaktok Grojsh]]
 <!-- SerializedQuery END -->
+

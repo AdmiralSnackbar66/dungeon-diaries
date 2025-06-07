@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dalaila Eversnow"
+              "title": "Borun Erutan"
             }
           }
         ]
@@ -192,10 +192,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md"
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Dalaila Eversnow"
+              "title": "File properties for Borun Erutan"
             }
           }
         ],
@@ -235,15 +235,19 @@
   },
   "active": "6c8cd78fe06f65ac",
   "lastOpenFiles": [
-    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
+    "z_Assets/strixhaven-memories-geconverteerd fillable.pdf",
+    "z_Assets/strixhaven-memories-geconverteerd fillable.pdf.crdownload",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Fantastical Horticulture Club.md",
+    "ttrpgs/ttrpgs.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tilana Kapule.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Melwythorne.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Javanesh Stoutclaw.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Clubs and Associations/The Intramural Silkball Club.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Mina Lee.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Elvis Parsley.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
@@ -253,7 +257,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Tulk the Bulk Tusktooth.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Locations/Bows End Tavern.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Zanther Bowen.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Urzmaktok Grojsh.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Shuvadri Glintmantle.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rubina Larkingdale.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Rosimyffenbip Wuzzfedlims.md",
@@ -261,8 +264,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Nora Ann Wu.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Larine Arneza.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Greta Gorunn.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Grayson Wildemere.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Drazhomir Yarnask.md",
     "ttrpgs/Sessions/Scripts",
     "ttrpgs/Sessions",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Quentillius Antiphiun Melentor III.webp",
@@ -279,8 +280,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/StrixhavenStar_Mimic Attack.png.crdownload",
     "public/dnd/Player-Characters/Dalaila-Eversnow.html",
     "[content/dnd/Player Characters",
-    "[content/dnd",
-    "[content",
     "z_Assets/Untitled.canvas",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
