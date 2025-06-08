@@ -10,12 +10,12 @@ title: Random NPC Generator
 | \-  | [[Aurora Luna Wynterstarr]]     |
 | \-  | [[Bhedum Rampart Sooviij]]       |
 | \-  | [[Drazhomir Yarnask]]                 |
-| \-  | [[Grayson Wildemere]]                 |
 | \-  | [[Javanesh Stoutclaw]]               |
-| \-  | [[Mina Lee]]                                   |
 | \-  | [[Melwythorne]]                             |
+| \-  | [[Mina Lee]]                                   |
 | \-  | [[Rosimyffenbip Wuzzfedlims]] |
 | \-  | [[Rubina Larkingdale]]               |
+| \-  | [[Grayson Wildemere]]                 |
 | \-  | [[Tilana Kapule]]                         |
 | \-  | [[Urzmaktok Grojsh]]                   |
 <!-- SerializedQuery END -->

@@ -21,6 +21,9 @@ race:
   - Human
 Player: Nathan
 extracurricular: The Strixhaven Starr
+Session3_Absence: "false"
+Session3_Attend: true
+aliases: Omari
 ---
 >[!infobox]
 ># `Omari Elderon`

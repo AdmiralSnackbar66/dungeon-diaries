@@ -27,8 +27,8 @@ The Quandrix campus is situated in a coastal area to the northeast of the centra
 
 | Name                                                                                                             | Species                    | Class                    |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| [[Drazhomir Yarnask]]   | <ul><li>Minotaur</li></ul> | <ul><li>Wizard</li></ul> |
 | [[Cadoras Damellawar]] | <ul><li>Elf</li></ul>      | \-                       |
+| [[Drazhomir Yarnask]]   | <ul><li>Minotaur</li></ul> | <ul><li>Wizard</li></ul> |
 | [[Larine Arneza]]           | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
 | [[Tilana Kapule]]           | <ul><li>Human</li></ul>    | <ul><li>Wizard</li></ul> |
 <!-- SerializedQuery END -->

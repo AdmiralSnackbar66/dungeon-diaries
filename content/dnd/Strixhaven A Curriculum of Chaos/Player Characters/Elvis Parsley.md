@@ -21,7 +21,11 @@ passperc: "13"
 race:
   - Elf
 Player: Eddie
-extracurricular: [[The Strixhaven Show Band Association]]
+extracurricular:
+  - - The Strixhaven Show Band Association
+Session3_Absence: "false"
+Session3_Attend: true
+aliases: Elvis
 ---
 >[!infobox]
 ># `Elvis Parsley`

@@ -22,6 +22,8 @@ passperc: "12"
 race:
   - Half Elf
 Player: Matthew
+aliases:
+  - Borun
 ---
 >[!infobox]
 ># `Borun Erutan`

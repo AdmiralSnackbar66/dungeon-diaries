@@ -18,6 +18,8 @@ extracurricular:
   - The Dragonchess Club
 employer: n/a
 year: Year One
+aliases:
+  - Rampart
 ---
 >[!infobox]
 ># `Bhedum "Rhampart" Sooviij`
@@ -43,6 +45,9 @@ Rampart’s opponents at the Dragonchess Club find themselves outmatched time an
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+<!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+- [[003_20250607_log]]: Session 3 Recap
+<!-- SerializedQuery END -->
 
 #### Linked To Players
 <!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->

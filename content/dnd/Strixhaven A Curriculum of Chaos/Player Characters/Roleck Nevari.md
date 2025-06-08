@@ -23,6 +23,8 @@ race:
 Player: Deakin
 extracurricular:
   - The Playactors Drama Guild
+Session3_Absence: "true"
+aliases: Roleck
 ---
 >[!infobox]
 ># `Roleck Nevari`

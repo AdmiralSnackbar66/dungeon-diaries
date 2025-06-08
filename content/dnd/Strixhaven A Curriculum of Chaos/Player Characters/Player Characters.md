@@ -339,12 +339,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  extracurricular:
+  aliases:
     input: text
-    accessorKey: extracurricular
-    key: extracurricular
-    id: extracurricular
-    label: extracurricular
+    accessorKey: aliases
+    key: aliases
+    id: aliases
+    label: aliases
     position: 100
     skipPersist: false
     isHidden: false

@@ -22,6 +22,9 @@ race:
 Player: Robbie
 extracurricular:
   - The Intramural Silkball Club
+Session3_Absence: "false"
+Session3_Attend: true
+aliases: Zolon
 ---
 
 >[!infobox]

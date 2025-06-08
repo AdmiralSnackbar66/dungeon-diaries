@@ -17,7 +17,7 @@ These truth seekers and wordsmiths report on campus news, regularly interviewing
 #### Members
 <!-- QueryToSerialize: LIST from "content" where contains(extracurricular, "The Strixhaven Star") -->
 <!-- SerializedQuery: LIST from "content" where contains(extracurricular, "The Strixhaven Star") -->
-- [[Grayson Wildemere]]
 - [[Mina Lee]]
+- [[Grayson Wildemere]]
 - [[Omari Elderon]]
 <!-- SerializedQuery END -->

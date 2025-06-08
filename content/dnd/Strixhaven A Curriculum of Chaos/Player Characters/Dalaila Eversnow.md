@@ -22,7 +22,11 @@ passperc: "12"
 race:
   - Elf
 Player: Abigail
-extracurricular: [[The Dragonsguard Historical Society]]
+extracurricular:
+  - - The Dragonsguard Historical Society
+Session3_Absence: 
+Session3_Attend: true
+aliases: Dalaila
 ---
 >[!infobox]
 ># `Dalaila Eversnow`
