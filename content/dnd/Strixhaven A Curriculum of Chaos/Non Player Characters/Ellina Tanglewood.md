@@ -15,6 +15,8 @@ college: n/a
 job: Cafe Manager
 employer: Firejolt Cafe
 role: Staff
+aliases:
+  - Ellina
 ---
 >[!infobox]
 ># `Ellina Tanglewood`

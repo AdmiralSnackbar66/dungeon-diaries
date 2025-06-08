@@ -40,13 +40,15 @@ aliases: Omari
 
 ### Relationships
 
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ | :----------------------: | ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                  | Points | Relationship |       Inspiration        | Boon / Bane |
+| --------------------- | ------ | ------------ | :----------------------: | ----------- |
+| [[Drazhomir Yarnask]] | 1      |              | <input type ="checkbox"> |             |
+| [[Grayson Wildemere]] | 1      |              | <input type ="checkbox"> |             |
+| [[Mina Lee]]          | 1      |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                    | d4                        | Skills | Member |
-| ----------------------- | ------------------------- | ------ | ------ |
-| [[The Strixhaven Star]] | <input type= "checkbox"/> |        |        |
+| Name                    | d4                        | Skills                 | Member                              |
+| ----------------------- | ------------------------- | ---------------------- | ----------------------------------- |
+| [[The Strixhaven Star]] | <input type= "checkbox"/> | Investigation, Insight | [[Grayson Wildemere]], [[Mina Lee]] |
 ### Job
 | Employer           | Job        | Co Worker             |
 | ------------------ | ---------- | --------------------- |

@@ -38,4 +38,5 @@ Serafina Onyx is one of Strixhaven's newest faculty members. A brilliant necroma
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
 <!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
 - [[002_20250525_log]]: Session 2 Recap
+- [[003_20250607_log]]: Session 3 Recap
 <!-- SerializedQuery END -->

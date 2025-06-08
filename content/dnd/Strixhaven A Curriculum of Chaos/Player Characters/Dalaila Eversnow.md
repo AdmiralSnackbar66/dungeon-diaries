@@ -43,9 +43,11 @@ aliases: Dalaila
 
 ### Relationships
 
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ | :----------------------: | ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                       | Points | Relationship |       Inspiration        | Boon / Bane |
+| -------------------------- | ------ | ------------ | :----------------------: | ----------- |
+| [[Mina Lee]]               | 1      |              | <input type ="checkbox"> |             |
+| [[Bhedum Rampart Sooviij]] | 1      |              | <input type ="checkbox"> |             |
+| [[Tilana Kapule]]          | 1      |              | <input type ="checkbox"> |             |
 ### Extracurriculars
 | Name                                    | d4                        | Skills          | Members                                       |
 | --------------------------------------- | ------------------------- | --------------- | --------------------------------------------- |

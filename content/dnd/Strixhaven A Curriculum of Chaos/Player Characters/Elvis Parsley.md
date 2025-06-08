@@ -51,9 +51,12 @@ Works as a cook at [[Bows End Tavern]]. A member of the Strixhaven Showband Asso
 
 ## Tracking Sheet
 ### Relationships
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ |:------------------------:| ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                        | Points | Relationship |       Inspiration        | Boon / Bane |
+| --------------------------- | ------ | ------------ | :----------------------: | ----------- |
+| [[Javanesh Stoutclaw]]      | 1      |              | <input type ="checkbox"> |             |
+| [[Aurora Luna Wynterstarr]] | 1      |              | <input type ="checkbox"> |             |
+| [[Rubina Larkingdale]]      | 1      |              | <input type ="checkbox"> |             |
+| [[Drazhomir Yarnask]]       | 1      |              | <input type ="checkbox"> |             |
 
 ---
 
