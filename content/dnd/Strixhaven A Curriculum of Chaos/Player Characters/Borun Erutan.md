@@ -22,6 +22,8 @@ passperc: "12"
 race:
   - Half Elf
 Player: Matthew
+aliases:
+  - Borun
 ---
 >[!infobox]
 ># `Borun Erutan`
@@ -47,7 +49,9 @@ Works as a barista at the [[Firejolt Cafe]] and a member of the Fantastical Hort
 
 | Name                 | Points | Relationship |       Inspiration        | Boon / Bane |
 | -------------------- | ------ | ------------ | :----------------------: | ----------- |
-| [[Urzmaktok Grojsh]] |        |              | <input type ="checkbox"> |             |
+| [[Urzmaktok Grojsh]] | 1      |              | <input type ="checkbox"> |             |
+| [[Mina Lee]]         | 1      |              | <input type ="checkbox"> |             |
+
 ### Extracurriculars
 | Name                                  | d4                        | Skills           | Member               |
 | ------------------------------------- | ------------------------- | ---------------- | -------------------- |

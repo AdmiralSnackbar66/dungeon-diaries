@@ -22,7 +22,11 @@ passperc: "12"
 race:
   - Elf
 Player: Abigail
-extracurricular: [[The Dragonsguard Historical Society]]
+extracurricular:
+  - - The Dragonsguard Historical Society
+Session3_Absence: 
+Session3_Attend: true
+aliases: Dalaila
 ---
 >[!infobox]
 ># `Dalaila Eversnow`
@@ -39,9 +43,11 @@ extracurricular: [[The Dragonsguard Historical Society]]
 
 ### Relationships
 
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ | :----------------------: | ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                       | Points | Relationship |       Inspiration        | Boon / Bane |
+| -------------------------- | ------ | ------------ | :----------------------: | ----------- |
+| [[Mina Lee]]               | 1      |              | <input type ="checkbox"> |             |
+| [[Bhedum Rampart Sooviij]] | 1      |              | <input type ="checkbox"> |             |
+| [[Tilana Kapule]]          | 1      |              | <input type ="checkbox"> |             |
 ### Extracurriculars
 | Name                                    | d4                        | Skills          | Members                                       |
 | --------------------------------------- | ------------------------- | --------------- | --------------------------------------------- |

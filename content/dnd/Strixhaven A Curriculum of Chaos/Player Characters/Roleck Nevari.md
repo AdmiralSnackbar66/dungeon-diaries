@@ -23,6 +23,8 @@ race:
 Player: Deakin
 extracurricular:
   - The Playactors Drama Guild
+Session3_Absence: "true"
+aliases: Roleck
 ---
 >[!infobox]
 ># `Roleck Nevari`
@@ -38,13 +40,15 @@ extracurricular:
 
 ### Relationships
 
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ | :----------------------: | ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                                   | Points | Relationship |       Inspiration        | Boon / Bane |
+| -------------------------------------- | ------ | ------------ | :----------------------: | ----------- |
+| [[Urzmaktok Grojsh]]                   | 1      |              | <input type ="checkbox"> |             |
+| [[Quentillius Antiphiun Melentor III]] | 1      |              | <input type ="checkbox"> |             |
+| [[Rubina Larkingdale]]                 | 1      |              | <input type ="checkbox"> |             |
 ### Extracurriculars
-| Name                           | d4                        | Skills | Member |
-| ------------------------------ | ------------------------- | ------ | ------ |
-| [[The Playactors Drama Guild]] | <input type= "checkbox"/> |        |        |
+| Name                           | d4                        | Skills            | Member                                                        |
+| ------------------------------ | ------------------------- | ----------------- | ------------------------------------------------------------- |
+| [[The Playactors Drama Guild]] | <input type= "checkbox"/> | Arcana, Deception | [[Quentillius Antiphiun Melentor III]],[[Rubina Larkingdale]] |
 ### Job
 | Employer                  | Job         | Co Worker            |
 | ------------------------- | ----------- | -------------------- |

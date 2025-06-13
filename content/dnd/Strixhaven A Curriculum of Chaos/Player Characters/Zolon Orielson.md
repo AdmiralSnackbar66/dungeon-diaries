@@ -22,6 +22,9 @@ race:
 Player: Robbie
 extracurricular:
   - The Intramural Silkball Club
+Session3_Absence: "false"
+Session3_Attend: true
+aliases: Zolon
 ---
 
 >[!infobox]
@@ -38,9 +41,14 @@ extracurricular:
 
 ### Relationships
 
-| Name | Points | Relationship |       Inspiration        | Boon / Bane |
-| ---- | ------ | ------------ | :----------------------: | ----------- |
-|      |        |              | <input type ="checkbox"> |             |
+| Name                       | Points | Relationship |       Inspiration       | Boon / Bane |
+| -------------------------- | ------ | ------------ | :---------------------: | ----------- |
+| [[Javanesh Stoutclaw]]     | 1      |              | <input type = checkbox> |             |
+| [[Melwythorne]]            | 1      |              | <input type = checkbox> |             |
+| [[Tilana Kapule]]          | 1      |              | <input type = checkbox> |             |
+| [[Bhedum Rampart Sooviij]] | -1     |              | <input type = checkbox> |             |
+| [[Nora Ann Wu]]            | 1      |              | <input type = checkbox> |             |
+| [[Drazhomir Yarnask]]      | 1      |              |                         |             |
 ### Extracurriculars
 | Name                             | d4                        | Skills                  | Member                                                     |
 | -------------------------------- | ------------------------- | ----------------------- | ---------------------------------------------------------- |

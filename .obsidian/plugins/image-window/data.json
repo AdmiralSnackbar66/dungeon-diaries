@@ -1,7 +1,7 @@
 {
   "saveWindowLocations": true,
-  "useCustomWindowName": false,
-  "customWindowName": "Second Window",
+  "useCustomWindowName": true,
+  "customWindowName": "Player Window",
   "windows": {
     "Second Window": {
       "hosts": {
@@ -14,12 +14,12 @@
           "maximized": true
         },
         "DESKTOP-JMSF2UF": {
-          "x": 256,
-          "y": 8,
-          "width": 1024,
-          "height": 800,
+          "x": 1530,
+          "y": 138,
+          "width": 1292,
+          "height": 684,
           "fullscreen": false,
-          "maximized": false
+          "maximized": true
         }
       }
     }

@@ -42,6 +42,9 @@ Surprising to some, Tilana has also joined the Intramural Silkball Club. During 
 
 #### Features in
 <!-- QueryToSerialize: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+<!-- SerializedQuery: LIST title FROM [[]] WHERE contains(tags, "sessions") SORT file.ctime ASC -->
+- [[003_20250607_log]]: Session 3 Recap
+<!-- SerializedQuery END -->
 
 #### Linked To Players
 <!-- QueryToSerialize: LIST FROM [[]] WHERE (type = "player") -->

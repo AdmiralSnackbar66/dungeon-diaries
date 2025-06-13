@@ -15,6 +15,7 @@ Firejolt Café is the most popular place at Strixhaven to grab tea or coffee, ch
 <!-- QueryToSerialize: LIST FROM "content" where (employer = "Firejolt Cafe") -->
 <!-- SerializedQuery: LIST FROM "content" where (employer = "Firejolt Cafe") -->
 - [[Ellina Tanglewood]]
+- [[Mina Lee]]
 - [[Borun Erutan]]
 - [[Dalaila Eversnow]]
 <!-- SerializedQuery END -->
