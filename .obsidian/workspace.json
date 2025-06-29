@@ -11,15 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/003_20250607_log.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md"
               },
-              "icon": "lucide-file",
-              "title": "003_20250607_log"
+              "icon": "database-folder-icon",
+              "title": "Player Characters"
             }
           }
         ]
@@ -224,6 +221,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/003_20250607_log.md",
     "content/blog/2025-06-08 - Session 3 In The Can.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Dalaila Eversnow.md",
@@ -231,7 +229,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Omari Elderon.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Zolon Orielson.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Roleck Nevari.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/003_20250607_log.md",
     "2025-06-12.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/002_20250525_log.md",
     "ttrpgs/Non Player Characters/Aisla Fitzbottom.md",
