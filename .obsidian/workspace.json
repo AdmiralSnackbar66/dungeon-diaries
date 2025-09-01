@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md"
+                "file": "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "database-folder-icon",
-              "title": "Player Characters"
+              "icon": "lucide-file",
+              "title": "Strixhaven"
             }
           }
         ]
@@ -169,12 +171,32 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "7c1d8275688046aa",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "abb458e5b9997ea4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
           },
           {
-            "id": "7c1d8275688046aa",
+            "id": "f51f291a0188d460",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -192,10 +214,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "publish:Publish changes...": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -205,7 +225,6 @@
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-custom-frames:Open Elvis Parsley - DND Beyond": false,
-      "homepage:Open homepage": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -215,12 +234,16 @@
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "rpg-manager:RPG Manager": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "ttrpgs/ttrpgs.md",
+    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Session Notes/003_20250607_log.md",
     "content/blog/2025-06-08 - Session 3 In The Can.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Borun Erutan.md",
@@ -236,7 +259,6 @@
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Bhedum Rampart Sooviij.md",
     "ttrpgs/Campaigns/Strixhaven/003_20250607.md",
     "ttrpgs/Character Sheets/Character Sheets.md",
-    "content/dnd/Strixhaven A Curriculum of Chaos/Player Characters/Player Characters.md",
     "ttrpgs/Character Sheets/Borun.md",
     "content/dnd/Strixhaven A Curriculum of Chaos/Non Player Characters/Professor Serafina Onyx.md",
     "ttrpgs/Campaigns/Strixhaven/Strixhaven.md",
